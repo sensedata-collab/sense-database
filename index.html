@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sense - Verbanwendung</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #f5f5f5;
+        }
+        
+        .container {
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            padding: 20px;
+        }
+        
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+        
+        .search-container {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 20px;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .search-container input {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+            border: 2px solid #ddd;
+            border-radius: 4px;
+            min-width: 200px;
+        }
+        
+        .search-container input:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+        
+        .search-hint {
+            width: 100%;
+            font-size: 14px;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        button:hover {
+            background-color: #0056b3;
+        }
+        
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .position-info {
+            background-color: #eef;
+            padding: 5px 10px;
+            border-radius: 4px;
+            margin-left: auto;
+        }
+        
+        .display-area {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            border-left: 4px solid #007bff;
+        }
+        
+        .verb-heading {
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: black; /* Schwarz statt Blau */
+        }
+        
+        .verb-info {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 15px;
+        }
+        
+        .code-display {
+            font-family: 'Courier New', monospace;
+            background-color: #eef;
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 15px;
+        }
+        
+        .explanation {
+            padding: 15px;
+            background-color: #efe;
+            border-radius: 4px;
+            margin-bottom: 20px;
+        }
+        
+        .alternatives {
+            margin-top: 20px;
+            border-top: 1px dashed #ccc;
+            padding-top: 15px;
+        }
+        
+        .alternative-item {
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: #f0f0f0;
+            border-radius: 4px;
+        }
+        
+        .suggestion {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #fff3cd;
+            border-radius: 4px;
+        }
+        
+        .error-message {
+            color: #d9534f;
+            background-color: #f8d7da;
+            padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .project-info {
+            margin-top: 30px;
+            padding: 15px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            font-size: 14px;
+            text-align: center;
+        }
+        
+        /* Responsives Design */
+        @media (max-width: 768px) {
+            .search-container {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .position-info {
+                margin-left: 0;
+                text-align: center;
+                margin-top: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sense - Verbanwendung</h1>
+            <p>Durchsuchen Sie deutsche Verben und deren SENSE-Kodierungen</p>
+        </header>
+        
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
+            <button id="searchButton">Suchen</button>
+            <div class="position-info" id="positionInfo">Eintrag 1 von 0</div>
+            <div class="search-hint">Bitte geben Sie nur deutsche Verben ein (Wörter die auf -en, -eln oder -ern enden).</div>
+        </div>
+        
+        <div id="errorMessage" class="error-message" style="display: none;"></div>
+        <div id="suggestions" class="suggestion" style="display: none;"></div>
+        
+        <div class="display-area" id="displayArea">
+            <div class="verb-heading" id="currentVerb">Lädt...</div>
+            <div class="verb-info" id="verbInfo">Lädt...</div>
+            <div class="code-display" id="codeDisplay">Lädt Kodierung...</div>
+            <div class="explanation" id="explanationDisplay">Lädt Begründung...</div>
+            <div class="alternatives" id="alternativesArea" style="display: none;"></div>
+        </div>
+        
+        <div class="navigation">
+            <div class="nav-buttons">
+                <button id="firstButton">Erste Seite</button>
+                <button id="prevButton">Zurück</button>
+                <button id="nextButton">Weiter</button>
+                <button id="lastButton">Letzte Seite</button>
+            </div>
+        </div>
+        
+        <div class="project-info">
+            <p>Sense &copy; 2023 - Lokale Verbanwendung</p>
+            <p>Diese Anwendung lädt die Datei "Coded_Verbs.txt", die sich im selben Verzeichnis befinden muss.</p>
+        </div>
+    </div>
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Variablen für die Verarbeitung
+            let verbEntries = [];
+            let uniqueVerbs = []; // Liste der einzigartigen Verben (alphabetisch)
+            let currentIndex = 0;
+            let searchTimeout;
+            let lastSearchTerm = '';
+            
+            // DOM-Elemente
+            const searchInput = document.getElementById('searchInput');
+            const searchButton = document.getElementById('searchButton');
+            const positionInfo = document.getElementById('positionInfo');
+            const errorMessage = document.getElementById('errorMessage');
+            const suggestions = document.getElementById('suggestions');
+            const displayArea = document.getElementById('displayArea');
+            const currentVerb = document.getElementById('currentVerb');
+            const verbInfo = document.getElementById('verbInfo');
+            const codeDisplay = document.getElementById('codeDisplay');
+            const explanationDisplay = document.getElementById('explanationDisplay');
+            const alternativesArea = document.getElementById('alternativesArea');
+            const firstButton = document.getElementById('firstButton');
+            const prevButton = document.getElementById('prevButton');
+            const nextButton = document.getElementById('nextButton');
+            const lastButton = document.getElementById('lastButton');
+            
+            // CSS-Anpassungen
+            currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
+            
+            // Lade die Verb-Datei
+            fetch('Coded_Verbs.txt')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Datei konnte nicht geladen werden');
+                    }
+                    return response.text();
+                })
+                .then(text => {
+                    processVerbFile(text);
+                    displayEntry(0);
+                    updateNavButtons();
+                })
+                .catch(error => {
+                    showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
+                });
+                
+            // Verarbeite die Verbdatei und strukturiere die Daten - KORRIGIERTE VERSION
+            function processVerbFile(text) {
+                console.log("Verarbeite Datei...");
+                
+                // Teile den Text in Blöcke auf (Leerzeilen als Trenner)
+                const blocks = text.split(/\n\s*\n/);
+                console.log(`Gefundene Textblöcke: ${blocks.length}`);
+                
+                // Temporäres Array für die Einträge
+                let tempEntries = [];
+                
+                // Verarbeite jeden Block (ein Block = ein Eintrag mit Begründung)
+                for (let blockIndex = 0; blockIndex < blocks.length; blockIndex++) {
+                    const block = blocks[blockIndex].trim();
+                    if (!block) continue; // Leere Blöcke überspringen
+                    
+                    const lines = block.split('\n');
+                    
+                    // Finde die Verb-Zeile (sollte die erste sein)
+                    let verbLine = null;
+                    let explanationLine = null;
+                    
+                    for (let i = 0; i < lines.length; i++) {
+                        const line = lines[i].trim();
+                        if (!line) continue;
+                        
+                        if (line.startsWith('Begründung:')) {
+                            explanationLine = line;
+                        } else if (line.includes(':')) {
+                            verbLine = line;
+                        }
+                    }
+                    
+                    if (verbLine) {
+                        const colonPos = verbLine.indexOf(':');
+                        const verb = verbLine.substring(0, colonPos).trim();
+                        const code = verbLine.substring(colonPos + 1).trim();
+                        
+                        // Extrahiere die Begründung, falls vorhanden
+                        let explanation = "";
+                        if (explanationLine) {
+                            explanation = explanationLine.substring('Begründung:'.length).trim();
+                        }
+                        
+                        // Füge den Eintrag hinzu
+                        tempEntries.push({
+                            verb: verb,
+                            code: code,
+                            explanation: explanation,
+                            blockIndex: blockIndex // Für die Sortierung
+                        });
+                    }
+                }
+                
+                // Gruppiere nach Verb und nummeriere
+                const verbGroups = {};
+                tempEntries.forEach(entry => {
+                    if (!verbGroups[entry.verb]) {
+                        verbGroups[entry.verb] = [];
+                    }
+                    verbGroups[entry.verb].push(entry);
+                });
+                
+                // Erstelle die finale Liste mit Bedeutungsnummern
+                verbEntries = [];
+                uniqueVerbs = Object.keys(verbGroups).sort();
+                
+                uniqueVerbs.forEach((verb, verbIndex) => {
+                    // Sortiere nach der ursprünglichen Reihenfolge im Text
+                    const sortedEntries = verbGroups[verb].sort((a, b) => a.blockIndex - b.blockIndex);
+                    
+                    // Füge Bedeutungsnummern hinzu
+                    sortedEntries.forEach((entry, index) => {
+                        verbEntries.push({
+                            verb: entry.verb,
+                            code: entry.code,
+                            explanation: entry.explanation,
+                            meaningNumber: index + 1,
+                            totalMeanings: sortedEntries.length,
+                            verbIndex: verbIndex + 1 // 1-basierter Index des Verbs in der alphabetischen Liste
+                        });
+                    });
+                });
+                
+                console.log("Verarbeitung abgeschlossen");
+                console.log(`Gefundene Einträge: ${verbEntries.length}`);
+                console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
+                
+                if (verbEntries.length > 0) {
+                    console.log("Erster Eintrag:", verbEntries[0]);
+                    
+                    // Zeige Debug-Informationen für das erste Verb
+                    const firstVerb = verbEntries[0].verb;
+                    const entriesForFirstVerb = verbEntries.filter(e => e.verb === firstVerb);
+                    console.log(`Bedeutungen für "${firstVerb}" (Verb ${verbEntries[0].verbIndex} von ${uniqueVerbs.length}): ${entriesForFirstVerb.length}`);
+                    entriesForFirstVerb.forEach(e => {
+                        console.log(`  ${e.meaningNumber}. Bedeutung: ${e.code} - ${e.explanation.substring(0, 30)}...`);
+                    });
+                }
+                
+                // Aktualisiere die Positionsanzeige
+                positionInfo.textContent = `Eintrag 1 von ${verbEntries.length}`;
+            }
+            
+            // Zeige einen Eintrag an
+            function displayEntry(index) {
+                if (index < 0 || index >= verbEntries.length) {
+                    showError('Ungültiger Index: ' + index);
+                    return;
+                }
+                
+                const entry = verbEntries[index];
+                currentIndex = index;
+                
+                // Verb anzeigen
+                currentVerb.textContent = entry.verb;
+                currentVerb.style.color = 'black'; // Schwarz statt Blau
+                
+                // Zusätzliche Informationen anzeigen
+                verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
+                
+                // Code anzeigen
+                codeDisplay.textContent = entry.code;
+                
+                // Begründung anzeigen
+                if (entry.explanation && entry.explanation.trim()) {
+                    explanationDisplay.textContent = entry.explanation;
+                    explanationDisplay.style.display = 'block';
+                } else {
+                    explanationDisplay.textContent = "Keine Begründung verfügbar";
+                    explanationDisplay.style.display = 'block';
+                }
+                
+                // Keine Alternativen mehr anzeigen, da jede Bedeutung einzeln dargestellt wird
+                alternativesArea.style.display = 'none';
+                
+                // Position aktualisieren
+                positionInfo.textContent = `Eintrag ${index + 1} von ${verbEntries.length}`;
+                
+                // Fehler und Vorschläge zurücksetzen
+                hideError();
+                hideSuggestions();
+                
+                // Scrolle nach oben
+                window.scrollTo(0, 0);
+            }
+            
+            // Suche nach einem Verb
+            function searchVerb(term) {
+                if (!term) {
+                    hideSuggestions();
+                    return;
+                }
+                
+                term = term.toLowerCase().trim();
+                
+                // Exakte Übereinstimmung suchen (erste Bedeutung)
+                const exactMatch = verbEntries.findIndex(entry => 
+                    entry.verb.toLowerCase() === term && entry.meaningNumber === 1
+                );
+                
+                if (exactMatch !== -1) {
+                    displayEntry(exactMatch);
+                    hideError();
+                    hideSuggestions();
+                    return true;
+                }
+                
+                // Suche nach Verben, die mit dem Suchbegriff beginnen (erste Bedeutung)
+                const startsWith = verbEntries.findIndex(entry => 
+                    entry.verb.toLowerCase().startsWith(term) && entry.meaningNumber === 1
+                );
+                
+                if (startsWith !== -1) {
+                    displayEntry(startsWith);
+                    
+                    // Zeige Vorschläge für ähnliche Verben
+                    showSimilarVerbs(term);
+                    return true;
+                }
+                
+                // Teilübereinstimmung (erste Bedeutung)
+                const partialMatch = verbEntries.findIndex(entry => 
+                    entry.verb.toLowerCase().includes(term) && entry.meaningNumber === 1
+                );
+                
+                if (partialMatch !== -1) {
+                    displayEntry(partialMatch);
+                    
+                    // Zeige Vorschläge für ähnliche Verben
+                    showSimilarVerbs(term);
+                    return true;
+                }
+                
+                // Wenn keine erste Bedeutung gefunden wurde, suche nach beliebiger Bedeutung
+                const anyMatch = verbEntries.findIndex(entry => 
+                    entry.verb.toLowerCase().includes(term)
+                );
+                
+                if (anyMatch !== -1) {
+                    displayEntry(anyMatch);
+                    showSimilarVerbs(term);
+                    return true;
+                }
+                
+                // Keine Übereinstimmung gefunden
+                showError(`Das Verb "${term}" wurde nicht gefunden. Möglicherweise ist es nicht in unserer Datenbank enthalten oder anders geschrieben.`);
+                showSimilarVerbs(term);
+                return false;
+            }
+            
+            // Zeige ähnliche Verben als Vorschläge
+            function showSimilarVerbs(term) {
+                if (!term || term.length < 2) {
+                    hideSuggestions();
+                    return;
+                }
+                
+                // Finde einzigartige Verben (keine Duplikate wegen mehrerer Bedeutungen)
+                const similarVerbs = uniqueVerbs
+                    .filter(verb => verb.toLowerCase().includes(term.toLowerCase()))
+                    .slice(0, 5);  // Begrenze auf 5 Vorschläge
+                
+                if (similarVerbs.length > 0) {
+                    suggestions.innerHTML = 'Ähnliche Verben: ' + 
+                        similarVerbs.map(verb => `<a href="#" class="verb-suggestion">${verb}</a>`).join(', ');
+                    suggestions.style.display = 'block';
+                    
+                    // Event-Listener für Vorschläge
+                    document.querySelectorAll('.verb-suggestion').forEach(link => {
+                        link.addEventListener('click', function(e) {
+                            e.preventDefault();
+                            const selectedVerb = this.textContent;
+                            searchInput.value = selectedVerb;
+                            searchVerb(selectedVerb);
+                        });
+                    });
+                } else {
+                    hideSuggestions();
+                }
+            }
+            
+            // Prüfe, ob ein String ein gültiges deutsches Verb ist
+            function isValidGermanVerb(text) {
+                // Vereinfachte Prüfung: ein deutsches Verb endet typischerweise auf -en, -eln, -ern
+                // und enthält keine Zahlen oder Sonderzeichen (außer ä, ö, ü, ß)
+                const germanVerbPattern = /^[a-zäöüß]+(?:en|eln|ern)$/i;
+                
+                return germanVerbPattern.test(text.trim());
+            }
+            
+            // Fehler anzeigen
+            function showError(message) {
+                errorMessage.textContent = message;
+                errorMessage.style.display = 'block';
+            }
+            
+            // Fehler ausblenden
+            function hideError() {
+                errorMessage.style.display = 'none';
+            }
+            
+            // Vorschläge ausblenden
+            function hideSuggestions() {
+                suggestions.style.display = 'none';
+            }
+            
+            // Navigationsbuttons aktualisieren
+            function updateNavButtons() {
+                prevButton.disabled = currentIndex <= 0;
+                firstButton.disabled = currentIndex <= 0;
+                nextButton.disabled = currentIndex >= verbEntries.length - 1;
+                lastButton.disabled = currentIndex >= verbEntries.length - 1;
+            }
+            
+            // Event-Listener registrieren
+            
+            // Live-Suche mit Timeout
+            searchInput.addEventListener('input', function() {
+                const term = this.value.trim();
+                
+                // Ignoriere kurze Eingaben für die Live-Suche
+                if (term.length < 2) {
+                    hideSuggestions();
+                    return;
+                }
+                
+                // Setze früheren Timeout zurück
+                clearTimeout(searchTimeout);
+                
+                // Warte kurz, bevor die Suche durchgeführt wird
+                searchTimeout = setTimeout(() => {
+                    if (term !== lastSearchTerm) {
+                        searchVerb(term);
+                        lastSearchTerm = term;
+                    }
+                }, 300);
+            });
+            
+            // Such-Button
+            searchButton.addEventListener('click', function() {
+                const term = searchInput.value.trim();
+                
+                if (!term) {
+                    showError('Bitte geben Sie ein Verb ein.');
+                    return;
+                }
+                
+                if (!isValidGermanVerb(term) && term.length > 2) {
+                    showError('Bitte geben Sie ein gültiges deutsches Verb ein (endet typischerweise auf -en, -eln oder -ern).');
+                    return;
+                }
+                
+                searchVerb(term);
+            });
+            
+            // Navigationstasten
+            prevButton.addEventListener('click', function() {
+                if (currentIndex > 0) {
+                    displayEntry(currentIndex - 1);
+                    updateNavButtons();
+                }
+            });
+            
+            nextButton.addEventListener('click', function() {
+                if (currentIndex < verbEntries.length - 1) {
+                    displayEntry(currentIndex + 1);
+                    updateNavButtons();
+                }
+            });
+            
+            firstButton.addEventListener('click', function() {
+                displayEntry(0);
+                updateNavButtons();
+            });
+            
+            lastButton.addEventListener('click', function() {
+                displayEntry(verbEntries.length - 1);
+                updateNavButtons();
+            });
+            
+            // Tastatur-Navigation
+            document.addEventListener('keydown', function(e) {
+                if (e.target === searchInput) {
+                    // Wenn im Suchfeld, nur bei Enter-Taste suchen
+                    if (e.key === 'Enter') {
+                        const term = searchInput.value.trim();
+                        if (term) {
+                            searchVerb(term);
+                        }
+                    }
+                    return;
+                }
+                
+                // Sonst allgemeine Navigation
+                switch (e.key) {
+                    case 'ArrowLeft':
+                        if (currentIndex > 0) {
+                            displayEntry(currentIndex - 1);
+                            updateNavButtons();
+                        }
+                        break;
+                    case 'ArrowRight':
+                        if (currentIndex < verbEntries.length - 1) {
+                            displayEntry(currentIndex + 1);
+                            updateNavButtons();
+                        }
+                        break;
+                    case 'Home':
+                        displayEntry(0);
+                        updateNavButtons();
+                        break;
+                    case 'End':
+                        displayEntry(verbEntries.length - 1);
+                        updateNavButtons();
+                        break;
+                }
+            });
+        });
+    </script>
+</body>
+</html>
