@@ -11,12 +11,7 @@
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f5f5f5; /* Hellgrauer Hintergrund */
-            color: black;
-        }
-        
-        html {
-            background-color: #f5f5f5; /* Hellgrauer Hintergrund für gesamte Seite */
+            background-color: #f5f5f5;
         }
         
         .container {
@@ -129,10 +124,9 @@
         
         .explanation {
             padding: 15px;
-            background-color: #f2f2f2; /* Hellgrau */
+            background-color: #efe;
             border-radius: 4px;
             margin-bottom: 20px;
-            color: black;
         }
         
         .alternatives {
@@ -170,109 +164,6 @@
             border-radius: 4px;
             font-size: 14px;
             text-align: center;
-            color: black;
-        }
-        
-        /* Neue Styles für die Referenztabelle */
-        .reference-section {
-            margin-top: 20px;
-        }
-        
-        .reference-table {
-            border: 1px solid #ddd;
-            border-radius: 8px;
-            overflow: hidden;
-            width: 100%;
-        }
-        
-        .reference-table h3 {
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 8px; /* Reduzierter Abstand */
-            text-align: center;
-            border-bottom: 1px solid #ddd;
-            font-size: 16px; /* Kleinere Überschrift */
-            color: black;
-        }
-        
-        .reference-table table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 14px; /* Kleinere Schrift */
-        }
-        
-        .reference-table th, .reference-table td {
-            padding: 4px 6px; /* Engerer Abstand */
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-            line-height: 1.3; /* Engerer Zeilenabstand */
-            color: black;
-        }
-        
-        .reference-table th {
-            background-color: #f8f8f8;
-            font-size: 13px; /* Noch kleinere Überschriften */
-        }
-        
-        /* Bedeutung-Spalten extra Platz geben */
-        .reference-table th:nth-child(3), 
-        .reference-table td:nth-child(3) {
-            width: 60%; /* Mehr Platz für Bedeutung-Spalten */
-        }
-        
-        /* Farbcodierung für Sense-Elemente */
-        .code-0 {
-            background-color: #808080;
-            color: white;
-            padding: 1px 4px;
-            border-radius: 3px;
-            display: inline-block;
-            font-size: 0.9em;
-        }
-        
-        .code-1 {
-            background-color: #003366;
-            color: white;
-            padding: 1px 4px;
-            border-radius: 3px;
-            display: inline-block;
-            font-size: 0.9em;
-        }
-        
-        .code-2 {
-            background-color: #006633;
-            color: white;
-            padding: 1px 4px;
-            border-radius: 3px;
-            display: inline-block;
-            font-size: 0.9em;
-        }
-        
-        .code-3 {
-            background-color: #CC0000;
-            color: white;
-            padding: 1px 4px;
-            border-radius: 3px;
-            display: inline-block;
-            font-size: 0.9em;
-        }
-        
-        .code-4 {
-            background-color: #FF9900;
-            color: white;
-            padding: 1px 4px;
-            border-radius: 3px;
-            display: inline-block;
-            font-size: 0.9em;
-        }
-        
-        .code-5 {
-            background-color: #FFCC00;
-            color: black;
-            padding: 1px 4px;
-            border-radius: 3px;
-            display: inline-block;
-            font-size: 0.9em;
         }
         
         /* Responsives Design */
@@ -286,10 +177,6 @@
                 margin-left: 0;
                 text-align: center;
                 margin-top: 10px;
-            }
-            
-            .reference-table {
-                min-width: 100%;
             }
         }
     </style>
@@ -319,25 +206,6 @@
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
         </div>
         
-        <!-- Neue einheitliche Referenztabelle -->
-        <div class="reference-section">
-            <div id="referenceTable" class="reference-table">
-                <h3 id="tableTitle">Referenztabelle</h3>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Element</th>
-                            <th>Typ</th>
-                            <th>Bedeutung</th>
-                        </tr>
-                    </thead>
-                    <tbody id="referenceTableBody">
-                        <!-- Zeilen werden dynamisch eingefügt -->
-                    </tbody>
-                </table>
-            </div>
-        </div>
-        
         <div class="navigation">
             <div class="nav-buttons">
                 <button id="firstButton">Erste Seite</button>
@@ -348,7 +216,8 @@
         </div>
         
         <div class="project-info">
-            <p>Sense &copy; 2025 - Lokale Verbanwendung</p>
+            <p>Sense &copy; 2023 - Lokale Verbanwendung</p>
+            <p>Diese Anwendung lädt die Datei "Coded_Verbs.txt", die sich im selben Verzeichnis befinden muss.</p>
         </div>
     </div>
     
@@ -360,45 +229,6 @@
             let currentIndex = 0;
             let searchTimeout;
             let lastSearchTerm = '';
-            
-            // Daten für die Referenztabelle
-            const materialData = {
-                assistances: {
-                    '0': { text: 'warten', meaning: 'auf eine Gelegenheit warten' },
-                    '1': { text: 'bekommen', meaning: 'passiv etwas erhalten' },
-                    '2': { text: 'bestimmen', meaning: 'Kontrolle über Verfügbares ausüben' },
-                    '3': { text: 'bewegen', meaning: 'aktive Bewegung/Anstreben' },
-                    '4': { text: 'leisten', meaning: 'für Andere etwas tun' },
-                    '5': { text: 'informieren', meaning: 'Infos aufnehmen' }
-                },
-                goals: {
-                    '0': { text: 'Goal 0', meaning: 'erholt sein' },
-                    '1': { text: 'Goal 1', meaning: 'befriedigt sein' },
-                    '2': { text: 'Goal 2', meaning: 'gewünschten Zustand erreichen' },
-                    '3': { text: 'Goal 3', meaning: 'Destination/Wirkung erreichen' },
-                    '4': { text: 'Goal 4', meaning: 'Anerkennung bekommen' },
-                    '5': { text: 'Goal 5', meaning: 'informiert sein' }
-                }
-            };
-            
-            const interpersonalData = {
-                assistances: {
-                    '0': { text: 'warten', meaning: 'geduldig sein' },
-                    '1': { text: 'bekommen', meaning: 'Gefühle empfangen' },
-                    '2': { text: 'bestimmen', meaning: 'Entscheidungen treffen/leiten' },
-                    '3': { text: 'bewegen', meaning: 'in Bezug auf andere Bewegung ausführen' },
-                    '4': { text: 'leisten', meaning: 'unterstützen/helfen' },
-                    '5': { text: 'kontaktieren', meaning: 'Verbindung aufbauen' }
-                },
-                goals: {
-                    '0': { text: 'Goal 0', meaning: 'Vertrauen haben' },
-                    '1': { text: 'Goal 1', meaning: 'Nähe spüren' },
-                    '2': { text: 'Goal 2', meaning: 'Einfluss/Macht ausüben' },
-                    '3': { text: 'Goal 3', meaning: 'Wirkung erzielen' },
-                    '4': { text: 'Goal 4', meaning: 'Anerkennung erhalten' },
-                    '5': { text: 'Goal 5', meaning: 'Kontakt/Beachtung finden' }
-                }
-            };
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -416,9 +246,6 @@
             const prevButton = document.getElementById('prevButton');
             const nextButton = document.getElementById('nextButton');
             const lastButton = document.getElementById('lastButton');
-            const referenceTable = document.getElementById('referenceTable');
-            const tableTitle = document.getElementById('tableTitle');
-            const referenceTableBody = document.getElementById('referenceTableBody');
             
             // CSS-Anpassungen
             currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
@@ -561,29 +388,12 @@
                 // Zusätzliche Informationen anzeigen
                 verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                 
-                // Code anzeigen (schwarz)
+                // Code anzeigen
                 codeDisplay.textContent = entry.code;
                 
-                // Begründung anzeigen mit farbigen Zahlen
+                // Begründung anzeigen
                 if (entry.explanation && entry.explanation.trim()) {
-                    // Verbesserte Regex für Zahlen und Goal-Referenzen
-                    let coloredExplanation = entry.explanation
-                        // Zuerst Goal-Referenzen ersetzen (muss vor einfachen Zahlen kommen)
-                        .replace(/Goal\s*0/g, '<span class="code-0">Goal 0</span>')
-                        .replace(/Goal\s*1/g, '<span class="code-1">Goal 1</span>')
-                        .replace(/Goal\s*2/g, '<span class="code-2">Goal 2</span>')
-                        .replace(/Goal\s*3/g, '<span class="code-3">Goal 3</span>')
-                        .replace(/Goal\s*4/g, '<span class="code-4">Goal 4</span>')
-                        .replace(/Goal\s*5/g, '<span class="code-5">Goal 5</span>')
-                        // Dann alleinstehende Zahlen
-                        .replace(/\b0\b/g, '<span class="code-0">0</span>')
-                        .replace(/\b1\b/g, '<span class="code-1">1</span>')
-                        .replace(/\b2\b/g, '<span class="code-2">2</span>')
-                        .replace(/\b3\b/g, '<span class="code-3">3</span>')
-                        .replace(/\b4\b/g, '<span class="code-4">4</span>')
-                        .replace(/\b5\b/g, '<span class="code-5">5</span>');
-                    
-                    explanationDisplay.innerHTML = coloredExplanation;
+                    explanationDisplay.textContent = entry.explanation;
                     explanationDisplay.style.display = 'block';
                 } else {
                     explanationDisplay.textContent = "Keine Begründung verfügbar";
@@ -600,129 +410,8 @@
                 hideError();
                 hideSuggestions();
                 
-                // Dynamische Aktualisierung der Referenztabelle
-                updateReferenceTable(entry.code);
-            }
-            
-            // Aktualisierte Funktion zur Aktualisierung der Referenztabelle
-            function updateReferenceTable(code) {
-                // 1. Bestimme die Area aus dem Code
-                let area = "Material"; // Standard ist Material
-                
-                // Prüfen, ob ein Area-Prefix vorhanden ist (z.B. "Interpersonal/...")
-                if (code.includes('/')) {
-                    const parts = code.split('/');
-                    area = parts[0];
-                }
-                
-                // 2. Wähle die passenden Daten basierend auf der Area
-                const isInterpersonal = area === "Interpersonal" || area === "Psychological" || 
-                                       area.startsWith("Interpersonal/") || area.startsWith("Psychological/");
-                const areaData = isInterpersonal ? interpersonalData : materialData;
-                
-                // Aktualisiere den Tabellentitel
-                tableTitle.textContent = isInterpersonal ? "Interpersonal Area" : "Material Area";
-                
-                // 3. Behandle die Double-Slash-Notation und bereite den Code vor
-                let allMatches = [];
-                
-                // Entferne Area-Prefix für die Analyse
-                let cleanCode = code;
-                if (cleanCode.includes('/')) {
-                    const parts = cleanCode.split('/');
-                    // Area-Prefix entfernen
-                    parts.shift();
-                    cleanCode = parts.join('/');
-                }
-                
-                // Trenne Code in Segmente, falls Double-Slash vorhanden
-                let segments = [];
-                if (cleanCode.includes('//')) {
-                    segments = cleanCode.split('//');
-                } else {
-                    segments = [cleanCode];
-                }
-                
-                // Entferne aut/ecc, het/con aus jedem Segment
-                segments = segments.map(segment => {
-                    if (segment.includes('aut/') || segment.includes('het/')) {
-                        return segment.split(/aut\/|het\//, 1)[0].trim();
-                    }
-                    return segment.trim();
-                });
-                
-                // 4. Extrahiere die Sense-Elemente aus jedem Segment
-                let segmentOffset = 0;
-                segments.forEach(segment => {
-                    // Suche nach allen Assistances mit ihrer Position im Segment
-                    const assistanceRegex = /\b([0-5])\b/g;
-                    let match;
-                    while ((match = assistanceRegex.exec(segment)) !== null) {
-                        allMatches.push({
-                            type: 'assistance',
-                            code: match[1],
-                            position: match.index + segmentOffset
-                        });
-                    }
-                    
-                    // Suche nach allen Goals mit ihrer Position im Segment
-                    const goalRegex = /Goal\s*([0-5])\b/g;
-                    while ((match = goalRegex.exec(segment)) !== null) {
-                        allMatches.push({
-                            type: 'goal',
-                            code: match[1],
-                            position: match.index + segmentOffset
-                        });
-                    }
-                    
-                    // Offset für nächstes Segment erhöhen, um Reihenfolge zu wahren
-                    segmentOffset += segment.length + 2; // +2 für "//"
-                });
-                
-                // 5. Sortiere die Elemente nach ihrer Position
-                allMatches.sort((a, b) => a.position - b.position);
-                
-                // 6. Leere die aktuelle Tabelle
-                referenceTableBody.innerHTML = '';
-                
-                // 7. Füge die Elemente in der exakten Reihenfolge zur Tabelle hinzu
-                allMatches.forEach(match => {
-                    let data;
-                    let elementText;
-                    let elementType;
-                    let elementMeaning;
-                    
-                    if (match.type === 'assistance') {
-                        data = areaData.assistances[match.code];
-                        elementText = match.code;
-                        elementType = 'Assistance';
-                        elementMeaning = data.meaning;
-                    } else { // goal
-                        data = areaData.goals[match.code];
-                        elementText = `Goal ${match.code}`;
-                        elementType = 'Goal';
-                        elementMeaning = data.meaning;
-                    }
-                    
-                    // Nur hinzufügen, wenn Daten gefunden wurden
-                    if (data) {
-                        // Erstelle eine neue Tabellenzeile
-                        const row = document.createElement('tr');
-                        
-                        // Füge die Zellen hinzu
-                        row.innerHTML = `
-                            <td><span class="code-${match.code}">${elementText}</span></td>
-                            <td>${elementType}</td>
-                            <td>${elementMeaning}</td>
-                        `;
-                        
-                        // Füge die Zeile zur Tabelle hinzu
-                        referenceTableBody.appendChild(row);
-                    }
-                });
-                
-                // 8. Zeige die Tabelle nur, wenn sie Einträge enthält
-                referenceTable.style.display = allMatches.length > 0 ? 'block' : 'none';
+                // Scrolle nach oben
+                window.scrollTo(0, 0);
             }
             
             // Suche nach einem Verb
