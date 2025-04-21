@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -166,6 +167,95 @@
             text-align: center;
         }
         
+        /* Neue Styles für die Referenztabellen */
+        .reference-tables {
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 20px;
+            justify-content: space-between;
+        }
+        
+        .reference-table {
+            flex: 1;
+            min-width: 300px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        
+        .reference-table h3 {
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 10px;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .reference-table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .reference-table th, .reference-table td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .reference-table th {
+            background-color: #f8f8f8;
+        }
+        
+        /* Farbcodierung für Sense-Elemente */
+        .code-0 {
+            background-color: #808080;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-1 {
+            background-color: #003366;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-2 {
+            background-color: #006633;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-3 {
+            background-color: #CC0000;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-4 {
+            background-color: #FF9900;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-5 {
+            background-color: #FFCC00;
+            color: black;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
         /* Responsives Design */
         @media (max-width: 768px) {
             .search-container {
@@ -177,6 +267,10 @@
                 margin-left: 0;
                 text-align: center;
                 margin-top: 10px;
+            }
+            
+            .reference-table {
+                min-width: 100%;
             }
         }
     </style>
@@ -204,6 +298,127 @@
             <div class="code-display" id="codeDisplay">Lädt Kodierung...</div>
             <div class="explanation" id="explanationDisplay">Lädt Begründung...</div>
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
+        </div>
+        
+        <!-- Neue Referenztabellen -->
+        <div class="reference-tables">
+            <div class="reference-table">
+                <h3>Material Area</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Assistance</th>
+                            <th>Bedeutung</th>
+                            <th>Goal</th>
+                            <th>Bedeutung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><span class="code-0">0</span></td>
+                            <td>warten</td>
+                            <td>auf eine Gelegenheit warten</td>
+                            <td><span class="code-0">Goal 0</span></td>
+                            <td>erholt sein</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-1">1</span></td>
+                            <td>bekommen</td>
+                            <td>passiv etwas erhalten</td>
+                            <td><span class="code-1">Goal 1</span></td>
+                            <td>befriedigt sein</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-2">2</span></td>
+                            <td>bestimmen</td>
+                            <td>Kontrolle über Verfügbares ausüben</td>
+                            <td><span class="code-2">Goal 2</span></td>
+                            <td>gewünschten Zustand erreichen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-3">3</span></td>
+                            <td>bewegen</td>
+                            <td>aktive Bewegung/Anstreben</td>
+                            <td><span class="code-3">Goal 3</span></td>
+                            <td>Destination/Wirkung erreichen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-4">4</span></td>
+                            <td>leisten</td>
+                            <td>für Andere etwas tun</td>
+                            <td><span class="code-4">Goal 4</span></td>
+                            <td>Anerkennung bekommen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-5">5</span></td>
+                            <td>informieren</td>
+                            <td>Infos aufnehmen</td>
+                            <td><span class="code-5">Goal 5</span></td>
+                            <td>informiert sein</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="reference-table">
+                <h3>Interpersonal Area</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Assistance</th>
+                            <th>Bedeutung</th>
+                            <th>Goal</th>
+                            <th>Bedeutung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><span class="code-0">0</span></td>
+                            <td>warten</td>
+                            <td>geduldig sein</td>
+                            <td><span class="code-0">Goal 0</span></td>
+                            <td>Vertrauen haben</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-1">1</span></td>
+                            <td>bekommen</td>
+                            <td>Gefühle empfangen</td>
+                            <td><span class="code-1">Goal 1</span></td>
+                            <td>Nähe spüren</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-2">2</span></td>
+                            <td>bestimmen</td>
+                            <td>Entscheidungen treffen/leiten</td>
+                            <td><span class="code-2">Goal 2</span></td>
+                            <td>Einfluss/Macht ausüben</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-3">3</span></td>
+                            <td>bewegen</td>
+                            <td>auf andere zugehen</td>
+                            <td><span class="code-3">Goal 3</span></td>
+                            <td>Wirkung erzielen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-4">4</span></td>
+                            <td>leisten</td>
+                            <td>unterstützen/helfen</td>
+                            <td><span class="code-4">Goal 4</span></td>
+                            <td>Anerkennung erhalten</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-5">5</span></td>
+                            <td>kontaktieren</td>
+                            <td>Verbindung aufbauen</td>
+                            <td><span class="code-5">Goal 5</span></td>
+                            <td>im Kontakt sein</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
         </div>
         
         <div class="navigation">
@@ -388,12 +603,27 @@
                 // Zusätzliche Informationen anzeigen
                 verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                 
-                // Code anzeigen
+                // Code anzeigen (schwarz)
                 codeDisplay.textContent = entry.code;
                 
-                // Begründung anzeigen
+                // Begründung anzeigen mit farbigen Zahlen
                 if (entry.explanation && entry.explanation.trim()) {
-                    explanationDisplay.textContent = entry.explanation;
+                    // Ersetze Zahlen mit farbigen Spans
+                    let coloredExplanation = entry.explanation
+                        .replace(/\b0\b/g, '<span class="code-0">0</span>')
+                        .replace(/\b1\b/g, '<span class="code-1">1</span>')
+                        .replace(/\b2\b/g, '<span class="code-2">2</span>')
+                        .replace(/\b3\b/g, '<span class="code-3">3</span>')
+                        .replace(/\b4\b/g, '<span class="code-4">4</span>')
+                        .replace(/\b5\b/g, '<span class="code-5">5</span>')
+                        .replace(/Goal 0/g, '<span class="code-0">Goal 0</span>')
+                        .replace(/Goal 1/g, '<span class="code-1">Goal 1</span>')
+                        .replace(/Goal 2/g, '<span class="code-2">Goal 2</span>')
+                        .replace(/Goal 3/g, '<span class="code-3">Goal 3</span>')
+                        .replace(/Goal 4/g, '<span class="code-4">Goal 4</span>')
+                        .replace(/Goal 5/g, '<span class="code-5">Goal 5</span>');
+                    
+                    explanationDisplay.innerHTML = coloredExplanation;
                     explanationDisplay.style.display = 'block';
                 } else {
                     explanationDisplay.textContent = "Keine Begründung verfügbar";
