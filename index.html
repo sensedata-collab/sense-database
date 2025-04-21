@@ -11,8 +11,12 @@
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f5f5f5;
+            background-color: #f5f5f5; /* Hellgrauer Hintergrund */
             color: black;
+        }
+        
+        html {
+            background-color: #f5f5f5; /* Hellgrauer Hintergrund für gesamte Seite */
         }
         
         .container {
@@ -672,8 +676,8 @@
                 hideError();
                 hideSuggestions();
                 
-                // Scrolle nach oben
-                window.scrollTo(0, 0);
+                // ENTFERNT: Scrolle nach oben - verursachte Seitensprung
+                // window.scrollTo(0, 0);
             }
             
             // Suche nach einem Verb
