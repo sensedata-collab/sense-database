@@ -604,7 +604,7 @@
                 updateReferenceTable(entry.code);
             }
             
-            // Komplett neue Funktion zur Aktualisierung der Referenztabelle
+            // Aktualisierte Funktion zur Aktualisierung der Referenztabelle
             function updateReferenceTable(code) {
                 // 1. Bestimme die Area aus dem Code
                 let area = "Material"; // Standard ist Material
@@ -623,53 +623,69 @@
                 // Aktualisiere den Tabellentitel
                 tableTitle.textContent = isInterpersonal ? "Interpersonal Area" : "Material Area";
                 
-                // 3. Entferne Area-Prefix und eventuelle Ausrichtung für die Analyse
-                let cleanCode = code;
-                if (cleanCode.includes('/')) {
-                    cleanCode = cleanCode.split('/').slice(1).join('/');
-                }
-                
-                // Entferne aut/ecc, het/con usw. am Ende
-                if (cleanCode.includes('aut/') || cleanCode.includes('het/')) {
-                    cleanCode = cleanCode.split(/aut\/|het\//, 1)[0].trim();
-                }
-                
-                // 4. Extrahiere alle Elemente in ihrer exakten Reihenfolge im Code
-                const elements = [];
-                
-                // Suche nach allen Assistances und Goals mit ihrer Position im Code
-                // Verbesserte Regex für exakte Mustererkennung
-                const assistancePattern = /\b([0-5])\b/g;
-                const goalPattern = /Goal\s*([0-5])\b/g;
-                
-                let match;
+                // 3. Behandle die Double-Slash-Notation und bereite den Code vor
                 let allMatches = [];
                 
-                // Zuerst alle Assistances finden
-                while ((match = assistancePattern.exec(cleanCode)) !== null) {
-                    allMatches.push({
-                        type: 'assistance',
-                        code: match[1],
-                        position: match.index
-                    });
+                // Entferne Area-Prefix für die Analyse
+                let cleanCode = code;
+                if (cleanCode.includes('/')) {
+                    const parts = cleanCode.split('/');
+                    // Area-Prefix entfernen
+                    parts.shift();
+                    cleanCode = parts.join('/');
                 }
                 
-                // Dann alle Goals finden
-                while ((match = goalPattern.exec(cleanCode)) !== null) {
-                    allMatches.push({
-                        type: 'goal',
-                        code: match[1],
-                        position: match.index
-                    });
+                // Trenne Code in Segmente, falls Double-Slash vorhanden
+                let segments = [];
+                if (cleanCode.includes('//')) {
+                    segments = cleanCode.split('//');
+                } else {
+                    segments = [cleanCode];
                 }
                 
-                // Nach Position im Code sortieren
+                // Entferne aut/ecc, het/con aus jedem Segment
+                segments = segments.map(segment => {
+                    if (segment.includes('aut/') || segment.includes('het/')) {
+                        return segment.split(/aut\/|het\//, 1)[0].trim();
+                    }
+                    return segment.trim();
+                });
+                
+                // 4. Extrahiere die Sense-Elemente aus jedem Segment
+                let segmentOffset = 0;
+                segments.forEach(segment => {
+                    // Suche nach allen Assistances mit ihrer Position im Segment
+                    const assistanceRegex = /\b([0-5])\b/g;
+                    let match;
+                    while ((match = assistanceRegex.exec(segment)) !== null) {
+                        allMatches.push({
+                            type: 'assistance',
+                            code: match[1],
+                            position: match.index + segmentOffset
+                        });
+                    }
+                    
+                    // Suche nach allen Goals mit ihrer Position im Segment
+                    const goalRegex = /Goal\s*([0-5])\b/g;
+                    while ((match = goalRegex.exec(segment)) !== null) {
+                        allMatches.push({
+                            type: 'goal',
+                            code: match[1],
+                            position: match.index + segmentOffset
+                        });
+                    }
+                    
+                    // Offset für nächstes Segment erhöhen, um Reihenfolge zu wahren
+                    segmentOffset += segment.length + 2; // +2 für "//"
+                });
+                
+                // 5. Sortiere die Elemente nach ihrer Position
                 allMatches.sort((a, b) => a.position - b.position);
                 
-                // 5. Leere die aktuelle Tabelle
+                // 6. Leere die aktuelle Tabelle
                 referenceTableBody.innerHTML = '';
                 
-                // 6. Füge die Elemente in der exakten Reihenfolge zur Tabelle hinzu
+                // 7. Füge die Elemente in der exakten Reihenfolge zur Tabelle hinzu
                 allMatches.forEach(match => {
                     let data;
                     let elementText;
@@ -705,242 +721,5 @@
                     }
                 });
                 
-                // 7. Zeige die Tabelle nur, wenn sie Einträge enthält
+                // 8. Zeige die Tabelle nur, wenn sie Einträge enthält
                 referenceTable.style.display = allMatches.length > 0 ? 'block' : 'none';
-            }
-            
-            // Suche nach einem Verb
-            function searchVerb(term) {
-                if (!term) {
-                    hideSuggestions();
-                    return;
-                }
-                
-                term = term.toLowerCase().trim();
-                
-                // Exakte Übereinstimmung suchen (erste Bedeutung)
-                const exactMatch = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase() === term && entry.meaningNumber === 1
-                );
-                
-                if (exactMatch !== -1) {
-                    displayEntry(exactMatch);
-                    hideError();
-                    hideSuggestions();
-                    return true;
-                }
-                
-                // Suche nach Verben, die mit dem Suchbegriff beginnen (erste Bedeutung)
-                const startsWith = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase().startsWith(term) && entry.meaningNumber === 1
-                );
-                
-                if (startsWith !== -1) {
-                    displayEntry(startsWith);
-                    
-                    // Zeige Vorschläge für ähnliche Verben
-                    showSimilarVerbs(term);
-                    return true;
-                }
-                
-                // Teilübereinstimmung (erste Bedeutung)
-                const partialMatch = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase().includes(term) && entry.meaningNumber === 1
-                );
-                
-                if (partialMatch !== -1) {
-                    displayEntry(partialMatch);
-                    
-                    // Zeige Vorschläge für ähnliche Verben
-                    showSimilarVerbs(term);
-                    return true;
-                }
-                
-                // Wenn keine erste Bedeutung gefunden wurde, suche nach beliebiger Bedeutung
-                const anyMatch = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase().includes(term)
-                );
-                
-                if (anyMatch !== -1) {
-                    displayEntry(anyMatch);
-                    showSimilarVerbs(term);
-                    return true;
-                }
-                
-                // Keine Übereinstimmung gefunden
-                showError(`Das Verb "${term}" wurde nicht gefunden. Möglicherweise ist es nicht in unserer Datenbank enthalten oder anders geschrieben.`);
-                showSimilarVerbs(term);
-                return false;
-            }
-            
-            // Zeige ähnliche Verben als Vorschläge
-            function showSimilarVerbs(term) {
-                if (!term || term.length < 2) {
-                    hideSuggestions();
-                    return;
-                }
-                
-                // Finde einzigartige Verben (keine Duplikate wegen mehrerer Bedeutungen)
-                const similarVerbs = uniqueVerbs
-                    .filter(verb => verb.toLowerCase().includes(term.toLowerCase()))
-                    .slice(0, 5);  // Begrenze auf 5 Vorschläge
-                
-                if (similarVerbs.length > 0) {
-                    suggestions.innerHTML = 'Ähnliche Verben: ' + 
-                        similarVerbs.map(verb => `<a href="#" class="verb-suggestion">${verb}</a>`).join(', ');
-                    suggestions.style.display = 'block';
-                    
-                    // Event-Listener für Vorschläge
-                    document.querySelectorAll('.verb-suggestion').forEach(link => {
-                        link.addEventListener('click', function(e) {
-                            e.preventDefault();
-                            const selectedVerb = this.textContent;
-                            searchInput.value = selectedVerb;
-                            searchVerb(selectedVerb);
-                        });
-                    });
-                } else {
-                    hideSuggestions();
-                }
-            }
-            
-            // Prüfe, ob ein String ein gültiges deutsches Verb ist
-            function isValidGermanVerb(text) {
-                // Vereinfachte Prüfung: ein deutsches Verb endet typischerweise auf -en, -eln, -ern
-                // und enthält keine Zahlen oder Sonderzeichen (außer ä, ö, ü, ß)
-                const germanVerbPattern = /^[a-zäöüß]+(?:en|eln|ern)$/i;
-                
-                return germanVerbPattern.test(text.trim());
-            }
-            
-            // Fehler anzeigen
-            function showError(message) {
-                errorMessage.textContent = message;
-                errorMessage.style.display = 'block';
-            }
-            
-            // Fehler ausblenden
-            function hideError() {
-                errorMessage.style.display = 'none';
-            }
-            
-            // Vorschläge ausblenden
-            function hideSuggestions() {
-                suggestions.style.display = 'none';
-            }
-            
-            // Navigationsbuttons aktualisieren
-            function updateNavButtons() {
-                prevButton.disabled = currentIndex <= 0;
-                firstButton.disabled = currentIndex <= 0;
-                nextButton.disabled = currentIndex >= verbEntries.length - 1;
-                lastButton.disabled = currentIndex >= verbEntries.length - 1;
-            }
-            
-            // Event-Listener registrieren
-            
-            // Live-Suche mit Timeout
-            searchInput.addEventListener('input', function() {
-                const term = this.value.trim();
-                
-                // Ignoriere kurze Eingaben für die Live-Suche
-                if (term.length < 2) {
-                    hideSuggestions();
-                    return;
-                }
-                
-                // Setze früheren Timeout zurück
-                clearTimeout(searchTimeout);
-                
-                // Warte kurz, bevor die Suche durchgeführt wird
-                searchTimeout = setTimeout(() => {
-                    if (term !== lastSearchTerm) {
-                        searchVerb(term);
-                        lastSearchTerm = term;
-                    }
-                }, 300);
-            });
-            
-            // Such-Button
-            searchButton.addEventListener('click', function() {
-                const term = searchInput.value.trim();
-                
-                if (!term) {
-                    showError('Bitte geben Sie ein Verb ein.');
-                    return;
-                }
-                
-                if (!isValidGermanVerb(term) && term.length > 2) {
-                    showError('Bitte geben Sie ein gültiges deutsches Verb ein (endet typischerweise auf -en, -eln oder -ern).');
-                    return;
-                }
-                
-                searchVerb(term);
-            });
-            
-            // Navigationstasten
-            prevButton.addEventListener('click', function() {
-                if (currentIndex > 0) {
-                    displayEntry(currentIndex - 1);
-                    updateNavButtons();
-                }
-            });
-            
-            nextButton.addEventListener('click', function() {
-                if (currentIndex < verbEntries.length - 1) {
-                    displayEntry(currentIndex + 1);
-                    updateNavButtons();
-                }
-            });
-            
-            firstButton.addEventListener('click', function() {
-                displayEntry(0);
-                updateNavButtons();
-            });
-            
-            lastButton.addEventListener('click', function() {
-                displayEntry(verbEntries.length - 1);
-                updateNavButtons();
-            });
-            
-            // Tastatur-Navigation
-            document.addEventListener('keydown', function(e) {
-                if (e.target === searchInput) {
-                    // Wenn im Suchfeld, nur bei Enter-Taste suchen
-                    if (e.key === 'Enter') {
-                        const term = searchInput.value.trim();
-                        if (term) {
-                            searchVerb(term);
-                        }
-                    }
-                    return;
-                }
-                
-                // Sonst allgemeine Navigation
-                switch (e.key) {
-                    case 'ArrowLeft':
-                        if (currentIndex > 0) {
-                            displayEntry(currentIndex - 1);
-                            updateNavButtons();
-                        }
-                        break;
-                    case 'ArrowRight':
-                        if (currentIndex < verbEntries.length - 1) {
-                            displayEntry(currentIndex + 1);
-                            updateNavButtons();
-                        }
-                        break;
-                    case 'Home':
-                        displayEntry(0);
-                        updateNavButtons();
-                        break;
-                    case 'End':
-                        displayEntry(verbEntries.length - 1);
-                        updateNavButtons();
-                        break;
-                }
-            });
-        });
-    </script>
-</body>
-</html>
