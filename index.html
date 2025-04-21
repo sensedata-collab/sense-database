@@ -173,25 +173,15 @@
             color: black;
         }
         
-        /* Neue Styles für die Referenztabellen */
-        .reference-tables {
+        /* Neue Styles für die Referenztabelle */
+        .reference-section {
             margin-top: 20px;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 20px;
-            justify-content: space-between;
         }
         
         .reference-table {
             border: 1px solid #ddd;
             border-radius: 8px;
             overflow: hidden;
-            display: none; /* Standardmäßig versteckt */
-        }
-        
-        /* Tabellen werden über JavaScript angezeigt */
-        .reference-table.active {
-            display: block;
             width: 100%;
         }
         
@@ -226,47 +216,17 @@
         
         /* Bedeutung-Spalten extra Platz geben */
         .reference-table th:nth-child(3), 
-        .reference-table td:nth-child(3),
-        .reference-table th:nth-child(5), 
-        .reference-table td:nth-child(5) {
+        .reference-table td:nth-child(3) {
             width: 30%; /* Mehr Platz für Bedeutung-Spalten */
         }
         
-        /* Sichtbarkeit und Sortierung der Tabellenzeilen */
-        .reference-table tbody {
-            display: table-row-group; /* Für die Sortierung wichtig */
-        }
-        
-        /* Tabellen-Zeilen standardmäßig ausblenden */
+        /* Tabellen-Zeilen anzeigen/verbergen */
         .table-row {
             display: none;
         }
         
-        /* Aktive Zeilen anzeigen */
         .table-row.active {
             display: table-row;
-        }
-        
-        /* Sortierungs-Ordnung der Zeilen */
-        .table-row.sort-0 { order: 0; }
-        .table-row.sort-1 { order: 1; }
-        .table-row.sort-2 { order: 2; }
-        .table-row.sort-3 { order: 3; }
-        .table-row.sort-4 { order: 4; }
-        .table-row.sort-5 { order: 5; }
-        .table-row.sort-6 { order: 6; }
-        .table-row.sort-7 { order: 7; }
-        .table-row.sort-8 { order: 8; }
-        .table-row.sort-9 { order: 9; }
-        .table-row.sort-10 { order: 10; }
-        
-        /* Zeilen ohne Goal ausblenden */
-        .goal-column {
-            display: none;
-        }
-        
-        .goal-column.active {
-            display: table-cell;
         }
         
         /* Farbcodierung für Sense-Elemente */
@@ -368,122 +328,20 @@
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
         </div>
         
-        <!-- Neue dynamische Referenztabellen mit Datenattributen -->
-        <div class="reference-tables">
-            <div id="materialTable" class="reference-table material-table">
-                <h3>Material Area</h3>
+        <!-- Neue einheitliche Referenztabelle -->
+        <div class="reference-section">
+            <div id="referenceTable" class="reference-table">
+                <h3 id="tableTitle">Referenztabelle</h3>
                 <table>
                     <thead>
                         <tr>
-                            <th>Code</th>
-                            <th>Assistance</th>
-                            <th>Bedeutung</th>
-                            <th>Goal</th>
+                            <th>Element</th>
+                            <th>Typ</th>
                             <th>Bedeutung</th>
                         </tr>
                     </thead>
-                    <tbody id="materialTableBody">
-                        <tr class="table-row" data-code="0" data-goal="0">
-                            <td><span class="code-0">0</span></td>
-                            <td>warten</td>
-                            <td>auf eine Gelegenheit warten</td>
-                            <td class="goal-column" data-goal="0"><span class="code-0">Goal 0</span></td>
-                            <td class="goal-column" data-goal="0">erholt sein</td>
-                        </tr>
-                        <tr class="table-row" data-code="1" data-goal="1">
-                            <td><span class="code-1">1</span></td>
-                            <td>bekommen</td>
-                            <td>passiv etwas erhalten</td>
-                            <td class="goal-column" data-goal="1"><span class="code-1">Goal 1</span></td>
-                            <td class="goal-column" data-goal="1">befriedigt sein</td>
-                        </tr>
-                        <tr class="table-row" data-code="2" data-goal="2">
-                            <td><span class="code-2">2</span></td>
-                            <td>bestimmen</td>
-                            <td>Kontrolle über Verfügbares ausüben</td>
-                            <td class="goal-column" data-goal="2"><span class="code-2">Goal 2</span></td>
-                            <td class="goal-column" data-goal="2">gewünschten Zustand erreichen</td>
-                        </tr>
-                        <tr class="table-row" data-code="3" data-goal="3">
-                            <td><span class="code-3">3</span></td>
-                            <td>bewegen</td>
-                            <td>aktive Bewegung/Anstreben</td>
-                            <td class="goal-column" data-goal="3"><span class="code-3">Goal 3</span></td>
-                            <td class="goal-column" data-goal="3">Destination/Wirkung erreichen</td>
-                        </tr>
-                        <tr class="table-row" data-code="4" data-goal="4">
-                            <td><span class="code-4">4</span></td>
-                            <td>leisten</td>
-                            <td>für Andere etwas tun</td>
-                            <td class="goal-column" data-goal="4"><span class="code-4">Goal 4</span></td>
-                            <td class="goal-column" data-goal="4">Anerkennung bekommen</td>
-                        </tr>
-                        <tr class="table-row" data-code="5" data-goal="5">
-                            <td><span class="code-5">5</span></td>
-                            <td>informieren</td>
-                            <td>Infos aufnehmen</td>
-                            <td class="goal-column" data-goal="5"><span class="code-5">Goal 5</span></td>
-                            <td class="goal-column" data-goal="5">informiert sein</td>
-                        </tr>
-                    </tbody>
-                </table>
-            </div>
-            
-            <div id="interpersonalTable" class="reference-table interpersonal-table">
-                <h3>Interpersonal Area</h3>
-                <table>
-                    <thead>
-                        <tr>
-                            <th>Code</th>
-                            <th>Assistance</th>
-                            <th>Bedeutung</th>
-                            <th>Goal</th>
-                            <th>Bedeutung</th>
-                        </tr>
-                    </thead>
-                    <tbody id="interpersonalTableBody">
-                        <tr class="table-row" data-code="0" data-goal="0">
-                            <td><span class="code-0">0</span></td>
-                            <td>warten</td>
-                            <td>geduldig sein</td>
-                            <td class="goal-column" data-goal="0"><span class="code-0">Goal 0</span></td>
-                            <td class="goal-column" data-goal="0">Vertrauen haben</td>
-                        </tr>
-                        <tr class="table-row" data-code="1" data-goal="1">
-                            <td><span class="code-1">1</span></td>
-                            <td>bekommen</td>
-                            <td>Gefühle empfangen</td>
-                            <td class="goal-column" data-goal="1"><span class="code-1">Goal 1</span></td>
-                            <td class="goal-column" data-goal="1">Nähe spüren</td>
-                        </tr>
-                        <tr class="table-row" data-code="2" data-goal="2">
-                            <td><span class="code-2">2</span></td>
-                            <td>bestimmen</td>
-                            <td>Entscheidungen treffen/leiten</td>
-                            <td class="goal-column" data-goal="2"><span class="code-2">Goal 2</span></td>
-                            <td class="goal-column" data-goal="2">Einfluss/Macht ausüben</td>
-                        </tr>
-                        <tr class="table-row" data-code="3" data-goal="3">
-                            <td><span class="code-3">3</span></td>
-                            <td>bewegen</td>
-                            <td>in Bezug auf andere Bewegung ausführen</td>
-                            <td class="goal-column" data-goal="3"><span class="code-3">Goal 3</span></td>
-                            <td class="goal-column" data-goal="3">Wirkung erzielen</td>
-                        </tr>
-                        <tr class="table-row" data-code="4" data-goal="4">
-                            <td><span class="code-4">4</span></td>
-                            <td>leisten</td>
-                            <td>unterstützen/helfen</td>
-                            <td class="goal-column" data-goal="4"><span class="code-4">Goal 4</span></td>
-                            <td class="goal-column" data-goal="4">Anerkennung erhalten</td>
-                        </tr>
-                        <tr class="table-row" data-code="5" data-goal="5">
-                            <td><span class="code-5">5</span></td>
-                            <td>kontaktieren</td>
-                            <td>Verbindung aufbauen</td>
-                            <td class="goal-column" data-goal="5"><span class="code-5">Goal 5</span></td>
-                            <td class="goal-column" data-goal="5">Kontakt/Beachtung finden</td>
-                        </tr>
+                    <tbody id="referenceTableBody">
+                        <!-- Zeilen werden dynamisch eingefügt -->
                     </tbody>
                 </table>
             </div>
@@ -512,6 +370,37 @@
             let searchTimeout;
             let lastSearchTerm = '';
             
+            // Daten für die Referenztabelle
+            const materialData = [
+                { type: 'Assistance', code: '0', text: 'warten', meaning: 'auf eine Gelegenheit warten' },
+                { type: 'Goal', code: '0', text: 'Goal 0', meaning: 'erholt sein' },
+                { type: 'Assistance', code: '1', text: 'bekommen', meaning: 'passiv etwas erhalten' },
+                { type: 'Goal', code: '1', text: 'Goal 1', meaning: 'befriedigt sein' },
+                { type: 'Assistance', code: '2', text: 'bestimmen', meaning: 'Kontrolle über Verfügbares ausüben' },
+                { type: 'Goal', code: '2', text: 'Goal 2', meaning: 'gewünschten Zustand erreichen' },
+                { type: 'Assistance', code: '3', text: 'bewegen', meaning: 'aktive Bewegung/Anstreben' },
+                { type: 'Goal', code: '3', text: 'Goal 3', meaning: 'Destination/Wirkung erreichen' },
+                { type: 'Assistance', code: '4', text: 'leisten', meaning: 'für Andere etwas tun' },
+                { type: 'Goal', code: '4', text: 'Goal 4', meaning: 'Anerkennung bekommen' },
+                { type: 'Assistance', code: '5', text: 'informieren', meaning: 'Infos aufnehmen' },
+                { type: 'Goal', code: '5', text: 'Goal 5', meaning: 'informiert sein' }
+            ];
+            
+            const interpersonalData = [
+                { type: 'Assistance', code: '0', text: 'warten', meaning: 'geduldig sein' },
+                { type: 'Goal', code: '0', text: 'Goal 0', meaning: 'Vertrauen haben' },
+                { type: 'Assistance', code: '1', text: 'bekommen', meaning: 'Gefühle empfangen' },
+                { type: 'Goal', code: '1', text: 'Goal 1', meaning: 'Nähe spüren' },
+                { type: 'Assistance', code: '2', text: 'bestimmen', meaning: 'Entscheidungen treffen/leiten' },
+                { type: 'Goal', code: '2', text: 'Goal 2', meaning: 'Einfluss/Macht ausüben' },
+                { type: 'Assistance', code: '3', text: 'bewegen', meaning: 'in Bezug auf andere Bewegung ausführen' },
+                { type: 'Goal', code: '3', text: 'Goal 3', meaning: 'Wirkung erzielen' },
+                { type: 'Assistance', code: '4', text: 'leisten', meaning: 'unterstützen/helfen' },
+                { type: 'Goal', code: '4', text: 'Goal 4', meaning: 'Anerkennung erhalten' },
+                { type: 'Assistance', code: '5', text: 'kontaktieren', meaning: 'Verbindung aufbauen' },
+                { type: 'Goal', code: '5', text: 'Goal 5', meaning: 'Kontakt/Beachtung finden' }
+            ];
+            
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
             const searchButton = document.getElementById('searchButton');
@@ -528,10 +417,9 @@
             const prevButton = document.getElementById('prevButton');
             const nextButton = document.getElementById('nextButton');
             const lastButton = document.getElementById('lastButton');
-            const materialTable = document.getElementById('materialTable');
-            const interpersonalTable = document.getElementById('interpersonalTable');
-            const materialTableBody = document.getElementById('materialTableBody');
-            const interpersonalTableBody = document.getElementById('interpersonalTableBody');
+            const referenceTable = document.getElementById('referenceTable');
+            const tableTitle = document.getElementById('tableTitle');
+            const referenceTableBody = document.getElementById('referenceTableBody');
             
             // CSS-Anpassungen
             currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
@@ -713,12 +601,12 @@
                 hideError();
                 hideSuggestions();
                 
-                // Dynamische Aktualisierung der Referenztabellen
-                updateReferenceTables(entry.code);
+                // Dynamische Aktualisierung der Referenztabelle
+                updateReferenceTable(entry.code);
             }
             
-            // Verbesserte Funktion zur dynamischen Aktualisierung der Referenztabellen
-            function updateReferenceTables(code) {
+            // Komplett neue Funktion zur Aktualisierung der Referenztabelle
+            function updateReferenceTable(code) {
                 // 1. Bestimme die Area aus dem Code
                 let area = "Material"; // Standard ist Material
                 
@@ -728,19 +616,15 @@
                     area = parts[0];
                 }
                 
-                // 2. Zeige die entsprechende Tabelle an
-                const showMaterial = area === "Material" || area.startsWith("Material/");
-                const showInterpersonal = area === "Interpersonal" || area === "Psychological" || 
-                                        area.startsWith("Interpersonal/") || area.startsWith("Psychological/");
+                // 2. Wähle die passenden Daten basierend auf der Area
+                const isInterpersonal = area === "Interpersonal" || area === "Psychological" || 
+                                       area.startsWith("Interpersonal/") || area.startsWith("Psychological/");
+                const areaData = isInterpersonal ? interpersonalData : materialData;
                 
-                materialTable.classList.toggle('active', showMaterial);
-                interpersonalTable.classList.toggle('active', showInterpersonal);
+                // Aktualisiere den Tabellentitel
+                tableTitle.textContent = isInterpersonal ? "Interpersonal Area" : "Material Area";
                 
-                // 3. Extrahiere die verwendeten Codes und Goals
-                const usedCodes = [];
-                const usedGoals = [];
-                
-                // Entferne Area-Prefix und eventuelle Ausrichtung am Ende
+                // 3. Entferne Area-Prefix und eventuelle Ausrichtung für die Analyse
                 let cleanCode = code;
                 if (cleanCode.includes('/')) {
                     cleanCode = cleanCode.split('/').slice(1).join('/');
@@ -751,99 +635,62 @@
                     cleanCode = cleanCode.split(/aut\/|het\//, 1)[0].trim();
                 }
                 
-                // Extrahiere die Zahlen und ihre Position im Code
-                const codeMatches = [];
-                const goalMatches = [];
+                // 4. Extrahiere alle Zahlen und Goal-Referenzen mit ihren Positionen
+                const elements = [];
                 
-                let codeMatch;
-                let goalMatch;
-                const codeRegex = /\b([0-5])\b/g;
+                // Finde alle Assistances (einzelne Zahlen)
+                const assistanceRegex = /\b([0-5])\b/g;
+                let match;
+                while ((match = assistanceRegex.exec(cleanCode)) !== null) {
+                    elements.push({
+                        type: 'Assistance',
+                        code: match[1],
+                        position: match.index
+                    });
+                }
+                
+                // Finde alle Goals
                 const goalRegex = /Goal\s*([0-5])/g;
-                
-                while ((codeMatch = codeRegex.exec(cleanCode)) !== null) {
-                    const code = codeMatch[1];
-                    usedCodes.push(code);
-                    codeMatches.push({
-                        code: code,
-                        position: codeMatch.index
+                while ((match = goalRegex.exec(cleanCode)) !== null) {
+                    elements.push({
+                        type: 'Goal',
+                        code: match[1],
+                        position: match.index
                     });
                 }
                 
-                while ((goalMatch = goalRegex.exec(cleanCode)) !== null) {
-                    const goal = goalMatch[1];
-                    usedGoals.push(goal);
-                    goalMatches.push({
-                        goal: goal,
-                        position: goalMatch.index
-                    });
-                }
+                // 5. Sortiere die Elemente nach ihrer Position im Code
+                elements.sort((a, b) => a.position - b.position);
                 
-                // Sortiere die Matches nach ihrer Position im Code
-                codeMatches.sort((a, b) => a.position - b.position);
-                goalMatches.sort((a, b) => a.position - b.position);
+                // 6. Leere die aktuelle Tabelle
+                referenceTableBody.innerHTML = '';
                 
-                // 4. Aktualisiere die Sichtbarkeit der Tabellenzeilen
-                const tableToUpdate = showMaterial ? materialTableBody : interpersonalTableBody;
-                const rows = tableToUpdate.querySelectorAll('.table-row');
-                
-                // Alle Zeilen zurücksetzen
-                rows.forEach(row => {
-                    row.classList.remove('active');
-                    row.classList.remove('sort-0', 'sort-1', 'sort-2', 'sort-3', 'sort-4', 'sort-5', 'sort-6', 'sort-7', 'sort-8', 'sort-9', 'sort-10');
+                // 7. Füge die Elemente in der korrekten Reihenfolge zur Tabelle hinzu
+                elements.forEach(element => {
+                    // Finde die entsprechenden Daten in areaData
+                    const data = areaData.find(item => 
+                        item.type === element.type && item.code === element.code
+                    );
                     
-                    // Goal-Spalten ausblenden
-                    const goalColumns = row.querySelectorAll('.goal-column');
-                    goalColumns.forEach(col => col.classList.remove('active'));
-                });
-                
-                // Sortierungsindex für die Reihenfolge
-                let sortIndex = 0;
-                
-                // Zuerst die Assistances in der Reihenfolge des Codes anzeigen
-                codeMatches.forEach(match => {
-                    const codeValue = match.code;
-                    const row = tableToUpdate.querySelector(`.table-row[data-code="${codeValue}"]`);
-                    
-                    if (row) {
-                        row.classList.add('active');
-                        row.classList.add(`sort-${sortIndex}`);
-                        sortIndex++;
+                    if (data) {
+                        // Erstelle eine neue Tabellenzeile
+                        const row = document.createElement('tr');
+                        row.classList.add('table-row', 'active');
+                        
+                        // Füge die Zellen hinzu
+                        row.innerHTML = `
+                            <td><span class="code-${data.code}">${data.text}</span></td>
+                            <td>${data.type}</td>
+                            <td>${data.meaning}</td>
+                        `;
+                        
+                        // Füge die Zeile zur Tabelle hinzu
+                        referenceTableBody.appendChild(row);
                     }
                 });
                 
-                // Dann die Goals anzeigen (nur wenn sie vorkommen)
-                goalMatches.forEach(match => {
-                    const goalValue = match.goal;
-                    const rows = tableToUpdate.querySelectorAll(`.table-row`);
-                    
-                    rows.forEach(row => {
-                        // Aktiviere Goal-Spalten, wenn das Goal verwendet wird
-                        if (row.getAttribute('data-goal') === goalValue) {
-                            const goalColumns = row.querySelectorAll(`.goal-column[data-goal="${goalValue}"]`);
-                            goalColumns.forEach(col => col.classList.add('active'));
-                            
-                            // Wenn die Zeile noch nicht aktiviert ist, aktiviere sie
-                            if (!row.classList.contains('active')) {
-                                row.classList.add('active');
-                                row.classList.add(`sort-${sortIndex}`);
-                                sortIndex++;
-                            }
-                        }
-                    });
-                });
-                
-                // Sortiere die Zeilen nach ihrer Reihenfolge im Code
-                const tableRows = Array.from(tableToUpdate.querySelectorAll('.table-row.active'));
-                tableRows.sort((a, b) => {
-                    const aOrder = parseInt(Array.from(a.classList).find(c => c.startsWith('sort-')).split('-')[1]);
-                    const bOrder = parseInt(Array.from(b.classList).find(c => c.startsWith('sort-')).split('-')[1]);
-                    return aOrder - bOrder;
-                });
-                
-                // Füge die Zeilen in der richtigen Reihenfolge wieder ein
-                tableRows.forEach(row => {
-                    tableToUpdate.appendChild(row);
-                });
+                // 8. Zeige die Tabelle, nur wenn es Elemente gibt
+                referenceTable.style.display = elements.length > 0 ? 'block' : 'none';
             }
             
             // Suche nach einem Verb
