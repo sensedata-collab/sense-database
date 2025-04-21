@@ -124,7 +124,7 @@
         
         .explanation {
             padding: 15px;
-            background-color: #f0f0f0; /* Grau statt grünlich */
+            background-color: #f2f2f2; /* Hellgrau */
             border-radius: 4px;
             margin-bottom: 20px;
         }
@@ -176,11 +176,20 @@
         }
         
         .reference-table {
-            flex: 1;
-            min-width: 300px;
             border: 1px solid #ddd;
             border-radius: 8px;
             overflow: hidden;
+        }
+        
+        /* Unterschiedliche Tabellenbreiten */
+        .material-table {
+            flex: 6; /* Breiterer Anteil für Material Area */
+            min-width: 340px;
+        }
+        
+        .interpersonal-table {
+            flex: 5; /* Schmalerer Anteil für Interpersonal Area */
+            min-width: 300px;
         }
         
         .reference-table h3 {
@@ -208,6 +217,14 @@
         .reference-table th {
             background-color: #f8f8f8;
             font-size: 13px; /* Noch kleinere Überschriften */
+        }
+        
+        /* Bedeutung-Spalten extra Platz geben */
+        .reference-table th:nth-child(3), 
+        .reference-table td:nth-child(3),
+        .reference-table th:nth-child(5), 
+        .reference-table td:nth-child(5) {
+            width: 30%; /* Mehr Platz für Bedeutung-Spalten */
         }
         
         /* Farbcodierung für Sense-Elemente */
@@ -311,7 +328,7 @@
         
         <!-- Neue Referenztabellen -->
         <div class="reference-tables">
-            <div class="reference-table">
+            <div class="reference-table material-table">
                 <h3>Material Area</h3>
                 <table>
                     <thead>
@@ -370,7 +387,7 @@
                 </table>
             </div>
             
-            <div class="reference-table">
+            <div class="reference-table interpersonal-table">
                 <h3>Interpersonal Area</h3>
                 <table>
                     <thead>
@@ -440,7 +457,7 @@
         </div>
         
         <div class="project-info">
-            <p>Sense &copy; 2023 - Lokale Verbanwendung</p>
+            <p>Sense &copy; 2025 - Lokale Verbanwendung</p>
             <p>Diese Anwendung lädt die Datei "Coded_Verbs.txt", die sich im selben Verzeichnis befinden muss.</p>
         </div>
     </div>
