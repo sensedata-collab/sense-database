@@ -217,16 +217,7 @@
         /* Bedeutung-Spalten extra Platz geben */
         .reference-table th:nth-child(3), 
         .reference-table td:nth-child(3) {
-            width: 30%; /* Mehr Platz für Bedeutung-Spalten */
-        }
-        
-        /* Tabellen-Zeilen anzeigen/verbergen */
-        .table-row {
-            display: none;
-        }
-        
-        .table-row.active {
-            display: table-row;
+            width: 60%; /* Mehr Platz für Bedeutung-Spalten */
         }
         
         /* Farbcodierung für Sense-Elemente */
@@ -371,35 +362,43 @@
             let lastSearchTerm = '';
             
             // Daten für die Referenztabelle
-            const materialData = [
-                { type: 'Assistance', code: '0', text: 'warten', meaning: 'auf eine Gelegenheit warten' },
-                { type: 'Goal', code: '0', text: 'Goal 0', meaning: 'erholt sein' },
-                { type: 'Assistance', code: '1', text: 'bekommen', meaning: 'passiv etwas erhalten' },
-                { type: 'Goal', code: '1', text: 'Goal 1', meaning: 'befriedigt sein' },
-                { type: 'Assistance', code: '2', text: 'bestimmen', meaning: 'Kontrolle über Verfügbares ausüben' },
-                { type: 'Goal', code: '2', text: 'Goal 2', meaning: 'gewünschten Zustand erreichen' },
-                { type: 'Assistance', code: '3', text: 'bewegen', meaning: 'aktive Bewegung/Anstreben' },
-                { type: 'Goal', code: '3', text: 'Goal 3', meaning: 'Destination/Wirkung erreichen' },
-                { type: 'Assistance', code: '4', text: 'leisten', meaning: 'für Andere etwas tun' },
-                { type: 'Goal', code: '4', text: 'Goal 4', meaning: 'Anerkennung bekommen' },
-                { type: 'Assistance', code: '5', text: 'informieren', meaning: 'Infos aufnehmen' },
-                { type: 'Goal', code: '5', text: 'Goal 5', meaning: 'informiert sein' }
-            ];
+            const materialData = {
+                assistances: {
+                    '0': { text: 'warten', meaning: 'auf eine Gelegenheit warten' },
+                    '1': { text: 'bekommen', meaning: 'passiv etwas erhalten' },
+                    '2': { text: 'bestimmen', meaning: 'Kontrolle über Verfügbares ausüben' },
+                    '3': { text: 'bewegen', meaning: 'aktive Bewegung/Anstreben' },
+                    '4': { text: 'leisten', meaning: 'für Andere etwas tun' },
+                    '5': { text: 'informieren', meaning: 'Infos aufnehmen' }
+                },
+                goals: {
+                    '0': { text: 'Goal 0', meaning: 'erholt sein' },
+                    '1': { text: 'Goal 1', meaning: 'befriedigt sein' },
+                    '2': { text: 'Goal 2', meaning: 'gewünschten Zustand erreichen' },
+                    '3': { text: 'Goal 3', meaning: 'Destination/Wirkung erreichen' },
+                    '4': { text: 'Goal 4', meaning: 'Anerkennung bekommen' },
+                    '5': { text: 'Goal 5', meaning: 'informiert sein' }
+                }
+            };
             
-            const interpersonalData = [
-                { type: 'Assistance', code: '0', text: 'warten', meaning: 'geduldig sein' },
-                { type: 'Goal', code: '0', text: 'Goal 0', meaning: 'Vertrauen haben' },
-                { type: 'Assistance', code: '1', text: 'bekommen', meaning: 'Gefühle empfangen' },
-                { type: 'Goal', code: '1', text: 'Goal 1', meaning: 'Nähe spüren' },
-                { type: 'Assistance', code: '2', text: 'bestimmen', meaning: 'Entscheidungen treffen/leiten' },
-                { type: 'Goal', code: '2', text: 'Goal 2', meaning: 'Einfluss/Macht ausüben' },
-                { type: 'Assistance', code: '3', text: 'bewegen', meaning: 'in Bezug auf andere Bewegung ausführen' },
-                { type: 'Goal', code: '3', text: 'Goal 3', meaning: 'Wirkung erzielen' },
-                { type: 'Assistance', code: '4', text: 'leisten', meaning: 'unterstützen/helfen' },
-                { type: 'Goal', code: '4', text: 'Goal 4', meaning: 'Anerkennung erhalten' },
-                { type: 'Assistance', code: '5', text: 'kontaktieren', meaning: 'Verbindung aufbauen' },
-                { type: 'Goal', code: '5', text: 'Goal 5', meaning: 'Kontakt/Beachtung finden' }
-            ];
+            const interpersonalData = {
+                assistances: {
+                    '0': { text: 'warten', meaning: 'geduldig sein' },
+                    '1': { text: 'bekommen', meaning: 'Gefühle empfangen' },
+                    '2': { text: 'bestimmen', meaning: 'Entscheidungen treffen/leiten' },
+                    '3': { text: 'bewegen', meaning: 'in Bezug auf andere Bewegung ausführen' },
+                    '4': { text: 'leisten', meaning: 'unterstützen/helfen' },
+                    '5': { text: 'kontaktieren', meaning: 'Verbindung aufbauen' }
+                },
+                goals: {
+                    '0': { text: 'Goal 0', meaning: 'Vertrauen haben' },
+                    '1': { text: 'Goal 1', meaning: 'Nähe spüren' },
+                    '2': { text: 'Goal 2', meaning: 'Einfluss/Macht ausüben' },
+                    '3': { text: 'Goal 3', meaning: 'Wirkung erzielen' },
+                    '4': { text: 'Goal 4', meaning: 'Anerkennung erhalten' },
+                    '5': { text: 'Goal 5', meaning: 'Kontakt/Beachtung finden' }
+                }
+            };
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -635,53 +634,70 @@
                     cleanCode = cleanCode.split(/aut\/|het\//, 1)[0].trim();
                 }
                 
-                // 4. Extrahiere alle Zahlen und Goal-Referenzen mit ihren Positionen
+                // 4. Extrahiere alle Elemente in ihrer exakten Reihenfolge im Code
                 const elements = [];
                 
-                // Finde alle Assistances (einzelne Zahlen)
-                const assistanceRegex = /\b([0-5])\b/g;
+                // Suche nach allen Assistances und Goals mit ihrer Position im Code
+                // Verbesserte Regex für exakte Mustererkennung
+                const assistancePattern = /\b([0-5])\b/g;
+                const goalPattern = /Goal\s*([0-5])\b/g;
+                
                 let match;
-                while ((match = assistanceRegex.exec(cleanCode)) !== null) {
-                    elements.push({
-                        type: 'Assistance',
+                let allMatches = [];
+                
+                // Zuerst alle Assistances finden
+                while ((match = assistancePattern.exec(cleanCode)) !== null) {
+                    allMatches.push({
+                        type: 'assistance',
                         code: match[1],
                         position: match.index
                     });
                 }
                 
-                // Finde alle Goals
-                const goalRegex = /Goal\s*([0-5])/g;
-                while ((match = goalRegex.exec(cleanCode)) !== null) {
-                    elements.push({
-                        type: 'Goal',
+                // Dann alle Goals finden
+                while ((match = goalPattern.exec(cleanCode)) !== null) {
+                    allMatches.push({
+                        type: 'goal',
                         code: match[1],
                         position: match.index
                     });
                 }
                 
-                // 5. Sortiere die Elemente nach ihrer Position im Code
-                elements.sort((a, b) => a.position - b.position);
+                // Nach Position im Code sortieren
+                allMatches.sort((a, b) => a.position - b.position);
                 
-                // 6. Leere die aktuelle Tabelle
+                // 5. Leere die aktuelle Tabelle
                 referenceTableBody.innerHTML = '';
                 
-                // 7. Füge die Elemente in der korrekten Reihenfolge zur Tabelle hinzu
-                elements.forEach(element => {
-                    // Finde die entsprechenden Daten in areaData
-                    const data = areaData.find(item => 
-                        item.type === element.type && item.code === element.code
-                    );
+                // 6. Füge die Elemente in der exakten Reihenfolge zur Tabelle hinzu
+                allMatches.forEach(match => {
+                    let data;
+                    let elementText;
+                    let elementType;
+                    let elementMeaning;
                     
+                    if (match.type === 'assistance') {
+                        data = areaData.assistances[match.code];
+                        elementText = match.code;
+                        elementType = 'Assistance';
+                        elementMeaning = data.meaning;
+                    } else { // goal
+                        data = areaData.goals[match.code];
+                        elementText = `Goal ${match.code}`;
+                        elementType = 'Goal';
+                        elementMeaning = data.meaning;
+                    }
+                    
+                    // Nur hinzufügen, wenn Daten gefunden wurden
                     if (data) {
                         // Erstelle eine neue Tabellenzeile
                         const row = document.createElement('tr');
-                        row.classList.add('table-row', 'active');
                         
                         // Füge die Zellen hinzu
                         row.innerHTML = `
-                            <td><span class="code-${data.code}">${data.text}</span></td>
-                            <td>${data.type}</td>
-                            <td>${data.meaning}</td>
+                            <td><span class="code-${match.code}">${elementText}</span></td>
+                            <td>${elementType}</td>
+                            <td>${elementMeaning}</td>
                         `;
                         
                         // Füge die Zeile zur Tabelle hinzu
@@ -689,8 +705,8 @@
                     }
                 });
                 
-                // 8. Zeige die Tabelle, nur wenn es Elemente gibt
-                referenceTable.style.display = elements.length > 0 ? 'block' : 'none';
+                // 7. Zeige die Tabelle nur, wenn sie Einträge enthält
+                referenceTable.style.display = allMatches.length > 0 ? 'block' : 'none';
             }
             
             // Suche nach einem Verb
