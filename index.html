@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sense - Verbanwendung (Aktualisiert)</title>
-    <!-- Neue Version mit grauem Hintergrund und fester Navigation -->
+    <title>Sense - Verbanwendung</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -20,7 +19,6 @@
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             padding: 20px;
-            margin-bottom: 80px; /* Wichtig: Platz für die fixierte Navigation */
         }
         
         header {
@@ -88,35 +86,19 @@
             cursor: not-allowed;
         }
         
-        /* NEUE NAVIGATION - ABSOLUT FIXIERT */
+        /* Navigationsleiste jetzt direkt unter dem Display-Bereich */
         .navigation {
-            position: fixed;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            background-color: #333;
-            color: white;
+            margin: 15px 0;
             padding: 10px 0;
-            text-align: center;
-            z-index: 1000;
-            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            border-left: 4px solid #007bff;
         }
         
         .nav-buttons {
             display: flex;
             gap: 10px;
             justify-content: center;
-            max-width: 1200px;
-            margin: 0 auto;
-        }
-        
-        .nav-buttons button {
-            background-color: #555;
-            transition: background-color 0.3s;
-        }
-        
-        .nav-buttons button:hover:not(:disabled) {
-            background-color: #777;
         }
         
         .display-area {
@@ -187,7 +169,7 @@
             font-size: 13px;
         }
         
-        /* NEUE FORMEL-ERKLÄRUNG MIT GRAUEM HINTERGRUND */
+        /* Formel-Erklärung mit grauem Hintergrund */
         .formula-explanation {
             margin-top: 15px;
             padding: 12px;
@@ -216,15 +198,15 @@
             font-size: 13px;
         }
         
-        /* NEUER GRAUER HINTERGRUND FÜR ERKLÄRUNGSTEXTE */
+        /* Erklärungstext mit gleichem Hintergrund wie Umgebung */
         .explanation-text {
-            background-color: #909090; /* DEUTLICH DUNKLERES GRAU für Sichtbarkeit */
-            color: white; /* Weißer Text für besseren Kontrast */
+            background-color: #e9ecef; /* Gleicher Grauton wie formula-explanation */
             padding: 10px;
             border-radius: 4px;
             margin-top: 8px;
             display: none;
             font-size: 13px;
+            border: 1px solid #ced4da; /* Leichter Rahmen für Kontrast */
         }
         
         /* Responsives Design */
@@ -233,13 +215,17 @@
                 flex-direction: column;
                 align-items: stretch;
             }
+            
+            .nav-buttons {
+                flex-wrap: wrap;
+            }
         }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Sense - Verbanwendung (NEUE VERSION)</h1>
+            <h1>Sense - Verbanwendung</h1>
             <p>Durchsuchen Sie deutsche Verben und deren SENSE-Kodierungen</p>
         </header>
         
@@ -260,7 +246,17 @@
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
         </div>
         
-        <!-- Neue Erklärungssektion für Formel-Zusätze -->
+        <!-- Navigation direkt unter dem Display-Bereich -->
+        <div class="navigation">
+            <div class="nav-buttons">
+                <button id="firstButton">Erste Seite</button>
+                <button id="prevButton">Zurück</button>
+                <button id="nextButton">Weiter</button>
+                <button id="lastButton">Letzte Seite</button>
+            </div>
+        </div>
+        
+        <!-- Erklärungssektion für Formel-Zusätze -->
         <div class="formula-explanation">
             <h3>Erklärung von Formel-Zusätzen</h3>
             <select id="formulaSelect" class="formula-select">
@@ -275,16 +271,6 @@
             </select>
             
             <div id="explanationText" class="explanation-text"></div>
-        </div>
-    </div>
-    
-    <!-- Feste Navigation mit deutlich anderem Stil -->
-    <div class="navigation">
-        <div class="nav-buttons">
-            <button id="firstButton">Erste Seite</button>
-            <button id="prevButton">Zurück</button>
-            <button id="nextButton">Weiter</button>
-            <button id="lastButton">Letzte Seite</button>
         </div>
     </div>
     
