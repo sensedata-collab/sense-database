@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.6;
+            line-height: 1.5; /* Reduziert von 1.6 */
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
@@ -23,23 +23,33 @@
         
         header {
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 10px; /* Reduziert von 20px */
             border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
+            padding-bottom: 5px; /* Reduziert von 10px */
+        }
+        
+        header h1 {
+            margin-bottom: 5px; /* Enger */
+            font-size: 24px; /* Etwas kleiner */
+        }
+        
+        header p {
+            margin-top: 5px; /* Enger */
+            font-size: 14px; /* Eine Nummer kleiner */
         }
         
         .search-container {
             display: flex;
             gap: 10px;
-            margin-bottom: 20px;
+            margin-bottom: 15px; /* Reduziert von 20px */
             align-items: center;
             flex-wrap: wrap;
         }
         
         .search-container input {
             flex: 1;
-            padding: 10px;
-            font-size: 16px;
+            padding: 8px; /* Reduziert von 10px */
+            font-size: 14px; /* Kleiner */
             border: 2px solid #ddd;
             border-radius: 4px;
             min-width: 200px;
@@ -52,19 +62,19 @@
         
         .search-hint {
             width: 100%;
-            font-size: 14px;
+            font-size: 12px; /* Kleiner von 14px */
             color: #666;
-            margin-top: 5px;
+            margin-top: 3px; /* Reduziert von 5px */
         }
         
         button {
             background-color: #007bff;
             color: white;
             border: none;
-            padding: 10px 15px;
+            padding: 8px 12px; /* Reduziert von 10px 15px */
             border-radius: 4px;
             cursor: pointer;
-            font-size: 16px;
+            font-size: 14px; /* Reduziert von 16px */
         }
         
         button:hover {
@@ -79,7 +89,13 @@
         .navigation {
             display: flex;
             justify-content: space-between;
-            margin-top: 20px;
+            margin-top: 10px; /* Reduziert von 20px */
+            margin-bottom: 10px; /* Hinzugefügt */
+            position: sticky; /* Stationär */
+            bottom: 0; /* Am unteren Rand des Containers */
+            background-color: white;
+            padding: 5px 0;
+            z-index: 10;
         }
         
         .nav-buttons {
@@ -88,105 +104,108 @@
         }
         
         .display-area {
-            margin: 20px 0;
-            padding: 20px;
+            margin: 10px 0; /* Reduziert von 20px */
+            padding: 15px; /* Reduziert von 20px */
             background-color: #f9f9f9;
             border-radius: 8px;
             border-left: 4px solid #007bff;
         }
         
         .verb-heading {
-            font-size: 24px;
-            margin-bottom: 10px;
-            color: black; /* Schwarz statt Blau */
+            font-size: 22px; /* Reduziert von 24px */
+            margin-bottom: 8px; /* Reduziert von 10px */
+            color: black;
         }
         
         .verb-info {
-            font-size: 16px;
+            font-size: 14px; /* Reduziert von 16px */
             color: #666;
-            margin-bottom: 15px;
+            margin-bottom: 10px; /* Reduziert von 15px */
         }
         
         .code-display {
             font-family: 'Courier New', monospace;
             background-color: #eef;
-            padding: 15px;
+            padding: 12px; /* Reduziert von 15px */
             border-radius: 4px;
-            margin-bottom: 15px;
+            margin-bottom: 10px; /* Reduziert von 15px */
+            font-size: 14px; /* Kleiner */
         }
         
         .explanation {
-            padding: 15px;
+            padding: 12px; /* Reduziert von 15px */
             background-color: #efe;
             border-radius: 4px;
-            margin-bottom: 20px;
+            margin-bottom: 15px; /* Reduziert von 20px */
+            font-size: 14px; /* Kleiner */
         }
         
         .alternatives {
-            margin-top: 20px;
+            margin-top: 15px; /* Reduziert von 20px */
             border-top: 1px dashed #ccc;
-            padding-top: 15px;
+            padding-top: 12px; /* Reduziert von 15px */
         }
         
         .alternative-item {
-            margin-bottom: 15px;
-            padding: 10px;
+            margin-bottom: 12px; /* Reduziert von 15px */
+            padding: 8px; /* Reduziert von 10px */
             background-color: #f0f0f0;
             border-radius: 4px;
+            font-size: 14px; /* Kleiner */
         }
         
         .suggestion {
-            margin-top: 10px;
-            padding: 10px;
+            margin-top: 8px; /* Reduziert von 10px */
+            padding: 8px; /* Reduziert von 10px */
             background-color: #fff3cd;
             border-radius: 4px;
+            font-size: 13px; /* Kleiner */
         }
         
         .error-message {
             color: #d9534f;
             background-color: #f8d7da;
-            padding: 10px;
+            padding: 8px; /* Reduziert von 10px */
             border-radius: 4px;
-            margin: 10px 0;
-        }
-        
-        .project-info {
-            margin-top: 30px;
-            padding: 15px;
-            background-color: #e9ecef;
-            border-radius: 4px;
-            font-size: 14px;
-            text-align: center;
+            margin: 8px 0; /* Reduziert von 10px */
+            font-size: 13px; /* Kleiner */
         }
         
         .formula-explanation {
-            margin-top: 30px;
-            padding: 15px;
+            margin-top: 15px; /* Reduziert von 30px */
+            padding: 12px; /* Reduziert von 15px */
             background-color: #e9ecef;
             border-radius: 4px;
             border-left: 4px solid #28a745;
+            font-size: 13px; /* Eine Nummer kleiner */
+            height: 150px; /* Feste Höhe für das Erklärungsfenster */
+            overflow-y: auto; /* Scrollbar bei Bedarf */
         }
         
         .formula-explanation h3 {
             margin-top: 0;
+            margin-bottom: 8px; /* Reduziert */
             color: #28a745;
+            font-size: 16px; /* Kleiner */
         }
         
         .formula-select {
-            padding: 8px;
+            padding: 6px; /* Reduziert von 8px */
             border-radius: 4px;
             border: 1px solid #ccc;
             width: 100%;
             max-width: 300px;
-            margin-bottom: 10px;
+            margin-bottom: 8px; /* Reduziert von 10px */
+            font-size: 13px; /* Kleiner */
         }
         
         .explanation-text {
             background-color: #f8f9fa;
-            padding: 15px;
+            padding: 10px; /* Reduziert von 15px */
             border-radius: 4px;
-            margin-top: 10px;
+            margin-top: 8px; /* Reduziert von 10px */
             display: none;
+            font-size: 13px; /* Kleiner */
         }
         
         /* Responsives Design */
@@ -208,7 +227,6 @@
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
             <button id="searchButton">Suchen</button>
-            <!-- Positionsinfo entfernt -->
             <div class="search-hint">Bitte geben Sie nur deutsche Verben ein (Wörter die auf -en, -eln oder -ern enden).</div>
         </div>
         
@@ -221,15 +239,6 @@
             <div class="code-display" id="codeDisplay">Lädt Kodierung...</div>
             <div class="explanation" id="explanationDisplay">Lädt Begründung...</div>
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
-        </div>
-        
-        <div class="navigation">
-            <div class="nav-buttons">
-                <button id="firstButton">Erste Seite</button>
-                <button id="prevButton">Zurück</button>
-                <button id="nextButton">Weiter</button>
-                <button id="lastButton">Letzte Seite</button>
-            </div>
         </div>
         
         <!-- Neue Erklärungssektion für Formel-Zusätze -->
@@ -247,6 +256,15 @@
             </select>
             
             <div id="explanationText" class="explanation-text"></div>
+        </div>
+        
+        <div class="navigation">
+            <div class="nav-buttons">
+                <button id="firstButton">Erste Seite</button>
+                <button id="prevButton">Zurück</button>
+                <button id="nextButton">Weiter</button>
+                <button id="lastButton">Letzte Seite</button>
+            </div>
         </div>
     </div>
     
@@ -449,9 +467,6 @@
                 // Fehler und Vorschläge zurücksetzen
                 hideError();
                 hideSuggestions();
-                
-                // Scrolle nach oben
-                window.scrollTo(0, 0);
             }
             
             // Suche nach einem Verb
