@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="de">
-<!-- Dies ist ein HTML-Kommentar, der keine Auswirkungen hat -->
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sense - Verbanwendung</title>
+    <title>Sense - Verbanwendung (Aktualisiert)</title>
+    <!-- Neue Version mit grauem Hintergrund und fester Navigation -->
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -20,8 +20,7 @@
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             padding: 20px;
-            position: relative;
-            padding-bottom: 70px; /* Mehr Platz für die Navigation */
+            margin-bottom: 80px; /* Wichtig: Platz für die fixierte Navigation */
         }
         
         header {
@@ -89,25 +88,35 @@
             cursor: not-allowed;
         }
         
+        /* NEUE NAVIGATION - ABSOLUT FIXIERT */
         .navigation {
             position: fixed;
-            bottom: 20px;
+            bottom: 0;
             left: 0;
-            right: 0;
             width: 100%;
-            max-width: 1200px;
-            margin: 0 auto;
-            background-color: white;
+            background-color: #333;
+            color: white;
             padding: 10px 0;
-            z-index: 100;
-            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
-            border-radius: 4px;
+            text-align: center;
+            z-index: 1000;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
         }
         
         .nav-buttons {
             display: flex;
             gap: 10px;
             justify-content: center;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .nav-buttons button {
+            background-color: #555;
+            transition: background-color 0.3s;
+        }
+        
+        .nav-buttons button:hover:not(:disabled) {
+            background-color: #777;
         }
         
         .display-area {
@@ -178,15 +187,15 @@
             font-size: 13px;
         }
         
+        /* NEUE FORMEL-ERKLÄRUNG MIT GRAUEM HINTERGRUND */
         .formula-explanation {
             margin-top: 15px;
-            margin-bottom: 60px; /* Platz für die fixierte Navigation */
             padding: 12px;
             background-color: #e9ecef;
-            border-radius: 4px;
+            border-radius: 8px;
             border-left: 4px solid #28a745;
             font-size: 13px;
-            height: 160px; /* Größere feste Höhe */
+            height: 160px;
             overflow-y: auto;
         }
         
@@ -207,8 +216,10 @@
             font-size: 13px;
         }
         
+        /* NEUER GRAUER HINTERGRUND FÜR ERKLÄRUNGSTEXTE */
         .explanation-text {
-            background-color: #e0e0e0; /* Grauton für den Erklärungstext */
+            background-color: #909090; /* DEUTLICH DUNKLERES GRAU für Sichtbarkeit */
+            color: white; /* Weißer Text für besseren Kontrast */
             padding: 10px;
             border-radius: 4px;
             margin-top: 8px;
@@ -228,7 +239,7 @@
 <body>
     <div class="container">
         <header>
-            <h1>Sense - Verbanwendung</h1>
+            <h1>Sense - Verbanwendung (NEUE VERSION)</h1>
             <p>Durchsuchen Sie deutsche Verben und deren SENSE-Kodierungen</p>
         </header>
         
@@ -267,7 +278,7 @@
         </div>
     </div>
     
-    <!-- Navigation außerhalb des Containers und fixiert -->
+    <!-- Feste Navigation mit deutlich anderem Stil -->
     <div class="navigation">
         <div class="nav-buttons">
             <button id="firstButton">Erste Seite</button>
@@ -348,7 +359,7 @@
                     showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
                 });
                 
-            // Verarbeite die Verbdatei und strukturiere die Daten - KORRIGIERTE VERSION
+            // Verarbeite die Verbdatei und strukturiere die Daten
             function processVerbFile(text) {
                 console.log("Verarbeite Datei...");
                 
