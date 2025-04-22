@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.5; /* Reduziert von 1.6 */
+            line-height: 1.5;
             max-width: 1200px;
             margin: 0 auto;
             padding: 20px;
@@ -19,37 +19,39 @@
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
             padding: 20px;
+            position: relative; /* Für die absolute Positionierung der Navigation */
+            padding-bottom: 60px; /* Platz für die Navigation */
         }
         
         header {
             text-align: center;
-            margin-bottom: 10px; /* Reduziert von 20px */
+            margin-bottom: 10px;
             border-bottom: 1px solid #eee;
-            padding-bottom: 5px; /* Reduziert von 10px */
+            padding-bottom: 5px;
         }
         
         header h1 {
-            margin-bottom: 5px; /* Enger */
-            font-size: 24px; /* Etwas kleiner */
+            margin-bottom: 5px;
+            font-size: 24px;
         }
         
         header p {
-            margin-top: 5px; /* Enger */
-            font-size: 14px; /* Eine Nummer kleiner */
+            margin-top: 5px;
+            font-size: 14px;
         }
         
         .search-container {
             display: flex;
             gap: 10px;
-            margin-bottom: 15px; /* Reduziert von 20px */
+            margin-bottom: 15px;
             align-items: center;
             flex-wrap: wrap;
         }
         
         .search-container input {
             flex: 1;
-            padding: 8px; /* Reduziert von 10px */
-            font-size: 14px; /* Kleiner */
+            padding: 8px;
+            font-size: 14px;
             border: 2px solid #ddd;
             border-radius: 4px;
             min-width: 200px;
@@ -62,19 +64,19 @@
         
         .search-hint {
             width: 100%;
-            font-size: 12px; /* Kleiner von 14px */
+            font-size: 12px;
             color: #666;
-            margin-top: 3px; /* Reduziert von 5px */
+            margin-top: 3px;
         }
         
         button {
             background-color: #007bff;
             color: white;
             border: none;
-            padding: 8px 12px; /* Reduziert von 10px 15px */
+            padding: 8px 12px;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 14px; /* Reduziert von 16px */
+            font-size: 14px;
         }
         
         button:hover {
@@ -87,125 +89,129 @@
         }
         
         .navigation {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 10px; /* Reduziert von 20px */
-            margin-bottom: 10px; /* Hinzugefügt */
-            position: sticky; /* Stationär */
-            bottom: 0; /* Am unteren Rand des Containers */
+            position: fixed; /* Absolut fixiert statt sticky */
+            bottom: 20px; /* Abstand vom unteren Fensterrand */
+            left: 50%;
+            transform: translateX(-50%); /* Zentrieren */
+            width: 100%;
+            max-width: 1160px; /* Anpassen an Container-Breite minus Padding */
             background-color: white;
-            padding: 5px 0;
-            z-index: 10;
+            padding: 10px 0;
+            z-index: 100;
+            box-shadow: 0 -2px 10px rgba(0,0,0,0.1);
+            border-radius: 4px;
         }
         
         .nav-buttons {
             display: flex;
             gap: 10px;
+            justify-content: center;
         }
         
         .display-area {
-            margin: 10px 0; /* Reduziert von 20px */
-            padding: 15px; /* Reduziert von 20px */
+            margin: 10px 0;
+            padding: 15px;
             background-color: #f9f9f9;
             border-radius: 8px;
             border-left: 4px solid #007bff;
         }
         
         .verb-heading {
-            font-size: 22px; /* Reduziert von 24px */
-            margin-bottom: 8px; /* Reduziert von 10px */
+            font-size: 22px;
+            margin-bottom: 8px;
             color: black;
         }
         
         .verb-info {
-            font-size: 14px; /* Reduziert von 16px */
+            font-size: 14px;
             color: #666;
-            margin-bottom: 10px; /* Reduziert von 15px */
+            margin-bottom: 10px;
         }
         
         .code-display {
             font-family: 'Courier New', monospace;
             background-color: #eef;
-            padding: 12px; /* Reduziert von 15px */
+            padding: 12px;
             border-radius: 4px;
-            margin-bottom: 10px; /* Reduziert von 15px */
-            font-size: 14px; /* Kleiner */
+            margin-bottom: 10px;
+            font-size: 14px;
         }
         
         .explanation {
-            padding: 12px; /* Reduziert von 15px */
+            padding: 12px;
             background-color: #efe;
             border-radius: 4px;
-            margin-bottom: 15px; /* Reduziert von 20px */
-            font-size: 14px; /* Kleiner */
+            margin-bottom: 15px;
+            font-size: 14px;
         }
         
         .alternatives {
-            margin-top: 15px; /* Reduziert von 20px */
+            margin-top: 15px;
             border-top: 1px dashed #ccc;
-            padding-top: 12px; /* Reduziert von 15px */
+            padding-top: 12px;
         }
         
         .alternative-item {
-            margin-bottom: 12px; /* Reduziert von 15px */
-            padding: 8px; /* Reduziert von 10px */
+            margin-bottom: 12px;
+            padding: 8px;
             background-color: #f0f0f0;
             border-radius: 4px;
-            font-size: 14px; /* Kleiner */
+            font-size: 14px;
         }
         
         .suggestion {
-            margin-top: 8px; /* Reduziert von 10px */
-            padding: 8px; /* Reduziert von 10px */
+            margin-top: 8px;
+            padding: 8px;
             background-color: #fff3cd;
             border-radius: 4px;
-            font-size: 13px; /* Kleiner */
+            font-size: 13px;
         }
         
         .error-message {
             color: #d9534f;
             background-color: #f8d7da;
-            padding: 8px; /* Reduziert von 10px */
+            padding: 8px;
             border-radius: 4px;
-            margin: 8px 0; /* Reduziert von 10px */
-            font-size: 13px; /* Kleiner */
+            margin: 8px 0;
+            font-size: 13px;
         }
         
         .formula-explanation {
-            margin-top: 15px; /* Reduziert von 30px */
-            padding: 12px; /* Reduziert von 15px */
+            margin-top: 15px;
+            margin-bottom: 60px; /* Mehr Platz für die Navigation */
+            padding: 12px;
             background-color: #e9ecef;
             border-radius: 4px;
             border-left: 4px solid #28a745;
-            font-size: 13px; /* Eine Nummer kleiner */
-            height: 150px; /* Feste Höhe für das Erklärungsfenster */
-            overflow-y: auto; /* Scrollbar bei Bedarf */
+            font-size: 13px;
+            height: 160px; /* Größere feste Höhe für das Erklärungsfenster */
+            overflow-y: auto;
         }
         
         .formula-explanation h3 {
             margin-top: 0;
-            margin-bottom: 8px; /* Reduziert */
+            margin-bottom: 8px;
             color: #28a745;
-            font-size: 16px; /* Kleiner */
+            font-size: 16px;
         }
         
         .formula-select {
-            padding: 6px; /* Reduziert von 8px */
+            padding: 6px;
             border-radius: 4px;
             border: 1px solid #ccc;
             width: 100%;
             max-width: 300px;
-            margin-bottom: 8px; /* Reduziert von 10px */
-            font-size: 13px; /* Kleiner */
+            margin-bottom: 8px;
+            font-size: 13px;
         }
         
         .explanation-text {
-            background-color: #f8f9fa;
-            padding: 10px; /* Reduziert von 15px */
+            background-color: #e0e0e0; /* Grauton für den Erklärungstext */
+            padding: 10px;
             border-radius: 4px;
-            margin-top: 8px; /* Reduziert von 10px */
+            margin-top: 8px;
             display: none;
-            font-size: 13px; /* Kleiner */
+            font-size: 13px;
         }
         
         /* Responsives Design */
@@ -213,6 +219,10 @@
             .search-container {
                 flex-direction: column;
                 align-items: stretch;
+            }
+            
+            .navigation {
+                max-width: calc(100% - 40px);
             }
         }
     </style>
@@ -257,14 +267,15 @@
             
             <div id="explanationText" class="explanation-text"></div>
         </div>
-        
-        <div class="navigation">
-            <div class="nav-buttons">
-                <button id="firstButton">Erste Seite</button>
-                <button id="prevButton">Zurück</button>
-                <button id="nextButton">Weiter</button>
-                <button id="lastButton">Letzte Seite</button>
-            </div>
+    </div>
+    
+    <!-- Navigation außerhalb des Containers für bessere Fixierung -->
+    <div class="navigation">
+        <div class="nav-buttons">
+            <button id="firstButton">Erste Seite</button>
+            <button id="prevButton">Zurück</button>
+            <button id="nextButton">Weiter</button>
+            <button id="lastButton">Letzte Seite</button>
         </div>
     </div>
     
