@@ -86,21 +86,7 @@
             cursor: not-allowed;
         }
         
-        /* Navigationsleiste jetzt direkt unter dem Display-Bereich */
-        .navigation {
-            margin: 15px 0;
-            padding: 10px 0;
-            background-color: #f9f9f9;
-            border-radius: 8px;
-            border-left: 4px solid #007bff;
-        }
-        
-        .nav-buttons {
-            display: flex;
-            gap: 10px;
-            justify-content: center;
-        }
-        
+        /* Display-Bereich mit fester Höhe für die Erklärung */
         .display-area {
             margin: 10px 0;
             padding: 15px;
@@ -130,12 +116,15 @@
             font-size: 14px;
         }
         
+        /* Erklärungsbereich mit gleicher Farbe wie unten und fester Höhe */
         .explanation {
             padding: 12px;
-            background-color: #efe;
+            background-color: #e9ecef; /* Grauer Hintergrund wie formula-explanation */
             border-radius: 4px;
             margin-bottom: 15px;
             font-size: 14px;
+            min-height: 100px; /* Feste Mindesthöhe um Springen zu verhindern */
+            overflow-y: auto; /* Scrollbar wenn nötig */
         }
         
         .alternatives {
@@ -169,7 +158,22 @@
             font-size: 13px;
         }
         
-        /* Formel-Erklärung mit grauem Hintergrund */
+        /* Navigationsleiste mit festem Abstand */
+        .navigation {
+            margin: 15px 0;
+            padding: 10px 0;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            border-left: 4px solid #007bff;
+        }
+        
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+        }
+        
+        /* Formel-Erklärung mit gleichem Stil */
         .formula-explanation {
             margin-top: 15px;
             padding: 12px;
@@ -198,15 +202,14 @@
             font-size: 13px;
         }
         
-        /* Erklärungstext mit gleichem Hintergrund wie Umgebung */
         .explanation-text {
-            background-color: #e9ecef; /* Gleicher Grauton wie formula-explanation */
+            background-color: #e9ecef;
             padding: 10px;
             border-radius: 4px;
             margin-top: 8px;
             display: none;
             font-size: 13px;
-            border: 1px solid #ced4da; /* Leichter Rahmen für Kontrast */
+            border: 1px solid #ced4da;
         }
         
         /* Responsives Design */
