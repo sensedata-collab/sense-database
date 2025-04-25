@@ -7,8 +7,8 @@ Begründung: Im handwerklichen Kontext bedeutet abarbeiten, durch aktive Bewegun
 abarbeiten: Material/Office 4/Goal 2//Goal 4/het/ecc
 Begründung: Im Bürokontext bedeutet abarbeiten, eine Leistung (4) zu erbringen, um einen gewünschten Zustand (Goal 2) zu erreichen, letztlich mit dem Ziel der beruflichen Anerkennung (Goal 4). Die Tätigkeit erfolgt meist nach Vorgaben (heteronom).. Heteronom/Exzentrisch.
 
-abbauen: Material/Mining 3/Goal 2/aut/ecc
-Begründung: Im Bergbaukontext bedeutet 'abbauen' das gezielte Bewegen und Lösen (3) von Rohstoffen oder Mineralien aus ihrer natürlichen Lagerstätte, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich den Rohstoff zu gewinnen. Diese Tätigkeit ist autonom (aut) und wird nach außen gerichtet ausgeführt (ecc), da der Akteur aktiv in die Umwelt eingreift.. Autonom/Exzentrisch.
+abbauen: Material/Mining 3/1/Goal 2/aut/ecc
+Begründung: Im Bergbaukontext bedeutet 'abbauen' das gezielte Bewegen und Lösen (3) von Rohstoffen oder Mineralien aus ihrer natürlichen Lagerstätte,  die man dadurch bekommt (1), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich den Rohstoff zu gewinnen. Diese Tätigkeit ist autonom (aut) und wird nach außen gerichtet ausgeführt (ecc), da der Akteur aktiv in die Umwelt eingreift.. Autonom/Exzentrisch.
 
 abbauen: Material/Professions/Construction 3/Goal 2/aut/ecc
 Begründung: Im Baugewerbe bedeutet 'abbauen' das Demontieren oder Entfernen (3) von Strukturen, Gerüsten oder Bauelementen, um einen neuen gewünschten Zustand (Goal 2) zu erreichen. Dies ist eine autonome (aut) und nach außen gerichtete (ecc) Aktivität.. Autonom/Exzentrisch.
@@ -121,7 +121,7 @@ Begründung: Im allgemeinen Geschäftskontext kann 'abbuchen' auch bedeuten, das
 abbürsten: Material/Cleanliness 3/Goal 2/aut/ecc
 Begründung: Das Verb 'abbürsten' beschreibt eine reinigende Bewegung (3), bei der mit einer Bürste Schmutz, Staub oder andere Partikel von einer Oberfläche entfernt werden, um einen sauberen Zustand (Goal 2) herzustellen. Diese Aktivität wird selbstbestimmt (aut) und nach außen gerichtet auf ein Objekt (ecc) ausgeführt.. Autonom/Exzentrisch.
 
-abbürsten: Material/Animals/commercial 3/Goal 2/Goal 4/aut/ecc
+abbürsten: Material/Animals/Commercial 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im Kontext der Tierpflege bedeutet 'abbürsten' das Pflegen eines Tierfells durch Bürsten (3), um einen gewünschten Zustand der Fellpflege zu erreichen (Goal 2) mit dem beruflichen Ziel der Tierpflege (Goal 4).. Autonom/Exzentrisch.
 
 abbürsten: Material/Fight/Dispute/Interpersonal 3/4/5//Goal 3/aut/ecc
@@ -506,7 +506,7 @@ abhängig machen: Material/Criminal/Activities 2/3/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: Im kriminellen Kontext bedeutet 'abhängig machen', dass der Akteur bestimmt (2), durch Anstreben (3) und Geben von Substanzen (4/1), einen Zustand herstellt, in dem der Antagonist von diesen abhängig wird (Goal -2) bei gleichzeitigem gewünschtem Zustand des Akteurs (Goal 2), etwa bei Drogenhandel.. Autonom/Exzentrisch.
 
 abhängig machen: Interpersonal/Psychological ADJ 2/3/Goal 2/aut/ecc
-Begründung: Psychologisch betrachtet ist 'abhängig machen' ein dominierendes Verhalten, das die Autonomie einer anderen Person einschränkt. Es zeigt sich in einer manipulativen Haltung (ADJ 2/3), bei der der Akteur bewusst einen Zustand herbeiführt (Goal 2), in dem der Antagonist seine Selbstständigkeit verliert und vom Akteur abhängig wird.. Autonom/Exzentrisch.
+Begründung: Psychologisch betrachtet ist 'abhängig machen' ein dominierendes Verhalten, das die Autonomie einer anderen Person einschränkt. Es zeigt sich in einer manipulativen (2/3), Haltung bei der der Akteur bewusst einen Zustand herbeiführt (Goal 2), in dem der Antagonist seine Selbstständigkeit verliert und vom Akteur abhängig wird.. Autonom/Exzentrisch.
 
 abhören: Material/IT/Security 5/3/Goal 5/het/ecc
 Begründung: Im IT-Sicherheitskontext bedeutet 'abhören' das Informieren (5) durch aktives Abfangen/Bewegen (3) von Daten mit dem Ziel, Informationen zu gewinnen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Signalen richten muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -532,9 +532,6 @@ Begründung: Eine Kante an einem Werkstück umbiegen oder durch Bearbeitung eine
 abkanten: Material/Machine-System 2/3/Goal 2/aut/ecc
 Begründung: Bedienung einer Kantbank oder Abkantpresse, wobei die Verfügung über die Maschine (2) und deren Bewegung (3) zum Ziel führt, eine präzise Kante zu formen (Goal 2).. Autonom/Exzentrisch.
 
-abkanzeln: Interpersonal/Psychological/Fight 2/3/5/Goal 3/Goal 2/aut/ecc
-Begründung: Abkanzeln bedeutet, jemanden von einer überlegenen Position aus zu kritisieren oder zurechtzuweisen. Der Akteur bestimmt (2) mit einer gezielten Bewegung auf den Antagonisten zu (3) und mit Kontakt (5), um eine Wirkung zu erzielen (Goal 3) und letztlich eine Machtposition zu demonstrieren (Goal 2). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Aktion nach außen auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
-
 abkanzeln: Material/Fight/Dispute/Interpersonal 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In einem formelleren Kontext kann abkanzeln auch bedeuten, dass eine Autoritätsperson (2) eine Leistung für den Antagonisten gibt (4/1), indem sie kritische Informationen mitteilt (5), die darauf abzielen, einen von diesem unerwünschten Zustand beim Antagonisten zu erzeugen (Goal -2), während das Endziel des Akteurs die Wiederherstellung seiner Autorität oder Ordnung ist (Goal 2).. Autonom/Exzentrisch.
 
@@ -546,4 +543,1073 @@ Begründung: Im psychologischen Kontext bedeutet 'sich abkapseln', dass jemand s
 
 abkapseln: Material/Medical 3/2/Goal 2/het/ecc
 Begründung: Im medizinischen Kontext beschreibt 'abkapseln' einen körperlichen Prozess, bei dem der Organismus schädliche Substanzen oder Fremdkörper isoliert, indem er sie mit Bindegewebe umschließt. Es handelt sich um eine Bewegung (3) zur Kontrolle/Verfügung (2) über einen Fremdkörper, um einen gewünschten Zustand (Goal 2) der Isolation zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Prozess auf externe Reize reagiert.. Heteronom/Exzentrisch.
+
+abkassieren: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/con
+Begründung: Abkassieren bedeutet, dass ein Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Geld vom Antagonisten erhält/bekommt (1), um einen gewünschten Zustand herbeizuführen (Goal 2), wobei das Endziel des Akteurs die geschäftliche Anerkennung/Vergütung ist (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt im eigenen Einflussbereich handelt.. Autonom/Konzentrisch.
+
+abkassieren: Material/Criminal/Activities 3/1/Goal 2/aut/ecc
+Begründung: Im umgangssprachlichen oder negativen Sinne kann 'abkassieren' auch bedeuten, jemanden übermäßig oder betrügerisch zur Kasse zu bitten. Hier bewegt sich der Akteur aktiv (3) auf den Antagonisten zu, um etwas zu bekommen (1), mit dem Ziel, einen für sich vorteilhaften Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abkleben: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Beim Abkleben führt der Akteur eine autonome, nach außen gerichtete Bewegung (3) aus, um einen gewünschten Zustand (Goal 2) herzustellen - typischerweise das Schützen von Oberflächen vor Verschmutzung oder das Abgrenzen bestimmter Bereiche durch Anbringen von Klebeband.. Autonom/Exzentrisch.
+
+abkleben: Material/Protection 3/Goal 2/Goal 3/aut/ecc
+Begründung: Als Schutzmaßnahme beinhaltet Abkleben das Bewegen (3) von Klebeband, um einen gewünschten Zustand der Abdeckung herzustellen (Goal 2) mit dem höheren Ziel, eine Wirkung zu verhindern (Goal 3) - beispielsweise beim Schutz vor Farbe oder anderen Substanzen.. Autonom/Exzentrisch.
+
+abklemmen: Material/Electrical 2/3/Goal 2/aut/ecc
+Begründung: Beim Abklemmen werden elektrische Verbindungen getrennt, indem der Akteur bestimmt (2) eine Bewegung ausführt (3), um einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf ein Objekt in seinem Außenbereich einwirkt.. Autonom/Exzentrisch.
+
+abklemmen: Material/IT 2/3/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet Abklemmen das Trennen einer Verbindung zu einem Gerät oder Netzwerk, wobei der Akteur bestimmt (2) eine trennende Handlung ausführt (3), um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abklemmen: Material/Plumbing 2/3/Goal 2/aut/ecc
+Begründung: In der Installationstechnik bezeichnet Abklemmen das Trennen von Rohren oder Leitungen, wobei der Akteur bestimmt (2) eine Trennbewegung ausführt (3), um einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abklopfen: Material/Measurement 3/5/Goal 5/het/ecc
+Begründung: Das Abklopfen im allgemeinen Sinne bedeutet, mit Bewegungen (3) Informationen (5) über ein Objekt zu gewinnen, um Kenntnisse über dessen Beschaffenheit zu erlangen (Goal 5). Die Ausrichtung ist heteronom und exzentrisch, da man sich bei der Untersuchung an die Eigenschaften des Objekts anpassen muss.. Heteronom/Exzentrisch.
+
+abklopfen: Material/Medical 3/5/Goal 5/het/ecc
+Begründung: Im medizinischen Kontext bedeutet Abklopfen (Perkussion), dass ein Arzt durch systematisches Klopfen auf den Körper Informationen über den Zustand innerer Organe gewinnt.. Heteronom/Exzentrisch.
+
+abklopfen: Material/Security 3/5/Goal 5/het/ecc
+Begründung: Im Sicherheitskontext bedeutet Abklopfen das Abtasten/Untersuchen einer Person oder eines Gegenstands, um verborgene Objekte (wie Waffen oder Schmuggelware) zu entdecken.. Heteronom/Exzentrisch.
+
+abklopfen: Material/Professions/Construction 3/5/Goal 5/het/ecc
+Begründung: Im Bauwesen bedeutet Abklopfen das Prüfen einer Oberfläche (z.B. Putz, Fliesen) durch Klopfen, um Hohlstellen oder schadhafte Bereiche zu identifizieren.. Heteronom/Exzentrisch.
+
+abklären: Material/Scientific 3/5/Goal 5/het/ecc
+Begründung: Abklären bedeutet, einen Sachverhalt zu untersuchen (3/5), um Klarheit darüber zu gewinnen und informiert zu sein (Goal 5). Die Tätigkeit ist heteronym und exzentrisch ausgerichtet (het/ecc), da man sich an die zu untersuchenden Fakten anpassen muss und nach außen auf den Untersuchungsgegenstand gerichtet ist.. Heteronom/Exzentrisch.
+
+abklären: Material/Medical 3/5/Goal 5/Goal 2/het/ecc
+Begründung: Im medizinischen Kontext bedeutet abklären, diagnostische Untersuchungen durchzuführen (3/5), um Informationen zu gewinnen (Goal 5) mit dem übergeordneten Ziel, einen gewünschten Zustand (z.B. Behandlungsplan) zu erstellen (Goal 2).. Heteronom/Exzentrisch.
+
+abklären: Material/Chemical 3/Goal 2/het/ecc
+Begründung: In der Chemie bedeutet abklären, dass sich Schwebstoffe in einer Flüssigkeit absetzen und die Flüssigkeit klar wird. Es handelt sich um eine Bewegung (3) zur Erreichung eines gewünschten Zustands (Goal 2).. Heteronom/Exzentrisch.
+
+abknallen: Material/Fight/Aggression 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Abknallen bedeutet mit einer Schusswaffe auf jemanden zu schießen und zu töten. Es beinhaltet eine Bewegung/Anstreben (3) mit dem Bekommen (1) einer tödlichen Wirkung (Goal 3), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da die Handlung selbstbestimmt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+abknallen: Fight/Aggression 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: In einem reinen Kampfkontext bezeichnet abknallen das gewaltsame Ausschalten eines Gegners durch Schusswaffen, mit dem Ziel, durch die Waffenwirkung (Goal 3) den Kampf zu gewinnen (Goal 2).. Autonom/Exzentrisch.
+
+abkommandieren: Material/Military 2/4/3/Goal 2//Goal 4/aut/con
+Begründung: Abkommandieren bedeutet, dass eine Autoritätsperson (2) die Leistung (4) eines Untergebenen anordnet, der sich zu einem anderen Ort begeben soll (3), um dort einen gewünschten Zustand herzustellen (Goal 2). Dies geschieht im militärischen oder dienstlichen Kontext und dient letztlich der beruflichen Anerkennung des Anordnenden (Goal 4). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Befehlsgeber aus seiner Position heraus Kontrolle über die Situation ausübt.. Autonom/Konzentrisch.
+
+abkommandieren: Material/Authorities 2/4/3/Goal 2//Goal 4/aut/con
+Begründung: Im behördlichen oder administrativen Kontext bedeutet abkommandieren, dass eine Person mit Verfügungsgewalt (2) anordnet, dass jemand eine Leistung (4) an einem anderen Ort (3) erbringen soll, um einen bestimmten Zustand zu erreichen (Goal 2). Dies geschieht im Rahmen der beruflichen Tätigkeit des Anordnenden (Goal 4).. Autonom/Konzentrisch.
+
+abkoppeln: Material/Transportation 2/3/Goal 2/aut/ecc
+Begründung: Abkoppeln bedeutet, eine bestehende Verbindung zwischen Transportelementen zu lösen (2 = bestimmen/verfügen über) durch eine Bewegung (3), um einen gewünschten Zustand (Goal 2) herzustellen, nämlich die Trennung. Die Handlung ist selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+abkoppeln: Material/IT 2/3/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet abkoppeln, eine bestehende Verbindung zwischen Systemen oder Komponenten zu trennen, z.B. ein Gerät vom Netzwerk zu trennen. Es beinhaltet das Bestimmen (2) über eine technische Aktion (3), um einen neuen Zustand (Goal 2) der Trennung herzustellen.. Autonom/Exzentrisch.
+
+abkoppeln: Material/Electrical 2/3/Goal 2/aut/ecc
+Begründung: In der Elektrotechnik bedeutet abkoppeln das Trennen einer elektrischen Verbindung durch eine Verfügungshandlung (2) mit Bewegung (3), um einen getrennten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+abkühlen: Material/Physical 3/Goal 2/het/ecc
+Begründung: Die Tätigkeit 'abkühlen' beschreibt eine Bewegung/Transformation (3) mit dem Ziel, einen niedrigeren Temperaturzustand zu erreichen (Goal 2). Es ist heteronomer Natur (het), da der Prozess von natürlichen thermodynamischen Gesetzen abhängt und nach außen gerichtet (ecc), weil Wärme an die Umgebung abgegeben wird.. Heteronom/Exzentrisch.
+
+abkühlen: Material/Heating-System 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext von Heizungs- oder Kühlsystemen bedeutet 'abkühlen' das bewusste Steuern (2) einer Bewegung/Transformation (3), um einen kühleren Zustand zu erreichen (Goal 2), wobei der Akteur autonom eingreift (aut) und die Wirkung nach außen gerichtet ist (ecc).. Autonom/Exzentrisch.
+
+abkühlen: Interpersonal/Psychological 3/Goal -3/het/con
+Begründung: Im psychologischen Kontext bedeutet 'abkühlen' eine emotionale Bewegung (3) mit dem Ziel, die Intensität einer Emotion zu verringern (Goal -3), wobei dies oft heteronomer Natur ist (het) und im innerpsychischen Bereich stattfindet (con).. Heteronom/Konzentrisch.
+
+abkühlen: Material/Food 3/Goal 2/het/ecc
+Begründung: Im Kontext der Nahrungszubereitung bezeichnet 'abkühlen' das Reduzieren der Temperatur von Speisen oder Getränken (3) mit dem Ziel, einen niedrigeren, verzehrbaren Temperaturzustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
+abladen: Material/Transportation 2/3/1/Goal 2/aut/ecc
+Begründung: Abladen bedeutet, dass der Akteur kontrolliert (2) bewegend (3) etwas aus seinem Besitz gibt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc), da er aktiv die Ladung von einem Transportmittel entfernt.. Autonom/Exzentrisch.
+
+abladen: Material/Waste-Disposal 2/3/1/Goal 2/aut/ecc
+Begründung: Im Kontext der Abfallentsorgung bedeutet abladen das kontrollierte (2) Bewegen (3) und Abgeben (1) von Müll oder Abfall, um einen entsorgten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abladen: Interpersonal/Psychological 4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im psychologischen Sinne bedeutet 'abladen' (z.B. Probleme auf jemanden abladen), eine Leistung zu erbringen (4) durch Geben (1) von Informationen (5), die für den Antagonisten belastend sein können (Goal -2), mit dem Ziel einen entlasteten Zustand für sich selbst zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+ablassen: Material 2/3/Goal 2/aut/ecc
+Begründung: Ablassen bedeutet, eine Flüssigkeit oder ein Medium durch bestimmtes Handeln (2) und Bewegung (3) gezielt abfließen zu lassen, um einen gewünschten Zustand zu erreichen (Goal 2). Ich habe die Kontrolle über den Vorgang (aut) und wirke nach außen (ecc).. Autonom/Exzentrisch.
+
+ablassen: Material/Fight/Dispute 2/Goal -3//Goal 2/aut/ecc
+Begründung: In der Bedeutung 'von etwas ablassen' im Sinne von aufhören/aufgeben bestimmt der Akteur (2), eine Wirkung nicht mehr anzustreben (Goal -3), um einen gewünschten Zustand für sich selbst (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
+ablassen: Material/Fluids 2/1/Goal 2/aut/ecc
+Begründung: In der technischen Bedeutung, besonders bei Druck oder Gasen, bedeutet ablassen, dass der Akteur bestimmt (2), etwas abzugeben/freizusetzen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur kontrolliert den Vorgang (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
+ablaufen: Material/Time 3/Goal 3/het/ecc
+Begründung: In der zeitlichen Bedeutung bedeutet 'ablaufen' das Voranschreiten (3) eines Prozesses oder einer Frist, wobei eine bestimmte Zeitspanne erreicht wird (Goal 3). Die heteronome und exzentrische Ausrichtung (het/ecc) zeigt an, dass der Zeitablauf von äußeren Faktoren bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+ablaufen: Material/Physical 3/Goal 3/aut/ecc
+Begründung: Im physischen Sinne bedeutet 'ablaufen' das selbstbestimmte Bewegen (3) mit dem Ziel, eine bestimmte Strecke zurückzulegen oder einen Ort zu erreichen (Goal 3). Die autonome und exzentrische Ausrichtung (aut/ecc) zeigt an, dass die Bewegung selbstbestimmt ist und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+ablaufen: Material/Fluids 3/Goal 3/het/ecc
+Begründung: Im Kontext von Flüssigkeiten bedeutet 'ablaufen' das Wegfließen (3) einer Flüssigkeit mit dem Ziel einer Destination (Goal 3). Die heteronome und exzentrische Ausrichtung (het/ecc) zeigt an, dass die Bewegung der Flüssigkeit von äußeren Faktoren wie der Schwerkraft bestimmt wird.. Heteronom/Exzentrisch.
+
+ablauschen: Material/Security 3/5/Goal 5/het/ecc
+Begründung: Ablauschen bedeutet, durch gezieltes Anstreben (3) von Informationen (5) jemanden heimlich zu belauschen oder zu überwachen, um Informationen zu gewinnen (Goal 5). Die Aktivität ist heteronom und exzentrisch (het/ecc), da man sich nach den äußeren Bedingungen und dem Verhalten des Abgehörten richten muss.. Heteronom/Exzentrisch.
+
+ablauschen: Material/Criminal/IT 3/5/Goal 5/het/ecc
+Begründung: Im Kontext digitaler Überwachung bezeichnet 'ablauschen' das gezielte Abfangen (3) von Daten oder Kommunikation (5), um an Informationen zu gelangen (Goal 5), typischerweise in einem illegalen oder geheimdienstlichen Kontext.. Heteronom/Exzentrisch.
+
+ablegen: Material/Tidiness 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt über/verfügt über (2) etwas und bewegt/transformiert es (3), um einen gewünschten Zustand herzustellen (Goal 2), nämlich das ordentliche Verwahren von Gegenständen. Typischerweise ist der Vorgang autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und Gegenstände von sich weg an einen Aufbewahrungsort bewegt.. Autonom/Exzentrisch.
+
+ablegen: Material/Office 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Im Bürokontext bedeutet 'ablegen' das Einordnen von Dokumenten in ein Ablagesystem. Der Akteur verfügt über die Dokumente (2), bewegt sie (3) und ordnet sie als Informationsträger (5) ein, mit dem Ziel, dass die Informationen verfügbar bleiben (Goal 5) und ein geordneter Zustand hergestellt wird (Goal 2).. Autonom/Exzentrisch.
+
+ablegen: Material/Clothing 3/2/Goal 2/aut/con
+Begründung: Bei Kleidung bedeutet 'ablegen' das Ausziehen. Der Akteur bewegt (3) die Kleidungsstücke vom Körper und verfügt dann über sie (2), um einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/konzentrisch (aut/con), da die Bewegung am eigenen Körper erfolgt.. Autonom/Konzentrisch.
+
+ablegen: Material/Education 4/5/Goal 5//Goal 4/het/ecc
+Begründung: Im Bildungskontext bedeutet 'ablegen' das Absolvieren einer Prüfung. Der Akteur erbringt eine Leistung (4) im Informationsbereich (5), um Wissen nachzuweisen (Goal 5), mit dem übergeordneten Ziel, Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da man sich an externe Anforderungen anpassen muss.. Heteronom/Exzentrisch.
+
+ablehnen: Material/Accept NOT/2/4/2/Goal 2/Goal 5/aut/ecc
+Begründung: Ablehnen bedeutet, dass der Akteur bestimmt (2), eine Leistung (4) für den Antagonisten zu verweigern (NOT), was die Übertragung von Verfügungsgewalt (2) betrifft. Das Ziel ist, einen gewünschten Zustand für den Akteur herzustellen (Goal 2) und gleichzeitig eine klare Information zu vermitteln (Goal 5). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt die Ablehnung kommuniziert.. Autonom/Exzentrisch.
+
+ablehnen: Material/Fight/Dispute 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im Kontext von Auseinandersetzungen bedeutet Ablehnen, dass der Akteur bestimmt (2) und eine Leistung (4) verweigert, die zum Nicht-Erreichen des gewünschten Zustands für den Antagonisten führt (Goal -2), während der Akteur seinen eigenen gewünschten Zustand durchsetzt (Goal 2).. Autonom/Exzentrisch.
+
+ablehnen: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich kann Ablehnen bedeuten, dass der Akteur eine aktive Bewegung (3) vollzieht, um Distanz zu schaffen (Goal -1 als Gegensatz zu Nähe). Dies ist typisch bei persönlichen Zurückweisungen oder Abgrenzungen.. Autonom/Exzentrisch.
+
+ableiten: Material/Scientific 3/5/Goal 5/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet 'ableiten' das Bewegen/Anstreben (3) von Informationen (5), um neue Erkenntnisse zu gewinnen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach äußeren Gegebenheiten richten muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+ableiten: Material/Fluids 3/Goal 3/aut/ecc
+Begründung: Im Kontext von Flüssigkeiten bedeutet 'ableiten' das Bewegen/Umleiten (3) mit dem Ziel, eine bestimmte Destination/Wirkung zu erreichen (Goal 3), wie bei der Umleitung von Wasser oder anderen Flüssigkeiten.. Autonom/Exzentrisch.
+
+ableiten: Material/Electrical 3/Goal 3/aut/ecc
+Begründung: Im elektrischen Kontext bedeutet 'ableiten' das Umleiten von Strom (3) zu einem bestimmten Ziel/einer Wirkung (Goal 3), z.B. in die Erde bei einer Erdung.. Autonom/Exzentrisch.
+
+ablenken: Material/Navigation 2/3/Goal -3/het/ecc
+Begründung: Im Kontext Navigation bedeutet 'ablenken' das Verfügen (2) über eine Bewegung (3), um eine Richtungsänderung zu verursachen, was dazu führt, dass ein ursprüngliches Ziel nicht erreicht wird (Goal -3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an äußere Gegebenheiten anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+ablenken: Material/Psychological 3/5/Goal -5/aut/ecc
+Begründung: In psychologischer Hinsicht bedeutet 'ablenken' eine aktive Bewegung (3) der Aufmerksamkeit von Informationen weg (5), um das Ziel des Informiertseins zu verhindern (Goal -5). Dies geschieht selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+ablenken: Interpersonal 3/5/Goal -5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'ablenken' jemanden durch eigene Aktion (3) vom Kontakt mit einer Information oder Person wegzuführen (5), um Aufmerksamkeit/Kontakt auf etwas anderes zu lenken (Goal -5). Die Handlung ist selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+ablenken: Fight/Dispute 3/Goal -3/Goal 2/aut/ecc
+Begründung: In einer Auseinandersetzung bedeutet 'ablenken' durch eine Bewegung (3) die Wirkung des Gegners zu verhindern (Goal -3), um einen eigenen vorteilhaften Zustand zu erreichen (Goal 2). Die Handlung erfolgt selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+abliefern: Material/Transportation 4/3/1/Goal 2//Goal 4/het/ecc
+Begründung: Abliefern bedeutet eine Leistung erbringen (4), indem man etwas transportiert/bewegt (3) und übergibt (1), damit der Empfänger darüber verfügen kann (Goal 2), mit dem Endziel der beruflichen Anerkennung/Vergütung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Vorgaben anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+abliefern: Material/Business 4/1/2/Goal 2//Goal 4/het/ecc
+Begründung: Im geschäftlichen Kontext kann abliefern auch bedeuten, eine Leistung zu erbringen (4), indem man etwas übergibt (1) zur Verfügung des Empfängers (2), damit dieser den gewünschten Zustand erreicht (Goal 2), mit dem Endziel der beruflichen Anerkennung/Vergütung (Goal 4).. Heteronom/Exzentrisch.
+
+abliefern: Material/Professional 4/1/Goal 2//Goal 4/het/ecc
+Begründung: Im beruflichen Kontext kann abliefern auch bedeuten, ein Arbeitsergebnis zu übergeben (4/1), damit der Empfänger über das Ergebnis verfügen kann (Goal 2), mit dem Endziel der beruflichen Anerkennung/Vergütung (Goal 4).. Heteronom/Exzentrisch.
+
+ablängen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Ablängen bedeutet das Kürzen von Material (z.B. Holz, Metall) auf ein bestimmtes Maß. Es beinhaltet eine Bewegung/Bearbeitung (3) eines Objekts, um einen gewünschten Zustand (Goal 2) herzustellen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein Objekt im Außenbereich einwirkt.. Autonom/Exzentrisch.
+
+ablängen: Material/Measurement 3/5/Goal 2/het/ecc
+Begründung: Im Kontext von Vermessung kann ablängen auch das Ermitteln und Markieren einer bestimmten Länge bedeuten. Hier kommt die Informationskomponente (5) hinzu, da nach vorgegebenen Maßen (het) gearbeitet wird, um eine bestimmte Länge präzise festzulegen.. Heteronom/Exzentrisch.
+
+ablösen: Material/Professional 4/2/Goal 2//Goal 4/het/ecc
+Begründung: Im beruflichen Kontext bedeutet 'ablösen', dass eine Person eine Leistung erbringt (4), indem sie die Kontrolle/Verantwortung übernimmt (2), damit ein gewünschter Zustand (Arbeitsschichtwechsel) erreicht wird (Goal 2), mit dem Endziel der beruflichen Anerkennung/Vergütung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, weil sich der Akteur an externe Bedingungen anpassen muss.. Heteronom/Exzentrisch.
+
+ablösen: Material/Financial-Transactions 2/4/1/Goal 2/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet 'ablösen' (z.B. einen Kredit), dass der Akteur bestimmt (2), eine Zahlung zu leisten (4/1), um einen gewünschten Zustand (Schuldenfreiheit) zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Entscheidung zum Ablösen selbst trifft.. Autonom/Exzentrisch.
+
+ablösen: Material/House/Building 3/Goal 2/aut/ecc
+Begründung: Im baulichen Kontext bedeutet 'ablösen' (z.B. Tapete), dass durch Bewegung/Anstreben (3) ein gewünschter Zustand (Entfernung) erreicht wird (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Handlung selbstbestimmt ausführt.. Autonom/Exzentrisch.
+
+ablösen: Material/Military 2/4/3/Goal 2//Goal 4/aut/ecc
+Begründung: Im militärischen Kontext bedeutet 'ablösen' (z.B. eine Einheit), dass eine Befehlsgewalt (2) ausgeübt wird, um eine Leistung (4) durch Bewegung von Truppen (3) zu erbringen, mit dem Ziel eines gewünschten Zustands (Goal 2) und letztlich dienstlicher Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+ablöten: Material/Electrical 3/Goal 2/aut/ecc
+Begründung: Ablöten bedeutet das entfernen einer Lötverbindung durch gezieltes Bewegen/Anstreben (3) mit dem Ziel, einen gewünschten Zustand herzustellen (Goal 2), nämlich die Trennung der gelöteten Verbindung. Es handelt sich um eine selbstbestimmte, nach außen gerichtete Aktivität (aut/ecc).. Autonom/Exzentrisch.
+
+abmachen: Material/Contracts 3/2/Goal 2/aut/ecc
+Begründung: Im Sinne von 'vereinbaren' bedeutet 'abmachen' das aktive Bewegen/Anstreben (3) einer Verfügung/Festlegung (2), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da er mit einem Antagonisten eine Übereinkunft erzielt.. Autonom/Exzentrisch.
+
+abmachen: Material 3/1/Goal 2/aut/ecc
+Begründung: Im Sinne von 'entfernen/ablösen' bedeutet 'abmachen' das Bewegen (3) und Nehmen (1) eines Objekts, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+abmachen: Interpersonal/Social 3/2/5/Goal 5/aut/ecc
+Begründung: Im Sinne von 'sich verabreden' bedeutet 'abmachen' das Bewegen/Anstreben (3) und Bestimmen (2) von Kontaktaufnahme (5), um einen Kontakt (Goal 5) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+abmahnen: Material/Law/Civil 2/4/1/5/Goal -2//Goal 4/aut/ecc
+Begründung: Abmahnen bedeutet im rechtlichen Kontext das Bestimmen (2) einer Leistung für einen Antagonisten (4), bei der eine Information (5) gegeben wird (1), mit dem Ziel, einen unerwünschten Zustand (Goal -2) zu korrigieren. Diese Tätigkeit wird autonom und nach außen gerichtet (aut/ecc) durchgeführt, typischerweise im beruflichen Kontext, weshalb sie mit Goal 4 endet.. Autonom/Exzentrisch.
+
+abmahnen: Material/Business 2/4/1/5/Goal -2//Goal 4/aut/ecc
+Begründung: Im Unternehmenskontext bedeutet abmahnen, dass ein Vorgesetzter bestimmt (2), einem Mitarbeiter eine formelle Warnung zu geben (4/1/5), die auf Fehlverhalten hinweist und einen unerwünschten Zustand beenden soll (Goal -2), mit dem beruflichen Ziel der ordnungsgemäßen Betriebsführung (Goal 4).. Autonom/Exzentrisch.
+
+abmalen: Material/Art 3/5/Goal 5/aut/ecc
+Begründung: Abmalen bedeutet, etwas zu kopieren, indem man es durch Bewegung/Anstreben (3) mit Informationsgewinnung (5) reproduziert, um eine informative Abbildung zu erhalten (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf ein Objekt gerichtet arbeitet.. Autonom/Exzentrisch.
+
+abmalen: Interpersonal/Art-Action 3/5/Goal 5/Goal 3/aut/ecc
+Begründung: Im künstlerischen Kontext kann abmalen auch bedeuten, durch Bewegung (3) und Informationsaufnahme (5) nicht nur eine Abbildung zu schaffen (Goal 5), sondern auch eine ästhetische Wirkung zu erzielen (Goal 3), wenn der Fokus auf dem künstlerischen Ausdruck liegt.. Autonom/Exzentrisch.
+
+abmessen: Material/Measurement 3/5/Goal 5/Goal 2/het/ecc
+Begründung: Abmessen bedeutet, mit Bewegung (3) Informationen zu ermitteln (5), um informiert zu sein (Goal 5) mit dem übergeordneten Ziel, einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da man sich beim Messen an externen Maßstäben orientieren muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+abmessen: Material/Scientific 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Im wissenschaftlichen Kontext beinhaltet Abmessen zusätzlich eine Komponente der Präzision und Verfügung über die Daten (2), um genaue Informationen zu gewinnen (Goal 5) für einen bestimmten Forschungszweck (Goal 2).. Heteronom/Exzentrisch.
+
+abmildern: Material 2/3/Goal -3/aut/con
+Begründung: Abmildern bedeutet, dass der Akteur kontrollierend (2) auf etwas einwirkt und durch Maßnahmen (3) die Intensität oder Wirkung einer Sache reduziert (Goal -3). Dies geschieht selbstbestimmt (aut) im eigenen Kontrollbereich (con). Die Handlung vermindert die Wirkung eines Zustands oder Vorgangs, ohne ihn vollständig zu beseitigen.. Autonom/Konzentrisch.
+
+abmildern: Material/Diplomatic 2/3/Goal -3/Goal 2/aut/ecc
+Begründung: Im diplomatischen Kontext bedeutet abmildern, dass der Akteur bestimmend (2) durch gezielte Bemühungen (3) die negative Wirkung einer Situation reduziert (Goal -3), um einen gewünschten Zustand der Entspannung herzustellen (Goal 2). Die Handlung ist nach außen gerichtet (ecc), da sie zwischenstaatliche Beziehungen betrifft.. Autonom/Exzentrisch.
+
+abmildern: Material/Fight/Dispute 2/3/Goal -3/Goal 2/aut/ecc
+Begründung: In einem Konfliktkontext bedeutet abmildern, dass der Akteur kontrollierend (2) durch vermittelnde Maßnahmen (3) die Intensität einer Auseinandersetzung reduziert (Goal -3), um einen friedlicheren Zustand zu erreichen (Goal 2). Die Handlung richtet sich auf die Entschärfung von Konfliktpotential nach außen (ecc).. Autonom/Exzentrisch.
+
+abmontieren: Material/Professions/Construction 3/1/Goal 2/aut/ecc
+Begründung: Abmontieren bedeutet, etwas Angebautes/Befestigtes durch Bewegung (3) zu nehmen (1), um einen gewünschten Zustand (Goal 2) herzustellen. Der Vorgang erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da ein am Objekt befestigtes Teil entfernt wird.. Autonom/Exzentrisch.
+
+abmontieren: Material/Machine-System 3/1/Goal 2/aut/ecc
+Begründung: Im Kontext von Maschinen oder technischen Systemen bedeutet abmontieren das gezielte Entfernen von Komponenten durch Bewegung (3) und Wegnehmen (1), um einen gewünschten Systemzustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
+
+abmühen: Material/Professions 3/Goal 2/het/ecc
+Begründung: Abmühen bezeichnet eine intensive Bewegung/Anstrengung (3) mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2). Die heteronome Ausrichtung (het) zeigt, dass der Akteur sich an äußere Widerstände anpassen muss, und die exzentrische Orientierung (ecc) verdeutlicht die nach außen gerichtete Bewegung zur Überwindung von Hindernissen.. Heteronom/Exzentrisch.
+
+abmühen: Interpersonal/Psychological 3/Goal 2/Goal -4/het/ecc
+Begründung: Im psychologischen Kontext bedeutet 'abmühen' eine intensive Anstrengung (3) zur Erreichung eines Zustands (Goal 2), wobei trotz Bemühung oft keine angemessene Anerkennung erfolgt (Goal -4), was eine psychologische Komponente des 'sich vergeblich Bemühens' ausdrückt.. Heteronom/Exzentrisch.
+
+abnabeln: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Abnabeln beschreibt den Prozess der Loslösung (3 = Bewegung) mit dem Ziel, Distanz herzustellen statt Nähe (Goal -1), was autonom und nach außen gerichtet erfolgt. Es handelt sich um einen selbstbestimmten Vorgang, bei dem sich eine Person von einer anderen entfernt oder unabhängig macht, etwa im Kontext der Ablösung von Eltern.. Autonom/Exzentrisch.
+
+abnabeln: Material/Baby 3/1/Goal 2/aut/ecc
+Begründung: Im medizinischen/biologischen Kontext bezieht sich 'abnabeln' auf das physische Durchtrennen der Nabelschnur nach der Geburt. Dabei erfolgt eine Bewegung (3), die das Bekommen (1) eines eigenständigen Zustands (Goal 2) bewirkt. Dies ist ein autonomer, nach außen gerichteter Vorgang.. Autonom/Exzentrisch.
+
+abnagen: Material/Food 2/3/1/Goal 1/aut/ecc
+Begründung: Das Verb 'abnagen' beschreibt einen Essvorgang, bei dem etwas mit den Zähnen abgenagt wird. Der Akteur verfügt über etwas (2), bewegt dabei seine Zähne/seinen Mund (3), um Nahrung zu bekommen (1), mit dem Ziel der Sättigung/Befriedigung (Goal 1). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf ein Objekt außerhalb einwirkt.. Autonom/Exzentrisch.
+
+abnagen: Material/Animal 2/3/1/Goal 1/aut/ecc
+Begründung: Im Kontext von Tierverhalten beschreibt 'abnagen' das Verhalten eines Tieres, das mit seinen Zähnen Nahrung von etwas abnagt, wie zum Beispiel ein Nagetier, das an einem Knochen oder Holz nagt. Die Kodierung bleibt gleich, aber der Kontext ist ein anderer.. Autonom/Exzentrisch.
+
+abnehmen: Material/Medical 3/Goal 2/aut/ecc
+Begründung: Das Reduzieren des Körpergewichts durch gezielte Maßnahmen beinhaltet eine aktive Bewegung/Anstreben (3) mit dem Ziel, einen gewünschten Zustand - das niedrigere Gewicht - zu erreichen (Goal 2). Dabei handelt der Akteur autonom und wirkt nach außen auf seinen Körper ein.. Autonom/Exzentrisch.
+
+abnehmen: Material 3/1/Goal 2/aut/ecc
+Begründung: Etwas von einem Ort/Objekt entfernen, herunternehmen bedeutet eine Bewegung (3) mit Bekommen (1) um einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abnehmen: Material/Measurement 5/2/Goal 5/aut/ecc
+Begründung: Messen, eine Messung vornehmen bedeutet, sich zu informieren (5) und die Information zur Verfügung zu haben (2), um Kenntnis über etwas zu erlangen (Goal 5).. Autonom/Exzentrisch.
+
+abnehmen: Material/Communication 5/1/Goal 5/het/ecc
+Begründung: Das Abnehmen eines Telefonhöfers oder Anrufs ist eine Informationsaufnahme (5) mit Bekommen (1) von Informationen (Goal 5), wobei man sich heterenom an die Situation anpasst.. Heteronom/Exzentrisch.
+
+abnehmen: Material/Business 2/4/1/Goal 2//Goal 4/aut/con
+Begründung: Im geschäftlichen Kontext bedeutet Abnehmen (von Waren/Dienstleistungen) eine Entscheidung (2) für eine Leistung (4), die mit Bekommen (1) einhergeht, um einen gewünschten Zustand (Goal 2) herzustellen und letztlich geschäftlichen Erfolg zu erzielen (Goal 4).. Autonom/Konzentrisch.
+
+abnähen: Material/Professions/Tailoring 3/Goal 2/aut/ecc
+Begründung: Beim Abnähen wird durch eine Bewegung (3) ein gewünschter Zustand (Goal 2) erzielt - nämlich ein Nähvorgang abzuschließen oder fertigzustellen. Der Akteur handelt selbstbestimmt (aut) und die Tätigkeit ist nach außen auf das Nähobjekt gerichtet (ecc).. Autonom/Exzentrisch.
+
+abnähen: Material/Medical 3/Goal 2/aut/ecc
+Begründung: Im medizinischen Kontext bedeutet 'abnähen' das Verschließen einer Wunde durch eine Naht. Auch hier wird durch eine Bewegung (3) ein gewünschter Zustand (Goal 2) erzielt - das Schließen der Wunde.. Autonom/Exzentrisch.
+
+abordnen: Material/Authorities 2/4/3/Goal 2//Goal 4/aut/ecc
+Begründung: Abordnen bedeutet, dass eine Autoritätsperson (2) bestimmt, dass eine Person eine dienstliche Leistung (4) an einem anderen Ort (3) erbringen soll, um einen gewünschten administrativen Zustand zu erreichen (Goal 2), letztlich mit dem Ziel der Anerkennung/Vergütung für die Autoritätsperson (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da die Entscheidung selbstbestimmt getroffen wird und nach außen auf einen anderen Ort wirkt.. Autonom/Exzentrisch.
+
+abordnen: Material/Diplomatic 2/4/3/Goal 5//Goal 4/aut/ecc
+Begründung: Im diplomatischen Kontext bedeutet abordnen, eine Person offiziell zu entsenden (2/4), um an einem anderen Ort (3) Informationen auszutauschen oder zu verhandeln (Goal 5), letztlich zum Nutzen der entsendenden Organisation (Goal 4).. Autonom/Exzentrisch.
+
+abpacken: Material/Professions 3/2/Goal 2/aut/ecc
+Begründung: Abpacken bezeichnet das Bewegen (3) und Ordnen/Verfügen (2) von Waren in Verpackungen, um einen gewünschten Zustand (Goal 2) zu erreichen. Es ist eine autonome, nach außen gerichtete Tätigkeit (aut/ecc), da der Akteur selbstbestimmt handelt und die Bewegung auf externe Objekte einwirkt.. Autonom/Exzentrisch.
+
+abpacken: Material/Food 3/2/Goal 2/Goal 4/aut/ecc
+Begründung: Im lebensmittelverarbeitenden Gewerbe bedeutet abpacken das Bewegen (3) und Portionieren/Verfügen (2) von Lebensmitteln in Verpackungen, um einen verkaufsfertigen Zustand (Goal 2) herzustellen, mit dem übergeordneten Ziel der Vermarktung (Goal 4).. Autonom/Exzentrisch.
+
+abplatten: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Abplatten bedeutet eine Oberfläche flach machen. Es beinhaltet eine Bewegung/Bearbeitung (3) mit dem Ziel, einen gewünschten Zustand (Goal 2) herzustellen. Die Aktivität wird selbstbestimmt ausgeführt (aut) und ist nach außen auf ein Objekt gerichtet (ecc).. Autonom/Exzentrisch.
+
+abplatten: Material/Scientific 3/Goal 3/het/ecc
+Begründung: Im wissenschaftlichen Kontext kann 'abplatten' die natürliche Verformung eines Körpers (z.B. eines Planeten) durch äußere Kräfte beschreiben. Hier geht es um eine Bewegung (3) mit dem Ziel einer Wirkung/Transformation (Goal 3), wobei der Prozess durch externe Faktoren bestimmt wird (het) und nach außen gerichtet ist (ecc).. Heteronom/Exzentrisch.
+
+abprallen: Material/Physical 3/1/Goal -3/het/ecc
+Begründung: Beim Abprallen bewegt sich ein Objekt (3) und bekommt (1) eine unerwünschte Richtungsänderung, wobei die ursprünglich angestrebte Zielrichtung verfehlt wird (Goal -3). Die Ausrichtung ist heteronom/exzentrisch, da die Bewegung durch äußere Kräfte bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+abprallen: Material/Fight/Sports/Ball-Game 3/1/Goal 3/het/ecc
+Begründung: Im Kontext von Ballspielen kann Abprallen eine gewollte Technik sein, bei der die Bewegung (3) und das Bekommen einer neuen Richtung (1) zum Erreichen eines Spielziels (Goal 3) führt. Die Ausrichtung bleibt heteronom/exzentrisch durch die Abhängigkeit von externen Faktoren wie der Beschaffenheit der Spielfläche.. Heteronom/Exzentrisch.
+
+abprallen: Interpersonal/Psychological 3/1/Goal -5/het/ecc
+Begründung: Im übertragenen Sinne kann 'abprallen' bedeuten, dass ein Kontaktversuch (3) zu einer Person keinen Eingang findet (1) und somit kein erfolgreicher Kontakt zustande kommt (Goal -5). Die Ausrichtung ist heteronom/exzentrisch, da die Reaktion von der anderen Person abhängt.. Heteronom/Exzentrisch.
+
+abpressen: Material/Fight/Dispute 2/3/Goal 2/aut/ecc
+Begründung: Im Sinne von erpressen: Der Akteur bestimmt (2) und übt Druck aus (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine selbstbestimmte, nach außen gerichtete Aktivität (aut/ecc), bei der der Akteur durch Zwang etwas vom Antagonisten erhält.. Autonom/Exzentrisch.
+
+abpressen: Material/Fluids 3/1/Goal 2/aut/ecc
+Begründung: Im physikalischen Sinne: Durch Bewegung/Druck (3) etwas bekommen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Hier geht es um das Extrahieren einer Flüssigkeit durch mechanischen Druck, wie bei einer Presse.. Autonom/Exzentrisch.
+
+abpressen: Material/Criminal/Activities 2/3/1/Goal 2/aut/ecc
+Begründung: Als kriminelle Handlung (Erpressung): Der Akteur bestimmt (2), übt Druck aus (3), um etwas zu bekommen (1) für einen gewünschten Zustand (Goal 2). Dies ist eine strafbare Form des Erzwingens von Vermögensvorteilen durch Drohung.. Autonom/Exzentrisch.
+
+abpumpen: Material/Fluids 3/Goal 2/aut/ecc
+Begründung: Abpumpen bezieht sich auf die Tätigkeit, Flüssigkeiten durch eine Bewegung (3) von einem Ort zu einem anderen zu transportieren, mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2). Dies geschieht autonom (aut) und exzentrisch nach außen gerichtet (ecc), da der Akteur die Kontrolle über den Vorgang hat und auf ein außenliegendes Objekt (die Flüssigkeit) einwirkt.. Autonom/Exzentrisch.
+
+abpumpen: Material/Medical 4/3/Goal 2//Goal 4/aut/ecc
+Begründung: Im medizinischen Kontext bedeutet abpumpen eine Leistung (4) mit Bewegung (3), um einen gewünschten Zustand herzustellen (Goal 2), wobei dies als berufliche Dienstleistung mit dem Ziel der Anerkennung/Bezahlung erfolgt (//Goal 4). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc), etwa beim Abpumpen von Körperflüssigkeiten.. Autonom/Exzentrisch.
+
+abpumpen: Material/Plumbing 4/3/Goal 2//Goal 4/aut/ecc
+Begründung: Im Kontext der Sanitärtechnik bedeutet abpumpen eine Leistung (4) mit Bewegung (3), um einen gewünschten Zustand herzustellen (Goal 2), etwa bei der Entwässerung, wobei dies als berufliche Dienstleistung mit dem Ziel der Anerkennung/Bezahlung erfolgt (//Goal 4). Die Tätigkeit ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+abputzen: Material/Cleanliness 3/Goal 2/aut/ecc
+Begründung: Abputzen bedeutet eine Oberfläche durch Bewegung (3) zu reinigen, um einen gewünschten, sauberen Zustand (Goal 2) herzustellen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
+
+abputzen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne kann 'abputzen' bedeuten, Kritik oder Vorwürfe von sich zu weisen. Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er etwas gibt (1), nämlich eine Information (5), die den gewünschten Zustand des Antagonisten negativ beeinflusst (Goal -2), mit dem Ziel für sich selbst einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abputzen: Material/Sports 3/1/Goal 2/aut/ecc
+Begründung: Im Sportkontext kann 'abputzen' bedeuten, den Ball zu einem Mitspieler zu spielen/abzugeben. Der Akteur bewegt (3) etwas, um es abzugeben (1), mit dem Ziel einen gewünschten Spielzustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abqualifizieren: Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Abqualifizieren bedeutet, die Qualifikation oder Kompetenz einer Person herabzusetzen (Goal -2). Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die den Wert oder Status des Antagonisten negativ beeinflussen. Dies dient dem Ziel, die eigene Position zu stärken oder zu behaupten (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf einen Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+abqualifizieren: Material/Professional 2/4/1/5/Goal -2//Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext kann abqualifizieren bedeuten, dass eine Autorität (2) in ihrer professionellen Funktion eine bewertende Leistung (4) erbringt, indem sie Informationen gibt (1/5), die die Qualifikation eines Kandidaten als nicht ausreichend einordnet (Goal -2). Dies geschieht im Rahmen der beruflichen Tätigkeit zur Erlangung von Anerkennung/Vergütung (//Goal 4).. Autonom/Exzentrisch.
+
+abquälen: Material/Psychological 3/Goal -2/het/ecc
+Begründung: Sich 'abquälen' bedeutet, mit großer Anstrengung und unter Schwierigkeiten etwas zu bewerkstelligen (3), wobei die Bewegung/das Anstreben des Ziels einen belastenden, mühsamen Charakter hat. Der Akteur ist dabei heteronom ausgerichtet, da er sich an äußere, schwierige Bedingungen anpassen muss (het). Das Ziel ist die Bewältigung einer Aufgabe, die als beschwerlich empfunden wird (Goal -2), wobei das negative Vorzeichen die unerwünschte, belastende Natur des Zustands ausdrückt. Die Aktivität ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+abquälen: Interpersonal/Psychological 4/Goal -2//Goal 4/het/ecc
+Begründung: In zwischenmenschlichem Kontext kann 'abquälen' bedeuten, dass jemand eine anstrengende, belastende Leistung für andere (4) erbringt, die als übermäßig empfunden wird und zu einem unerwünschten Zustand führt (Goal -2), letztlich aber auf Anerkennung für die Anstrengung abzielt (Goal 4). Die Ausrichtung ist heteronom und nach außen gerichtet, da der Akteur auf externe Anforderungen reagiert.. Heteronom/Exzentrisch.
+
+abreagieren: Interpersonal/Psychological 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Abreagieren bedeutet, angestaute Emotionen durch aktives Handeln (3) herauszulassen (1), um eine emotionale Entlastung zu bewirken (Goal 3) und einen ausgeglicheneren psychischen Zustand zu erreichen (Goal 2). Der Vorgang ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da die Emotionen aus dem eigenen Inneren nach außen geführt werden.. Autonom/Exzentrisch.
+
+abreagieren: Interpersonal/Psychological/Fight 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: In einem konfliktbezogenen Kontext bedeutet abreagieren, angestaute aggressive Impulse durch Bewegung (3) und Entladung (1) nach außen zu bringen, um eine emotionale Entlastung (Goal 3) und einen verbesserten psychischen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abrechnen: Material/Financial-Transactions 2/3/5/Goal 2/Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet 'abrechnen' das Bestimmen/Verfügen (2) durch Sortieren/Bearbeiten (3) von Informationen (5), um einen gewünschten Zustand der korrekten Abrechnung herzustellen (Goal 2), letztlich um Geld/Anerkennung zu bekommen (Goal 4). Es ist eine autonome, nach außen gerichtete Tätigkeit, da die Informationen aktiv verarbeitet werden.. Autonom/Exzentrisch.
+
+abrechnen: Material/Fight/Dispute 3/5/Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne kann 'abrechnen' auch bedeuten, jemanden zur Verantwortung zu ziehen oder Kritik zu üben. Hier steht die Bewegung/das Anstreben (3) einer Klärung durch Informationsaustausch (5) im Vordergrund, um einen gewünschten Zustand (Goal 2) herzustellen, wobei der Akteur autonom und nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+abrechnen: Material/Business 4/3/5/Goal 2//Goal 4/aut/ecc
+Begründung: Als Dienstleistung bedeutet 'abrechnen' eine Leistung für den Kunden (4) durch Bearbeiten (3) von Informationen (5), um für den Kunden einen gewünschten Zustand herzustellen (Goal 2), mit dem Endziel für den Akteur, Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+abreiben: Material/Cleanliness 3/Goal 2/aut/ecc
+Begründung: Beim Abreiben wird eine Bewegung (3) ausgeführt, um einen gewünschten Zustand (Goal 2) herzustellen, nämlich die Reinigung oder Bearbeitung einer Oberfläche. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt agiert und die Handlung nach außen auf ein Objekt gerichtet ist.. Autonom/Exzentrisch.
+
+abreiben: Material/Medical 3/Goal 2/aut/ecc
+Begründung: Im medizinischen Kontext bedeutet Abreiben eine Bewegung (3) zur Herstellung eines gewünschten Zustands (Goal 2), beispielsweise bei Einreibungen mit Heilmitteln oder zur Förderung der Durchblutung.. Autonom/Exzentrisch.
+
+abreiben: Material/Physical 3/1/Goal 2/aut/ecc
+Begründung: Im Sinne des Trockenreibens nach dem Baden/Duschen führt der Akteur eine Bewegung (3) durch, bei der Feuchtigkeit aufgenommen wird (1), um einen gewünschten Zustand der Trockenheit (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+
+abreisen: Material/Transportation 3/Goal 3/aut/ecc
+Begründung: Abreisen bedeutet, sich von einem Ort wegzubewegen (3) mit dem Ziel, eine andere Destination zu erreichen (Goal 3). Diese Bewegung erfolgt selbstbestimmt (aut) und ist nach außen in die Umwelt gerichtet (ecc), da der Akteur seinen aktuellen Aufenthaltsort verlässt. Die spezifische Area 'Material/Transportation' beschreibt präziser, dass es sich um eine Ortsveränderung/Fortbewegung handelt, nicht um eine beliebige Bewegung.. Autonom/Exzentrisch.
+
+abreisen: Material/Vacation 3/Goal 3/aut/ecc
+Begründung: Im Kontext einer Urlaubsreise bedeutet 'abreisen' spezifisch das Verlassen des Urlaubsortes, um nach Hause oder zu einem anderen Ziel zu gelangen. Der Code bleibt derselbe, aber die Area 'Material/Vacation' betont den Urlaubskontext.. Autonom/Exzentrisch.
+
+abreißen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Abreißen bezieht sich auf die bewusste Zerstörung oder Entfernung von baulichen Strukturen oder Materialteilen. Es ist eine Bewegung (3) mit dem Ziel, einen gewünschten Zustand (Goal 2) herzustellen - nämlich das Nicht-mehr-Vorhandensein des Objekts. Der Code zeigt die selbstbestimmte (aut) nach außen gerichtete (ecc) Ausrichtung, da der Akteur eigenständig auf externe Objekte einwirkt.. Autonom/Exzentrisch.
+
+abreißen: Material/House/Building 3/Goal 2/aut/ecc
+Begründung: Im Kontext von Gebäuden bezeichnet abreißen den vollständigen Abbruch einer baulichen Struktur, um Platz für etwas Neues zu schaffen.. Autonom/Exzentrisch.
+
+abreißen: Material 3/1/Goal 2/het/ecc
+Begründung: In der allgemeinen Bedeutung kann abreißen auch das unbeabsichtigte Trennen eines Teils von einem Ganzen (wie ein abgerissener Faden oder Knopf) bedeuten. Hier ist die Ausrichtung heternom (het), da der Akteur sich an die Materialeigenschaften anpassen muss.. Heteronom/Exzentrisch.
+
+abrichten: Material/Animal/Training 2/4/1/5/Goal 2//Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) für das Tier, wobei er diesem Anweisungen und Informationen gibt (1/5), damit es einen gewünschten Zustand/Verhalten erreicht (Goal 2), was wiederum dem vom Akteur gewünschten Zustand entspricht (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur bestimmend auf das Tier einwirkt.. Autonom/Exzentrisch.
+
+abrichten: Material/Education/Training 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext kann 'abrichten' auch das Anlernen von Personen für spezifische Aufgaben bedeuten. Der Akteur bestimmt (2) eine Leistung (4) für den Auszubildenden, gibt (1) Informationen (5), damit dieser einen gewünschten Zustand erreicht (Goal 2), während der Akteur selbst berufliche Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
+
+abriegeln: Material/Security 2/3/Goal 2/aut/ecc
+Begründung: Abriegeln bedeutet, durch bestimmende Handlungen (2) und räumliche Bewegung/Positionierung (3) einen gewünschten Zustand (Goal 2) herzustellen, bei dem etwas abgeschirmt oder unzugänglich gemacht wird. Der Akteur handelt dabei selbstbestimmt (aut) und nach außen gerichtet (ecc). In der Security-Domäne geht es um das gezielte Absperren eines Bereichs, um Zugang zu kontrollieren oder zu verhindern.. Autonom/Exzentrisch.
+
+abriegeln: Material/Fight/Intelligence-Operations 2/3/Goal 2/Goal 3/aut/ecc
+Begründung: Im Kontext von taktischen Operationen bedeutet Abriegeln das Blockieren eines Gebiets, um Bewegungen zu kontrollieren (2/3/Goal 2) mit dem zusätzlichen Ziel, eine bestimmte Wirkung zu erzielen (Goal 3), z.B. Gegner einzuschließen oder Fluchtwege zu versperren.. Autonom/Exzentrisch.
+
+abriegeln: Material/Protection 2/3/Goal 2/aut/ecc
+Begründung: Im Schutzkontext bedeutet Abriegeln das Absichern eines Bereichs durch bestimmende Maßnahmen (2) und räumliche Anordnung (3), um einen geschützten Zustand (Goal 2) herzustellen, etwa bei Naturkatastrophen oder zum Schutz vor Gefahren.. Autonom/Exzentrisch.
+
+abrollen: Material/Transportation 3/Goal 3/aut/ecc
+Begründung: Die Hauptbedeutung von 'abrollen' bezieht sich auf die kontrollierte Bewegung (3) eines Objekts, typischerweise eines Rads, einer Rolle oder eines Films, mit dem Ziel, eine Bewegung/Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur eine selbstbestimmte Bewegung nach außen ausführt. Im Transportkontext geht es um das Bewegen eines Fahrzeugs oder einer Ladung durch Rollen.. Autonom/Exzentrisch.
+
+abrollen: Material/IT/Process 3/Goal 3/aut/ecc
+Begründung: Im IT-Kontext bezeichnet 'abrollen' das automatische Abspielen oder Ausführen eines Prozesses (3), beispielsweise das Abspielen eines Films oder das Durchlaufen einer Programmsequenz, mit dem Ziel, eine bestimmte Wirkung zu erreichen (Goal 3).. Autonom/Exzentrisch.
+
+abrollen: Material/Office 3/1/Goal 5/aut/ecc
+Begründung: Im Bürokontext kann 'abrollen' das Entrollen eines Dokumentes, Plans oder einer Schriftrolle bedeuten. Hierbei geht es um das Bewegen (3) und Bekommen (1) von Informationen (Goal 5).. Autonom/Exzentrisch.
+
+abrollen: Material/Printing 3/Goal 2/aut/ecc
+Begründung: Im Druckbereich bedeutet 'abrollen' das Bewegen (3) einer Druckrolle oder eines Druckerzeugnisses, um einen gewünschten Zustand zu erreichen (Goal 2), beispielsweise beim Druckvorgang oder bei der Herstellung von Druckerzeugnissen.. Autonom/Exzentrisch.
+
+abrufen: Material/IT 3/1/Goal 5/aut/ecc
+Begründung: Der Begriff 'abrufen' bezeichnet im Kontext von Informationstechnologie das aktive Bewegen/Anstreben (3), um Daten oder Informationen zu bekommen (1), mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen gerichtet Informationen aus einem System holt. Im IT-Kontext ist dies ein Standardvorgang zum Abrufen von Daten aus Speichern, Datenbanken oder Online-Quellen.. Autonom/Exzentrisch.
+
+abrufen: Material/Memory 3/1/Goal 5/aut/ecc
+Begründung: Im kognitiven Kontext bedeutet 'abrufen' das aktive Bewegen/Anstrengen des Gedächtnisses (3), um gespeicherte Informationen ins Bewusstsein zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf im Gedächtnis gespeicherte Informationen zugreift.. Autonom/Exzentrisch.
+
+abrufen: Material/Communication 3/1/Goal 5/aut/ecc
+Begründung: Im Kommunikationskontext bedeutet 'abrufen' das aktive Anfordern (3) und Bekommen (1) von Informationen von einer anderen Stelle oder Person, mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen agiert, um die gewünschten Informationen zu erhalten.. Autonom/Exzentrisch.
+
+abrunden: Material/Measurement 3/Goal 2/aut/ecc
+Begründung: Das Verb 'abrunden' bezeichnet das Bewegen (3) von Zahlen oder Werten in eine einfachere Form, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Aktivität findet mit einer autonomen, nach außen gerichteten Ausrichtung (aut/ecc) statt. In der Area Material/Measurement ist das Abrunden ein präziser Messvorgang, bei dem Werte auf einen bestimmten Genauigkeitsgrad gebracht werden.. Autonom/Exzentrisch.
+
+abrunden: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: In der handwerklichen oder konstruktiven Bedeutung bezieht sich 'abrunden' auf das Bearbeiten (3) von Kanten oder Ecken eines Werkstücks, um eine gewünschte Form (Goal 2) zu erreichen. Die Aktivität erfolgt durch autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
+
+abrunden: Material/Communication 3/1/5/Goal 2/aut/ecc
+Begründung: Im kommunikativen Kontext bedeutet 'abrunden' das Vervollständigen (3) und Abschließen einer Darstellung, wobei man zusammenfassende Informationen (5) hinzufügt (1), um einen vollständigen, geschlossenen Zustand (Goal 2) zu erreichen. Die Aktivität erfolgt durch autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
+
+abrücken: Material/Physical/Position 3/Goal -1/aut/ecc
+Begründung: Abrücken bezeichnet eine selbstbestimmte Bewegung (3) weg von etwas/jemandem mit dem Ziel, Distanz zu schaffen (Goal -1). Im physischen Sinne bedeutet es, sich räumlich von einem Ort oder Objekt wegzubewegen. Die autonome, exzentrische Ausrichtung (aut/ecc) zeigt an, dass der Akteur selbstbestimmt die Bewegung nach außen ausführt.. Autonom/Exzentrisch.
+
+abrücken: Material/Fight/Dispute 3/Goal -1/aut/ecc
+Begründung: In übertragener Bedeutung bezeichnet 'abrücken' das Distanzieren von einer Position, Meinung oder einem Standpunkt. Es handelt sich um eine selbstbestimmte (aut) nach außen gerichtete (ecc) Bewegung (3) mit dem Ziel, sich von etwas zu distanzieren (Goal -1).. Autonom/Exzentrisch.
+
+abrücken: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'abrücken' das bewusste Distanzieren von einer Person oder Gruppe. Der Akteur bewegt sich (3) selbstbestimmt (aut) nach außen (ecc) weg, um Abstand zu gewinnen (Goal -1).. Autonom/Exzentrisch.
+
+abrücken: Material/Military 3/Goal -1/aut/ecc
+Begründung: Im militärischen Kontext bedeutet 'abrücken' den geordneten Rückzug einer Einheit von einer Position. Die Bewegung (3) erfolgt selbstbestimmt (aut) nach außen gerichtet (ecc) mit dem Ziel, Distanz zum vorherigen Standort zu schaffen (Goal -1).. Autonom/Exzentrisch.
+
+absacken: Material/Accident 3/1/Goal -3/Goal -2/het/ecc
+Begründung: Das Verb 'absacken' beschreibt eine ungewollte, negative Bewegung nach unten (3) mit dem Erreichen eines unerwünschten Zustands (1/Goal -3/Goal -2). Es handelt sich um eine heteronome, nach außen gerichtete Aktivität (het/ecc), da der Akteur wenig Kontrolle über den Vorgang hat. Die Area 'Material/Accident' ist passend, da es sich um ein unbeabsichtigtes Ereignis handelt, bei dem etwas in einen unerwünschten Zustand gerät.. Heteronom/Exzentrisch.
+
+absacken: Material/Fluids 3/1/Goal -3/het/ecc
+Begründung: In Bezug auf Flüssigkeiten oder fließende Materialien beschreibt 'absacken' das Absinken oder Versickern in einen tieferen Bereich. Hier steht die Bewegungskomponente (3) und das Erreichen eines tieferen Niveaus (1/Goal -3) im Vordergrund.. Heteronom/Exzentrisch.
+
+absacken: Material/Financial-Transactions 3/1/Goal -3/Goal -2/het/ecc
+Begründung: Im finanziellen Kontext bedeutet 'absacken' eine deutliche Wertminderung oder einen Kursverfall. Die Bewegung nach unten (3) führt zu einem unerwünschten Zustand (Goal -2), der sich in einer negativen Wertentwicklung ausdrückt.. Heteronom/Exzentrisch.
+
+absahnen: Material/Financial-Transactions 3/1/Goal 2/aut/ecc
+Begründung: Das Wort 'absahnen' bezieht sich im finanziellen Kontext auf das zielgerichtete Nehmen/Aneignen (3/1) von Geld oder anderen finanziellen Vorteilen, um diese in Besitz zu haben (Goal 2). Die Handlung erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da sie auf externe Ressourcen abzielt. In der Financial-Transactions-Area bezeichnet es speziell das Abschöpfen von Gewinnen oder finanziellen Vorteilen, oft mit einer Konnotation des Opportunismus.. Autonom/Exzentrisch.
+
+absahnen: Material/Food 3/1/Goal 2/aut/ecc
+Begründung: Im wörtlichen Sinne bedeutet 'absahnen' das Entfernen oder Abschöpfen (3) von Sahne von der Oberfläche von Milch, um diese zu bekommen (1) und für weitere Verwendung zu haben (Goal 2). Auch hier ist die Handlung selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+abschalten: Material/Electrical 2/1/Goal 2/aut/con
+Begründung: Abschalten bedeutet, über ein Gerät zu verfügen (2) und dessen Stromzufuhr zu unterbrechen/zu beenden (1), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt handelt und der Vorgang in seinem Kontrollbereich stattfindet.. Autonom/Konzentrisch.
+
+abschalten: Material/Psychological 0/Goal 0/aut/con
+Begründung: Im psychologischen Sinne bedeutet 'abschalten' sich zu erholen (0), um einen Zustand der Erholung zu erreichen (Goal 0). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt seine Ruhe sucht.. Autonom/Konzentrisch.
+
+abschalten: Material/IT 2/1/Goal 2/Goal 5/aut/con
+Begründung: Im IT-Kontext bedeutet 'abschalten' das Verfügen über ein System (2) und dessen Deaktivierung (1), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei auch der Informationsfluss (Goal 5) beendet wird.. Autonom/Konzentrisch.
+
+abscheiden: Material/Chemical 3/Goal 2/aut/ecc
+Begründung: In der chemischen Bedeutung bezeichnet 'abscheiden' einen Prozess, bei dem eine Substanz aus einer Mischung oder Lösung getrennt wird. Es beinhaltet das aktive Bewegen/Anstreben (3) einer Stofftrennung mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf das zu bearbeitende Material einwirkt.. Autonom/Exzentrisch.
+
+abscheiden: Material/Biological 3/1/Goal 2/aut/ecc
+Begründung: Im biologischen Kontext bedeutet 'abscheiden' die Ausscheidung von Stoffen aus einem Organismus. Es umfasst das Bewegen (3) und Abgeben/Bekommen (1) von Substanzen, um einen gewünschten physiologischen Zustand (Goal 2) herzustellen. Die Ausrichtung ist autonom/exzentrisch, da der Organismus selbstgesteuert Stoffe nach außen abgibt.. Autonom/Exzentrisch.
+
+abscheiden: Material/Fluids 3/1/Goal 2/aut/ecc
+Begründung: Bei Flüssigkeiten bedeutet 'abscheiden' das Trennen einer Flüssigkeit von einer anderen oder von Feststoffen. Dies umfasst sowohl die Bewegung der Flüssigkeit (3) als auch das Bekommen (1) der getrennten Substanz mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Prozess aktiv gesteuert wird.. Autonom/Exzentrisch.
+
+abscheren: Material/Professions/Tailoring 3/Goal 2/aut/ecc
+Begründung: Abscheren bedeutet im handwerklichen Kontext die Bewegung (3) eines Schneidewerkzeugs, um einen gewünschten Zustand (Goal 2) herzustellen - typischerweise das Entfernen von Haaren, Wolle oder anderen Fasern. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur die Kontrolle über den Bewegungsvorgang hat, der nach außen auf ein Objekt gerichtet ist.. Autonom/Exzentrisch.
+
+abscheren: Material/Animals/commercial 3/Goal 2/Goal 4/aut/ecc
+Begründung: Im Kontext der Tierhaltung bedeutet Abscheren die Bewegung (3) zur Gewinnung von Wolle oder Haaren, um einen gewünschten Zustand (Goal 2) herzustellen, mit dem letztendlichen Ziel einer wirtschaftlichen Nutzung (Goal 4). Die Schur erfolgt selbstbestimmt und auf ein Objekt gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+abscheren: Material/Aviation 3/Goal -3/het/ecc
+Begründung: In der Luftfahrt bedeutet Abscheren eine unbeabsichtigte Bewegung (3) mit einem negativen Destinationsziel (Goal -3), bei der z.B. ein Flugzeug von seiner vorgesehenen Flugbahn abkommt. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Vorgang nicht vollständig kontrolliert wird und externe Faktoren einwirken.. Heteronom/Exzentrisch.
+
+abschicken: Material/Transportation 2/4/3/1/Goal 2//Goal 4/aut/ecc
+Begründung: Bestimmen/verfügen (2) über das Leisten (4) einer Bewegung (3) zum Bekommen (1) eines gewünschten Zustands (Goal 2) für den Antagonisten, mit dem Endziel geschäftlicher Anerkennung/Vergütung (Goal 4). Der Akteur initiiert selbstbestimmt (aut) einen nach außen gerichteten (ecc) Transportvorgang.. Autonom/Exzentrisch.
+
+abschicken: Material/Communication 2/4/3/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im Kommunikationskontext bedeutet abschicken das Bestimmen (2) einer Leistung (4) durch Bewegen (3) und Übergeben (1) von Informationen (5), damit der Empfänger informiert ist (Goal 5), mit dem Ziel der Anerkennung für die Leistung (Goal 4).. Autonom/Exzentrisch.
+
+abschicken: Material/IT 2/4/3/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im IT-Kontext bedeutet abschicken das Bestimmen (2) einer Leistung (4) durch Übertragen (3) und Übergeben (1) von Daten/Informationen (5), damit der Empfänger oder ein System diese erhält (Goal 5), mit dem Ziel der korrekten Funktionsweise oder Bestätigung (Goal 4).. Autonom/Exzentrisch.
+
+abschieben: Material/Transportation 3/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Abschieben bedeutet, etwas oder jemanden durch Bewegung (3) als Leistung (4) zu übergeben (1), damit der Empfänger darüber verfügen kann (Goal 2). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc), mit dem letztendlichen Ziel, seine berufliche Pflicht zu erfüllen (//Goal 4).. Autonom/Exzentrisch.
+
+abschieben: Material/Authorities 3/4/1/Goal 2//Goal 2/Goal 4/aut/ecc
+Begründung: Im behördlichen Kontext bedeutet 'abschieben', jemanden (z.B. Asylbewerber) durch eine behördlich angeordnete Bewegung (3) als Leistung (4) zu übergeben (1), damit ein anderer Staat über die Person verfügen kann (Goal 2), mit dem Ziel einen gewünschten Rechtszustand herzustellen (//Goal 2) und die behördliche Pflicht zu erfüllen (Goal 4).. Autonom/Exzentrisch.
+
+abschieben: Material/Responsibility 3/4/1/Goal -2//Goal 2/aut/ecc
+Begründung: In übertragener Bedeutung: eine Verantwortung oder Aufgabe durch aktives Handeln (3) auf jemand anderen übertragen (4/1), um sich der eigenen Verantwortung zu entledigen (Goal -2 für den Antagonisten, da dieser ungewollt belastet wird), mit dem Ziel für sich selbst einen gewünschten Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
+
+abschießen: Material/Military 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Im militärischen Kontext bedeutet 'abschießen' eine Waffe zu bewegen (3) und auszulösen, um einen Treffer zu bekommen (1), mit dem Ziel, eine gewünschte Wirkung zu erzielen (Goal 3) und dadurch einen bestimmten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen wirkt.. Autonom/Exzentrisch.
+
+abschießen: Fight/Aggression/War 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Im Kampf- bzw. Kriegskontext bedeutet 'abschießen' das Bewegen einer Waffe (3) und den Treffer bekommen (1), um eine Wirkung beim Gegner zu erzielen (Goal 3) und damit einen strategischen Vorteil zu erlangen (Goal 2).. Autonom/Exzentrisch.
+
+abschießen: Material/Sports 3/1/Goal 3/aut/ecc
+Begründung: Im Sport (z.B. Fußball, Eishockey) bedeutet 'abschießen' den Ball/Puck gezielt zu bewegen (3) und damit zu treffen (1), um eine bestimmte Wirkung (z.B. ein Tor) zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+abschießen: Material/Photography 3/1/Goal 5/aut/ecc
+Begründung: Im Kontext der Fotografie bedeutet 'abschießen' umgangssprachlich, schnell ein Foto zu machen - die Kamera zu bewegen/betätigen (3), um ein Bild zu bekommen (1) mit dem Ziel, Informationen festzuhalten (Goal 5).. Autonom/Exzentrisch.
+
+abschirmen: Material/Protection 2/3/Goal 2/aut/ecc
+Begründung: Abschirmen bedeutet, durch Bestimmen (2) und Bewegen/Ansteuern (3) eines Objekts einen Schutz herzustellen, um einen gewünschten Zustand (Goal 2) zu realisieren. Es ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt ein Objekt im Außenbereich platziert oder manipuliert, um eine Schutzbarriere zu erzeugen.. Autonom/Exzentrisch.
+
+abschirmen: Material/IT/Security 2/3/Goal 2/Goal 5/aut/ecc
+Begründung: Im IT-Sicherheitskontext bedeutet Abschirmen, durch Bestimmen (2) und aktives Einrichten (3) von Schutzmaßnahmen sowohl einen sicheren Zustand (Goal 2) als auch informationellen Schutz (Goal 5) herzustellen, z.B. Daten vor unbefugtem Zugriff schützen.. Autonom/Exzentrisch.
+
+abschirmen: Interpersonal/Psychological 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet Abschirmen, sich oder jemanden durch Bewegung (3) in Distanz zu bringen, um Nähe zu vermeiden (Goal -1) - eine selbstbestimmte, nach außen gerichtete Aktivität, die auf Abgrenzung abzielt.. Autonom/Exzentrisch.
+
+abschirmen: Material/Fight/Defense 3/1/Goal 2/aut/ecc
+Begründung: Im Verteidigungskontext bedeutet Abschirmen, durch Bewegung (3) Schutz zu bekommen (1), um einen gewünschten (geschützten) Zustand (Goal 2) zu erreichen - eine selbstbestimmte, nach außen gerichtete Schutzaktivität.. Autonom/Exzentrisch.
+
+abschlachten: Material/Criminal/Activities 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Das brutale, gewaltsame Töten (3/1) mit dem Ziel, eine maximale destruktive Wirkung zu erzielen (Goal 3) und dadurch einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+abschlachten: Material/Animal 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Das Schlachten von Tieren (3/1) zur Erzielung einer tödlichen Wirkung (Goal 3) für den Zweck der Fleischgewinnung (Goal 2), wobei die Aktivität besonders brutal oder massenhaft durchgeführt wird.. Autonom/Exzentrisch.
+
+abschlachten: Material/Fight/Aggression/War 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Das brutale Töten vieler Gegner im Kriegskontext (3/1), mit dem Ziel, eine vernichtende Wirkung zu erzielen (Goal 3) und dadurch einen militärischen Vorteil zu erlangen (Goal 2).. Autonom/Exzentrisch.
+
+abschlagen: Fight/Aggression 3/Goal 3/Goal 2/aut/ecc
+Begründung: Im Kampfkontext bedeutet 'abschlagen' eine Bewegung (3) auszuführen, um eine Wirkung zu erzielen (Goal 3), die letztendlich zum Kampfeserfolg führt (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt eine Bewegung nach außen ausführt.. Autonom/Exzentrisch.
+
+abschlagen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im Baugewerbe bedeutet 'abschlagen' das aktive Bewegen (3), um einen gewünschten Zustand herzustellen (Goal 2), wie beim Abschlagen von Putz, Fliesen oder anderen Materialien. Die Handlung ist selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+abschlagen: Material/Gesture 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Als Geste bedeutet 'abschlagen' eine bestimmende Handlung (2), mit der man eine Leistung für einen Antagonisten verweigert (4/Goal -2), um einen eigenen gewünschten Zustand zu erreichen (//Goal 2), wie beim Abschlagen einer Bitte oder eines Angebots.. Autonom/Exzentrisch.
+
+abschlagen: Material/Sports 3/Goal 3/aut/ecc
+Begründung: Im Sport (z.B. Staffellauf oder Volleyball) bedeutet 'abschlagen' eine Bewegung (3) auszuführen, die eine unmittelbare Wirkung erzielt (Goal 3), wie beim Abschlagen eines Balls oder beim Abklatschen eines Teamkollegen.. Autonom/Exzentrisch.
+
+abschleifen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Abschleifen ist eine Bearbeitungstätigkeit, bei der durch Bewegung (3) eines Werkzeugs (Schleifmittel) über eine Oberfläche ein gewünschter Zustand (Goal 2) wie Glätte oder Ebenheit erreicht wird. Die Tätigkeit wird selbstbestimmt ausgeführt (aut) und richtet sich auf ein Objekt im Außenbereich (ecc).. Autonom/Exzentrisch.
+
+abschleifen: Material/Psychological 3/Goal 2/aut/ecc
+Begründung: In übertragener Bedeutung: Beseitigen von Ecken und Kanten im Charakter, Abmildern von Eigenheiten durch wiederholte Einwirkung. Bewegung (3) führt zu einem gewünschten Zustand (Goal 2).. Autonom/Exzentrisch.
+
+abschließen: Material/Security 2/1/Goal 2/aut/ecc
+Begründung: Abschließen im Sinne von Sichern von etwas durch einen Verschlussmechanismus bedeutet: Verfügen (2) über das Bekommen (1) eines gesicherten Zustands (Goal 2). Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc), um etwas zu sichern.. Autonom/Exzentrisch.
+
+abschließen: Material/Contracts 2/3/1/Goal 2/aut/ecc
+Begründung: Abschließen eines Vertrags/Geschäfts bedeutet: Bestimmen (2) einer Bewegung/eines Vorgangs (3) zum Bekommen (1) eines vereinbarten Zustands (Goal 2). Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
+abschließen: Material/Process 3/1/Goal 2/aut/ecc
+Begründung: Abschließen im Sinne von Beenden/Fertigstellen bedeutet: Eine Bewegung/einen Vorgang (3) zu einem Ende bringen und dadurch (1) einen abgeschlossenen Zustand (Goal 2) erreichen. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
+abschmecken: Material/Cooking 2/3/5/Goal 5/Goal 2/het/ecc
+Begründung: Beim Abschmecken verfügt man (2) über Zutaten, bewegt diese (3) und informiert sich (5) durch Geschmacksprüfung über deren Qualität (Goal 5), um einen gewünschten Geschmackszustand zu erreichen (Goal 2). Die Ausrichtung ist heterenom/exzentrisch, da der Akteur sich nach externen Faktoren (dem tatsächlichen Geschmack) richten muss.. Heteronom/Exzentrisch.
+
+abschmecken: Material/Food 5/1/Goal 5/het/ecc
+Begründung: Im allgemeineren Sinn des Probierens/Testens von Speisen informiert man sich (5) durch Bekommen (1) von Geschmackseindrücken (Goal 5). Hier steht die reine Informationsaufnahme im Vordergrund, nicht die Zubereitung.. Heteronom/Exzentrisch.
+
+abschmirgeln: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Abschmirgeln bedeutet, eine Oberfläche durch Bewegung (3) mit Schmirgelpapier zu bearbeiten, um einen gewünschten Zustand (Goal 2) wie Glätte oder Sauberkeit zu erreichen. Der Akteur führt diese Bewegung selbstbestimmt (aut) in Bezug auf ein außenliegendes Objekt (ecc) durch.. Autonom/Exzentrisch.
+
+abschmirgeln: Material/Maintenance 3/Goal 2/aut/ecc
+Begründung: Im Kontext von Wartungsarbeiten bedeutet Abschmirgeln das Bearbeiten einer Oberfläche (3) zur Vorbereitung für weitere Behandlungen wie Streichen oder Lackieren, um den gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+abschneiden: Material/Professions/Tailoring 3/Goal 2/aut/ecc
+Begründung: Im Kontext des Schneiderns oder der Materialbearbeitung bedeutet 'abschneiden' das Bewegen (3) eines Werkzeugs, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Abtrennung eines Teils vom Ganzen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt eine Bewegung in Bezug auf ein äußeres Objekt ausführt.. Autonom/Exzentrisch.
+
+abschneiden: Material/Fight/Sports 1/Goal 2/het/ecc
+Begründung: Im sportlichen Kontext bedeutet 'abschneiden' das Erreichen (1/Bekommen) eines bestimmten Ergebnisses oder einer Platzierung (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von äußeren Faktoren wie Wettkampfbedingungen abhängig ist.. Heteronom/Exzentrisch.
+
+abschneiden: Material/Process 3/1/Goal 3/aut/ecc
+Begründung: Im technischen oder Prozess-Kontext kann 'abschneiden' auch das Unterbrechen (3/Bewegen) und Beenden (1/Bekommen) eines Vorgangs bedeuten, um eine bestimmte Wirkung (Goal 3) zu erzielen, wie etwa bei 'die Stromzufuhr abschneiden'.. Autonom/Exzentrisch.
+
+abschotten: Material/Protection 2/3/Goal 2/aut/ecc
+Begründung: Etwas abschotten bedeutet, durch Bestimmen/Verfügen (2) und aktives Bewegen/Anstreben (3) eine Barriere zu errichten, um einen gewünschten Zustand der Trennung/Isolierung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtete Maßnahmen ergreift.. Autonom/Exzentrisch.
+
+abschotten: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet abschotten, sich aktiv zu bewegen/anzustrengen (3), um Distanz zu schaffen und Nähe zu vermeiden (Goal -1). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc), um soziale Kontakte zu begrenzen.. Autonom/Exzentrisch.
+
+abschotten: Material/IT/Security 2/3/Goal 2/aut/ecc
+Begründung: Im IT-Sicherheitskontext bedeutet abschotten, bestimmte Netzwerkbereiche oder Systeme (2) durch aktive Maßnahmen (3) vom Rest des Netzwerks zu isolieren, um einen gewünschten Sicherheitszustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abschrecken: Material/Fight/Defense 2/3/4/1/5/Goal 5/Goal -3//Goal 3/aut/ecc
+Begründung: Im verteidigenden Kontext bedeutet 'abschrecken' Das Übertragen (3/4/1) einer Information (5) mit negativen Wirkung, die für den Antagonisten nicht zielführend ist (Goal -3) aber mit (//Goal 3) eine Wirkung im Sinne des Akteurs ausübt. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
+
+abschrecken: Material/Cooking 3/1/Goal 2/het/ecc
+Begründung: Im Kochkontext bedeutet 'abschrecken' eine Bewegung (3) zur Aufnahme (1) von kaltem Wasser mit dem Ziel, einen gewünschten Zustand (z.B. zum Stoppen des Garvorgangs) zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da man sich nach äußeren Bedingungen richten muss.. Heteronom/Exzentrisch.
+
+abschrecken: Interpersonal/Psychological 3/Goal -5/aut/ecc
+Begründung: Im psychologischen Kontext bedeutet 'abschrecken' eine aktive Bewegung/Handlung (3) mit dem Ziel, Kontakt zu verhindern oder zu beenden (Goal -5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert, um andere auf Distanz zu halten.. Autonom/Exzentrisch.
+
+abschreiben: Material/Education 3/5/2/Goal 5/het/ecc
+Begründung: Abschreiben bedeutet, Informationen von einer Quelle zu übernehmen (3/5), um sie für sich verfügbar zu machen (2/Goal 5). Es beinhaltet die Bewegungskomponente (3) des Übertragens, das Informieren (5) und das Verfügbarmachen (2) mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronym/exzentrisch, da man sich an externe Vorgaben anpasst.. Heteronom/Exzentrisch.
+
+abschreiben: Material/Criminal/IT 3/5/2/Goal 5/het/ecc
+Begründung: Als unerlaubtes Kopieren von Inhalten bezeichnet 'abschreiben' das Plagiieren oder Übernehmen fremder Inhalte ohne Erlaubnis, wobei die gleiche Kodierung gilt, aber der kriminelle Kontext durch die Area hervorgehoben wird.. Heteronom/Exzentrisch.
+
+abschreiben: Material/Business 2/1/Goal -2/het/ecc
+Begründung: Im wirtschaftlichen Kontext bedeutet 'abschreiben' die buchhalterische Wertminderung eines Vermögensgegenstands. Hierbei wird über einen Wert bestimmt (2) und ein Zustand des Verlusts bekommen (1), der zu einer Reduzierung des gewünschten Zustands führt (Goal -2).. Heteronom/Exzentrisch.
+
+abschrägen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Beim Abschrägen wird ein Material durch Bewegung/Anstreben (3) so bearbeitet, dass ein gewünschter Zustand (Goal 2) - nämlich eine schräge Kante statt einer rechtwinkligen - erreicht wird. Die Ausrichtung ist autonom/exzentrisch, da der Handwerker selbstbestimmt (aut) auf ein externes Objekt einwirkt (ecc).. Autonom/Exzentrisch.
+
+abschrägen: Material/Machine-System 2/Goal 2/aut/ecc
+Begründung: Im maschinellen Kontext kann Abschrägen das Einstellen/Verfügen über (2) eine Maschine oder ein Werkzeug bedeuten, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei die Maschine die eigentliche Abschrägung vornimmt.. Autonom/Exzentrisch.
+
+abschwächen: Material/Process 2/3/Goal -3/aut/ecc
+Begründung: Abschwächen bedeutet, die Intensität oder Wirkung von etwas zu verringern. Dies beinhaltet ein Bestimmen/Verfügen (2) über einen Prozess und ein Bewegen/Verändern (3) mit dem Ziel, eine geringere Wirkung zu erzielen (Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt (aut) auf etwas einwirkt, das im Außenbereich liegt (ecc).. Autonom/Exzentrisch.
+
+abschwächen: Material/Fight/Dispute 2/3/4/Goal -3//Goal 2/aut/ecc
+Begründung: Im Kontext einer Auseinandersetzung bedeutet abschwächen, eine Äußerung oder Position in ihrer Wirkung zu reduzieren. Der Akteur bestimmt (2) und bewegt sich (3), um eine Leistung für den Antagonisten zu erbringen (4), mit dem Ziel die Wirkung zu verringern (Goal -3). Nach dem Wechsel (//) wird das eigene Ziel erreicht, einen gewünschten Zustand herzustellen (Goal 2), z.B. eine Deeskalation.. Autonom/Exzentrisch.
+
+abschwächen: Material/Communication 2/4/1/5/Goal -3//Goal 2/aut/ecc
+Begründung: In der Kommunikation bedeutet abschwächen, eine Aussage in ihrer Intensität zu mindern. Der Akteur bestimmt (2), leistet (4) durch das Geben (1) von Information (5), um die Wirkung zu verringern (Goal -3), mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2), etwa eine gemäßigtere Darstellung.. Autonom/Exzentrisch.
+
+abschätzen: Material/Measurement 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Abschätzen bedeutet, durch mentale Bewegung/Analyse (3) Informationen zu sammeln (5), um eine Beurteilung zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand der Einschätzung zu erreichen (Goal 2). Die Ausrichtung ist heternom/exzentrisch, da der Prozess von externen Faktoren abhängig ist und nach außen gerichtet.. Heteronom/Exzentrisch.
+
+abschätzen: Material/Business 3/5/2/Goal 5/Goal 2/Goal 4/het/ecc
+Begründung: Im geschäftlichen Kontext bedeutet abschätzen, Informationen zu analysieren und zu bewerten, um einen gewünschten Zustand der Einschätzung zu erreichen, mit dem übergeordneten Ziel der beruflichen Anerkennung oder Vergütung.. Heteronom/Exzentrisch.
+
+abschätzen: Interpersonal/Psychological 3/5/Goal 5/Goal 2/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet abschätzen, eine Person oder Situation zu analysieren und zu bewerten, um über sie informiert zu sein und einen mentalen Zustand der Einschätzung über sie zu erreichen.. Heteronom/Exzentrisch.
+
+abschöpfen: Material/Fluids 3/1/Goal 2/aut/ecc
+Begründung: Abschöpfen bedeutet, durch eine Bewegung (3) etwas von einer Oberfläche zu bekommen/entnehmen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/excentrisch (aut/ecc), da der Akteur selbstbestimmt etwas aus seinem Umfeld entnimmt. Typischerweise wird beim Abschöpfen von Flüssigkeiten die obere Schicht (z.B. Fett) von einer Flüssigkeit entfernt.. Autonom/Exzentrisch.
+
+abschöpfen: Material/Financial-Transactions 3/1/Goal 2/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet 'abschöpfen' das Entnehmen (3/1) von überschüssigen Geldmitteln oder Gewinnen, um einen gewünschten finanziellen Zustand zu erreichen (Goal 2). Beispielsweise werden Übergewinne 'abgeschöpft' oder Steuervorteile ausgenutzt.. Autonom/Exzentrisch.
+
+abschöpfen: Material/Agriculture 3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im landwirtschaftlichen Kontext, besonders in der Milchwirtschaft, bedeutet 'abschöpfen' das Entnehmen (3/1) der Sahne von der Milch, um einen gewünschten Zustand zu erreichen (Goal 2) mit dem Endziel einer wirtschaftlichen Nutzung (Goal 4).. Autonom/Exzentrisch.
+
+absegnen: Material/Authorities/Compliance 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Der Begriff 'absegnen' bedeutet, etwas offiziell zu genehmigen oder zu bestätigen. Es beinhaltet das Bestimmen/Verfügen (2) einer Leistung (4) durch Geben (1) einer Information (5), damit ein gewünschter Zustand für den Antagonisten realisiert wird (Goal 2). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), da er eine verbindliche Entscheidung über etwas trifft. Nach dem Wechsel (//), der anzeigt, dass wir wieder zu den Zielen des Akteurs zurückkehren, erfolgt die berufliche Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+absegnen: Material/Law/Compliance 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet 'absegnen', eine formelle Zustimmung oder Genehmigung zu erteilen, etwa bei Verträgen oder Dokumenten. Der Akteur entscheidet (2) und leistet durch Übermittlung (4/1) einer Information (5) die Genehmigung, damit der gewünschte rechtliche Zustand für den Antagonisten eintritt (Goal 2), wobei der Akteur selbst berufliche Anerkennung erhält (Goal 4).. Autonom/Exzentrisch.
+
+abseifen: Material/Cleanliness 3/Goal 2/aut/ecc
+Begründung: Die primäre Bedeutung von 'abseifen' ist das Reinigen eines Objekts mit Seife. Es beinhaltet eine aktive Bewegung (3) mit dem Ziel, einen gewünschten Zustand der Sauberkeit herzustellen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt die Reinigungsbewegungen an einem externen Objekt ausführt.. Autonom/Exzentrisch.
+
+abseifen: Material/Slang 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Im umgangssprachlichen Sinne kann 'abseifen' auch bedeuten, jemanden zu bestehlen. Hier beinhaltet es eine Bewegung (3) zum Bekommen (1) mit dem Ziel, eine Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand des Besitzes herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+absetzen: Material/Physical/Position 3/1/Goal 2/aut/ecc
+Begründung: In seiner Grundbedeutung bedeutet 'absetzen' etwas durch eine Bewegung (3) an einen bestimmten Ort zu bringen und es dort zu platzieren/ablegen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und die Handlung ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+absetzen: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im Handelskontext bedeutet 'absetzen' etwas zu verkaufen/veräußern. Der Akteur bestimmt (2) eine Leistung für einen Antagonisten (4) durch Übertragung einer Ware (1), damit der Käufer einen gewünschten Zustand erreicht (Goal 2), mit dem Endziel für den Akteur, Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+absetzen: Material/Driving 2/3/Goal 2/aut/ecc
+Begründung: Im Fahrkontext bedeutet 'absetzen' jemanden an einem Zielort aussteigen lassen. Der Akteur verfügt (2) über ein Fahrzeug und führt eine Bewegung aus (3), um einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+absetzen: Material/Compliance 2/4/1/Goal -2//Goal 2/aut/ecc
+Begründung: Im organisatorischen Kontext bedeutet 'absetzen' jemanden von einer Position entfernen. Der Akteur bestimmt (2) und erbringt eine Leistung (4) durch eine Verfügungsübertragung (1), die zum Nicht-Erreichen eines gewünschten Zustands für den Antagonisten führt (Goal -2), mit dem Ziel, einen gewünschten Zustand für den Akteur herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+absetzen: Material/Printing 2/3/Goal 2/aut/ecc
+Begründung: Im Druckwesen bedeutet 'absetzen' Text so zu formatieren, dass er vom vorherigen Text getrennt wird. Der Akteur verfügt (2) über das Layout und führt eine Positionierungsbewegung aus (3), um einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+absichern: Material/Security 2/3/Goal 2/aut/ecc
+Begründung: Im Sicherheitskontext bedeutet 'absichern' das Verfügen/Bestimmen (2) über schützende Maßnahmen/Bewegungen (3), um einen gewünschten sicheren Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da aktiv nach außen gerichtete Schutzmaßnahmen getroffen werden.. Autonom/Exzentrisch.
+
+absichern: Material/Financial-Transactions 2/3/Goal 2/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet 'absichern' das Bestimmen (2) über Maßnahmen/Bewegungen (3), um einen finanziell abgesicherten Zustand zu erreichen (Goal 2), z.B. durch Versicherungen oder Verträge.. Autonom/Exzentrisch.
+
+absichern: Material/IT/Security 2/3/Goal 2/aut/ecc
+Begründung: Im IT-Sicherheitskontext bedeutet 'absichern' das Bestimmen (2) über Schutzmaßnahmen/Bewegungen (3), um einen geschützten Zustand von Daten oder Systemen zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+absichern: Material/Fight/Defense 2/3/Goal 2/aut/ecc
+Begründung: Im Verteidigungskontext bedeutet 'absichern' das Bestimmen (2) über Schutzmaßnahmen/Bewegungen (3), um einen geschützten oder verteidigungsfähigen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+absinken: Material/Physical/Position 3/1/Goal -3/Goal -2/het/ecc
+Begründung: Absinken bezeichnet eine Abwärtsbewegung (3) durch die ein Objekt eine unerwünschte Position erreicht (1). Das Ziel der Bewegung ist nicht gewollt (Goal -3) und führt zu einem unerwünschten Zustand (Goal -2). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang meist durch äußere Kräfte wie Schwerkraft bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+absinken: Material/Fluids 3/1/Goal -3/het/ecc
+Begründung: Im Kontext von Flüssigkeiten bedeutet absinken, dass etwas in einer Flüssigkeit nach unten bewegt wird (3) und dort eine Position erreicht (1). Die Bewegung führt zu einer unerwünschten Position (Goal -3), etwa bei Sedimenten oder Schwebstoffen in Flüssigkeiten.. Heteronom/Exzentrisch.
+
+absinken: Material/Measurement 3/Goal -3/Goal -2/het/ecc
+Begründung: Bei Messwerten bedeutet absinken eine Bewegung (3) nach unten auf einer Skala, was eine unerwünschte Wirkung (Goal -3) darstellt und zu einem unerwünschten Zustand (Goal -2) führt, wie bei sinkenden Temperaturen, Preisen oder Werten.. Heteronom/Exzentrisch.
+
+absinken: Material/Psychological 3/Goal -3/Goal -2/het/ecc
+Begründung: Im psychologischen Sinne bezeichnet absinken eine Verschlechterung (3) der Stimmung oder des Wohlbefindens, die zu einem unerwünschten psychischen Zustand führt (Goal -3/Goal -2), wie bei der Abnahme von Energie oder Motivation.. Heteronom/Exzentrisch.
+
+absondern: Material/Biological 2/3/1/Goal 2/aut/ecc
+Begründung: In biologischer Hinsicht bedeutet 'absondern' das Ausscheiden von Flüssigkeiten oder Substanzen. Der Akteur verfügt (2) über einen Körperteil, der mit Bewegung (3) eine Substanz herausgibt/ausscheidet (1), um einen gewünschten körperlichen Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Vorgang selbstbestimmt ist und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+absondern: Material/Physical 3/1/Goal 2/aut/ecc
+Begründung: Im physischen Sinne kann 'absondern' bedeuten, etwas physisch zu trennen oder zu isolieren. Der Akteur bewegt (3) etwas, um es von anderem zu trennen und zu bekommen (1), um einen gewünschten Zustand der Trennung zu erreichen (Goal 2). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+absondern: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'sich absondern', sich von anderen Menschen zu distanzieren. Der Akteur bewegt sich (3) mit dem Ziel, Distanz statt Nähe zu erreichen (Goal -1). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+absorbieren: Material/Scientific 1/Goal 5/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet 'absorbieren' das Aufnehmen (1) von Substanzen, Strahlung oder Energie, um Kenntnis darüber zu erlangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Eigenschaften des zu absorbierenden Materials anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+absorbieren: Material/Fluids 1/Goal 2/het/ecc
+Begründung: Im Kontext von Flüssigkeiten bedeutet 'absorbieren' das Aufnehmen/Bekommen (1) einer Flüssigkeit mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen, etwa bei einem Schwamm, der Wasser aufnimmt.. Heteronom/Exzentrisch.
+
+absorbieren: Interpersonal/Psychological 1/5/Goal 5/het/ecc
+Begründung: Im psychologischen Kontext bedeutet 'absorbieren', Informationen oder Eindrücke (5) aufzunehmen (1), um informiert zu sein (Goal 5), etwa beim intensiven Aufnehmen von Wissen oder beim vollständigen Eintauchen in eine Tätigkeit.. Heteronom/Exzentrisch.
+
+abspalten: Material/Process 3/1/Goal 2/aut/ecc
+Begründung: Abspalten bezeichnet einen Vorgang, bei dem durch Bewegung (3) etwas von einem Ganzen abgetrennt wird, sodass man einen Teil bekommt (1), um einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
+
+abspalten: Material/Psychological 3/2/Goal 5/aut/ecc
+Begründung: Im psychologischen Sinne bedeutet abspalten, dass bestimmte Inhalte (Gedanken, Gefühle) durch eine mentale Aktivität (3) vom Bewusstsein separiert werden (2), um Informationen zu verarbeiten oder zu strukturieren (Goal 5). Dies ist ein Abwehrmechanismus, der autonom und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+abspalten: Material/Chemical 3/1/2/Goal 2/aut/ecc
+Begründung: Im chemischen Kontext bedeutet abspalten, dass durch eine Reaktion (3) bestimmte Molekülteile abgetrennt werden (1) und neue Substanzen entstehen, über die man verfügen kann (2), um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abspanen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Abspanen bezieht sich auf das Entfernen von Material von einem Werkstück durch eine schneidende Bearbeitung (3=Bewegung/Bearbeitung) mit dem Ziel, einen gewünschten Zustand des Werkstücks zu erreichen (Goal 2). Die Ausführung erfolgt selbstbestimmt (aut) und ist auf ein externes Objekt gerichtet (ecc).. Autonom/Exzentrisch.
+
+absperren: Material/Security 2/3/Goal -2/aut/ecc
+Begründung: Das Absperren ist ein Zugriff auf ein Objekt (2), verbunden mit einer Bewegung/Transformation (3), um einen Zustand herzustellen, in dem etwas nicht zugänglich ist (Goal -2). Dies geschieht selbstbestimmt (aut) mit Wirkung nach außen (ecc), um den Zugang zu verwehren.. Autonom/Exzentrisch.
+
+absperren: Material/Fight/Defense 2/3/Goal 2//Goal -3 aut/con
+Begründung: Im Verteidigungskontext bedeutet Absperren das Verfügen (2) über eine Barriere, die durch Bewegung/Positionierung (3) dazu dient, einen gewünschten Sicherheitszustand für den Akteur zu erreichen (Goal 2) und damit eine unerwünschte Bewegung des Antagonisten zu verhindern (Goal -3),.. Autonom/Konzentrisch.
+
+absperren: Material/Fluids 2/3/Goal -2/aut/con
+Begründung: Im Kontext von Flüssigkeiten bedeutet Absperren das Verfügen (2) über ein Ventil oder einen Hahn, verbunden mit einer Drehbewegung (3), um den Fluss zu stoppen und einen Zustand herzustellen, in dem keine Flüssigkeit mehr fließt (Goal -2). Dies geschieht selbstbestimmt (aut) mit Wirkung im eigenen Kontrollbereich (con).. Autonom/Konzentrisch.
+
+absprechen: Material/Communication 3/5/Goal 5/aut/ecc
+Begründung: Absprechen beinhaltet das Bewegen/Anstreben (3) mit dem Zweck des Informierens (5), um informiert zu sein (Goal 5). Es geht um einen koordinierten Austausch von Informationen, bei dem der Akteur selbstbestimmt (aut) nach außen gerichtet (ecc) kommuniziert, um eine gemeinsame Informationsgrundlage zu schaffen.. Autonom/Exzentrisch.
+
+absprechen: Material/Fight/Dispute 3/5/Goal -5/Goal 2/aut/ecc
+Begründung: In diesem Kontext bedeutet 'absprechen' etwas abstreiten oder leugnen. Der Akteur bewegt sich mit Information (3/5) zu dem Zweck, dass der Antagonist nicht informiert ist (Goal -5), um einen gewünschten Zustand für sich selbst herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+absprechen: Interpersonal 3/5/2/Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet 'absprechen' sich mit jemandem zu koordinieren oder eine Vereinbarung zu treffen. Es beinhaltet Bewegung/Anstreben (3), Kontaktaufnahme (5) und das Verfügen über eine gemeinsame Entscheidung (2), um Kontakt herzustellen (Goal 5).. Autonom/Exzentrisch.
+
+abspülen: Material/Cleanliness 3/1/Goal 2/het/ecc
+Begründung: Abspülen bedeutet, durch Bewegung (3) unter Verwendung von Wasser das Bekommen (1) eines sauberen Zustands (Goal 2) zu erreichen. Die Ausrichtung ist heteronym/eccentrisch, da der Akteur sich an die Eigenschaften der zu reinigenden Objekte und des Wassers anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
+
+abspülen: Material/Fluids 3/1/Goal 3/het/ecc
+Begründung: In einem spezielleren Kontext kann 'abspülen' auch bedeuten, dass etwas durch fließendes Wasser weggespült wird, wobei die Bewegung (3) und das Wegbekommen (1) auf das Erreichen einer Wirkung (Goal 3) abzielen, beispielsweise wenn Erde oder Sand weggespült werden.. Heteronom/Exzentrisch.
+
+abstauben: Material/Cleanliness 3/Goal 2/aut/ecc
+Begründung: In der primären Bedeutung bezeichnet 'abstauben' das Entfernen von Staub von Oberflächen. Der Akteur bewegt (3) etwas (z.B. ein Staubtuch), um einen gewünschten Zustand (Staubfreiheit) herzustellen (Goal 2). Die Aktivität ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt auf Objekte einwirkt.. Autonom/Exzentrisch.
+
+abstauben: Material/Slang 3/1/Goal 2/aut/ecc
+Begründung: In der umgangssprachlichen Bedeutung steht 'abstauben' für das opportunistische Ergattern oder Sich-Aneignen von etwas (wie Gegenständen, Preisen oder Vorteilen). Der Akteur bewegt sich (3) zu etwas hin, um es zu bekommen (1), mit dem Ziel, einen gewünschten Zustand des Besitzens herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abstauben: Material/Sports 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Im Sportkontext (besonders Fußball) bedeutet 'abstauben', einen Ball oder Punkt auf opportunistische Weise zu erlangen. Der Akteur bewegt sich (3) zum Ball und bekommt ihn (1), um eine Wirkung (Tor/Punkt) zu erzielen (Goal 3) und damit einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abstechen: Material/Fight/Aggression 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Mit einer stechenden Bewegung (3) bekommen (1) einer Wirkung (Goal 3) zur Erreichung eines Kampferfolgs (Goal 2). Es handelt sich um eine gezielt ausgeführte Bewegung mit einer Stichwaffe, um einen Gegner zu bekämpfen.. Autonom/Exzentrisch.
+
+abstechen: Material/Agriculture 3/Goal 2/aut/ecc
+Begründung: Im landwirtschaftlichen Kontext bedeutet 'abstechen' das gezielte Bewegen (3) eines Werkzeugs, um einen gewünschten Zustand (Goal 2) zu erreichen, beispielsweise beim Abstechen von Rasenkanten oder beim Ernten bestimmter Pflanzen.. Autonom/Exzentrisch.
+
+abstechen: Material/Animal 3/1/Goal 3/Goal 2/aut/ecc
+Begründung: Im Kontext der Tierhaltung oder Schlachtung bezeichnet 'abstechen' das gezielte Töten eines Tieres durch eine stechende Bewegung (3), um eine Wirkung (Goal 3) zu erzielen und einen gewünschten Zustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
+
+abstechen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im handwerklichen Kontext bedeutet 'abstechen' das Bewegen (3) eines Werkzeugs, um Material zu trennen oder zu formen und einen gewünschten Zustand (Goal 2) zu erreichen, z.B. beim Drechseln oder bei der Metallbearbeitung.. Autonom/Exzentrisch.
+
+abstecken: Material/Measurement 2/3/Goal 2/aut/ecc
+Begründung: In der grundlegenden Bedeutung bedeutet 'abstecken' das Markieren von Grenzen oder Messungslinien durch Vermessungspfähle. Der Akteur verfügt (2) über Markierungswerkzeuge, die er mit Bewegung (3) im Außenbereich platziert, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich eine definierte Fläche oder einen Bereich zu kennzeichnen. Die Ausrichtung ist autonom (der Akteur bestimmt selbst) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+abstecken: Material/Professions/Construction 2/3/Goal 2/Goal 3/aut/ecc
+Begründung: Im Baubereich bedeutet 'abstecken' das Markieren eines Bauplatzes oder Bauvorhabens, wobei der Akteur verfügt (2) über Markierungswerkzeuge und diese mit Bewegung (3) platziert, um einen gewünschten Zustand (Goal 2) zu erreichen mit dem höheren Ziel, dass die spätere Bewegung der Bauarbeiten korrekt erfolgen kann (Goal 3).. Autonom/Exzentrisch.
+
+abstecken: Material/Landscape 2/3/Goal 2/aut/ecc
+Begründung: In Bezug auf Landschaft oder Grundstücke bedeutet 'abstecken' das Markieren von Grundstücksgrenzen, wobei der Akteur verfügt (2) über Markierungsmittel und diese mit Bewegung (3) platziert, um einen gewünschten Zustand der Grenzmarkierung (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+abstecken: Material/Process 2/Goal 2/aut/con
+Begründung: Im übertragenen Sinne bedeutet 'abstecken' das Festlegen von Grenzen oder Rahmenbedingungen für ein Projekt oder eine Tätigkeit. Hier bestimmt der Akteur (2) einen gewünschten Zustand (Goal 2) in seinem Kontrollbereich (aut/con).. Autonom/Konzentrisch.
+
+absteigen: Material/Physical/Position 3/Goal 3/het/ecc
+Begründung: Im allgemeinen physischen Kontext bedeutet 'absteigen' eine nach unten gerichtete Bewegung (3) mit dem Ziel, eine tiefere Position zu erreichen (Goal 3). Die Ausrichtung ist heteronome exzentrisch (het/ecc), da die Bewegung sich nach äußeren Gegebenheiten wie Schwerkraft und Umgebung richtet.. Heteronom/Exzentrisch.
+
+absteigen: Material/Lodging 3/1/Goal 2/het/ecc
+Begründung: Im Kontext von Unterkünften bedeutet 'absteigen' das Beziehen einer Unterkunft - eine Bewegung (3) zum Bekommen (1) eines temporären Aufenthaltsorts mit dem Ziel, einen gewünschten Zustand (Goal 2) der Unterkunft zu haben.. Heteronom/Exzentrisch.
+
+absteigen: Material/Sports 3/Goal -3/het/ecc
+Begründung: Im sportlichen Kontext kann 'absteigen' das Herabgestuftwerden in eine niedrigere Liga bedeuten. Es ist eine Bewegung (3) zu einem unerwünschten Ziel (Goal -3), wobei der Akteur sich den externen Regeln und Umständen anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+absteigen: Material/Animal 3/Goal 3/aut/ecc
+Begründung: Im Kontext des Reitens bedeutet 'absteigen' das Verlassen des Pferderückens. Es ist eine selbstbestimmte Bewegung (3) mit dem Ziel, einen Zielort zu erreichen (Goal 3), wobei der Reiter die Kontrolle über die Bewegung hat (aut/ecc).. Autonom/Exzentrisch.
+
+abstellen: Material 2/Goal 2/aut/con
+Begründung: Im primären Sinne bedeutet 'abstellen' das Verfügen (2) über einen Gegenstand, um einen gewünschten Zustand (Goal 2) zu erreichen, indem man ihn an einem bestimmten Ort positioniert. Der Akteur handelt selbstbestimmt (aut) innerhalb seines Verfügungsbereichs (con).. Autonom/Konzentrisch.
+
+abstellen: Material/Machine-System 2/Goal 2/aut/con
+Begründung: In Bezug auf Geräte oder Maschinen bedeutet 'abstellen' das Ausschalten oder Beenden eines Betriebs. Der Akteur verfügt (2) über das Gerät, um einen gewünschten Zustand (Goal 2) - nämlich den Stillstand - herbeizuführen.. Autonom/Konzentrisch.
+
+abstellen: Material/Tidiness 2/3/Goal 2/aut/con
+Begründung: Im Kontext von Ordnung bedeutet 'abstellen' das Beseitigen oder Beheben eines Problems oder Missstands. Der Akteur verfügt (2) und bewegt etwas (3), um einen gewünschten Zustand (Goal 2) der Ordnung herzustellen.. Autonom/Konzentrisch.
+
+abstempeln: Material/Office 2/3/5/Goal 5/aut/ecc
+Begründung: Abstempeln bedeutet, durch bestimmendes Handeln (2) mit einer Bewegung (3) eine Information (5) auf einen Gegenstand aufzubringen, um diesem einen informationellen Status zu geben (Goal 5). Die Handlung erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da der Stempel auf ein externes Objekt angewendet wird.. Autonom/Exzentrisch.
+
+abstempeln: Material/Law/Compliance 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Im behördlichen/rechtlichen Kontext bedeutet abstempeln, durch autoritative Handlung (2) und physische Bewegung (3) eine Information (5) anzubringen, die sowohl einen informationellen Status verleiht (Goal 5) als auch einen rechtlich gewünschten Zustand herstellt (Goal 2), wie bei Dokumenten zur Legitimierung oder Genehmigung.. Autonom/Exzentrisch.
+
+abstempeln: Interpersonal/Psychological 2/5/Goal 2/Goal 5/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'jemanden abstempeln' eine Person kategorisierend zu bewerten (2), indem man ihr ein bestimmtes Merkmal oder eine Eigenschaft zuschreibt (5). Dies dient sowohl dem gewünschten Zustand der Einordnung (Goal 2) als auch der Verbreitung dieser Information (Goal 5).. Autonom/Exzentrisch.
+
+abstimmen: Material/Communication 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Die Tätigkeit des Abstimmens im Sinne von Koordinieren oder Synchronisieren beinhaltet das Bewegen/Anstreben (3) von Informationen (5), um über etwas zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand zu erreichen (Goal 2). Die heteronome/exzentrische Ausrichtung (het/ecc) verdeutlicht, dass der Akteur sich an externe Faktoren anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+abstimmen: Fight/Election 2/4/1/5/Goal 5/Goal 2/aut/ecc
+Begründung: Im Wahlkontext bedeutet 'abstimmen' bestimmen/kontrollieren (2) durch geben (4/1) einer Information (5), um diese zur Kenntnis zu geben (Goal 5) und damit einen gewünschten Zustand (Goal 2) herbeizuführen. Die autonome/exzentrische Ausrichtung (aut/ecc) zeigt, dass der Akteur selbstbestimmt agiert, aber auf Entitäten außerhalb seines unmittelbaren Kontrollbereichs einwirkt.. Autonom/Exzentrisch.
+
+abstimmen: Material/Music 2/3/Goal 2/het/ecc
+Begründung: Im musikalischen Kontext bedeutet 'abstimmen' das Verfügen/Kontrollieren (2) über Bewegungen/Justierungen (3), um einen gewünschten Klangzustand zu erreichen (Goal 2). Die heteronome/exzentrische Ausrichtung (het/ecc) reflektiert die Notwendigkeit, sich an externe akustische Standards anzupassen.. Heteronom/Exzentrisch.
+
+abstoßen: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet 'abstoßen' eine aktive Bewegung (3) weg von jemand anderem, mit dem Ziel, Distanz statt Nähe zu schaffen (Goal -1). Der Akteur handelt dabei selbstbestimmt (aut) und richtet seine Aktivität nach außen auf andere Personen (ecc).. Autonom/Exzentrisch.
+
+abstoßen: Material/Physical 3/1/Goal 3/aut/ecc
+Begründung: Im physikalischen Sinne bedeutet 'abstoßen' eine Bewegung (3) und das Wegdrücken/Wegstoßen eines Objekts (1), um eine Wirkung/Distanzierung zu erzielen (Goal 3). Der Vorgang ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+abstoßen: Material/Business 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet 'abstoßen' Waren oder Besitz zu verkaufen, wobei der Akteur bestimmt (2), eine Leistung für den Käufer erbringt (4) durch das Geben (1) mit dem Ziel, einen gewünschten Zustand für den Käufer herzustellen (Goal 2), während der Akteur selbst Geld/Anerkennung erhält (Goal 4).. Autonom/Exzentrisch.
+
+abstrafen: Material/Law/Court 2/3/4/1/Goal -3//Goal 2 het/ecc
+Begründung: Das Abstrafen bedeutet, als Autorität (2) mit einer Maßnahme (3) dem Antagonisten eine Sanktion zu geben (4/1), die für ihn eine negative Wirkung hat (Goal -3), während für den Akteur ein gewünschter Zustand erreicht wird (//Goal 2). Bestrafungen setzen eine Autoritätsposition voraus, die im Gerichts-/Rechtskontext ausgeübt wird.. Heteronom/Exzentrisch.
+
+abstrafen: Material/Punishment 2/3/4/1/Goal -3//Goal 2 het/ecc
+Begründung: Im allgemeinen Kontext des Bestrafens bedeutet Abstrafen, dass der Akteur in einer Machtposition (2) durch eine bestimmte Aktion (3) dem Bestraften etwas auferlegt (4/1), was für diesen unerwünscht ist (Goal -3), während der Akteur damit einen gewünschten Zustand (//Goal 2) wie Abschreckung oder Disziplin erreicht.. Heteronom/Exzentrisch.
+
+abstrafen: Material/Education 2/3/4/1/Goal -3//Goal 2 het/ecc
+Begründung: Im pädagogischen Kontext bedeutet Abstrafen, dass eine Autoritätsperson (2) eine Strafmaßnahme ergreift (3), die für den zu Erziehenden unangenehm ist (4/1/Goal -3), mit dem Ziel (//Goal 2), ein bestimmtes Verhalten zu korrigieren oder zukünftig zu verhindern.. Heteronom/Exzentrisch.
+
+abstrahieren: Material/Scientific 3/5/2/Goal 5/het/ecc
+Begründung: Abstrahieren bedeutet, aus konkreten Elementen allgemeine Konzepte oder Prinzipien abzuleiten. Es beinhaltet eine Bewegung/Transformation (3) von Informationen (5), um sie in einer verallgemeinerten Form verfügbar zu haben (2), mit dem Ziel des Informiertseins über grundlegende Strukturen (Goal 5). Die Ausrichtung ist heteronym/exzentrisch (het/ecc), da der Prozess von externen Quellen abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+abstrahieren: Material/Education 3/5/2/Goal 5/Goal 4/het/ecc
+Begründung: Im Bildungskontext bedeutet abstrahieren das methodische Herausarbeiten (3) von Informationen (5) und deren verfügbar machen (2), um zu einem höheren Verständnis zu gelangen (Goal 5), wobei dies im Rahmen beruflicher Tätigkeiten wie Lehre auch der Anerkennung/Vergütung dient (Goal 4).. Heteronom/Exzentrisch.
+
+abstreiten: Material/Fight/Dispute 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Abstreiten bedeutet, dass ein Akteur bestimmt (2) und eine Leistung für den Antagonisten erbringt (4), die darauf abzielt, dessen gewünschten Zustand (eine Behauptung als wahr anerkannt zu bekommen) zu verhindern (Goal -2), während der eigene Zweck des Akteurs ist, einen gewünschten Zustand (Befreiung von Vorwürfen) zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt gegen eine externe Behauptung vorgeht.. Autonom/Exzentrisch.
+
+abstreiten: Material/Law/Court 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet abstreiten, dass der Akteur (etwa ein Angeklagter) bestimmt (2) und eine Leistung für den Antagonisten (Gericht/Staatsanwaltschaft) erbringt (4), die darauf abzielt, deren gewünschten Zustand (Schuldnachweis) zu verhindern (Goal -2), um selbst einen gewünschten Zustand (Freispruch/Entlastung) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abstumpfen: Material/Professions/Construction 3/1/Goal -3/Goal -2/aut/ecc
+Begründung: Im handwerklichen Kontext bezeichnet 'abstumpfen' einen Prozess, bei dem ein scharfes Werkzeug durch Bewegung (3) und Einwirkung (1) seine Schneideigenschaften verliert, was zu einer verringerten Wirksamkeit (Goal -3) und einem unerwünschten Zustand des Werkzeugs (Goal -2) führt. Der Prozess erfolgt selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+abstumpfen: Interpersonal/Psychological 5/1/Goal -5/Goal -2/het/ecc
+Begründung: Im psychologischen Sinne bedeutet 'abstumpfen', dass eine Person durch wiederholte Information/Reize (5) und deren Aufnahme (1) eine verminderte Empfänglichkeit für Informationen entwickelt (Goal -5), was zu einem unerwünschten emotionalen Zustand führt (Goal -2). Dieser Prozess erfolgt fremdbestimmt und nach außen gerichtet (het/ecc).. Heteronom/Exzentrisch.
+
+abstumpfen: Material/Protection 3/Goal -3/Goal 2/aut/ecc
+Begründung: Im Sicherheitskontext kann 'abstumpfen' das absichtliche Verringern einer Spitze oder Kante bedeuten, um Verletzungsgefahren zu reduzieren. Hier ist die Bewegung (3) mit einer bewusst verringerten Schneidwirkung (Goal -3) verbunden, um einen gewünschten sichereren Zustand (Goal 2) zu erreichen. Die Handlung erfolgt selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+abstürzen: Material/Accident 3/1/Goal -3/Goal -2/het/ecc
+Begründung: Eine unbeabsichtigte, unkontrollierte Bewegung (3) nach unten, bei der ein Zustand erreicht wird (1), der nicht dem gewünschten Bewegungsziel entspricht (Goal -3) und einen unerwünschten Zustand zur Folge hat (Goal -2). Die Ausrichtung ist heteronym/ekzentrisch (het/ecc), da der Vorgang nicht vom Akteur kontrolliert wird, sondern von äußeren Faktoren abhängt.. Heteronom/Exzentrisch.
+
+abstürzen: Material/IT 3/Goal -2/het/ecc
+Begründung: Im IT-Kontext bedeutet 'abstürzen' eine Fehlfunktion eines Programms oder Systems (3), die zu einem unerwünschten Zustand führt (Goal -2). Der Akteur hat keine Kontrolle über den Vorgang (het/ecc).. Heteronom/Exzentrisch.
+
+abstürzen: Material/Aviation 3/1/Goal -3/Goal -2/het/ecc
+Begründung: Im Luftfahrtkontext bezeichnet 'abstürzen' den unkontrollierten Fall eines Flugzeugs oder anderen Fluggeräts (3), wobei ein unbeabsichtigter Zustand erreicht wird (1), der nicht dem gewünschten Flugziel entspricht (Goal -3) und zu einem zerstörerischen Zustand führt (Goal -2).. Heteronom/Exzentrisch.
+
+abstürzen: Material/Psychological 1/Goal -2/het/ecc
+Begründung: Im übertragenen Sinne: ein plötzliches Erleben (1) eines negativen psychischen Zustands (Goal -2), wie bei einem emotionalen Zusammenbruch oder einer Depression, wobei der Akteur dem Geschehen ausgeliefert ist (het/ecc).. Heteronom/Exzentrisch.
+
+abstützen: Material/Professions/Construction 2/3/Goal 2/aut/ecc
+Begründung: Im Baukontext bedeutet 'abstützen' das Bestimmen/Verfügen (2) über Stützmaterialien und deren Bewegung/Platzierung (3), um einen gewünschten stabilen Zustand (Goal 2) autonom (aut) und nach außen gerichtet (ecc) herzustellen. Es handelt sich um eine bewusste Handlung, bei der ein Objekt durch Stützen stabilisiert wird.. Autonom/Exzentrisch.
+
+abstützen: Material/Physical/Position 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext körperlicher Haltung bedeutet 'sich abstützen', dass eine Person Verfügungsgewalt über ihre Körperposition ausübt (2) und eine Bewegung (3) durchführt, um einen stabilisierten Zustand (Goal 2) zu erreichen, z.B. mit den Händen auf einer Oberfläche.. Autonom/Exzentrisch.
+
+abstützen: Material/Psychological 2/3/Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne kann 'sich auf etwas abstützen' bedeuten, dass man sich auf eine Grundlage/Argument verlässt und darauf seine Position aufbaut. Dies beinhaltet das Bestimmen (2) und aktive Nutzen (3) dieser Grundlage, um einen gewünschten argumentativen Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+absägen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Absägen bedeutet die gezielte Bewegung (3) eines Sägewerkzeugs, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich einen Teil von etwas abzutrennen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur eigenständig und mit Bewegung nach außen auf ein Material einwirkt.. Autonom/Exzentrisch.
+
+absägen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'absägen' eine Person von ihrer Position zu entfernen. Hier bestimmt der Akteur (2), eine Leistung zu erbringen (4), indem er Informationen übermittelt (1/5), die den gewünschten Zustand des Antagonisten verschlechtert (Goal -2), um den eigenen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abtasten: Material/Measurement 3/5/Goal 5/het/ecc
+Begründung: Beim Abtasten bewegt man sich (3) entlang eines Objekts/einer Oberfläche, um Informationen (5) zu sammeln und dadurch Kenntnis über Beschaffenheit, Form oder Zustand zu erlangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da man sich an die gegebene Form des Objekts anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
+
+abtasten: Material/Medical 3/5/Goal 5/het/ecc
+Begründung: Im medizinischen Kontext bedeutet Abtasten das systematische Untersuchen des Körpers durch Berührung, um diagnostische Informationen zu gewinnen. Die Bewegung der Hände (3) dient dem Informationsgewinn (5) mit dem Ziel, diagnostisch informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
+
+abtasten: Material/Security 3/5/Goal 5/Goal 2/het/ecc
+Begründung: Im Sicherheitskontext (z.B. Personenkontrolle) bedeutet Abtasten das Untersuchen einer Person oder eines Objekts durch Berührung, um nach verborgenen Gegenständen zu suchen. Die Bewegung (3) dient dem Informationsgewinn (5) mit dem Ziel, informiert zu sein (Goal 5) und einen sicheren Zustand herzustellen (Goal 2).. Heteronom/Exzentrisch.
+
+abtauchen: Material/Physical/Position 3/Goal 3/het/ecc
+Begründung: In der grundlegenden Bedeutung bezeichnet 'abtauchen' eine Bewegung (3) nach unten, typischerweise unter Wasser, mit dem Ziel, eine bestimmte Position/Destination zu erreichen (Goal 3). Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt an, dass der Akteur sich nach außen richtet und dabei von externen Faktoren wie Wasserdruck oder Strömungen beeinflusst wird.. Heteronom/Exzentrisch.
+
+abtauchen: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'abtauchen' sich bewusst zurückziehen (3), mit dem Ziel, Distanz zu schaffen und Nähe zu vermeiden (Goal -1). Die autonome/exzentrische Ausrichtung (aut/ecc) zeigt, dass dies eine selbstbestimmte Bewegung weg von anderen ist.. Autonom/Exzentrisch.
+
+abtauchen: Material/Fight/Defense 3/Goal 2/het/ecc
+Begründung: Im Kontext einer Verteidigungsstrategie bedeutet 'abtauchen' eine Bewegung (3), um sich zu schützen und einen sicheren Zustand zu erreichen (Goal 2). Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt die Anpassung an die Bedrohungssituation.. Heteronom/Exzentrisch.
+
+abtippen: Material/IT/Process 3/5/2/Goal 5/het/ecc
+Begründung: Abtippen bedeutet, einen Text von einer Vorlage manuell in ein anderes (meist digitales) Medium zu übertragen. Es umfasst Bewegung (3) durch das Antippen der Tasten, um Informationen (5) zu verarbeiten und verfügbar zu machen (2), mit dem Ziel, die Information zu erfassen (Goal 5). Die Ausrichtung ist heteronym/excentrisch (het/ecc), da der Akteur sich nach einer vorgegebenen Vorlage richten muss und die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+abtippen: Material/Office 3/5/2/Goal 5/Goal 4/het/ecc
+Begründung: Im beruflichen Kontext beinhaltet Abtippen den zusätzlichen Aspekt der beruflichen Leistungserbringung (Goal 4). Hier ist das Übertragen von Text Teil einer Bürotätigkeit, die letztendlich auf berufliche Anerkennung oder Vergütung abzielt.. Heteronom/Exzentrisch.
+
+abtragen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im Bereich Bau/Konstruktion bedeutet 'abtragen' das gezielte Bewegen (3) von Material, um einen gewünschten Zustand (Goal 2) zu erreichen, wie beim Abbruch oder der Entfernung von Bauteilen. Der Akteur handelt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da er eine Veränderung an externen Objekten vornimmt.. Autonom/Exzentrisch.
+
+abtragen: Material/Financial-Transactions 3/4/1/Goal 2/het/ecc
+Begründung: Im finanziellen Kontext bedeutet 'abtragen' das schrittweise Bewegen (3) einer Geldleistung (4/1) an einen Gläubiger, um einen Schuldenzustand zu verringern (Goal 2). Der Akteur handelt heteronym (het), da er unter der Verpflichtung zur Rückzahlung steht, und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+abtragen: Material/Clothing 3/Goal 2/aut/ecc
+Begründung: Im Zusammenhang mit Kleidung bedeutet 'abtragen', durch regelmäßiges Tragen und Bewegen (3) Kleidungsstücke abzunutzen, was zu einem veränderten Zustand (Goal 2) führt. Der Akteur handelt selbstbestimmt (aut) und wirkt auf externe Objekte ein (ecc).. Autonom/Exzentrisch.
+
+abtreiben: Material/Medical 3/Goal -3/het/ecc
+Begründung: Im medizinischen Kontext bedeutet 'abtreiben' einen Schwangerschaftsabbruch durchführen. Die Kodierung basiert auf: (3) für die Bewegung/Anstreben einer Wirkung, mit (Goal -3) für das bewusste Verhindern eines natürlichen Prozesses bzw. einer Entwicklung. Die Ausrichtung ist (het/ecc), da der Akteur sich an externe medizinische Gegebenheiten anpassen muss und die Handlung nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+abtreiben: Material/Fluids 3/Goal 3/het/ecc
+Begründung: In Bezug auf Flüssigkeiten oder Objekte bedeutet 'abtreiben' das Wegtreiben oder Wegdriften lassen, z.B. von Gegenständen auf dem Wasser. Hier ist (3) die Bewegungskomponente, (Goal 3) das Erreichen einer Wirkung/Destination, mit (het/ecc) weil der Prozess von externen Faktoren abhängt.. Heteronom/Exzentrisch.
+
+abtreiben: Material/Mining 3/Goal 2/het/ecc
+Begründung: Im Bergbau bedeutet 'abtreiben' einen speziellen Prozess zur Trennung von Edelmetallen. Die Kodierung (3) steht für die Bewegung/Transformation, (Goal 2) für das Erreichen eines gewünschten Zustands (Trennung/Reinigung), mit (het/ecc) weil der Prozess externe Faktoren berücksichtigen muss.. Heteronom/Exzentrisch.
+
+abtrennen: Material/Process 3/Goal 2/aut/ecc
+Begründung: Beim Abtrennen wird durch eine autonome Bewegung (3) ein gewünschter Zustand (Goal 2) erzielt, nämlich die Separation eines Teils vom Ganzen. Diese Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da sie auf ein Objekt einwirkt und dessen Zustand verändert.. Autonom/Exzentrisch.
+
+abtrennen: Material/Professions/Tailoring 3/Goal 2/aut/ecc
+Begründung: Im Kontext der Schneiderei bedeutet 'abtrennen' das gezielte Separieren von Stoffteilen oder Nähten durch eine Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+abtrennen: Material/Biological 3/Goal 2/aut/ecc
+Begründung: Im biologischen/medizinischen Kontext bezeichnet 'abtrennen' das chirurgische oder organische Separieren von Gewebe durch eine autonome Bewegung (3), um einen neuen Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abtrocknen: Material/Cleanliness 3/Goal 2/aut/ecc
+Begründung: Abtrocknen ist eine Bewegungsaktivität (3) mit dem Ziel, einen gewünschten trockenen Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf ein Objekt einwirkt, um Feuchtigkeit zu entfernen.. Autonom/Exzentrisch.
+
+abtrocknen: Material/Cleanliness/Personal 3/Goal 2/aut/con
+Begründung: Im Kontext der persönlichen Hygiene bedeutet abtrocknen, dass man sich selbst nach dem Waschen oder Baden abtrocknet. Die Ausrichtung ist hier autonom und konzentrisch (aut/con), da die Bewegung auf den eigenen Körper gerichtet ist.. Autonom/Konzentrisch.
+
+abtrocknen: Material/Fluids 3/Goal 2/aut/ecc
+Begründung: Im Kontext von Flüssigkeiten kann abtrocknen bedeuten, dass eine Oberfläche oder ein Material durch Verdunstung trocken wird. Die Bewegung (3) führt zum gewünschten trockenen Zustand (Goal 2).. Autonom/Exzentrisch.
+
+aburteilten: Material/Law/Court 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet 'aburteilen' ein richterliches Urteil zu fällen (2), womit eine Leistung für den Angeklagten erbracht wird (4), die typischerweise zu einem für ihn negativen Zustand führt (Goal -2). Dies geschieht im Interesse der Rechtsordnung und Gerechtigkeit (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da das Gericht die Entscheidungsmacht ausübt und diese nach außen auf den Angeklagten wirkt.. Autonom/Exzentrisch.
+
+abwandeln: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Abwandeln bedeutet, Veränderungen an etwas Bestehendem vorzunehmen. Der Akteur bestimmt (2) und bearbeitet/transformiert (3) ein Objekt, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein außerhalb liegendes Objekt einwirkt.. Autonom/Exzentrisch.
+
+abwandeln: Material/Art 2/3/5/Goal 2/aut/ecc
+Begründung: Im künstlerischen Kontext bedeutet 'abwandeln' eine bestehende Idee oder ein Werk kreativ zu verändern. Der Akteur bestimmt (2), bearbeitet/transformiert (3) und integriert Informationen/Ideen (5), um einen gewünschten künstlerischen Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+abwandeln: Material/Music 2/3/Goal 2/Goal 3/aut/ecc
+Begründung: In der Musik bedeutet 'abwandeln' ein musikalisches Thema zu variieren. Der Akteur bestimmt (2) und bearbeitet (3) musikalisches Material, um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem höheren Ziel einer bestimmten musikalischen Wirkung (Goal 3).. Autonom/Exzentrisch.
+
+abwarten: Material 0/Goal 3/het/ecc
+Begründung: Abwarten bedeutet, geduldig zu bleiben und nichts zu tun (0), bis ein bestimmter Vorgang oder eine Entwicklung seine Wirkung erreicht hat (Goal 3). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da man sich nach externen Bedingungen richtet und auf etwas von außen wartet.. Heteronom/Exzentrisch.
+
+abwarten: Material/Medical 0/Goal 2/het/ecc
+Begründung: Im medizinischen Kontext bedeutet abwarten (z.B. eine Krankheit abwarten), zu warten (0), bis ein gewünschter Zustand (Goal 2) eingetreten ist, wobei man sich an die Gegebenheiten der Erkrankung anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+abwarten: Material/Time 0/3/Goal 3/het/ecc
+Begründung: Im zeitlichen Kontext kann abwarten bedeuten, zu warten (0) auf eine zeitliche Entwicklung (3), die zu einem bestimmten Ergebnis führt (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da man sich auf externe zeitliche Abläufe einstellt.. Heteronom/Exzentrisch.
+
+abwaschen: Material/Cleanliness 3/Goal 2/aut/ecc
+Begründung: Abwaschen ist eine reinigende Bewegung (3), die darauf abzielt, einen gewünschten Zustand (Goal 2) - nämlich Sauberkeit - herzustellen. Der Akteur handelt dabei selbstbestimmt (aut) und richtet seine Aktivität nach außen auf Objekte (ecc). Die spezifische Area 'Material/Cleanliness' beschreibt präzise den Reinigungskontext der Aktivität.. Autonom/Exzentrisch.
+
+abwaschen: Material/Cleanliness/Personal 3/Goal 2/aut/ecc
+Begründung: Im persönlichen Hygienekontext bedeutet abwaschen das Reinigen des eigenen Körpers oder von Körperteilen. Auch hier ist es eine Bewegung (3) zur Herstellung eines gewünschten Zustands (Goal 2) der Sauberkeit, mit selbstbestimmter (aut) nach außen gerichteter (ecc) Ausführung.. Autonom/Exzentrisch.
+
+abwehren: Material/Fight/Defense 1/3/Goal 2//Goal -3/aut/con
+Begründung: Abwehren bedeutet im Verteidigungskontext, dass der Akteur auf einen Angriff (1) reagiert und mit Bewegung/Aktivität (3) einen gewünschten Zustand (Goal 2), nämlich die Verhinderung des Angriffserfolgs (//Goal -3), erreicht. Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt in seinem eigenen Bereich handelt.. Autonom/Konzentrisch.
+
+abwehren: Material/Fight/Sports 1/3/Goal 2//Goal -3/aut/con
+Begründung: Im sportlichen Kontext bedeutet abwehren, dass ein Akteur auf einen Angriff (1) mit einer Bewegung (3) reagiert, um einen gewünschten Zustand (Goal 2), nämlich die Verhinderung des Angriffserfolgs (//Goal -3), etwa einen Ball abzuwehren. Die Handlung ist selbstbestimmt im eigenen Bereich (aut/con).. Autonom/Konzentrisch.
+
+abwehren: Material/Fight/Dispute 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet abwehren, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), die zum Nicht-Erreichen des gewünschten Zustands für den Antagonisten führt (Goal -2) und den eigenen gewünschten Zustand sichert (Goal 2), etwa bei der Abwehr von Vorwürfen oder Ansprüchen.. Autonom/Exzentrisch.
+
+abweichen: Material/Navigation 3/Goal -3/het/ecc
+Begründung: Abweichen bedeutet, seine Bewegung/Anstreben (3) von einem geplanten Weg oder Kurs ändern, wobei eine ursprüngliche Zieldestination nicht mehr erreicht wird (Goal -3). Der Akteur passt sich an externe Umstände an und ist nach außen gerichtet (het/ecc).. Heteronom/Exzentrisch.
+
+abweichen: Material/Compliance 3/Goal -2/het/ecc
+Begründung: Im Kontext von Regeln oder Normen bedeutet abweichen, dass ein Akteur durch sein Verhalten/Bewegung (3) von einem festgelegten Standard oder einer Regel abgeht und damit einen vorgeschriebenen Zustand nicht einhält (Goal -2).. Heteronom/Exzentrisch.
+
+abweichen: Material/Measurement 3/Goal -3/het/ecc
+Begründung: Bei Messungen oder Berechnungen bedeutet abweichen, dass ein Wert eine Differenz zum Sollwert aufweist. Die Bewegung (3) vom Sollwert führt dazu, dass die angestrebte Genauigkeit nicht erreicht wird (Goal -3).. Heteronom/Exzentrisch.
+
+abweisen: Material/Fight/Dispute 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im Kontext von Streitigkeiten/Auseinandersetzungen bedeutet 'abweisen', dass der Akteur (z.B. eine Behörde) bestimmt (2), eine Leistung für den Antagonisten (4) erbringt, die zum Nicht-Erreichen des gewünschten Zustands für den Antagonisten führt (Goal -2), während der Akteur seinen eigenen gewünschten Zustand erreicht (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur eigenständig handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+abweisen: Material/Law/Court 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet 'abweisen' (z.B. einer Klage), dass das Gericht bestimmt (2), eine Leistung für den Kläger (4) erbringt, die zum Nicht-Erreichen seines gewünschten Zustands führt (Goal -2), während das Gericht seinen eigenen gewünschten Zustand (Rechtsprechung) erreicht (//Goal 2).. Autonom/Exzentrisch.
+
+abweisen: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'abweisen', dass der Akteur eine Bewegung/Handlung ausführt (3), die zum Ziel hat, Distanz zu schaffen (Goal -1) - also das Gegenteil von Nähe. Der Akteur handelt selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+abweisen: Material/Authorities 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im behördlichen Kontext bedeutet 'abweisen' (z.B. eines Antrags), dass eine Behörde bestimmt (2), eine Leistung für den Antragsteller (4) erbringt, die zum Nicht-Erreichen seines gewünschten Zustands führt (Goal -2), während die Behörde ihren eigenen gewünschten Zustand (z.B. Einhaltung von Vorschriften) erreicht (//Goal 2).. Autonom/Exzentrisch.
+
+abwenden: Interpersonal 3/Goal -1/aut/ecc
+Begründung: Im interpersonalen Bereich bedeutet 'abwenden' eine aktive Bewegung (3) weg von einer Person, mit dem Ziel Distanz herzustellen bzw. Nähe zu vermeiden (Goal -1). Der Akteur handelt selbstbestimmt (aut) und richtet seine Bewegung nach außen (ecc).. Autonom/Exzentrisch.
+
+abwenden: Material/Fight/Defense 3/Goal -3/aut/ecc
+Begründung: Eine Gefahr, Bedrohung oder negative Wirkung aktiv durch Bewegung/Handlung (3) verhindern, mit dem Ziel, eine unerwünschte Wirkung zu vermeiden (Goal -3). Der Akteur handelt selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+abwenden: Material/Physical/Position 3/Goal 3/aut/ecc
+Begründung: Die physische Richtungsänderung oder Drehung eines Körpers oder Objekts. Eine selbstbestimmte Bewegung (3), um eine bestimmte Richtung/Position zu erreichen (Goal 3).. Autonom/Exzentrisch.
+
+abwerben: Material/Business 3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Beim Abwerben bewegt sich ein Akteur (3) zu einem Antagonisten, um dessen Ressourcen (z.B. Mitarbeiter) für sich zu bekommen (1), mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2) und letztlich geschäftlichen Erfolg zu erzielen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf externe Ressourcen zugeht.. Autonom/Exzentrisch.
+
+abwerben: Interpersonal/Social 3/1/Goal 5/Goal 1/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'abwerben' das Bewegen (3) zu einer Person, um deren Gunst oder Aufmerksamkeit zu bekommen (1), mit dem Ziel eines neuen Kontakts (Goal 5) und letztlich einer näheren Beziehung (Goal 1). Dies tritt auf, wenn jemand andere von ihrer bisherigen sozialen Gruppe oder Beziehung weg und zu sich hin werben möchte.. Autonom/Exzentrisch.
+
+abwerfen: Material/Aviation 3/1/Goal 3/aut/ecc
+Begründung: Im Luftfahrtkontext bedeutet 'abwerfen' die autonome Bewegung (3) eines Objekts von einem Flugzeug weg, die zum Bekommen (1) einer Wirkung (Goal 3) führt. Der Akteur ist nach außen gerichtet (ecc) und handelt selbstbestimmt (aut).. Autonom/Exzentrisch.
+
+abwerfen: Material/Financial-Transactions 2/Goal 1/aut/con
+Begründung: Im finanziellen Kontext bedeutet 'abwerfen' das Verfügen (2) über Kapital, das einen Ertrag/Gewinn bringt (Goal 1). Der Akteur handelt selbstbestimmt (aut) und im eigenen Bereich (con).. Autonom/Konzentrisch.
+
+abwerfen: Material/Animal 3/1/Goal 2/aut/ecc
+Begründung: Bei Tieren bedeutet 'abwerfen' eine autonome Bewegung (3), durch die etwas (z.B. Geweih) losgelassen wird (1), um einen gewünschten körperlichen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abwerten: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Abwerten bedeutet, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten erbringt (4), indem er ihm eine Information gibt (1/5), mit dem Ziel, den gewünschten Zustand des Antagonisten zu verschlechtern (Goal -2). Letztendlich dient dies dem Akteur, seinen eigenen gewünschten Zustand zu erreichen (Goal 2), etwa durch Stärkung der eigenen Position im Streit. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+abwerten: Material/Financial-Transactions 2/Goal -2/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet abwerten, dass ein Akteur bestimmt (2), den Wert eines Gutes oder einer Währung zu vermindern (Goal -2), was eine autonome und nach außen gerichtete Handlung darstellt.. Autonom/Exzentrisch.
+
+abwerten: Interpersonal/Psychological 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In psychologischer Hinsicht kann abwerten bedeuten, dass der Akteur aktiv (3) eine Leistung für den Antagonisten erbringt (4), indem er negative Bewertungen kommuniziert (1/5), um dessen Selbstwertgefühl zu verringern (Goal -2), wodurch der Akteur seine eigene Position psychologisch stärkt (Goal 2).. Autonom/Exzentrisch.
+
+abwickeln: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Abwickeln bedeutet, etwas systematisch von Anfang bis Ende durchzuführen oder zu erledigen. Der Akteur verfügt (2) über einen Prozess und führt Bewegungen/Handlungen aus (3), um einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt, aber auf äußere Objekte oder Prozesse einwirkt.. Autonom/Exzentrisch.
+
+abwickeln: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet abwickeln die Durchführung eines Geschäftsvorgangs (Transaktion, Auftrag, Vertrag) von Anfang bis Ende. Der Akteur verfügt (2) über den Prozess und führt Handlungen aus (3), um einen gewünschten Zustand zu erreichen (Goal 2) mit dem übergeordneten Ziel der Anerkennung/Vergütung (Goal 4).. Autonom/Exzentrisch.
+
+abwickeln: Material/Object 3/Goal 2/aut/ecc
+Begründung: Im physischen Sinne bedeutet abwickeln das Ablösen von etwas Aufgewickeltem (z.B. Garn von einer Spule). Hier steht die Bewegung (3) im Vordergrund, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt, aber auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
+
+abwiegeln: Material/Fight/Dispute 2/3/Goal -3//Goal 2/aut/ecc
+Begründung: Abwiegeln bedeutet, einen Konflikt, eine Auseinandersetzung oder eine aufgeheizte Situation zu entschärfen und zu beruhigen. Durch bestimmendes (2) Eingreifen und aktives Handeln (3) wird die Wirkung eines Konflikts reduziert (Goal -3), was letztlich dem gewünschten Zustand (Goal 2) des Akteurs dient. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt, um auf eine externe Situation einzuwirken.. Autonom/Exzentrisch.
+
+abwiegeln: Interpersonal/Psychological 3/Goal -1/aut/ecc
+Begründung: Im interpersonellen psychologischen Kontext kann abwiegeln bedeuten, sich von jemandem zu distanzieren oder Nähe zu verhindern. Durch eine Bewegung/Handlung (3) wird bewusst verhindert, dass Nähe entsteht (Goal -1). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt, um Distanz zu schaffen.. Autonom/Exzentrisch.
+
+abwiegen: Material/Measurement 3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Beim Abwiegen wird eine Bewegung (3) ausgeführt, um Informationen (5) zu erlangen, mit dem Ziel informiert zu sein (Goal 5) über das Gewicht, um einen gewünschten Zustand zu erreichen (Goal 2). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da sie auf ein externes Objekt bezogen ist.. Autonom/Exzentrisch.
+
+abwiegen: Material/Scientific 3/5/2/Goal 5/Goal 2/aut/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet Abwiegen das präzise Bestimmen (2) eines Gewichts durch Bewegung (3) und Informationsgewinnung (5), um genaue Kenntnis (Goal 5) für einen gewünschten Zustand (Goal 2) zu erlangen, etwa bei der Vorbereitung eines Experiments.. Autonom/Exzentrisch.
+
+abwiegen: Material/Psychological 5/2/Goal 5/Goal 2/aut/con
+Begründung: Im übertragenen Sinne bedeutet Abwiegen das sorgfältige Abwägen/Vergleichen von Informationen (5) und Entscheidungsfindung (2), um informiert zu sein (Goal 5) und dann einen gewünschten Zustand (Goal 2) zu erreichen. Diese Bedeutung ist nach innen gerichtet (con), da es sich um einen mentalen Prozess handelt.. Autonom/Konzentrisch.
+
+abwinkeln: Material/Physical/Position 3/Goal 2/aut/ecc
+Begründung: Abwinkeln bedeutet, etwas (meist einen Körperteil oder ein Objekt) in eine gewinkelte Position zu bringen. Der Akteur bewegt (3) das Objekt, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei die Kontrolle selbstbestimmt (aut) und nach außen gerichtet (ecc) ist, da eine Veränderung der räumlichen Position stattfindet.. Autonom/Exzentrisch.
+
+abwinkeln: Material/Gesture 3/4/1/5/Goal 5/aut/ecc
+Begründung: Als Geste bedeutet Abwinkeln das Bewegen (3) des Arms/der Hand, um eine Leistung für andere zu erbringen (4) durch das Geben (1) einer Information (5), mit dem Ziel, dass der Antagonist informiert ist (Goal 5), etwa im Sinne eines Stoppsignals.. Autonom/Exzentrisch.
+
+abwinkeln: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im Konstruktionskontext bedeutet Abwinkeln das Bewegen (3) eines Werkstücks in einen bestimmten Winkel, um einen gewünschten Zustand (Goal 2) zu erreichen, wie bei Metallarbeiten oder Holzverarbeitung.. Autonom/Exzentrisch.
+
+abwinken: Material/Gesture 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur macht eine bestimmte Handbewegung (2), um eine Leistung für einen Antagonisten zu erbringen (4), indem er eine Ablehnung/Verneinung gibt (1) in Form einer informativen Geste (5), mit dem Ziel, dass der gewünschte Zustand des Antagonisten nicht realisiert wird (Goal -2), während der Akteur seinen eigenen gewünschten Zustand erreicht (Goal 2), nämlich die Beendigung des Vorschlags/der Anfrage.. Autonom/Exzentrisch.
+
+abwinken: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einer Diskussion oder einem Meinungsaustausch etwas ablehnen, einen Vorschlag zurückweisen. Der Akteur nutzt seine Entscheidungsbefugnis (2), um eine Leistung zu erbringen (4), indem er eine negative Information übermittelt (1/5), die den gewünschten Zustand des Antagonisten verhindert (Goal -2), um seinen eigenen gewünschten Zustand (Ablehnung durchsetzen) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+abwinken: Material/Sports 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Als Schiedsrichter oder Offizieller ein Signal geben, um eine Spielaktion zu beenden. Der Akteur bestimmt (2) und leistet für Spielbeteiligte (4) das Geben (1) einer Information durch eine Geste (5), mit dem Ziel, die Spieler zu informieren (Goal 5), und erfüllt damit seine Rolle als Offizieller (Goal 4).. Autonom/Exzentrisch.
+
+abwischen: Material/Cleanliness 3/Goal 2/aut/ecc
+Begründung: Abwischen ist ein Reinigungsvorgang, bei dem durch eine Bewegung (3) eine Oberfläche von Schmutz befreit wird, um einen gewünschten sauberen Zustand (Goal 2) zu erreichen. Der Vorgang ist selbstbestimmt und nach außen gerichtet (aut/ecc), da das Objekt bearbeitet wird.. Autonom/Exzentrisch.
+
+abwischen: Material/Waste-Disposal/Toilet 3/Goal 2/aut/ecc
+Begründung: Im Toilettenkontext bedeutet abwischen das Entfernen von Ausscheidungen durch eine Bewegung (3), um Sauberkeit herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+abwischen: Material/Gesture 3/Goal 3/aut/ecc
+Begründung: Als Geste (z.B. Tränen oder Schweiß abwischen) beinhaltet die Handlung eine Bewegung (3) mit dem Ziel, eine bestimmte Wirkung zu erzielen (Goal 3), etwa Erleichterung oder die Beseitigung von Anzeichen der Emotionen.. Autonom/Exzentrisch.
 
