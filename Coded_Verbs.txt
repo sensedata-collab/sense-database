@@ -325,8 +325,8 @@ Begründung: Abfragen bedeutet, in einer Autoritätsposition (2) zu bestimmen, w
 abfragen: Material/IT 2/1/Goal 5/aut/con
 Begründung: Im IT-Kontext bedeutet abfragen das Verfügen über (2) und Abrufen/Bekommen (1) von Daten aus einem System, mit dem Ziel, informiert zu sein (Goal 5). Der Akteur hat Kontrolle über den Abfrageprozess (aut/con).. Autonom/Konzentrisch.
 
-abfragen: Material/Professional 2/4/1/Goal 5//Goal 4/aut/con
-Begründung: Im beruflichen Kontext beinhaltet abfragen eine Autoritätsausübung (2) als Leistung (4) für einen Kunden/Auftraggeber, bei der Informationen bereitgestellt werden (1), damit der Kunde informiert ist (Goal 5). Nach dem Wechsel (//) folgt die berufliche Anerkennung/Vergütung (Goal 4).. Autonom/Konzentrisch.
+abfragen: Material/Professional 2/1/5/Goal 5//Goal 4/aut/con
+Begründung: Im beruflichen Kontext beinhaltet abfragen das Anfordern (2) das Bekommen (1) von Informationen (5), um informiert zu sein (Goal 5). Nach dem Wechsel (//) folgt die berufliche Anerkennung/Vergütung (Goal 4).. Autonom/Konzentrisch.
 
 abfräsen: Material/Professions/Construction 3/Goal 2/aut/ecc
 Begründung: Beim Abfräsen handelt es sich um eine Bearbeitungsmethode, bei der Material von einer Oberfläche durch eine rotierende Fräse abgetragen wird. Die Kodierung 3/Goal 2 beschreibt das Bewegen (3) des Werkzeugs durch das Material, um einen gewünschten Zustand (Goal 2) der Oberfläche zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt (aut) nach außen auf ein Objekt einwirkt (ecc).. Autonom/Exzentrisch.
@@ -544,8 +544,8 @@ Begründung: Im psychologischen Kontext bedeutet 'sich abkapseln', dass jemand s
 abkapseln: Material/Medical 3/2/Goal 2/het/ecc
 Begründung: Im medizinischen Kontext beschreibt 'abkapseln' einen körperlichen Prozess, bei dem der Organismus schädliche Substanzen oder Fremdkörper isoliert, indem er sie mit Bindegewebe umschließt. Es handelt sich um eine Bewegung (3) zur Kontrolle/Verfügung (2) über einen Fremdkörper, um einen gewünschten Zustand (Goal 2) der Isolation zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Prozess auf externe Reize reagiert.. Heteronom/Exzentrisch.
 
-abkassieren: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/con
-Begründung: Abkassieren bedeutet, dass ein Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Geld vom Antagonisten erhält/bekommt (1), um einen gewünschten Zustand herbeizuführen (Goal 2), wobei das Endziel des Akteurs die geschäftliche Anerkennung/Vergütung ist (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt im eigenen Einflussbereich handelt.. Autonom/Konzentrisch.
+abkassieren: Material/Financial-Transactions 2/1/Goal 2//Goal 4/aut/con
+Begründung: Abkassieren bedeutet, dass ein Akteur bestimmt (2), Geld von einem Antagonisten zu kassieren (1), für einen gewünschten Zustand (Goal 2), wobei das Endziel des Akteurs die geschäftliche Anerkennung/Vergütung ist (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt im eigenen Einflussbereich handelt.. Autonom/Konzentrisch.
 
 abkassieren: Material/Criminal/Activities 3/1/Goal 2/aut/ecc
 Begründung: Im umgangssprachlichen oder negativen Sinne kann 'abkassieren' auch bedeuten, jemanden übermäßig oder betrügerisch zur Kasse zu bitten. Hier bewegt sich der Akteur aktiv (3) auf den Antagonisten zu, um etwas zu bekommen (1), mit dem Ziel, einen für sich vorteilhaften Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
@@ -589,7 +589,7 @@ Begründung: In der Chemie bedeutet abklären, dass sich Schwebstoffe in einer F
 abknallen: Material/Fight/Aggression 3/1/Goal 3/Goal 2/aut/ecc
 Begründung: Abknallen bedeutet mit einer Schusswaffe auf jemanden zu schießen und zu töten. Es beinhaltet eine Bewegung/Anstreben (3) mit dem Bekommen (1) einer tödlichen Wirkung (Goal 3), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da die Handlung selbstbestimmt und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
-abknallen: Fight/Aggression 3/1/Goal 3/Goal 2/aut/ecc
+abknallen: Fight/Aggression 3/Goal 3/Goal 2/aut/ecc
 Begründung: In einem reinen Kampfkontext bezeichnet abknallen das gewaltsame Ausschalten eines Gegners durch Schusswaffen, mit dem Ziel, durch die Waffenwirkung (Goal 3) den Kampf zu gewinnen (Goal 2).. Autonom/Exzentrisch.
 
 abkommandieren: Material/Military 2/4/3/Goal 2//Goal 4/aut/con
@@ -619,8 +619,8 @@ Begründung: Im psychologischen Kontext bedeutet 'abkühlen' eine emotionale Bew
 abkühlen: Material/Food 3/Goal 2/het/ecc
 Begründung: Im Kontext der Nahrungszubereitung bezeichnet 'abkühlen' das Reduzieren der Temperatur von Speisen oder Getränken (3) mit dem Ziel, einen niedrigeren, verzehrbaren Temperaturzustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
-abladen: Material/Transportation 2/3/1/Goal 2/aut/ecc
-Begründung: Abladen bedeutet, dass der Akteur kontrolliert (2) bewegend (3) etwas aus seinem Besitz gibt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc), da er aktiv die Ladung von einem Transportmittel entfernt.. Autonom/Exzentrisch.
+abladen: Material/Transportation 2/4/3/1/Goal 2/aut/ecc
+Begründung: Abladen bedeutet, dass der Akteur kontrolliert (2) eine Leistung (4)bewegend (3) und gebend (1) einem Antagonisten, um einen von diesem gewünschten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc), da er aktiv die Ladung von einem Transportmittel entfernt.. Autonom/Exzentrisch.
 
 abladen: Material/Waste-Disposal 2/3/1/Goal 2/aut/ecc
 Begründung: Im Kontext der Abfallentsorgung bedeutet abladen das kontrollierte (2) Bewegen (3) und Abgeben (1) von Müll oder Abfall, um einen entsorgten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
@@ -691,8 +691,8 @@ Begründung: In psychologischer Hinsicht bedeutet 'ablenken' eine aktive Bewegun
 ablenken: Interpersonal 3/5/Goal -5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'ablenken' jemanden durch eigene Aktion (3) vom Kontakt mit einer Information oder Person wegzuführen (5), um Aufmerksamkeit/Kontakt auf etwas anderes zu lenken (Goal -5). Die Handlung ist selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
 
-ablenken: Fight/Dispute 3/Goal -3/Goal 2/aut/ecc
-Begründung: In einer Auseinandersetzung bedeutet 'ablenken' durch eine Bewegung (3) die Wirkung des Gegners zu verhindern (Goal -3), um einen eigenen vorteilhaften Zustand zu erreichen (Goal 2). Die Handlung erfolgt selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+ablenken: Fight/Dispute 3/Goal 2//Goal -3/aut/ecc
+Begründung: In einer Auseinandersetzung bedeutet 'ablenken' eine Bewegung (3), um einen eigenen vorteilhaften Zustand zu erreichen (Goal 2) und die Wirkung des Gegners zu verhindern (//Goal -3). Die Handlung erfolgt selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
 
 abliefern: Material/Transportation 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Abliefern bedeutet eine Leistung erbringen (4), indem man etwas transportiert/bewegt (3) und übergibt (1), damit der Empfänger darüber verfügen kann (Goal 2), mit dem Endziel der beruflichen Anerkennung/Vergütung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Vorgaben anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
@@ -725,13 +725,13 @@ ablöten: Material/Electrical 3/Goal 2/aut/ecc
 Begründung: Ablöten bedeutet das entfernen einer Lötverbindung durch gezieltes Bewegen/Anstreben (3) mit dem Ziel, einen gewünschten Zustand herzustellen (Goal 2), nämlich die Trennung der gelöteten Verbindung. Es handelt sich um eine selbstbestimmte, nach außen gerichtete Aktivität (aut/ecc).. Autonom/Exzentrisch.
 
 abmachen: Material/Contracts 3/2/Goal 2/aut/ecc
-Begründung: Im Sinne von 'vereinbaren' bedeutet 'abmachen' das aktive Bewegen/Anstreben (3) einer Verfügung/Festlegung (2), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da er mit einem Antagonisten eine Übereinkunft erzielt.. Autonom/Exzentrisch.
+Begründung: Im Sinne von 'vereinbaren' bedeutet 'abmachen' das aktive Bewegen/Anstreben (3) einer Verfügung/Festlegung (2), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt in Übereinstimmung (het) und nach außen gerichtet (ecc), da er mit einem Antagonisten eine Übereinkunft erzielt.. Heteronom/Exzentrisch.
 
 abmachen: Material 3/1/Goal 2/aut/ecc
 Begründung: Im Sinne von 'entfernen/ablösen' bedeutet 'abmachen' das Bewegen (3) und Nehmen (1) eines Objekts, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 abmachen: Interpersonal/Social 3/2/5/Goal 5/aut/ecc
-Begründung: Im Sinne von 'sich verabreden' bedeutet 'abmachen' das Bewegen/Anstreben (3) und Bestimmen (2) von Kontaktaufnahme (5), um einen Kontakt (Goal 5) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+Begründung: Im Sinne von 'sich verabreden' bedeutet 'abmachen' das Bewegen/Anstreben (3) und Bestimmen (2) von Kontaktaufnahme (5), um einen Kontakt (Goal 5) zu erreichen. Der Akteur handelt in Übereinstimmung (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
 abmahnen: Material/Law/Civil 2/4/1/5/Goal -2//Goal 4/aut/ecc
 Begründung: Abmahnen bedeutet im rechtlichen Kontext das Bestimmen (2) einer Leistung für einen Antagonisten (4), bei der eine Information (5) gegeben wird (1), mit dem Ziel, einen unerwünschten Zustand (Goal -2) zu korrigieren. Diese Tätigkeit wird autonom und nach außen gerichtet (aut/ecc) durchgeführt, typischerweise im beruflichen Kontext, weshalb sie mit Goal 4 endet.. Autonom/Exzentrisch.
@@ -794,7 +794,7 @@ abnehmen: Material/Measurement 5/2/Goal 5/aut/ecc
 Begründung: Messen, eine Messung vornehmen bedeutet, sich zu informieren (5) und die Information zur Verfügung zu haben (2), um Kenntnis über etwas zu erlangen (Goal 5).. Autonom/Exzentrisch.
 
 abnehmen: Material/Communication 5/1/Goal 5/het/ecc
-Begründung: Das Abnehmen eines Telefonhöfers oder Anrufs ist eine Informationsaufnahme (5) mit Bekommen (1) von Informationen (Goal 5), wobei man sich heterenom an die Situation anpasst.. Heteronom/Exzentrisch.
+Begründung: Das Abnehmen eines Telefonhörers oder Anrufs ist eine Informationsaufnahme (5) mit Bekommen (1) von Informationen (Goal 5), wobei man sich heterenom an die Situation anpasst.. Heteronom/Exzentrisch.
 
 abnehmen: Material/Business 2/4/1/Goal 2//Goal 4/aut/con
 Begründung: Im geschäftlichen Kontext bedeutet Abnehmen (von Waren/Dienstleistungen) eine Entscheidung (2) für eine Leistung (4), die mit Bekommen (1) einhergeht, um einen gewünschten Zustand (Goal 2) herzustellen und letztlich geschäftlichen Erfolg zu erzielen (Goal 4).. Autonom/Konzentrisch.
@@ -908,8 +908,8 @@ Begründung: Abreißen bezieht sich auf die bewusste Zerstörung oder Entfernung
 abreißen: Material/House/Building 3/Goal 2/aut/ecc
 Begründung: Im Kontext von Gebäuden bezeichnet abreißen den vollständigen Abbruch einer baulichen Struktur, um Platz für etwas Neues zu schaffen.. Autonom/Exzentrisch.
 
-abreißen: Material 3/1/Goal 2/het/ecc
-Begründung: In der allgemeinen Bedeutung kann abreißen auch das unbeabsichtigte Trennen eines Teils von einem Ganzen (wie ein abgerissener Faden oder Knopf) bedeuten. Hier ist die Ausrichtung heternom (het), da der Akteur sich an die Materialeigenschaften anpassen muss.. Heteronom/Exzentrisch.
+abreißen: Material 3/1/Goal -2/het/ecc
+Begründung: In der allgemeinen Bedeutung kann abreißen auch das unbeabsichtigte Trennen (3/1) eines Teils von einem Ganzen (wie ein abgerissener Faden oder Knopf) bedeuten (Goal -2). Hier ist die Ausrichtung heternom (het), da der Akteur sich an die Materialeigenschaften anpassen muss.. Heteronom/Exzentrisch.
 
 abrichten: Material/Animal/Training 2/4/1/5/Goal 2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) für das Tier, wobei er diesem Anweisungen und Informationen gibt (1/5), damit es einen gewünschten Zustand/Verhalten erreicht (Goal 2), was wiederum dem vom Akteur gewünschten Zustand entspricht (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur bestimmend auf das Tier einwirkt.. Autonom/Exzentrisch.
@@ -959,8 +959,8 @@ Begründung: Im kommunikativen Kontext bedeutet 'abrunden' das Vervollständigen
 abrücken: Material/Physical/Position 3/Goal -1/aut/ecc
 Begründung: Abrücken bezeichnet eine selbstbestimmte Bewegung (3) weg von etwas/jemandem mit dem Ziel, Distanz zu schaffen (Goal -1). Im physischen Sinne bedeutet es, sich räumlich von einem Ort oder Objekt wegzubewegen. Die autonome, exzentrische Ausrichtung (aut/ecc) zeigt an, dass der Akteur selbstbestimmt die Bewegung nach außen ausführt.. Autonom/Exzentrisch.
 
-abrücken: Material/Fight/Dispute 3/Goal -1/aut/ecc
-Begründung: In übertragener Bedeutung bezeichnet 'abrücken' das Distanzieren von einer Position, Meinung oder einem Standpunkt. Es handelt sich um eine selbstbestimmte (aut) nach außen gerichtete (ecc) Bewegung (3) mit dem Ziel, sich von etwas zu distanzieren (Goal -1).. Autonom/Exzentrisch.
+abrücken: Interpersonal/Fight/Dispute 3/Goal -1/aut/ecc
+Begründung: In übertragener Bedeutung bezeichnet 'abrücken' das Distanzieren von bestimmten Antagonisten (Goal -1). Es handelt sich um eine selbstbestimmte (aut) nach außen gerichtete (ecc) Bewegung (3) .. Autonom/Exzentrisch.
 
 abrücken: Interpersonal 3/Goal -1/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'abrücken' das bewusste Distanzieren von einer Person oder Gruppe. Der Akteur bewegt sich (3) selbstbestimmt (aut) nach außen (ecc) weg, um Abstand zu gewinnen (Goal -1).. Autonom/Exzentrisch.
@@ -1262,8 +1262,8 @@ Begründung: Im Kontext von Flüssigkeiten bedeutet Absperren das Verfügen (2) 
 absprechen: Material/Communication 3/5/Goal 5/aut/ecc
 Begründung: Absprechen beinhaltet das Bewegen/Anstreben (3) mit dem Zweck des Informierens (5), um informiert zu sein (Goal 5). Es geht um einen koordinierten Austausch von Informationen, bei dem der Akteur selbstbestimmt (aut) nach außen gerichtet (ecc) kommuniziert, um eine gemeinsame Informationsgrundlage zu schaffen.. Autonom/Exzentrisch.
 
-absprechen: Material/Fight/Dispute 3/5/Goal -5/Goal 2/aut/ecc
-Begründung: In diesem Kontext bedeutet 'absprechen' etwas abstreiten oder leugnen. Der Akteur bewegt sich mit Information (3/5) zu dem Zweck, dass der Antagonist nicht informiert ist (Goal -5), um einen gewünschten Zustand für sich selbst herzustellen (Goal 2).. Autonom/Exzentrisch.
+absprechen: Material/Fight/Dispute 3/4/1/5/Goal -5//Goal 2/aut/ecc
+Begründung: In diesem Kontext bedeutet 'absprechen' etwas abstreiten oder leugnen. Der Akteur bewegt (3) sich mit dem Geben (4/1) von Information (5) zu dem Zweck, dass der Antagonist nicht informiert ist (Goal -5), um einen gewünschten Zustand für sich selbst herzustellen (Goal 2).. Autonom/Exzentrisch.
 
 absprechen: Interpersonal 3/5/2/Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet 'absprechen' sich mit jemandem zu koordinieren oder eine Vereinbarung zu treffen. Es beinhaltet Bewegung/Anstreben (3), Kontaktaufnahme (5) und das Verfügen über eine gemeinsame Entscheidung (2), um Kontakt herzustellen (Goal 5).. Autonom/Exzentrisch.
@@ -1337,10 +1337,10 @@ Begründung: Im behördlichen/rechtlichen Kontext bedeutet abstempeln, durch aut
 abstempeln: Interpersonal/Psychological 2/5/Goal 2/Goal 5/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet 'jemanden abstempeln' eine Person kategorisierend zu bewerten (2), indem man ihr ein bestimmtes Merkmal oder eine Eigenschaft zuschreibt (5). Dies dient sowohl dem gewünschten Zustand der Einordnung (Goal 2) als auch der Verbreitung dieser Information (Goal 5).. Autonom/Exzentrisch.
 
-abstimmen: Material/Communication 3/5/2/Goal 5/Goal 2/het/ecc
-Begründung: Die Tätigkeit des Abstimmens im Sinne von Koordinieren oder Synchronisieren beinhaltet das Bewegen/Anstreben (3) von Informationen (5), um über etwas zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand zu erreichen (Goal 2). Die heteronome/exzentrische Ausrichtung (het/ecc) verdeutlicht, dass der Akteur sich an externe Faktoren anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+abstimmen: Material/Communication 3/5/2/Goal 5/Goal 2//Goal 2/het/ecc
+Begründung: Die Tätigkeit des Abstimmens im Sinne von Koordinieren oder Synchronisieren beinhaltet das Bewegen/Anstreben (3) von Informationen (5), um geordnet (2), informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand bei sich (Goal 2), als auch beim Antagonisten (//Goal 2) zu erreichen. Die heteronome/exzentrische Ausrichtung (het/ecc) verdeutlicht, dass der Akteur sich an externe Faktoren anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
 
-abstimmen: Fight/Election 2/4/1/5/Goal 5/Goal 2/aut/ecc
+abstimmen: Fight/Election 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im Wahlkontext bedeutet 'abstimmen' bestimmen/kontrollieren (2) durch geben (4/1) einer Information (5), um diese zur Kenntnis zu geben (Goal 5) und damit einen gewünschten Zustand (Goal 2) herbeizuführen. Die autonome/exzentrische Ausrichtung (aut/ecc) zeigt, dass der Akteur selbstbestimmt agiert, aber auf Entitäten außerhalb seines unmittelbaren Kontrollbereichs einwirkt.. Autonom/Exzentrisch.
 
 abstimmen: Material/Music 2/3/Goal 2/het/ecc
@@ -1386,7 +1386,7 @@ abstumpfen: Material/Protection 3/Goal -3/Goal 2/aut/ecc
 Begründung: Im Sicherheitskontext kann 'abstumpfen' das absichtliche Verringern einer Spitze oder Kante bedeuten, um Verletzungsgefahren zu reduzieren. Hier ist die Bewegung (3) mit einer bewusst verringerten Schneidwirkung (Goal -3) verbunden, um einen gewünschten sichereren Zustand (Goal 2) zu erreichen. Die Handlung erfolgt selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
 abstürzen: Material/Accident 3/1/Goal -3/Goal -2/het/ecc
-Begründung: Eine unbeabsichtigte, unkontrollierte Bewegung (3) nach unten, bei der ein Zustand erreicht wird (1), der nicht dem gewünschten Bewegungsziel entspricht (Goal -3) und einen unerwünschten Zustand zur Folge hat (Goal -2). Die Ausrichtung ist heteronym/ekzentrisch (het/ecc), da der Vorgang nicht vom Akteur kontrolliert wird, sondern von äußeren Faktoren abhängt.. Heteronom/Exzentrisch.
+Begründung: Eine unbeabsichtigte, unkontrollierte Bewegung (3) nach unten, bei der ein Zustand erreicht wird (1), der nicht dem gewünschten Bewegungsziel entspricht (Goal -3) und einen unerwünschten Zustand zur Folge hat (Goal -2). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Vorgang nicht vom Akteur kontrolliert wird, sondern von äußeren Faktoren abhängt.. Heteronom/Exzentrisch.
 
 abstürzen: Material/IT 3/Goal -2/het/ecc
 Begründung: Im IT-Kontext bedeutet 'abstürzen' eine Fehlfunktion eines Programms oder Systems (3), die zu einem unerwünschten Zustand führt (Goal -2). Der Akteur hat keine Kontrolle über den Vorgang (het/ecc).. Heteronom/Exzentrisch.
@@ -1500,10 +1500,10 @@ abwaschen: Material/Cleanliness/Personal 3/Goal 2/aut/ecc
 Begründung: Im persönlichen Hygienekontext bedeutet abwaschen das Reinigen des eigenen Körpers oder von Körperteilen. Auch hier ist es eine Bewegung (3) zur Herstellung eines gewünschten Zustands (Goal 2) der Sauberkeit, mit selbstbestimmter (aut) nach außen gerichteter (ecc) Ausführung.. Autonom/Exzentrisch.
 
 abwehren: Material/Fight/Defense 1/3/Goal 2//Goal -3/aut/con
-Begründung: Abwehren bedeutet im Verteidigungskontext, dass der Akteur auf einen Angriff (1) reagiert und mit Bewegung/Aktivität (3) einen gewünschten Zustand (Goal 2), nämlich die Verhinderung des Angriffserfolgs (//Goal -3), erreicht. Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt in seinem eigenen Bereich handelt.. Autonom/Konzentrisch.
+Begründung: Abwehren bedeutet im Verteidigungskontext, dass der Akteur bekommt (1) Kampf mit Bewegung (3), bei dem er einen gewünschten Zustand (Goal 2) anstrebt, nämlich die Verhinderung des Angriffserfolgs eines Antagonisten (//Goal -3), zu erreichen. Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt in seinem eigenen Bereich handelt.. Autonom/Konzentrisch.
 
 abwehren: Material/Fight/Sports 1/3/Goal 2//Goal -3/aut/con
-Begründung: Im sportlichen Kontext bedeutet abwehren, dass ein Akteur auf einen Angriff (1) mit einer Bewegung (3) reagiert, um einen gewünschten Zustand (Goal 2), nämlich die Verhinderung des Angriffserfolgs (//Goal -3), etwa einen Ball abzuwehren. Die Handlung ist selbstbestimmt im eigenen Bereich (aut/con).. Autonom/Konzentrisch.
+Begründung: Im sportlichen Kontext bedeutet abwehren, dass der Akteur auf einen Angriff (1/3) reagiert, um  einen gewünschten Zustand (Goal 2), nämlich die Verhinderung des Angriffserfolgs des Antagonisten (//Goal -3), zu erreichen. Die Handlung ist selbstbestimmt im eigenen Bereich (aut/con).. Autonom/Konzentrisch.
 
 abwehren: Material/Fight/Dispute 2/4/Goal -2//Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet abwehren, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), die zum Nicht-Erreichen des gewünschten Zustands für den Antagonisten führt (Goal -2) und den eigenen gewünschten Zustand sichert (Goal 2), etwa bei der Abwehr von Vorwürfen oder Ansprüchen.. Autonom/Exzentrisch.
@@ -1532,8 +1532,8 @@ Begründung: Im behördlichen Kontext bedeutet 'abweisen' (z.B. eines Antrags), 
 abwenden: Interpersonal 3/Goal -1/aut/ecc
 Begründung: Im interpersonalen Bereich bedeutet 'abwenden' eine aktive Bewegung (3) weg von einer Person, mit dem Ziel Distanz herzustellen bzw. Nähe zu vermeiden (Goal -1). Der Akteur handelt selbstbestimmt (aut) und richtet seine Bewegung nach außen (ecc).. Autonom/Exzentrisch.
 
-abwenden: Material/Fight/Defense 3/Goal -3/aut/ecc
-Begründung: Eine Gefahr, Bedrohung oder negative Wirkung aktiv durch Bewegung/Handlung (3) verhindern, mit dem Ziel, eine unerwünschte Wirkung zu vermeiden (Goal -3). Der Akteur handelt selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+abwenden: Material/Fight/Defense 3//Goal -3/aut/ecc
+Begründung: Eine Gefahr, Bedrohung oder negative Wirkung aktiv durch Bewegung/Handlung (3) verhindern, mit dem Ziel, eine unerwünschte Wirkung durch einen Antagonisten zu vermeiden (Goal -3). Der Akteur handelt selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
 
 abwenden: Material/Physical/Position 3/Goal 3/aut/ecc
 Begründung: Die physische Richtungsänderung oder Drehung eines Körpers oder Objekts. Eine selbstbestimmte Bewegung (3), um eine bestimmte Richtung/Position zu erreichen (Goal 3).. Autonom/Exzentrisch.
@@ -1612,4 +1612,886 @@ Begründung: Im Toilettenkontext bedeutet abwischen das Entfernen von Ausscheidu
 
 abwischen: Material/Gesture 3/Goal 3/aut/ecc
 Begründung: Als Geste (z.B. Tränen oder Schweiß abwischen) beinhaltet die Handlung eine Bewegung (3) mit dem Ziel, eine bestimmte Wirkung zu erzielen (Goal 3), etwa Erleichterung oder die Beseitigung von Anzeichen der Emotionen.. Autonom/Exzentrisch.
+
+abwägen: Material/Process 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Abwägen bedeutet, verschiedene Optionen oder Faktoren zu untersuchen (3/5) und zu bewerten, um über sie zu verfügen/zu entscheiden (2). Das primäre Ziel ist, informiert zu sein (Goal 5) über die Vor- und Nachteile, um letztendlich einen gewünschten Zustand/eine Entscheidung zu erreichen (Goal 2). Der Akteur passt sich an externe Faktoren an (het) und ist nach außen gerichtet (ecc), da er verschiedene äußere Informationen berücksichtigen muss.. Heteronom/Exzentrisch.
+
+abwägen: Material/Measurement 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Im Kontext des konkreten Messens/Wiegens bedeutet abwägen, mit einer Waage verschiedene Gewichte zu vergleichen (3/5), um über die richtige Menge zu verfügen (2). Das Ziel ist, genaue Informationen über das Gewicht zu erhalten (Goal 5), um einen gewünschten Zustand (z.B. korrekte Dosierung) zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
+abwägen: Material/Scientific 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet abwägen eine methodische Evaluation von Daten und Fakten (3/5), um zu einer fundierten Entscheidung zu gelangen (2). Das Ziel ist, eine umfassende Informationsbasis zu schaffen (Goal 5), die eine objektive Schlussfolgerung ermöglicht (Goal 2).. Heteronom/Exzentrisch.
+
+abwälzen: Material/Responsibility 3/4/1/Goal -2//Goal 2 het/ecc
+Begründung: Im Kontext von Verantwortung bedeutet 'abwälzen' das Bewegen (3) und Übertragen (4/1) einer Verpflichtung oder Last auf jemand anderen, um den eigenen gewünschten Zustand zu erreichen (Goal 2), indem man verhindert, dass der Antagonist den gewünschten Zustand (der Nicht-Belastung) erreicht (Goal -2). Der Akteur schiebt aktiv eine Verpflichtung auf einen anderen, um selbst entlastet zu sein.. Heteronom/Exzentrisch.
+
+abwälzen: Material/Fight/Dispute 2/4/Goal -2//Goal 2 het/ecc
+Begründung: In Konfliktsituationen kann 'abwälzen' bedeuten, dass man bestimmt (2), dass der Antagonist eine Last oder Schuld tragen soll (4), um dessen gewünschten Zustand zu verhindern (Goal -2) und den eigenen gewünschten Zustand der Entlastung zu erreichen (Goal 2). Der Fokus liegt hier auf der Machtposition des Akteurs in einer Auseinandersetzung.. Heteronom/Exzentrisch.
+
+abwälzen: Material/Physical 3/1/Goal 2 aut/ecc
+Begründung: In einem rein physischen Kontext kann 'abwälzen' das Bewegen (3) und Verlagern einer physischen Last bedeuten, um sie von sich weg zu bekommen (1) und einen gewünschten Zustand zu erreichen (Goal 2), ohne dass dabei zwingend ein Antagonist involviert ist.. Autonom/Exzentrisch.
+
+abzeichnen: Material/Art 3/1/Goal 5/het/ecc
+Begründung: Beim Abzeichnen bewegt man sich (3) in Bezug auf eine Vorlage, um deren Informationen zu bekommen (1) mit dem Ziel, informiert zu sein bzw. eine informationelle Kopie zu erstellen (Goal 5). Die Ausrichtung ist heterenom/exzentrisch, da man sich an einer externen Vorlage orientiert.. Heteronom/Exzentrisch.
+
+abzeichnen: Material/Office 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im Bürokontext bedeutet Abzeichnen das Bestätigen (2) eines Dokuments durch das Leisten (4) einer Unterschrift, wobei man etwas gibt (1), nämlich eine Information (5) mit dem Ziel, dass der Empfänger informiert ist (Goal 5). Nach dem Wechsel folgt das Ziel der beruflichen Anerkennung (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da man selbstbestimmt nach außen handelt.. Autonom/Exzentrisch.
+
+abzeichnen: Material/Process 3/5/Goal 5/het/ecc
+Begründung: Als Prozess kann Abzeichnen auch bedeuten, dass sich etwas (z.B. eine Entwicklung) abzeichnet - also erkennbar wird. Hier bewegt sich (3) etwas, wodurch Informationen (5) erkennbar werden, mit dem Ziel des Informiertseins (Goal 5). Die Ausrichtung ist heterenom/exzentrisch, da dieser Prozess von außen wahrgenommen wird.. Heteronom/Exzentrisch.
+
+abziehen: Material 3/Goal 2/aut/ecc
+Begründung: Die Hauptbedeutung von 'abziehen' bezieht sich auf das Entfernen eines Objekts von einem anderen durch eine Bewegung (3). Das Ziel ist die Realisierung eines gewünschten Zustands (Goal 2), nämlich die Trennung der Objekte. Die Handlung erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da sie die physische Umgebung verändert.. Autonom/Exzentrisch.
+
+abziehen: Material/Financial-Transactions 2/3/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet 'abziehen' das Einbehalten oder Subtrahieren eines Geldbetrags. Der Akteur bestimmt (2) eine Bewegung (3), leistet für den Antagonisten (4) durch Geben (1) für einen gewünschten Zustand (Goal 2) mit dem letztendlichen Ziel der eigenen geschäftlichen Anerkennung/Vergütung (Goal 4).. Autonom/Exzentrisch.
+
+abziehen: Material/Professions/Tailoring 3/Goal 2/aut/ecc
+Begründung: Im Kontext des Schneiderhandwerks bedeutet 'abziehen' das Entfernen eines Schnittmusters vom Stoff. Es handelt sich um eine präzise Bewegung (3) mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+abziehen: Material/Printing 3/1/Goal 2/aut/ecc
+Begründung: Im Druckwesen bezeichnet 'abziehen' das Herstellen eines Probedrucks. Die Bewegung (3) führt zum Bekommen (1) eines gewünschten Zustands (Goal 2) - des fertigen Abzugs.. Autonom/Exzentrisch.
+
+abziehen: Material/Fight/Defense 3/Goal 3//Goal -3/aut/ecc
+Begründung: Im Verteidigungskontext bedeutet 'abziehen' das Zurückziehen aus einer gefährlichen Situation. Die Bewegung (3) dient dem Erreichen einer Destination/Wirkung (Goal 3), während gleichzeitig die Wirkung des Antagonisten verhindert wird (Goal -3).. Autonom/Exzentrisch.
+
+abzocken: Material/Criminal/Procurement 2/3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Abzocken bedeutet, jemanden betrügerisch um Geld oder Wertgegenstände zu bringen. Der Akteur bestimmt (2) und bewegt sich strategisch (3), um etwas vom Antagonisten zu bekommen (1), um einen gewünschten Zustand für sich herzustellen (Goal 2), wobei gleichzeitig der Antagonist geschädigt wird (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf andere einwirkt.. Autonom/Exzentrisch.
+
+abzocken: Material/Financial-Transactions 2/4/1/Goal 2//Goal 2/aut/ecc
+Begründung: Im umgangssprachlichen, weniger kriminellen Kontext kann 'abzocken' auch überhöhte Preise verlangen bedeuten. Der Akteur bestimmt (2) und leistet etwas für den Antagonisten (4), wobei der etwas bekommt (1) für einen gewünschten Zustand (Goal 2), der letztlich dem eigenen Vorteil dient (//Goal 2).. Autonom/Exzentrisch.
+
+abändern: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Abändern bedeutet, die Verfügungsgewalt (2) über etwas zu nutzen, um es durch Bearbeitung/Bewegung (3) zu verändern und damit einen neuen gewünschten Zustand (Goal 2) zu realisieren. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein außerhalb befindliches Objekt einwirkt.. Autonom/Exzentrisch.
+
+abändern: Material/Law/Compliance 2/3/Goal 2/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet abändern das Modifizieren von Dokumenten, Verträgen oder Regelungen, wobei die Verfügungsgewalt (2) genutzt wird, um durch gezielte Änderungen (3) einen neuen rechtlich wirksamen Zustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
+
+accounten: Material/IT/Process 2/5/Goal 5/Goal 2/het/ecc
+Begründung: Im IT-Kontext bedeutet 'accounten' das Verwalten (2) von Benutzerkonten durch Informationsverarbeitung (5), mit dem Ziel, Zugriffsinformationen zu organisieren (Goal 5) und einen gewünschten Systemzustand zu erreichen (Goal 2). Die Aktivität ist heterogen/exzentrisch ausgerichtet, da der Akteur sich an vorgegebene Systemstrukturen anpassen muss.. Heteronom/Exzentrisch.
+
+accounten: Material/Financial-Transactions 2/5/Goal 5/Goal 2/het/ecc
+Begründung: In der Finanzwelt bedeutet 'accounten' das Verwalten von Finanz- und Buchhaltungskonten durch systematische Erfassung und Verwaltung von Informationen, um einen geordneten Finanzzustand zu erreichen.. Heteronom/Exzentrisch.
+
+achten: Material/Responsibility 2/5/Goal 5/Goal 2/aut/ecc
+Begründung: Achten bedeutet, Aufmerksamkeit (5) auf etwas zu richten und es mit Sorgfalt zu behandeln oder zu berücksichtigen (2), um informiert zu sein (Goal 5) mit dem übergeordneten Ziel, einen gewünschten Zustand der Verantwortlichkeit herzustellen (Goal 2). Die autonome, nach außen gerichtete Ausrichtung (aut/ecc) zeigt, dass der Akteur selbstbestimmt handelt und seine Aufmerksamkeit auf externe Objekte oder Situationen richtet.. Autonom/Exzentrisch.
+
+achten: Interpersonal 2/4/5/Goal 5//Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet achten, jemand bestimmtes (2) mit einer besonderen Zuvorkommenheit (4) beachten (5) für einen gewünschten besonderen Zustand im Verhältnis zu diesem Antagonisten (//Goal 2) .. Autonom/Exzentrisch.
+
+achten: Material/Compliance 2/5/Goal 5/Goal 2/het/ecc
+Begründung: Im Bereich der Einhaltung von Regeln bedeutet achten, auf Vorschriften oder Bedingungen (2) zu achten. Der Akteur passt sich (het) an externe Vorgaben an, behält diese im Blick (5/Goal 5) und stellt sicher, dass ein gewünschter Zustand der Regelkonformität erreicht wird (Goal 2).. Heteronom/Exzentrisch.
+
+acquirieren: Material/Business 3/5/1/Goal 2/Goal 4/aut/ecc
+Begründung: Bei 'acquirieren' im geschäftlichen Kontext handelt es sich um das aktive Anstreben und Bewegen (3) mit dem Ziel, Informationen zu sammeln (5) und durch diesen Vorgang Kunden oder Aufträge zu bekommen (1), um einen gewünschten Geschäftszustand zu erreichen (Goal 2) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
+
+acquirieren: Material/Financial-Transactions 3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext kann 'acquirieren' das Erwerben von Unternehmen oder Vermögenswerten bedeuten. Hier liegt der Fokus auf der zielgerichteten Bewegung (3) zum Bekommen (1) eines gewünschten Besitzzustands (Goal 2) für wirtschaftlichen Erfolg (Goal 4).. Autonom/Exzentrisch.
+
+adaptieren: Material/Process 3/5/2/Goal 2/het/ecc
+Begründung: Adaptieren bedeutet, etwas an veränderte Bedingungen anzupassen oder zu verändern. Es beinhaltet Bewegung/Veränderung (3) in Verbindung mit Informationsverarbeitung (5), um Verfügung (2) über einen neuen, gewünschten Zustand (Goal 2) zu erlangen. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da man sich nach externen Bedingungen richten muss.. Heteronom/Exzentrisch.
+
+adaptieren: Material/IT/Process 3/5/2/Goal 2/het/ecc
+Begründung: Im IT-Kontext bedeutet adaptieren, Software oder Systeme an neue Anforderungen oder Umgebungen anzupassen - durch Modifikation (3), unter Berücksichtigung von Informationen (5), um Kontrolle (2) über eine neue Funktionalität zu erlangen (Goal 2).. Heteronom/Exzentrisch.
+
+adaptieren: Material/Scientific 3/5/2/Goal 5/het/ecc
+Begründung: In der Wissenschaft bedeutet adaptieren, eine Theorie oder Methode an einen neuen Anwendungsbereich anzupassen - durch Modifikation (3) und Informationsverarbeitung (5), um Verfügung (2) über einen neuen Wissensstand (Goal 5) zu erlangen.. Heteronom/Exzentrisch.
+
+addieren: Material/Scientific 3/5/Goal 5/het/ecc
+Begründung: Addieren bedeutet mathematische Werte zusammenzählen. Dies erfordert ein Bewegen/Anstreben (3) von Informationen, um sich zu informieren (5), mit dem Ziel informiert zu sein (Goal 5) über das Ergebnis. Die Ausrichtung ist heteronom/exzentrisch, da man sich bei der Addition an externe Regeln anpassen muss und nach außen auf die Zahlen gerichtet ist.. Heteronom/Exzentrisch.
+
+addieren: Material/IT/Process 3/5/Goal 5/het/ecc
+Begründung: Im IT-Kontext bedeutet addieren das Zusammenfügen von Datenwerten. Dies folgt dem gleichen Grundprinzip des Bewegens (3) und Verarbeitens von Informationen (5), um ein informatives Ergebnis zu erhalten (Goal 5), jedoch spezifisch in der digitalen Datenverarbeitung.. Heteronom/Exzentrisch.
+
+administrieren: Material/Office 2/3/Goal 2/Goal 4/aut/con
+Begründung: Administrieren bedeutet das Verfügen über (2) und Bearbeiten/Ordnen von (3) Ressourcen oder Informationen, um einen gewünschten Zustand (Goal 2) herzustellen, mit dem übergeordneten Ziel, eine berufliche Leistung zu erbringen (Goal 4). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt handelt und sich auf seinen inneren Kontrollbereich konzentriert.. Autonom/Konzentrisch.
+
+administrieren: Material/IT/Process 2/3/5/Goal 2/Goal 5/aut/con
+Begründung: Im IT-Kontext bedeutet Administrieren das Verfügen über (2), Bearbeiten/Organisieren (3) und Informationen verwalten (5) in Systemen, um sowohl einen gewünschten Systemzustand (Goal 2) als auch den Informationsstatus (Goal 5) zu erreichen oder aufrechtzuerhalten.. Autonom/Konzentrisch.
+
+administrieren: Material/Government 2/3/Goal 2/Goal 4/aut/con
+Begründung: Im Verwaltungs- oder Regierungskontext bedeutet Administrieren das bestimmende Verwalten (2) und Organisieren (3) von Ressourcen und Aufgaben, um staatliche oder behördliche Ziele (Goal 2) im Rahmen beruflicher Tätigkeit (Goal 4) zu erreichen.. Autonom/Konzentrisch.
+
+adressieren: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Beim Adressieren leistet der Akteur (4) für einen Antagonisten (Empfänger), indem er diesem Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), mit dem übergeordneten Ziel, Anerkennung für diese Leistung zu bekommen (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+adressieren: Material/IT 2/5/Goal 5/aut/ecc
+Begründung: Im IT-Kontext bedeutet adressieren das Bestimmen/Zuweisen (2) von Informationen (5), um eine Datenstruktur zu referenzieren oder zu lokalisieren (Goal 5). Hier geht es um die technische Verfügung über Speicherbereiche oder Identifikatoren.. Autonom/Exzentrisch.
+
+adressieren: Material/Diplomatic 3/5/2/Goal 5/aut/ecc
+Begründung: Im diplomatischen oder formellen Kontext bedeutet 'ein Thema adressieren' das aktive Ansprechen (3) und Informieren (5) über einen Sachverhalt, um darüber Kontrolle zu erlangen (2) und informiert zu sein (Goal 5).. Autonom/Exzentrisch.
+
+advertisen: Material/Market 4/1/5/Goal 5//Goal 3/Goal 4/aut/ecc
+Begründung: Als kommunikativer Akt kann Werben als Leistung (4) des Gebens (1) von Informationen (5) verstanden werden, um den Empfänger zu informieren (Goal 5), was letztlich eine Wirkung erzielen soll (Goal 3) und dem Akteur geschäftlichen Erfolg bringt (Goal 4).. Autonom/Exzentrisch.
+
+advertisieren: Material/Business 2/4/1/5//Goal 3/Goal 4/aut/ecc
+Begründung: Advertisieren bedeutet, bestimmend (2) eine Leistung für potenzielle Kunden zu erbringen (4), indem man ihnen (1) Informationen (5) gibt, mit dem Ziel, eine Wirkung zu erzielen (Goal 3) wie z.B. Kaufinteresse. Letztendlich dient dies dem geschäftlichen Zweck, Anerkennung/Geld zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
+
+advertisieren: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im allgemeineren Kommunikationskontext kann advertisieren auch als reine Informationsübermittlung verstanden werden, bei der man eine Leistung erbringt (4), indem man Informationen gibt (1/5), damit der Empfänger informiert ist (Goal 5), mit dem letztendlichen Ziel der beruflichen Anerkennung/Vergütung (Goal 4).. Autonom/Exzentrisch.
+
+affektieren: Interpersonal/Psychological 3/5/Goal 3/aut/ecc
+Begründung: Affektieren bedeutet, ein bestimmtes Verhalten oder Gefühl auf übertriebene, gekünstelte Weise zur Schau zu stellen. Der Akteur bewegt sich in Bezug auf Andere (3) und sucht Kontakt/Aufmerksamkeit (5), mit dem primären Ziel, eine bestimmte Wirkung bei den Beobachtern zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf andere wirken möchte.. Autonom/Exzentrisch.
+
+affektieren: Material/Theater-Acting 3/5/Goal 3/aut/ecc
+Begründung: Im Kontext des Schauspielens bedeutet affektieren die bewusste, theatralische Überzeichnung von Emotionen oder Verhaltensweisen. Der Schauspieler bewegt sich (3) und stellt etwas zur Schau (5), um eine bestimmte künstlerische Wirkung (Goal 3) zu erzielen. Die Ausrichtung bleibt autonom/exzentrisch, da der Darsteller bewusst und selbstbestimmt agiert und die Wirkung nach außen zielt.. Autonom/Exzentrisch.
+
+affinen: Material/Scientific 2/Goal 5/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet 'affin' eine bestimmte Verwandtschaft oder Übereinstimmung zwischen Stoffen oder Konzepten zu haben, was einem Verfügen (2) über Informationen oder Kenntnisse entspricht, mit dem Ziel informiert zu sein (Goal 5). Die heteronome/exzentrische Ausrichtung spiegelt wider, dass man sich dabei an externe Eigenschaften oder Strukturen anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+affinen: Interpersonal 5/Goal 5/het/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet 'affin sein' eine Neigung oder Anziehung zu jemandem oder etwas zu haben, was dem Suchen von Kontakt (5) entspricht, mit dem Ziel, Kontakt herzustellen oder aufrechtzuerhalten (Goal 5).. Heteronom/Exzentrisch.
+
+affinen: Material/Chemical 3/1/Goal 2/het/ecc
+Begründung: In der Chemie beschreibt 'Affinität' die Anziehungskraft zwischen chemischen Substanzen, die zur Bindung führt. Dies entspricht einem Bewegen/Anstreben (3) und Bekommen (1) eines gewünschten Zustands (Goal 2), wobei man sich an die chemischen Gesetzmäßigkeiten anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+aggregieren: Material/IT/Process 3/5/2/Goal 5/het/ecc
+Begründung: Das IT-bezogene Aggregieren beinhaltet das Bewegen/Anstreben (3) von Informationen (5), um diese in eine verfügbare Form zu bringen (2), mit dem Ziel, einen informativen Überblick zu erhalten (Goal 5). Die Aktivität ist heteronom, da sie von externen Datenquellen abhängt, und nach außen gerichtet, weil verschiedene Datenquellen zusammengeführt werden.. Heteronom/Exzentrisch.
+
+aggregieren: Material/Scientific 3/5/2/Goal 5/het/ecc
+Begründung: Im wissenschaftlichen Kontext bezeichnet Aggregieren das Zusammenführen (3) von Informationen oder Daten (5) in einen verfügbaren Zustand (2), um einen informativen Überblick zu gewinnen (Goal 5). Die heteronome/exzentrische Ausrichtung ist durch die Abhängigkeit von externen Datenquellen bedingt.. Heteronom/Exzentrisch.
+
+agilen: Material/Process ADJ 3/Goal 3/het/ecc
+Begründung: Das Adjektiv 'agil' bezeichnet eine schnelle, flexible und anpassungsfähige Bewegung/Handlungsweise (3), die auf effektive Zielerreichung ausgerichtet ist (Goal 3). Die heteronome und exzentrische Ausrichtung (het/ecc) spiegelt die Anpassungsfähigkeit an externe Bedingungen wider, da Agilität eine reaktive Komponente und Außenorientierung beinhaltet.. Heteronom/Exzentrisch.
+
+agilen: Material/IT/Process ADJ 3/2/Goal 3/het/ecc
+Begründung: Im IT-Kontext bezieht sich 'agil' auf eine spezifische Projektmanagement-Methodik, die Flexibilität (3) und iterative Steuerung (2) betont, um schnell auf Veränderungen reagieren zu können und Ziele effektiv zu erreichen (Goal 3). Die Ausrichtung ist heteronomer und exzentrischer Natur, da sich agile Methoden an externen Anforderungen orientieren.. Heteronom/Exzentrisch.
+
+agilen: Material/Sports ADJ 3/Goal 3/aut/ecc
+Begründung: Im sportlichen Kontext beschreibt 'agil' die Fähigkeit zu schnellen, wendigen Bewegungen (3) mit dem Ziel einer effektiven Wirkung (Goal 3). Hier ist die Ausrichtung eher autonom und exzentrisch (aut/ecc), da die Beweglichkeit auf eigener Körperbeherrschung basiert, aber nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+agitieren: Material/Fight/Propaganda 3/5/Goal 3/Goal 2/aut/ecc
+Begründung: Agitieren ist eine Aktivität, bei der mit Bewegung/Anstreben (3) Informationen verbreitet werden (5), um eine Wirkung zu erzielen (Goal 3) mit dem übergeordneten Ziel, einen gewünschten Zustand herzustellen (Goal 2). Die Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf andere Menschen einwirkt.. Autonom/Exzentrisch.
+
+agitieren: Interpersonal/Psychological 3/5/Goal 3/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet agitieren, aufgeregt zu sein und diese Aufregung aktiv nach außen zu tragen (3), wodurch man Kontakt zu anderen herstellt (5), um eine Wirkung zu erzielen (Goal 3). Die Aktivität ist autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+agitieren: Material/Fight/Election/Political-Parties 3/5/Goal 3/Goal 2/Goal 4/aut/ecc
+Begründung: Im politischen Kontext bedeutet agitieren das aktive Werben (3) und Informieren (5) für politische Ziele, um Wirkung bei Wählern zu erzielen (Goal 3), einen gewünschten politischen Zustand herzustellen (Goal 2) und letztlich berufliche Anerkennung zu erlangen (Goal 4).. Autonom/Exzentrisch.
+
+ahnen: Material/Psychological 3/5/Goal 5/het/ecc
+Begründung: Ahnen bedeutet, eine Vermutung über etwas zu haben, ohne klare Beweise. Es beinhaltet ein mentales Anstreben (3) von Informationen durch eine informationssuchende Aktivität (5), um zu einem Kenntnisstand (Goal 5) zu gelangen, der jedoch unvollständig ist. Die Ausrichtung ist heteronom (het), da der Akteur von äußeren Umständen abhängig ist, und exzentrisch (ecc), da die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+ahnen: Material/Scientific 3/5/2/Goal 5/het/ecc
+Begründung: Im wissenschaftlichen Kontext kann 'ahnen' eine vorläufige Hypothese oder intuitive Vermutung bedeuten, die auf begrenzten Daten basiert. Es umfasst das Anstreben (3) von Informationen (5) mit einem vorläufigen Verfügen über einen möglichen Zusammenhang (2), um zu einem vorläufigen Wissensstand (Goal 5) zu gelangen.. Heteronom/Exzentrisch.
+
+ahnen: Material/Memory 5/1/Goal 5/het/con
+Begründung: In Bezug auf Erinnerung kann 'ahnen' bedeuten, dass jemand verschwommene Erinnerungen an etwas hat. Hier geht es um das Suchen nach Informationen (5) und das teilweise Bekommen (1) dieser Erinnerungen, um einen unvollständigen Kenntnisstand (Goal 5) zu erreichen. Die Ausrichtung ist nach innen (con), da es um Inhalte des eigenen Gedächtnisses geht.. Heteronom/Konzentrisch.
+
+akklamieren: Material/Social 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Akklamieren bedeutet, dass der Akteur eine Leistung (4) erbringt, indem er durch lauten Zuruf (1/5) Zustimmung oder Beifall ausdrückt, damit der Antagonist informiert ist (Goal 5). Der Akteur tut dies in der Erwartung von sozialer Anerkennung (//Goal 4). Die Ausrichtung ist heterenom/exzentrisch, da sich der Akteur an einen externen Kontext anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+akklamieren: Fight/Election 4/1/5/Goal 5//Goal 2/het/ecc
+Begründung: Im Kontext von Wahlen bedeutet akklamieren, dass durch Zuruf (ohne formelle Abstimmung) eine Person in ein Amt gewählt wird. Der Akteur leistet (4) eine Zustimmungskundgebung (1/5), damit der Antagonist informiert ist (Goal 5), was letztendlich den gewünschten Zustand (//Goal 2) der Besetzung einer Position bewirkt.. Heteronom/Exzentrisch.
+
+akklimatisieren: Material/Biological/Process 3/1/Goal 2/het/ecc
+Begründung: Akklimatisieren bedeutet, einen Organismus an neue Umgebungsbedingungen (wie Klima, Temperatur, Höhe) anzupassen. Der Akteur bewegt/stellt um (3) und bekommt (1) einen gewünschten Zustand der Anpassung (Goal 2). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Prozess von externen Umweltbedingungen abhängig ist und nach außen gerichtet stattfindet.. Heteronom/Exzentrisch.
+
+akklimatisieren: Material/Scientific 3/1/Goal 2/het/ecc
+Begründung: Im wissenschaftlichen Kontext bezeichnet Akklimatisierung den kontrollierten Prozess, in dem Organismen oder Materialien systematisch an neue Umgebungsbedingungen angepasst werden. Der Prozess beinhaltet Bewegung/Anstreben (3) und Bekommen (1) eines gewünschten Anpassungszustands (Goal 2).. Heteronom/Exzentrisch.
+
+akklimatisieren: Interpersonal/Psychological 3/1/Goal 2/het/ecc
+Begründung: Im übertragenen Sinne kann sich eine Person an eine neue soziale Umgebung akklimatisieren. Dies bedeutet, dass die Person sich anpasst (3), um einen gewünschten Zustand des Wohlbefindens in der neuen Umgebung zu erreichen (1/Goal 2).. Heteronom/Exzentrisch.
+
+akkordieren: Material/Music 2/4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Akkordieren bedeutet im musikalischen Kontext, Instrumente aufeinander abzustimmen. Der Akteur bestimmt (2) und leistet für andere (4) durch Geben (1) von Informationen (5), damit diese informiert sind (Goal 5), mit dem Ziel der beruflichen Anerkennung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da sich der Akteur nach externen Vorgaben wie Tonhöhen und Instrumente richten muss.. Heteronom/Exzentrisch.
+
+akkordieren: Material/Contracts 2/4/1/5/Goal 2//Goal 2/Goal 4/het/ecc
+Begründung: Im geschäftlichen/rechtlichen Kontext bedeutet akkordieren, eine Vereinbarung treffen oder abstimmen. Der Akteur bestimmt (2) und leistet für andere (4) durch Geben (1) von Informationen (5), damit ein gewünschter Zustand (Goal 2) für beide Parteien (//Goal 2) erreicht wird, mit dem Ziel der beruflichen Anerkennung (Goal 4).. Heteronom/Exzentrisch.
+
+akkreditieren: Material/Diplomatic 2/4/5/Goal 5//Goal 4/aut/ecc
+Begründung: In der diplomatischen Praxis bedeutet 'akkreditieren', dass ein Staat (2) einen Diplomaten offiziell als seinen Vertreter bestimmt und ermächtigt (4), eine Information/Beglaubigung (5) zu übermitteln, damit der Empfängerstaat informiert ist (Goal 5) über die Legitimität des Vertreters. Letztendlich dient dies dem beruflichen Ziel des Staates (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der akkreditierende Staat selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+akkreditieren: Material/Financial-Transactions 2/4/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im Finanzwesen bedeutet 'akkreditieren', dass eine Institution einen Kredit oder eine finanzielle Berechtigung (2) bestätigt und legitimiert (4), mit einer offiziellen Mitteilung/Zertifizierung (5), damit der Empfänger über die Bestätigung informiert ist (Goal 5). Dies dient dem geschäftlichen Zweck der Institution (Goal 4).. Autonom/Exzentrisch.
+
+akkumulieren: Material/Financial-Transactions 3/1/Goal 2/aut/ecc
+Begründung: Akkumulieren bedeutet das systematische Ansammeln/Anhäufen (3 - Bewegen/Anstreben) und Bekommen (1) von Vermögenswerten oder Ressourcen über einen Zeitraum, um einen gewünschten Zustand des Besitzens (Goal 2) zu erreichen. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Aktivität auf externe Ressourcen ausgerichtet ist.. Autonom/Exzentrisch.
+
+akkumulieren: Material/Scientific 3/1/2/Goal 5/aut/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet akkumulieren das Sammeln (3) und Zusammenführen (1) von Daten oder Beweisen, um über diese verfügen zu können (2) mit dem Ziel, informiert zu sein (Goal 5). Die Handlung erfolgt systematisch und zielgerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+akkumulieren: Material/Electrical 1/2/Goal 2/het/ecc
+Begründung: Im elektrotechnischen Kontext bedeutet akkumulieren das Aufnehmen/Bekommen (1) und Speichern/Verfügen (2) von elektrischer Energie, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteromon/exzentrisch (het/ecc), da der Prozess von externen Faktoren (Stromquelle) abhängig ist.. Heteronom/Exzentrisch.
+
+akquirieren: Material/Business 3/5/1/Goal 2/Goal 4/aut/ecc
+Begründung: Akquirieren bedeutet das aktive Suchen (3/5) und Gewinnen (1) von Kunden, Aufträgen oder Geschäftsbeziehungen mit dem Ziel, einen gewünschten Geschäftszustand herzustellen (Goal 2) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt agiert und nach außen auf potenzielle Kunden zugeht.. Autonom/Exzentrisch.
+
+akquirieren: Material/Business 3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im engeren geschäftlichen Kontext kann akquirieren auch das direkte Erwerben (3/1) von Unternehmen, Beteiligungen oder Vermögenswerten bedeuten, mit dem Ziel, einen gewünschten Geschäftszustand herzustellen (Goal 2) und daraus finanziellen Gewinn zu ziehen (Goal 4).. Autonom/Exzentrisch.
+
+aktivieren: Material/IT/Process Material/IT/Process 2/1/Goal 3/Goal 5/aut/con
+Begründung: In der IT bedeutet aktivieren, dass über ein System oder eine Funktion verfügt wird (2), um etwas bekommen/in Betrieb zu nehmen (1), mit dem Ziel eine Wirkung zu erzielen (Goal 3) und Informationen verfügbar zu machen (Goal 5). Die autonome/konzentrische Ausrichtung (aut/con) zeigt an, dass der Akteur selbstbestimmt innerhalb seines Verfügungsbereichs handelt.. Autonom/Konzentrisch.
+
+aktivieren: Material/Process Material/Process 2/1/Goal 3/aut/con
+Begründung: Im allgemeinen Sinne bedeutet aktivieren, dass über etwas verfügt wird (2), um es in Betrieb zu nehmen/zu nutzen (1), mit dem Ziel eine Wirkung zu erzielen (Goal 3). Dies gilt für allgemeine Prozesse, Geräte oder Mechanismen außerhalb der IT-Domäne.. Autonom/Konzentrisch.
+
+aktivieren: Material/Electrical 2/1/Goal 3/aut/con
+Begründung: Im elektrischen Kontext bedeutet aktivieren das Verfügen (2) über eine elektrische Komponente, um sie zu nutzen/einzuschalten (1), damit sie ihre vorgesehene Wirkung erzielt (Goal 3).. Autonom/Konzentrisch.
+
+aktualisieren: Material/IT/Process 2/3/Goal 2/aut/ecc
+Begründung: Beim Aktualisieren wird bestimmend (2) eine Veränderung/Transformation vorgenommen (3), um einen gewünschten, aktuellen Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und nach außen gerichtet (ecc), da die Veränderung auf externe Daten oder Software angewendet wird.. Autonom/Exzentrisch.
+
+aktualisieren: Material/Office 2/3/5/Goal 5/aut/ecc
+Begründung: Im Büro-/Dokumentenkontext bedeutet Aktualisieren das bestimmende (2) Bearbeiten (3) von Informationen (5), um einen aktuellen Informationsstand zu erreichen (Goal 5).. Autonom/Exzentrisch.
+
+aktualisieren: Material/Communication 4/1/5/Goal 5/aut/ecc
+Begründung: Im kommunikativen Sinne kann Aktualisieren auch bedeuten, jemanden auf den neuesten Stand zu bringen - also eine Leistung erbringen (4) durch das Geben (1) von aktuellen Informationen (5), mit dem Ziel, dass der Andere informiert ist (Goal 5).. Autonom/Exzentrisch.
+
+akzentuieren: Material/Communication 2/3/Goal 3/aut/ecc
+Begründung: Akzentuieren bedeutet, bestimmte Elemente gezielt hervorzuheben oder zu betonen. Der Akteur verfügt (2) über die zu betonenden Inhalte und bewegt/transformiert (3) sie durch die Betonung, um eine bestimmte Wirkung (Goal 3) zu erzielen. Dies geschieht selbstbestimmt (aut) und mit Ausrichtung nach außen (ecc), da die Betonung darauf abzielt, die Wahrnehmung anderer zu beeinflussen.. Autonom/Exzentrisch.
+
+akzentuieren: Material/Art 2/3/Goal 3/aut/ecc
+Begründung: Im künstlerischen Kontext bedeutet akzentuieren das bewusste Hervorheben bestimmter Elemente eines Kunstwerks. Der Künstler bestimmt (2) und gestaltet (3) gezielt Betonungen, um eine ästhetische Wirkung (Goal 3) zu erzielen.. Autonom/Exzentrisch.
+
+akzentuieren: Material/Education 4/3/Goal 5//Goal 4/aut/ecc
+Begründung: In einem Lehrkontext bedeutet akzentuieren, als Lehrer bestimmte Inhalte für die Lernenden hervorzuheben (4/3), damit sie besser informiert sind (Goal 5), mit dem Ziel der eigenen beruflichen Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+akzeptieren: Material/Accept 2/4/2/Goal 2/aut/ecc
+Begründung: Beim Akzeptieren bestimmt der Akteur (2) die Leistung (4) zu erbringen , einer speziellen Verfügung (2/Goal 2) zuzustimmen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+akzeptieren: Material/Business Material/Business 2/4/2/Goal 2//Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet Akzeptieren, dass ein Angebot, Vertrag oder eine Vereinbarung angenommen wird. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er seine Verfügungsgewalt einsetzt (2), um einen gewünschten Zustand herzustellen (Goal 2) mit dem Endziel einer geschäftlichen Anerkennung oder Vergütung (Goal 4).. Autonom/Exzentrisch.
+
+akzeptieren: Material/Social Material/Social 2/4/1/Goal 2/aut/ecc
+Begründung: Im sozialen Kontext bedeutet Akzeptieren, jemanden oder etwas so anzunehmen wie es ist. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas annimmt/bekommt (1), um einen gewünschten Zustand der Toleranz herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+alarmieren: Material/Security 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Alarmieren bedeutet, anderen eine wichtige, aufmerksamkeitserfordernde Information zu übermitteln (4/1/5) mit dem Ziel, sie über eine Gefahr zu informieren (Goal 5). Dies geschieht als Leistung für die zu Alarmierenden, wobei der Alarmierende typischerweise eine Verantwortung oder berufliche Pflicht erfüllt (//Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+alarmieren: Material/Emergency 3/4/1/5/Goal 5/Goal 3//Goal 4/aut/ecc
+Begründung: In Notfallsituationen beinhaltet Alarmieren zusätzlich eine aktive Komponente des schnellen Handelns (3) und zielt darauf ab, nicht nur zu informieren (Goal 5), sondern auch eine schnelle Reaktion auszulösen (Goal 3), etwa bei Feuerwehr oder Rettungsdiensten.. Autonom/Exzentrisch.
+
+alarmieren: Material/Military 2/4/1/5/Goal 5/Goal 2//Goal 4/aut/ecc
+Begründung: Im militärischen Kontext ist Alarmieren ein autoritativer Akt (2), der eine Information (5) übermittelt, um einen sofortigen Bereitschaftszustand (Goal 2) herzustellen, etwa bei Kampfbereitschaft oder Mobilmachung.. Autonom/Exzentrisch.
+
+alertieren: Material/Security 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Alertieren bedeutet, eine Warnmeldung oder einen Alarm an andere zu übermitteln. Der Code beinhaltet: Eine Leistung für andere (4) durch das Geben (1) von wichtigen Informationen (5), damit der Empfänger informiert ist (Goal 5). Nach dem Wechsel zurück zum Akteur steht die berufliche Anerkennung für diese Leistung (Goal 4). Die Ausrichtung ist heternom/exzentrisch, weil der Akteur sich an eine äußere Situation anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+alertieren: Material/Emergency 4/1/5/Goal 5/Goal 2//Goal 4/het/ecc
+Begründung: Im Notfall-Kontext bedeutet alertieren nicht nur das Informieren anderer, sondern hat zusätzlich den Zweck, eine Gefahrensituation zu bewältigen. Der erweiterte Code enthält zusätzlich Goal 2, da das Informieren einen gewünschten Sicherheitszustand herbeiführen soll.. Heteronom/Exzentrisch.
+
+alertieren: Material/Military 2/4/1/5/Goal 5/Goal 3//Goal 4/aut/ecc
+Begründung: Im militärischen Kontext enthält alertieren auch eine Befehlskomponente (2) und eine Bewegungskomponente (Goal 3) - Truppen werden in Alarmbereitschaft versetzt, um sie auf einen möglichen Einsatz vorzubereiten. Die Ausrichtung ist autonomer, da ein militärischer Vorgesetzter die Situation bestimmt.. Autonom/Exzentrisch.
+
+algorithmieren: Material/IT/Process 3/5/2/Goal 5/aut/ecc
+Begründung: Algorithmieren bedeutet, einen Algorithmus zu erstellen oder zu formulieren. Es beinhaltet das systematische Bewegen (3) von Informationen (5), um sie in eine strukturierte Verfügungsform (2) zu bringen, mit dem Ziel, informiert zu sein (Goal 5) über den Ablauf eines Prozesses. Die Tätigkeit ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und ein neues Informationskonstrukt erschafft.. Autonom/Exzentrisch.
+
+alimentieren: Material/Financial-Transactions 4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Alimentieren bedeutet, regelmäßige finanzielle Unterstützung zu leisten (4), bei der der Akteur Geld/Unterhalt gibt (1), damit der Empfänger über die nötigen Mittel verfügen kann (Goal 2). Nach dem Wechsel (Doppelslash) folgt für den Akteur die gesellschaftliche oder rechtliche Anerkennung dieser Leistung (Goal 4). Der Akteur handelt selbstbestimmt (aut) und seine Handlung ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+alimentieren: Material/Law/Civil 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet alimentieren, dass der Akteur aufgrund gesetzlicher Verpflichtungen (2) eine Leistung erbringt (4), bei der finanzielle Mittel gegeben werden (1), damit der Empfänger darüber verfügen kann (Goal 2). Das übergeordnete Ziel des Akteurs ist die Erfüllung seiner rechtlichen Verpflichtung (Goal 4). Die Handlung erfolgt selbstbestimmt innerhalb des Rechtsrahmens (aut) und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+alphabetisieren: Material/Education 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Alphabetisieren bedeutet, jemandem als Akteur die Grundlagen des Lesens und Schreibens beizubringen (4). Dabei bestimmt der Akteur (2) den Lernprozess und gibt (1) Informationen (5) weiter, damit der Lernende informiert ist (Goal 5). Für den Akteur ist es eine Leistung, für die er Anerkennung/Vergütung erhält (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Lehrende selbstbestimmt handelt und nach außen auf andere wirkt.. Autonom/Exzentrisch.
+
+alphabetisieren: Material/Office 3/2/Goal 2/aut/ecc
+Begründung: Im organisatorischen Kontext bedeutet alphabetisieren das Ordnen von Daten oder Dokumenten nach dem Alphabet. Der Akteur bewegt (3) die Objekte und verfügt über sie (2), um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Ordnende selbstbestimmt handelt und die Objekte aktiv anordnet.. Autonom/Exzentrisch.
+
+amtieren: Material/Government 2/Goal 2/Goal 4/aut/con
+Begründung: Amtieren bedeutet, ein öffentliches Amt ausüben. Dabei wird Verfügungsgewalt über einen bestimmten Zuständigkeitsbereich (2) ausgeübt, um einen gewünschten Zustand herzustellen (Goal 2), mit dem Endziel der beruflichen Anerkennung und Vergütung (Goal 4). Diese Tätigkeit ist autonom/konzentrisch (aut/con), da der Amtsinhaber selbstbestimmt innerhalb seines definierten Zuständigkeitsbereichs handelt.. Autonom/Konzentrisch.
+
+amtieren: Material/Law/Compliance 2/Goal 2/Goal 4/aut/con
+Begründung: Im rechtlich-formalen Kontext bedeutet amtieren die Ausübung einer fest definierten Amtstätigkeit mit spezifischen Befugnissen und Pflichten gemäß gesetzlicher Vorgaben oder Satzungen, wobei die bestimmende Funktion (2) innerhalb eines festgelegten Regelwerks ausgeübt wird.. Autonom/Konzentrisch.
+
+amüsieren: Interpersonal/Social 3/5/Goal 3/Goal 5/aut/ecc
+Begründung: Amüsieren bedeutet, durch eigene Aktivität (3) und Kontaktaufnahme (5) eine Wirkung zu erzielen (Goal 3) und gleichzeitig Kontakt herzustellen (Goal 5). Es ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und auf seine Umgebung einwirkt, um Unterhaltung zu schaffen.. Autonom/Exzentrisch.
+
+amüsieren: Material/Entertainment 5/1/Goal 5/het/ecc
+Begründung: Als sich selbst amüsieren (unterhalten lassen) bedeutet es, Informationen aufzunehmen (5) und zu bekommen (1), um informiert zu sein (Goal 5). In diesem Fall ist der Akteur heteronomisch ausgerichtet (het), da er auf externe Unterhaltungsquellen angewiesen ist.. Heteronom/Exzentrisch.
+
+amüsieren: Interpersonal 4/3/5/Goal 3//Goal 4/aut/ecc
+Begründung: In einer beruflichen Kontext (z.B. als Entertainer) bedeutet amüsieren, eine Leistung für andere (4) mit Bewegung/Aktivität (3) und Kontakt (5) zu erbringen, um eine Wirkung zu erzielen (Goal 3), mit dem Endziel der Anerkennung/Bezahlung (Goal 4).. Autonom/Exzentrisch.
+
+an jemandem zweifeln: Interpersonal/Psychological 3/5/Goal -5/Goal -2/het/ecc
+Begründung: An jemandem zweifeln bedeutet, dass der Akteur die Vertrauenswürdigkeit eines Antagonisten kritisch betrachtet (3/5). Der Akteur erlangt dabei keinen zufriedenstellenden Informationszustand (Goal -5), was zu einem unerwünschten Zustand bezüglich der Beziehung führt (Goal -2). Die Ausrichtung ist heternom/exzentrisch, da der Akteur auf die Eigenschaften oder Aussagen des Antagonisten reagiert und nach außen auf diesen gerichtet ist.. Heteronom/Exzentrisch.
+
+an jemandem zweifeln: Material/Law/Compliance Material/Law/Compliance 3/5/Goal -5/Goal 2/het/ecc
+Begründung: Im rechtlichen oder formellen Kontext kann 'an jemandem zweifeln' bedeuten, dass der Akteur die Glaubwürdigkeit einer Person überprüft (3/5) und dadurch zu einer negativen Informationslage kommt (Goal -5), jedoch mit dem positiven Ziel (Goal 2), einen gewünschten Zustand der rechtlichen Sicherheit herzustellen.. Heteronom/Exzentrisch.
+
+analysieren: Material/Scientific 3/5/2/Goal 5/het/ecc
+Begründung: Analysieren bedeutet, Informationen oder Daten methodisch zu untersuchen (3), um Erkenntnisse zu gewinnen (5). Dabei werden die Bestandteile zerlegt, neu geordnet und verfügbar gemacht (2), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronym/exzentrisch (het/ecc), da sich der Akteur nach äußeren Gegebenheiten richten muss und seine Aufmerksamkeit nach außen richtet.. Heteronom/Exzentrisch.
+
+analysieren: Material/IT/Process 3/5/2/Goal 5/het/ecc
+Begründung: Im IT-Kontext bedeutet Analysieren das systematische Untersuchen von Daten oder Systemen (3/5), um sie zu strukturieren (2) und verwertbare Informationen zu gewinnen (Goal 5).. Heteronom/Exzentrisch.
+
+analysieren: Material/Medical 3/5/2/Goal 5/het/ecc
+Begründung: In der Medizin bezieht sich Analysieren auf die methodische Untersuchung von Proben oder Befunden (3/5/2), um diagnostische Informationen zu gewinnen (Goal 5).. Heteronom/Exzentrisch.
+
+anamnesieren: Material/Medical 3/5/2/Goal 5/het/ecc
+Begründung: Anamnesieren ist ein medizinischer Fachbegriff für die systematische Befragung eines Patienten zur Erhebung der Krankengeschichte. Es beinhaltet das aktive Erforschen (3) und Sammeln von Informationen (5), um Verfügung über die relevanten medizinischen Daten zu erlangen (2/Goal 5). Die Ausrichtung ist heteronym (het), da der Arzt sich an die Aussagen des Patienten anpassen muss, und exzentrisch (ecc), da die Informationen von außen (vom Patienten) kommen.. Heteronom/Exzentrisch.
+
+anbaggern: Interpersonal/Sex 3/5/Goal 3/Goal 1/aut/ecc
+Begründung: Eine Person 'anbaggern' bedeutet, sie mit dem Ziel der Annäherung anzusprechen und zu umwerben. Die Kodierung besteht aus Bewegung/Anstreben (3) und Kontakt suchen (5), um eine Wirkung zu erzielen (Goal 3) mit dem höheren Ziel der Nähe/eines intimen Kontakts (Goal 1). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+anbaggern: Material/Professions/Earthmoving 3/Goal 2/aut/ecc
+Begründung: In der wörtlichen Bedeutung bezeichnet 'anbaggern' das Bewegen von Erde oder Material mit einem Bagger. Hier steht die Bewegung (3) im Vordergrund, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Baggerfahrer selbstbestimmt nach außen auf den zu bewegenden Erdstoff einwirkt.. Autonom/Exzentrisch.
+
+anbandeln: Interpersonal 3/5/Goal 1/aut/ecc
+Begründung: Bei 'anbandeln' handelt es sich um die Anbahnung eines Kontakts (5) mit einer Person, wobei man sich auf diese zubewegt (3), mit dem Ziel, Nähe oder eine Beziehung zu gewinnen (Goal 1). Der Akteur geht dabei selbstbestimmt (aut) und nach außen gerichtet (ecc) vor.. Autonom/Exzentrisch.
+
+anbandeln: Interpersonal/Social 3/5/Goal 5/aut/ecc
+Begründung: In einer allgemeineren sozialen Bedeutung kann 'anbandeln' auch einfach das Herstellen eines ersten Kontakts ohne romantische Absichten bedeuten - in diesem Fall ist das Ziel der Kontakt selbst (Goal 5), nicht eine Beziehung (Goal 1).. Autonom/Exzentrisch.
+
+anbauen: Material/Agriculture 3/Goal 2/aut/ecc
+Begründung: Als landwirtschaftliche Tätigkeit bedeutet 'anbauen' das aktive Bewegen und Bearbeiten (3) von Pflanzen oder Kulturpflanzen mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen, nämlich das Wachstum und die Ernte der Pflanzen. Die Tätigkeit ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da sie in der natürlichen Umgebung stattfindet.. Autonom/Exzentrisch.
+
+anbauen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im baulichen Kontext bedeutet 'anbauen' das Erweitern eines bestehenden Gebäudes durch Hinzufügen eines neuen Teils. Es beinhaltet das Bewegen und Bearbeiten von Baumaterialien (3), um einen gewünschten Zustand (Goal 2) - die Gebäudeerweiterung - zu erreichen. Die Tätigkeit ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+anbeißen: Material/Food 3/1/Goal 1/het/ecc
+Begründung: Anbeißen bedeutet, mit den Zähnen in ein Nahrungsmittel zu beißen (3/1), um es zu konsumieren (Goal 1). Die Bewegung (3) zielt auf das Bekommen/Aufnehmen der Nahrung (1) ab, mit dem Ziel der Befriedigung des Hungergefühls. Die Ausrichtung ist heteronym/exzentrisch (het/ecc), da man sich beim Essen an die Beschaffenheit der Nahrung anpassen muss.. Heteronom/Exzentrisch.
+
+anbeißen: Material/Animal 3/1/Goal 1/het/ecc
+Begründung: Im Kontext des Angelns bedeutet 'anbeißen', dass ein Fisch den Köder nimmt. Der Fisch bewegt sich (3) zum Köder und nimmt ihn auf (1), mit dem Ziel Nahrung zu bekommen (Goal 1). Die Ausrichtung ist heteronym/exzentrisch, da der Fisch auf äußere Reize (den Köder) reagiert.. Heteronom/Exzentrisch.
+
+anbeißen: Interpersonal 3/1/Goal 5/het/ecc
+Begründung: Im übertragenen Sinne bedeutet 'anbeißen', dass jemand auf ein Angebot oder einen Vorschlag eingeht. Die Person bewegt sich (3) auf ein Angebot zu und nimmt es an (1), mit dem Ziel, Kontakt oder Information zu bekommen (Goal 5). Die Ausrichtung ist heteronym/exzentrisch, da die Person auf ein externes Angebot reagiert.. Heteronom/Exzentrisch.
+
+anbellen: Material/Animal/Aggression 3/4/5/Goal 3/aut/ecc
+Begründung: Bei einem Hund, der anbellt: Das Tier bewegt sich auf ein Ziel zu (3) und leistet (4) eine Meldung (5), um eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Hund selbständig und nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+anbellen: Interpersonal/Psychological/Fight 3/5/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne bei Menschen: Jemanden lautstark und aggressiv ansprechen. Eine Person geht auf jemanden zu (3) und kontaktiert in scharfem Ton (5), um eine Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+anberaumen: Material/Time 2/4/3/Goal 5//Goal 2/het/ecc
+Begründung: Anberaumen bedeutet, dass der Akteur bestimmend (2) eine Leistung für Andere erbringt (4), indem er bewegend/anstrebend (3) einen Termin festlegt, damit der Antagonist informiert ist (Goal 5) über den Zeitpunkt. Nach dem Wechsel (durch //) folgt das Goal des Akteurs, nämlich einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist heteronom/eccentric (het/ecc), da der Akteur sich an äußere Rahmenbedingungen anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+anberaumen: Material/Office 2/4/3/Goal 5//Goal 2/het/ecc
+Begründung: Im Büro-/Verwaltungskontext bedeutet anberaumen das Festsetzen eines Termins für Besprechungen oder Sitzungen, wobei der Akteur bestimmend (2) eine Leistung für Andere (4) erbringt, indem er einen Termin anstrebt/bewegt (3), damit der Antagonist darüber informiert ist (Goal 5), mit dem Endziel für den Akteur, einen gewünschten organisatorischen Zustand herzustellen (Goal 2).. Heteronom/Exzentrisch.
+
+anbeten: Material/Religious 3/1/5/Goal 1/Goal 5/het/ecc
+Begründung: Anbeten beinhaltet ein Bewegen/Anstreben (3) in Richtung einer höheren Macht, mit dem Ziel etwas zu bekommen (1) - spirituelle Nähe oder Erfüllung - und sich zu informieren (5). Die Ziele sind sowohl das Erlangen von Nähe/Verbindung zur Gottheit (Goal 1) als auch das Informiertsein über göttliche Wahrheiten (Goal 5). Die Ausrichtung ist heterenom und exzentrisch (het/ecc), da der Akteur sich nach außen an etwas Höherem orientiert und sich dessen Autorität unterordnet.. Heteronom/Exzentrisch.
+
+anbeten: Interpersonal 3/1/5/Goal 1/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'anbeten' eine Person übermäßig zu verehren oder zu bewundern. Hier bewegt sich der Akteur (3) auf die angebetete Person zu, um Nähe oder Verbindung zu bekommen (1) und Informationen über sie aufzunehmen (5), mit dem Ziel, Nähe/emotionale Verbindung herzustellen (Goal 1). Die Ausrichtung ist heternom und exzentrisch, da der Akteur sein Verhalten stark an der angebeteten Person ausrichtet.. Heteronom/Exzentrisch.
+
+anbetteln: Material/Dependency 3/1/Goal 1/het/ecc
+Begründung: Die Aktivität 'anbetteln' beinhaltet, dass der Akteur sich einer Person zuwendet (3), um etwas zu bekommen (1), mit dem Ziel, ein Bedürfnis zu befriedigen (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von der Gunst des Anderen abhängig ist und nach außen gerichtet agiert. Die Area Material/Dependency wurde gewählt, weil es sich um eine Situation handelt, in der ein Abhängigkeitsverhältnis besteht.. Heteronom/Exzentrisch.
+
+anbetteln: Interpersonal 3/1/Goal 5/Goal 1/het/ecc
+Begründung: In der zwischenmenschlichen Dimension kann 'anbetteln' auch bedeuten, dass jemand intensiv (3) bittet um (1) emotionalen Kontakt (Goal 5) und Nähe (Goal 1).. Heteronom/Exzentrisch.
+
+anbiedern: Interpersonal/Psychological 4/1/Goal 3/Goal 5//Goal 1/het/ecc
+Begründung: Anbiedern bedeutet, sich bei jemandem einzuschmeicheln, um dessen Gunst oder Nähe zu gewinnen. Der Akteur leistet etwas für den Antagonisten (4), gibt etwas von sich preis (1), um eine Wirkung zu erzielen (Goal 3) und Kontakt herzustellen (Goal 5), mit dem End-Goal der eigenen Nähe/Gunst (//Goal 1). Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt, dass sich der Akteur an den Antagonisten anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+anbiedern: Material/Fight/Dispute/Interpersonal 4/3/1/Goal 2//Goal 1/het/ecc
+Begründung: In Konfliktsituationen kann 'anbiedern' bedeuten, dass man sich dem vermeintlich Stärkeren unterwirft (4), sich ihm annähert (3) und sich ihm verfügbar macht (1/Goal 2) mit dem End-Goal, Akzeptanz/Nähe zu bekommen (Goal 1).. Heteronom/Exzentrisch.
+
+anbieten: Material/Market 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Beim Anbieten bestimmt der Akteur (2) eine Leistung für einen Antagonisten (4) durch Geben (1) mit dem Ziel, dass der Antagonist über etwas verfügen kann (Goal 2). Nach dem Wechsel (//), ist das Ziel des Akteurs, geschäftlich Anerkennung/Geld zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf einen potenziellen Käufer/Kunden gerichtet handelt.. Autonom/Exzentrisch.
+
+anbieten: Interpersonal/Social 2/4/1/Goal 5//Goal 5/aut/ecc
+Begründung: Im sozialen Kontext kann 'anbieten' bedeuten, dass der Akteur bestimmt (2), eine Leistung für einen Antagonisten (4) durch Geben (1) zu erbringen, mit einem Kontakt-Angebot (Goal 5). Dabei zielt der Akteur auch für sich auf einen verbesserten/vertieften eigenen Kontakt (Goal 5). Beispiel: Hilfe anbieten, um soziale Beziehungen zu stärken.. Autonom/Exzentrisch.
+
+anbieten: Material/Customer-Service 4/1/Goal 2//Goal 4/het/ecc
+Begründung: Im Kundendienstkontext kann 'anbieten' eine spezifische Serviceleistung (4) durch Geben (1) bedeuten, damit der Kunde etwas zur Verfügung hat (Goal 2). Nach dem Wechsel // ist das Ziel des Akteurs, berufliche Anerkennung/Vergütung zu bekommen (Goal 4). Die Ausrichtung ist heternom/exzentrisch, da der Akteur im Rahmen seines Dienstverhältnisses nach außen handelt.. Heteronom/Exzentrisch.
+
+anbinden: Material/Position 2/3/Goal 2/aut/ecc
+Begründung: Anbinden bezeichnet die Tätigkeit, etwas mit einem Band, Seil oder einer Schnur an einem festen Punkt zu befestigen. Der Akteur bestimmt (2) über das zu befestigende Objekt und führt eine Bewegung (3) aus, um einen gewünschten Zustand (Goal 2) herzustellen, nämlich dass das Objekt befestigt/fixiert ist. Die Ausrichtung ist autonom (der Akteur entscheidet selbst) und exzentrisch (die Handlung wirkt nach außen auf Objekte).. Autonom/Exzentrisch.
+
+anbinden: Material/Animal/Training 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext der Tierhaltung bedeutet anbinden, ein Tier (z.B. ein Pferd oder einen Hund) mit einem Seil oder einer Leine an einem festen Punkt zu fixieren. Der Akteur verfügt über das Tier (2) und führt die Bewegung des Anbindens (3) aus, um den gewünschten Zustand (Goal 2) zu erreichen, dass das Tier fixiert und unter Kontrolle bleibt.. Autonom/Exzentrisch.
+
+anbinden: Material/Transportation 2/3/1/Goal 2/aut/ecc
+Begründung: In der Transportbranche kann 'anbinden' bedeuten, ein Fahrzeug oder einen Anhänger an ein anderes Fahrzeug zu koppeln. Der Akteur verfügt (2) über die Fahrzeuge, bewegt (3) die Verbindungselemente, um den Anhänger zu bekommen/anzukoppeln (1), mit dem Ziel, einen gewünschten Transportzustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
+
+anblicken: Material/Gesture 5/Goal 5/het/ecc
+Begründung: Beim Anblicken nimmt der Akteur visuell Informationen über den Antagonisten auf (5), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heterenom/exzentrisch (het/ecc), da der Akteur sich nach außen orientiert und sich an die äußeren Gegebenheiten anpasst.. Heteronom/Exzentrisch.
+
+anblicken: Interpersonal 5/Goal 5/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet Anblicken das Herstellen eines visuellen Kontakts mit einer anderen Person (5), mit dem Ziel, einen Kontakt herzustellen oder aufrechtzuerhalten (Goal 5). Die Ausrichtung bleibt heterenom/exzentrisch (het/ecc).. Heteronom/Exzentrisch.
+
+anblinzeln: Interpersonal/Gesture 3/5/Goal 5/Goal 3/aut/ecc
+Begründung: Jemanden anblinzeln ist eine bewusste Bewegung (3) mit dem Ziel der Kontaktaufnahme (5). Es zielt auf das Herstellen eines Kontakts (Goal 5) ab und soll gleichzeitig eine bestimmte Wirkung beim Gegenüber erzielen (Goal 3). Die Ausrichtung ist autonom (der Akteur entscheidet selbst zu blinzeln) und exzentrisch (nach außen auf den Antagonisten gerichtet).. Autonom/Exzentrisch.
+
+anblinzeln: Interpersonal 3/5/Goal 3/Goal 1/aut/ecc
+Begründung: In einer intimeren Bedeutung kann Anblinzeln auch als Bewegen/Anstreben (3) zur Kontaktaufnahme (5) dienen, wobei primär eine Wirkung erzielt werden soll (Goal 3), die letztendlich auf Nähe und Zuneigung abzielt (Goal 1).. Autonom/Exzentrisch.
+
+anbohren: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Das Wort 'anbohren' bezeichnet im Bau- und Handwerksbereich das Starten eines Bohrvorgangs, bei dem der Akteur selbstbestimmt (aut) eine Bewegung (3) nach außen gerichtet (ecc) ausführt, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich ein Loch zu beginnen oder eine Oberfläche zu öffnen.. Autonom/Exzentrisch.
+
+anbohren: Material/Mining 3/Goal 2/Goal 3/aut/ecc
+Begründung: Im Bergbau- oder Erdölkontext bedeutet 'anbohren' das Erschließen einer Ressource durch Bohren. Hier ist neben dem gewünschten Zustand (Goal 2) auch das Erreichen einer Wirkung (Goal 3) relevant, da das Ziel ist, an eine Ressource zu gelangen oder eine Quelle zu erschließen.. Autonom/Exzentrisch.
+
+anbrausen: Material/Driving 3/Goal 3/aut/ecc
+Begründung: Mit hoher Geschwindigkeit heranfahren oder sich schnell nähern. Die Bewegung/das Anstreben (3) erfolgt mit dem Ziel, eine Destination zu erreichen (Goal 3), wobei der Akteur selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+anbrausen: Material/Fight/Aggression 3/1/Goal 3/aut/ecc
+Begründung: Jemanden aggressiv anfahren/verbal attackieren. Die Bewegung (3) zielt auf das Bekommen (1) einer Wirkung beim Antagonisten ab (Goal 3), wobei der Akteur selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+anbrausen: Material/Fluids 3/Goal 3/het/ecc
+Begründung: Von Flüssigkeiten: Mit Schwung oder Wucht an etwas heranspülen/heranströmen. Die Bewegung (3) erfolgt zum Erreichen eines Ziels (Goal 3), wobei der Prozess von äußeren Faktoren abhängig (het) und nach außen gerichtet (ecc) ist.. Heteronom/Exzentrisch.
+
+anbrechen: Material/Food 2/1/Goal 2/aut/con
+Begründung: Das Anbrechen eines Lebensmittels bedeutet, etwas zu öffnen oder anzufangen zu verwenden (2/bestimmen über Besitz), um es verfügbar zu machen (1/bekommen) für einen gewünschten Zustand (Goal 2). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt über ein Objekt in seinem Verfügungsbereich handelt.. Autonom/Konzentrisch.
+
+anbrechen: Material/Time 1/Goal 2/het/ecc
+Begründung: Im zeitlichen Kontext bedeutet 'anbrechen' (z.B. 'der Tag bricht an'), dass ein Zeitabschnitt beginnt. Hier ist es das Bekommen (1) eines neuen Zustands (Goal 2) mit heteronomer/exzentrischer Ausrichtung (het/ecc), da der Akteur den Prozess nicht kontrolliert, sondern dieser von außen bestimmt wird.. Heteronom/Exzentrisch.
+
+anbrechen: Material/Package 2/3/Goal 2/aut/ecc
+Begründung: Im Sinne von 'eine Packung anbrechen' bedeutet es, über ein Objekt zu verfügen (2) und es durch Bewegung/Bearbeitung (3) zu öffnen, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Bewegungskomponente ist stärker ausgeprägt als beim reinen Öffnen eines Lebensmittels.. Autonom/Exzentrisch.
+
+anbringen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im Kontext des Handwerks und der Konstruktion bedeutet 'anbringen' etwas an einem vorgesehenen Ort zu befestigen, zu montieren oder zu platzieren. Der Akteur bewegt (3) ein Objekt, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt, da er mit externen Objekten interagiert.. Autonom/Exzentrisch.
+
+anbringen: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im kommunikativen Kontext bedeutet 'anbringen' das Vorbringen einer Information, Anmerkung oder eines Kommentars. Der Akteur leistet (4) durch das Geben (1) einer Information (5), damit der Empfänger informiert ist (Goal 5), mit dem eigenen Ziel, Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+anbringen: Material/Marker 3/1/Goal 2/aut/ecc
+Begründung: Im Kontext der Kennzeichnung bedeutet 'anbringen' das Platzieren einer Markierung, eines Zeichens oder Etiketts. Der Akteur bewegt (3) etwas und überträgt es (1) an einen Ort, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+anbrüllen: Material/Fight/Aggression/Gesture 3/4/1/5/Goal 3/aut/ecc
+Begründung: Anbrüllen ist eine kommunikative Geste, bei der jemand mit lauter Stimme (3/bewegen) eine Leistung (4) durch das Aussenden (1/geben) von Informationen (5) erbringt, mit dem Ziel, eine intensive Wirkung (Goal 3) auf den Empfänger auszuüben. Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+anbrüllen: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im Konfliktkontext kann Anbrüllen als aggressive Kommunikation betrachtet werden, bei der der Akteur durch Bewegen (3) eine Leistung (4) erbringt, indem er Informationen (1/5) gibt, die den gewünschten Zustand des Antagonisten beeinträchtigen (Goal -2), mit dem eigenen Ziel, sich durchzusetzen (Goal 2).. Autonom/Exzentrisch.
+
+anbändeln: Interpersonal 3/5/Goal 1/aut/ecc
+Begründung: Anbändeln bedeutet, durch aktives Zugehen (3) eine erste Kontaktaufnahme (5) mit einer Person zu beginnen, mit dem Ziel, Nähe oder eine Beziehung herzustellen (Goal 1). Die Aktivität ist autonom (aut) vom Akteur initiiert und nach außen auf den Antagonisten gerichtet (ecc).. Autonom/Exzentrisch.
+
+anbändeln: Interpersonal/Sex 3/5/Goal 1/Goal 3/aut/ecc
+Begründung: In einem sexuellen Kontext bedeutet anbändeln, aktiv auf jemanden zuzugehen (3) und Kontakt (5) aufzunehmen, um Nähe herzustellen (Goal 1) als auch eine Wirkung zu erzielen (Goal 3), wobei die sexuelle Komponente im Vordergrund steht.. Autonom/Exzentrisch.
+
+andauern: Material/Time 3/Goal 3/het/ecc
+Begründung: Andauern bedeutet, dass etwas fortbesteht oder weiterläuft (3 - Bewegung/Fortbestehen) mit dem Ziel, eine zeitliche Erstreckung zu erreichen (Goal 3 - Ziel erreichen). Die Ausrichtung ist heternom und exzentrisch (het/ecc), da der Vorgang von äußeren Umständen abhängig ist und nach außen gerichtet bleibt.. Heteronom/Exzentrisch.
+
+andauern: Material/Process 3/Goal 3/het/ecc
+Begründung: Im Kontext von Prozessen bedeutet andauern, dass ein Prozess weiterläuft (3) mit dem Ziel, seine vollständige Wirkung zu entfalten (Goal 3). Auch hier ist die Ausrichtung heternom und exzentrisch, da der Prozess von seinen Rahmenbedingungen abhängt.. Heteronom/Exzentrisch.
+
+andeuten: Material/Communication 4/1/5/Goal 5/aut/ecc
+Begründung: Das Verb 'andeuten' bedeutet, etwas nicht direkt, sondern indirekt oder teilweise zu kommunizieren. Die Kodierung 4/1/5/Goal 5/aut/ecc beschreibt: eine Leistung für den Antagonisten (4) durch das Geben (1) von Information (5), damit der Antagonist teilweise informiert ist (Goal 5); die Ausführung erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+andeuten: Material/Gesture 3/5/Goal 5/aut/ecc
+Begründung: Im Kontext von Körpersprache bedeutet 'andeuten' eine Bewegung (3) zur Informationsübermittlung (5) auszuführen, die nicht vollständig ist, aber dennoch darauf abzielt, dass der Beobachter informiert wird (Goal 5). Die Ausführung erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+andeuten: Interpersonal/Psychological 5/Goal 5/Goal 3/aut/ecc
+Begründung: In zwischenmenschlichen Beziehungen kann 'andeuten' bedeuten, Kontakt (5) herzustellen, um Informationen zu übermitteln (Goal 5) mit dem höheren Ziel, eine bestimmte Wirkung beim Gegenüber zu erzielen (Goal 3), etwa durch Anspielungen. Die Ausführung erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+andienen: Material/Business 3/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Beim Andienen bewegt sich der Akteur (3) auf einen Antagonisten zu, um eine Leistung (4) durch das Geben/Anbieten (1) zu erbringen, damit der Antagonist einen gewünschten Zustand (Goal 2) erreicht. Dahinter steht für den Akteur das Ziel, geschäftliche Anerkennung/Bezahlung zu erhalten (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf potenzielle Kunden zugeht.. Autonom/Exzentrisch.
+
+andienen: Interpersonal/Social 3/4/1/Goal 5//Goal 1/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'andienen' sich jemandem unterwürfig anzubieten oder sich einzuschmeicheln. Der Akteur bewegt sich (3) auf jemanden zu, um eine Leistung (4) durch ein Angebot/Geben (1) zu erbringen, mit dem Ziel Kontakt herzustellen (Goal 5), während der eigentliche Zweck für den Akteur ist, Nähe/Zuwendung zu erlangen (//Goal 1).. Autonom/Exzentrisch.
+
+andrehen: Material/Machine-System 2/1/Goal 2/aut/ecc
+Begründung: In technischem Kontext bedeutet 'andrehen' das Betätigen oder Einschalten einer Maschine oder eines Systems (2), wodurch man einen gewünschten Zustand (Goal 2) erhält. Der Akteur verfügt über das Gerät (2) und bekommt (1) durch seine Handlung den gewünschten Betriebszustand (Goal 2).. Autonom/Exzentrisch.
+
+andrehen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: In handwerklichem Kontext bedeutet 'andrehen' das Befestigen durch Drehbewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen, wie beim Festziehen einer Schraube. Die Bewegungskomponente ist hier stärker als die Verfügungskomponente.. Autonom/Exzentrisch.
+
+andrehen: Material/Criminal 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'jemandem etwas andrehen' das Verkaufen von etwas Unerwünschtem oder Minderwertigem. Der Akteur bestimmt (2) die Abgabe (4/1) von Informationen (5), die für den Antagonisten zu einem unerwünschten Zustand führen (Goal -2), während der Akteur seinen gewünschten Zustand erreicht (Goal 2).. Autonom/Exzentrisch.
+
+androhen: Material/Fight/Dispute 2/4/1/5/Goal -3//Goal 2/aut/ecc
+Begründung: Androhen bedeutet, bestimmend (2) eine Leistung für einen Antagonisten (4) zu erbringen, indem man ihm etwas gibt (1), nämlich eine Information (5) mit dem Ziel, dass der Antagonist eine negative Wirkung (Goal -3) erfahren wird, falls er nicht den vom Akteur gewünschten Zustand (//Goal 2) herstellt. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+androhen: Material/Law 2/4/1/5/Goal -3//Goal 2/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet androhen das bestimmende (2) Mitteilen (4/1/5) von negativen rechtlichen Konsequenzen (Goal -3) an einen Antagonisten, um einen gewünschten Zustand (Goal 2) zu erreichen, etwa bei einer Mahnung oder behördlichen Androhung von Sanktionen.. Autonom/Exzentrisch.
+
+andrücken: Material/Physical/Position 3/Goal 2/aut/ecc
+Begründung: Andrücken bedeutet, etwas mit Kraft gegen eine andere Fläche zu bewegen (3), um einen gewünschten Zustand der Fixierung oder des Kontakts zu erreichen (Goal 2). Die Handlung erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc), da man ein Objekt außerhalb des eigenen Verfügungsbereichs manipuliert.. Autonom/Exzentrisch.
+
+andrücken: Material/Printing 3/Goal 2/aut/ecc
+Begründung: Im Druckwesen bedeutet andrücken das Bewegen (3) einer Druckform oder eines Werkzeugs gegen ein Material, um den gewünschten Zustand des Abdrucks zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+andrücken: Interpersonal/Physical 3/Goal 1/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext kann andrücken auch bedeuten, sich körperlich an eine andere Person zu bewegen (3), um Nähe zu bekommen (Goal 1).. Autonom/Exzentrisch.
+
+andübeln: Material/Professions/Construction 3/2/Goal 2/aut/ecc
+Begründung: Andübeln bedeutet, etwas mittels Dübel an einer Wand oder anderen Oberfläche zu befestigen. Es beinhaltet das Bewegen (3) eines Objekts mit dem Ziel, einen verfügbaren Zustand (2) herzustellen, wobei der gewünschte Zustand (Goal 2) die sichere Befestigung ist. Die Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt mit Objekten im Außenbereich arbeitet.. Autonom/Exzentrisch.
+
+aneignen: Material 3/1/Goal 2/aut/ecc
+Begründung: Etwas aneignen bedeutet, dass der Akteur eine Bewegung/Anstrengung (3) unternimmt, um etwas zu bekommen (1), mit dem Ziel, es zu seinem Besitz zu machen bzw. einen gewünschten Zustand des Besitzens zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt (aut) und nach außen gerichtet ist (ecc), um ein Objekt in seinen Besitzbereich zu bringen.. Autonom/Exzentrisch.
+
+aneignen: Material/Education 3/1/2/Goal 5/aut/ecc
+Begründung: Im Bildungskontext bedeutet aneignen, dass der Akteur aktiv (3) Wissen aufnimmt (1) und es verfügbar macht (2), um informiert zu sein (Goal 5). Dies bezieht sich auf das Erlernen und Internalisieren von Kenntnissen oder Fähigkeiten.. Autonom/Exzentrisch.
+
+aneignen: Material/Law/Criminal 3/1/Goal 2/aut/ecc
+Begründung: Im rechtlichen/kriminellen Kontext kann aneignen die unrechtmäßige Inbesitznahme fremden Eigentums bedeuten, wobei der Akteur aktiv (3) etwas nimmt (1), um es zu besitzen (Goal 2), ohne die rechtliche Befugnis dazu zu haben.. Autonom/Exzentrisch.
+
+anerkennen: Material/Accept 2/4/1/Goal 2/Goal 5/aut/ecc
+Begründung: Anerkennen bedeutet, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten erbringt (4) durch Geben (1) der Bestätigung eines gewünschten Zustands (Goal 2) und einer Information (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
+
+anerkennen: Interpersonal/Psychological 4/1/Goal 4//Goal 4/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet anerkennen, dass der Akteur eine Leistung (4) durch Geben (1) von Anerkennung erbringt (Goal 4), mit dem Ziel selbst Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf den Antagonisten ausgerichtet ist.. Autonom/Exzentrisch.
+
+anerkennen: Material/Law/Compliance 2/4/2/Goal 2/Goal 5/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet anerkennen, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten erbringt (4) durch Bestätigen der Verfügungsgewalt (2) über einen Rechtsstatus, um einen gewünschten Zustand (Goal 2) und eine Information (Goal 5) festzulegen. Die Ausrichtung ist autonom/exzentrisch.. Autonom/Exzentrisch.
+
+anerkennen: Material/Diplomatic 2/4/Goal 2/Goal 5/aut/ecc
+Begründung: Im diplomatischen Kontext bedeutet anerkennen, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten erbringt (4), mit dem Ziel einen gewünschten Zustand (Goal 2) und eine Information (Goal 5) über den Status zu etablieren. Die Ausrichtung ist autonom/exzentrisch.. Autonom/Exzentrisch.
+
+anfahren: Material/Driving 3/Goal 3/aut/ecc
+Begründung: In seiner Grundbedeutung bezeichnet 'anfahren' das Beginnen einer Fahrt mit einem Fahrzeug (3), um eine Destination zu erreichen (Goal 3). Die Bewegung erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+anfahren: Material/Driving 2/2/Goal 3/aut/ecc
+Begründung: Beim 'Anfahren' bestimmt das Beginnen (2) und ansteuern (2), um eine Destination zu erreichen (Goal 3).. Autonom/Exzentrisch.
+
+anfahren: Material/Accident 3/1/Goal -3/Goal -2/het/ecc
+Begründung: Mit einem Fahrzeug gegen etwas fahren oder jemanden überfahren (Unfall). Die Bewegung (3) führt zum ungewollten Kontakt/Zusammenstoß (1), was zu einer missglückten Fahrt (Goal -3) und einem unerwünschten Zustand (Goal -2) führt.. Heteronom/Exzentrisch.
+
+anfahren: Material/Communication 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Jemanden verbal anfahren (scharf ansprechen/kritisieren). Der Akteur bestimmt (2) eine Leistung für den Antagonisten (4) durch das Geben (1) einer Information (5), die den Zustand des Antagonisten verschlechtert (Goal -2), um den eigenen gewünschten Zustand der Zurechtweisung zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+anfangen: Material/Process 3/Goal 2/aut/ecc
+Begründung: Die grundlegende Bedeutung von 'anfangen' ist das Initiieren eines Prozesses oder einer Tätigkeit. Dies beinhaltet das Bewegen/Anstreben (3) hin zu einem gewünschten Zustand (Goal 2). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt eine neue Aktivität beginnt und diese nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+anfangen: Material/Time 2/3/Goal 2/aut/ecc
+Begründung: Im zeitlichen Kontext bedeutet 'anfangen' das Bestimmen (2) eines Startpunktes und das Bewegen (3) in eine neue Zeitphase, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur kontrolliert bewusst den Zeitpunkt des Beginns.. Autonom/Exzentrisch.
+
+anfangen: Interpersonal 3/5/Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext kann 'anfangen' bedeuten, eine Interaktion zu beginnen oder einen Kontakt herzustellen. Dies beinhaltet Bewegung/Anstreben (3) und Kontaktaufnahme (5) mit dem Ziel, einen Kontakt herzustellen (Goal 5).. Autonom/Exzentrisch.
+
+anfassen: Interpersonal/Physical 3/1/Goal 5/aut/ecc
+Begründung: Das Verb 'anfassen' beschreibt eine bewusste Bewegung (3) zum Objekt hin, um durch Berührung (1) taktile Informationen zu gewinnen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf etwas außerhalb zugeht.. Autonom/Exzentrisch.
+
+anfassen: Material/Gesture 3/1/Goal 2/aut/ecc
+Begründung: Im materiellen Kontext kann 'anfassen' auch bedeuten, etwas zu greifen (3/1), um es in einen gewünschten Zustand zu bringen oder zu verwenden (Goal 2), wie beim Anfassen eines Werkzeugs oder Gegenstands zur Nutzung.. Autonom/Exzentrisch.
+
+anfassen: Material/Fight/Defense 3/1/Goal 3/aut/ecc
+Begründung: In einem konfrontativen Kontext kann 'anfassen' eine zielgerichtete Bewegung (3) mit körperlichem Kontakt (1) beschreiben, um eine Wirkung zu erzielen (Goal 3), beispielsweise jemanden anzufassen, um ihn aufzuhalten.. Autonom/Exzentrisch.
+
+anfauchen: Material/Animal/Aggression 3/5/Goal 3/aut/ecc
+Begründung: Bei Tieren, besonders Katzen: Bewegen/Anstreben (3) mit einem Kontaktvorgang (5), um eine abschreckende Wirkung (Goal 3) zu erzielen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen gerichtet agiert.. Autonom/Exzentrisch.
+
+anfauchen: Interpersonal/Psychological/Fight 3/5/Goal 3/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich: Jemanden aggressiv anfahren/verbal attackieren, mit Bewegen/Anstreben (3) durch Kontakt (5), um eine einschüchternde Wirkung (Goal 3) zu erzielen. Auch hier ist die Ausrichtung autonom/exzentrisch.. Autonom/Exzentrisch.
+
+anfechten: Material/Law/Court 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Als juristischer Begriff bedeutet 'anfechten' bestimmen (2) eine Leistung für den Antagonisten (4), mit dem Ziel, dessen gewünschten Zustand nicht zu realisieren (Goal -2), um letztlich den eigenen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf das Rechtssystem einwirkt.. Autonom/Exzentrisch.
+
+anfechten: Material/Fight/Dispute 2/4/Goal -2//Goal 2/aut/ecc
+Begründung: Im allgemeinen Kontext bedeutet 'anfechten' einen Standpunkt oder eine Aussage zu bestreiten oder in Frage zu stellen, wobei der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), die dessen gewünschten Zustand negativ beeinflusst (Goal -2), um den eigenen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+anfeinden: Interpersonal/Psychological/Fight 3/Goal -1/Goal 3/aut/ecc
+Begründung: Anfeinden bedeutet eine feindliche Haltung gegenüber jemandem einzunehmen und aktiv gegen diese Person vorzugehen. Der Akteur bewegt sich (3) mit dem Ziel, Distanz zu schaffen (Goal -1, das Gegenteil von Nähe) und eine negative Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt und nach außen gerichtet gegen den Antagonisten handelt.. Autonom/Exzentrisch.
+
+anfeinden: Material/Fight/Dispute 3/Goal 3//Goal -3 aut/ecc
+Begründung: Im Kontext einer sachlichen Auseinandersetzung bedeutet anfeinden, dass der Akteur eine Bewegung (3) ausführt, um eine Wirkung zu erzielen (Goal 3), die gegen die Ziele des Antagonisten gerichtet ist (//Goal -3). Es geht hier mehr um die konkrete Bekämpfung als um die psychologische Distanzierung.. Autonom/Exzentrisch.
+
+anfertigen: Material/Professions 3/Goal 2/aut/ecc
+Begründung: Anfertigen bedeutet etwas durch Bewegung/Bearbeitung (3) herzustellen, um einen gewünschten Zustand (Goal 2) zu erreichen. Das geschieht autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf ein außerhalb liegendes Material einwirkt. Die spezifische Area 'Material/Professions' wurde gewählt, da es sich um eine handwerkliche oder berufliche Tätigkeit handelt.. Autonom/Exzentrisch.
+
+anfertigen: Material/Office 3/Goal 2/Goal 4/het/ecc
+Begründung: Im Bürokontext bedeutet anfertigen das Erstellen von Dokumenten oder Unterlagen (3) für einen gewünschten Zustand (Goal 2) im Rahmen einer beruflichen Tätigkeit (Goal 4). Die Ausrichtung ist heternom/exzentrisch (het/ecc), weil meist nach Vorgaben gearbeitet wird.. Heteronom/Exzentrisch.
+
+anfeuchten: Material/Fluids 3/1/Goal 2/aut/ecc
+Begründung: Im Kontext von Flüssigkeiten bedeutet anfeuchten, dass der Akteur eine Bewegung (3) ausführt, durch die ein Objekt Feuchtigkeit bekommt (1), um einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
+anfeuchten: Material/Food 3/1/Goal 2/aut/ecc
+Begründung: Im Kontext der Lebensmittelzubereitung bedeutet anfeuchten das gezielte Befeuchten von Zutaten oder Speisen, wobei der Akteur eine Bewegung ausführt (3), um dem Objekt Flüssigkeit zuzuführen (1), mit dem Ziel einen gewünschten Zustand (wie bessere Konsistenz) herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+anfeuchten: Material/Agriculture 3/1/Goal 2/aut/ecc
+Begründung: Im landwirtschaftlichen Kontext bedeutet anfeuchten das Bewässern oder Befeuchten von Pflanzen oder Saatgut, wobei eine Bewegung (3) ausgeführt wird, um dem Objekt Feuchtigkeit zuzuführen (1), mit dem Ziel einen gewünschten Zustand (optimale Wachstumsbedingungen) herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+anfeuern: Interpersonal/Social 4/3/5/Goal 3//Goal 4/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet 'anfeuern' das Motivieren und Ermutigen einer Person durch verbale Unterstützung (5), damit diese Person eine bessere Wirkung (Goal 3) erzielen kann. Der Akteur leistet (4) durch eine aktive Anregung/Motivation (3) mit informativer Komponente (5) eine Unterstützung für den Antagonisten (Goal 3), was letztlich zur Anerkennung für den Akteur führen kann (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+anfeuern: Material/Fight/Sports 4/3/5/Goal 3//Goal 4/aut/ecc
+Begründung: Im sportlichen Kontext bedeutet 'anfeuern' das Motivieren von Sportlern durch Zurufe und Anfeuerungsrufe, um deren Leistung zu steigern. Der Code ist derselbe wie bei der Hauptbedeutung, wird aber spezifischer im Sportkontext angewendet.. Autonom/Exzentrisch.
+
+anfeuern: Material/Catastrophes/Fire 2/3/1/Goal 3/aut/ecc
+Begründung: In der materiellen Bedeutung steht 'anfeuern' für das Entfachen oder Verstärken eines Feuers. Der Akteur bestimmt (2) über brennbares Material, bewegt es (3) und führt dem Feuer Brennstoff zu (1), um eine stärkere Wirkung/ein stärkeres Brennen zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+anfeuern: Material/Heating-System 2/3/1/Goal 2/aut/ecc
+Begründung: Im Kontext eines Heizsystems bedeutet 'anfeuern' das Starten und Betreiben einer Heizung durch Zufuhr von Brennmaterial. Der Akteur verfügt (2) über das Brennmaterial, bewegt es (3) und führt es der Heizung zu (1), um einen gewünschten Zustand (Wärme) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+anfixen: Material/Criminal/Procurement 3/4/1/Goal 2//Goal 3/aut/ecc
+Begründung: Anfixen bedeutet, jemandem Drogen zu geben (4/1), um ihn abhängig zu machen. Der Dealer bewegt sich auf den Antagonisten zu (3), leistet durch Abgabe (4/1) von Substanzen, damit der Antagonist einen bestimmten Zustand erlebt (Goal 2), während das eigentliche Ziel des Dealers ist, eine Wirkung zu erzielen (Goal 3), nämlich den Antagonisten abhängig zu machen und ihn als Kunden zu gewinnen.. Autonom/Exzentrisch.
+
+anfixen: Material/Dependency 3/4/1/Goal 2//Goal 2/aut/ecc
+Begründung: Im allgemeineren Kontext bedeutet anfixen, jemanden mit etwas (nicht nur Drogen) abhängig zu machen, indem man ihm etwas gibt (4/1), das einen gewünschten Zustand beim Antagonisten hervorruft (Goal 2), mit dem Ziel, dass der Antagonist dauerhaft in diesen Abhängigkeitszustand gerät (Goal 2).. Autonom/Exzentrisch.
+
+anflanschen: Material/Professions/Construction Material/Professions/Construction 3/2/Goal 2/aut/ecc
+Begründung: Anflanschen bezeichnet das Befestigen eines Bauteils mittels eines Flansches an einen anderen Bauteil. Es beinhaltet eine Bewegungskomponente (3) beim Ausrichten und Anbringen des Bauteils sowie das Verfügen (2) über die Verbindungselemente, um einen gewünschten Zustand (Goal 2) herzustellen. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und sich auf Objekte außerhalb seines unmittelbaren Kontrollbereichs bezieht.. Autonom/Exzentrisch.
+
+anflanschen: Material/Machine-System Material/Machine-System 3/2/Goal 2/aut/ecc
+Begründung: Im maschinentechnischen Kontext bedeutet anflanschen das Verbinden von Maschinenteilen durch einen Flansch, wobei ebenfalls Bewegung (3) und Verfügung (2) über die Verbindungselemente erforderlich sind, um einen funktionalen Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+anflehen: Interpersonal 3/1/Goal 3/Goal 1/het/ecc
+Begründung: Anflehen ist eine intensive Form der Bitte, bei der der Akteur sich an den Antagonisten wendet (3) und erhofft, etwas zu bekommen (1), mit dem Ziel, eine Wirkung beim Antagonisten zu erzielen (Goal 3), um letztendlich etwas zu erhalten oder Nähe zu bekommen (Goal 1). Die Ausrichtung ist heteronym/exzentrisch (het/ecc), da der Akteur sich an externe Bedingungen (den Willen des Antagonisten) anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+anflehen: Material/Religious 3/1/Goal 3/Goal 1/het/ecc
+Begründung: Im religiösen Kontext bedeutet anflehen das inständige Bitten an eine höhere Macht (3), um etwas zu erhalten (1), mit dem Ziel, eine gewünschte Wirkung zu erzielen (Goal 3), um letztendlich Hilfe, Gnade oder eine Gunst zu bekommen (Goal 1).. Heteronom/Exzentrisch.
+
+anflirten: Interpersonal 3/5/Goal 3/Goal 5/aut/ecc
+Begründung: Anflirten bedeutet, aktiv auf jemanden zuzugehen (3) und Kontakt aufzunehmen (5), um eine Wirkung zu erzielen (Goal 3) und einen Kontakt herzustellen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf den Antagonisten zugeht.. Autonom/Exzentrisch.
+
+anflirten: Interpersonal/Sex 3/5/Goal 3/Goal 5/aut/ecc
+Begründung: Im sexuellen Kontext bedeutet anflirten, durch aktives Zugehen (3) und Kontaktaufnahme (5) eine erotische Wirkung zu erzielen (Goal 3) und einen potenziell geschlechtsspezifischen Kontakt herzustellen (Goal 5).. Autonom/Exzentrisch.
+
+anflüstern: Interpersonal/Communication 4/1/5/Goal 5/het/ecc
+Begründung: Anflüstern bedeutet, einer anderen Person (4) leise etwas mitzuteilen (1/5), damit diese Person informiert ist (Goal 5). Die Ausrichtung ist heternom/exzentrisch (het/ecc), da man sich auf die andere Person einstellt und nach außen gerichtet kommuniziert.. Heteronom/Exzentrisch.
+
+anflüstern: Material/Gesture 3/4/1/5/Goal 5/het/ecc
+Begründung: Als physische Geste betrachtet beinhaltet Anflüstern zusätzlich eine Bewegungskomponente (3), bei der man sich dem Anderen annähert, um leise zu sprechen und Informationen zu übermitteln.. Heteronom/Exzentrisch.
+
+anfordern: Material/Business 2/4/1/5//Goal 2/aut/ecc
+Begründung: Beim 'Anfordern' bestimmt der Akteur (2) als Autorität eine Leistung für einen Antagonisten (4), etwas zu geben (1), nämlich Information/Anforderung (5), damit der Akteur einen gewünschten Zustand erreichen kann (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
+
+anfordern: Material/Office 2/4/1/5//Goal 2/Goal 4/aut/ecc
+Begründung: Im Bürokontext bedeutet 'anfordern' das Bestimmen (2) einer Leistung (4) durch Geben (1) einer Information/Anforderung (5), um einen gewünschten Zustand zu erreichen (//Goal 2) mit dem übergeordneten Ziel einer beruflichen Anerkennung/Vergütung (Goal 4).. Autonom/Exzentrisch.
+
+anfordern: Material/Authorities 2/4/1/5//Goal 2/aut/con
+Begründung: Im behördlichen Kontext bedeutet 'anfordern' das Bestimmen/Verfügen (2) als Autorität, eine Leistung für einen Antagonisten (4) durch Geben (1) einer Information/Anfrage (5), damit der Akteur einen gewünschten Zustand erreichen kann (//Goal 2). Die Ausrichtung ist autonom/konzentrisch, da die Autorität im eigenen Machtbereich agiert.. Autonom/Konzentrisch.
+
+anformen: Material/Process 3/Goal 2/aut/ecc
+Begründung: Anformen bedeutet, einem Material oder Objekt eine bestimmte Form zu geben durch gezielte Bewegung/Bearbeitung (3), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
+
+anformen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im handwerklichen oder baulichen Kontext bezieht sich anformen auf das Bearbeiten von Materialien, um ihnen eine bestimmte Form/Gestalt zu geben. Die Bewegung (3) zielt auf das Erreichen eines spezifischen Zustands (Goal 2) ab.. Autonom/Exzentrisch.
+
+anfragen: Material/Communication 3/1/Goal 5/het/ecc
+Begründung: Anfragen bedeutet, durch eigenständiges Zugehen/Bewegen (3) eine Information zu bekommen (1), um informiert zu sein (Goal 5). Die Ausrichtung ist heterenom/exzentrisch (het/ecc), da man sich an externe Bedingungen anpassen muss und nach außen gerichtet ist, um die Information zu erlangen.. Heteronom/Exzentrisch.
+
+anfragen: Material/Business 3/1/5/Goal 2/het/ecc
+Begründung: Im geschäftlichen Kontext kann 'anfragen' das Einholen (3/1) von Informationen (5) bedeuten, um einen gewünschten Zustand (wie einen Auftrag oder eine Bestellung) zu erreichen (Goal 2). Der Akteur bewegt sich aktiv auf den Informationsgeber zu, angepasst an dessen Bedingungen.. Heteronom/Exzentrisch.
+
+anfragen: Material/IT 3/1/Goal 5/het/ecc
+Begründung: Im IT-Kontext bezeichnet 'anfragen' den Prozess, bei dem ein System aktiv Daten von einem anderen System anfordert (3), um diese zu erhalten (1) und dadurch informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
+
+anfreunden: Interpersonal 3/1/2/Goal 5/het/ecc
+Begründung: Anfreunden bedeutet, eine freundschaftliche Beziehung zu jemandem aufzubauen. Der Code beschreibt: auf jemanden zugehen (3), ein Näheverhältnis bekommen (1) und eine dauerhafte Verfügungsmöglichkeit über den Kontakt etablieren (2), mit dem Ziel, einen fortbestehenden Kontakt zu haben (Goal 5). Die Ausrichtung ist heteronomisch, da es eine Anpassung an den anderen erfordert, und exzentrisch, da es nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+anfreunden: Interpersonal/Social 3/1/2/Goal 5/Goal 1/het/ecc
+Begründung: In einem stärker sozialen Kontext kann anfreunden auch bedeuten, eine tiefere emotionale Verbindung zu entwickeln. Hier kommt neben dem Kontakt (Goal 5) auch das Ziel der emotionalen Nähe (Goal 1) hinzu.. Heteronom/Exzentrisch.
+
+anfunken: Material/Communication 3/5/1/Goal 5/het/ecc
+Begründung: Anfunken bedeutet, per Funk Kontakt mit jemandem aufzunehmen (3/5). Dies beinhaltet das Bewegen/Anstreben (3) durch Ausnutzung eines Kommunikationsmediums, um eine Informationsverbindung (5) herzustellen und dadurch Informationen zu bekommen (1/Goal 5). Die Aktivität ist heteronomer und exzentrischer Natur (het/ecc), da der Akteur sich an externe Bedingungen des Funksystems anpassen muss und nach außen gerichtet kommuniziert.. Heteronom/Exzentrisch.
+
+anfunken: Material/Military 3/5/1/Goal 5/het/ecc
+Begründung: Im militärischen Kontext bezeichnet anfunken die Kontaktaufnahme mit einer anderen Einheit oder einem Stützpunkt über Funkgeräte, wobei die gleiche Kodierung gilt, jedoch in einem spezifischen militärischen Einsatzumfeld.. Heteronom/Exzentrisch.
+
+anfügen: Material/Process 3/1/Goal 2/aut/ecc
+Begründung: Das Anfügen ist eine Bewegung (3), durch die etwas (1) hinzugebracht wird, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
+anfügen: Material/IT/Process 3/1/Goal 5/aut/ecc
+Begründung: Im digitalen Kontext bedeutet Anfügen das Bewegen (3) von Daten/Informationen, die hinzugefügt werden (1), um einen informativen Zustand (Goal 5) zu erreichen. Beispielsweise beim Anhängen von Dateien an eine E-Mail oder Hinzufügen von Textabschnitten zu einem Dokument.. Autonom/Exzentrisch.
+
+anfügen: Material/Printing 3/1/2/Goal 2/aut/ecc
+Begründung: Im Druckwesen bedeutet Anfügen das Bewegen (3) und Hinzufügen (1) eines Teils, wodurch eine Verfügung (2) über ein erweitertes Ganzes entsteht, um einen gewünschten Zustand (Goal 2) zu erreichen, wie beim Anfügen eines Anhangs oder einer Beilage.. Autonom/Exzentrisch.
+
+anführen: Material/Leadership 2/3/Goal 3/Goal 2/aut/ecc
+Begründung: Anführen bedeutet, eine Gruppe zu leiten und zu einer Destination/einem Ziel zu führen (3). Der Anführer bestimmt dabei den Weg und die Vorgehensweise (2). Das primäre Ziel ist, die angestrebte Wirkung zu erzielen (Goal 3) mit dem übergeordneten Ziel, einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Anführer eigenständig handelt und nach außen gerichtet führt.. Autonom/Exzentrisch.
+
+anführen: Fight/Aggression/War 2/3/Goal 3/Goal 2/aut/ecc
+Begründung: Im militärischen Kontext bedeutet anführen, Truppen in die Schlacht oder zu einem taktischen Ziel zu führen. Der Anführer gibt Befehle (2) und bewegt die Gruppe (3) mit dem Ziel, eine Wirkung zu erzielen (Goal 3) und letztlich einen Kampfeserfolg zu haben (Goal 2).. Autonom/Exzentrisch.
+
+anführen: Material/Argument 2/4/1/5/Goal 5/aut/ecc
+Begründung: In der Bedeutung 'etwas als Beispiel oder Beleg anführen' bestimmt der Akteur (2), welche Information er gibt (4/1/5), um jemanden zu informieren (Goal 5). Hier geht es um das Präsentieren von Belegen oder Beispielen in einer Diskussion oder einem Text.. Autonom/Exzentrisch.
+
+angaffen: Interpersonal/Gesture 5/1/Goal 5/het/ecc
+Begründung: Beim Angaffen schaut jemand (5) eine andere Person intensiv und aufdringlich an und nimmt dabei visuelle Informationen auf (1), mit dem Ziel, Kontakt zu haben bzw. den anderen zu betrachten (Goal 5). Dies geschieht in einer heteronomen (het) und nach außen gerichteten (ecc) Weise, da der Akteur sich nach dem externen Reiz ausrichtet.. Heteronom/Exzentrisch.
+
+angaffen: Material/Gesture 5/1/Goal 5/het/ecc
+Begründung: In einem materiellen Kontext kann 'angaffen' auch das intensive Betrachten von Objekten (nicht Personen) bedeuten, wobei dieselbe Kodierung gilt, da der Akteur visuell Informationen aufnimmt (5/1), um Informationen über das Objekt zu haben (Goal 5).. Heteronom/Exzentrisch.
+
+angeben: Interpersonal 4/3/Goal 5//Goal 3/Goal 4/het/ecc
+Begründung: Mit besonderer Werbeaktion Aufmerksamkeit Anderer auf sich lenken wollen. Der Akteur leistet für den Antagonisten (4) durch Bewegung/Anstreben (3) eine Handlung mit dem primären Ziel, Kontakt/Aufmerksamkeit für den Antagonisten herzustellen (Goal 5). Nach dem Wechsel (//) strebt der Akteur als Endziele an, eine Wirkung zu erzielen (Goal 3) und Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist heternom und exzentrisch (het/ecc), da sich der Akteur den Reaktionen der Umgebung anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+angeben: Material/Business 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet angeben das Mitteilen von Informationen, z.B. auf einem Formular. Der Akteur leistet für den Antagonisten (4) durch Geben (1) von Informationen (5) mit dem Ziel, dass der Antagonist informiert ist (Goal 5), wonach der Akteur als Endziel Anerkennung/Vergütung anstrebt (Goal 4). Die Ausrichtung ist autonom und exzentrisch, da der Akteur die Kontrolle über die mitgeteilten Informationen hat und diese nach außen gibt.. Autonom/Exzentrisch.
+
+angeben: Interpersonal/Psychological ADJ +5/Goal +4/aut/ecc
+Begründung: Als psychologische Eigenschaft bedeutet 'angebend' ein übertriebenes Verhalten (+5), bei dem jemand übermäßig Kontakt sucht und Aufmerksamkeit auf sich lenkt mit dem Ziel, Anerkennung zu bekommen (Goal +4). Die Ausrichtung ist autonom und exzentrisch, da die Person selbstbestimmt agiert und nach außen orientiert ist.. Autonom/Exzentrisch.
+
+angehen: Material/Process 3/Goal 3/aut/ecc
+Begründung: Angehen bedeutet, sich einer Sache zuzuwenden und sie in Angriff zu nehmen (3). Dies ist eine selbstbestimmte Bewegung des Akteurs in Richtung eines zu erreichenden Ziels oder einer Wirkung (Goal 3). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur eigenständig auf ein externes Objekt oder Problem zugeht.. Autonom/Exzentrisch.
+
+angehen: Material/Fight/Dispute 3/Goal 3/aut/ecc
+Begründung: Im Kontext eines Disputes bedeutet 'angehen' das konfrontative Zugehen auf jemanden (3), um eine bestimmte Wirkung zu erzielen (Goal 3), etwa bei einer Beschwerde oder einem Vorwurf.. Autonom/Exzentrisch.
+
+angehen: Interpersonal 3/Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich kann 'angehen' bedeuten, auf jemanden zuzugehen (3), um Kontakt herzustellen (Goal 5). Die Ausrichtung ist selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+angehen: Material 2/1/Goal 2/aut/ecc
+Begründung: Als 'angehen' im Sinne von 'funktionieren/einschalten' bedeutet es, dass etwas durch Betätigung (2) in einen gewünschten Betriebszustand (Goal 2) übergeht. Beispiel: 'Das Licht geht an'.. Autonom/Exzentrisch.
+
+angleichen: Material/Process 3/Goal 2/aut/ecc
+Begründung: Angleichen bedeutet, etwas einem Vorbild, Standard oder Muster entsprechend anzupassen oder ähnlich zu machen. Der Akteur bewegt/verändert (3) ein Objekt oder eine Eigenschaft, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Übereinstimmung mit einem Referenzwert. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Veränderung nach außen auf das anzugleichende Objekt gerichtet ist.. Autonom/Exzentrisch.
+
+angleichen: Material/IT/Process 3/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet angleichen, Daten oder Parameter so zu verändern, dass sie mit anderen Daten oder Anforderungen übereinstimmen. Der Akteur bewegt/verändert (3) die Daten, um einen gewünschten Zustand der Übereinstimmung (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+angleichen: Material/Measurement 3/5/Goal 2/het/ecc
+Begründung: Im Kontext von Messungen oder Kalibrierungen bedeutet angleichen, einen Wert an einen Standardwert anzupassen. Dabei werden Informationen (5) über den Sollwert verwendet und die Anpassung (3) erfolgt heteronomer (het), da sie sich nach externen Vorgaben richtet.. Heteronom/Exzentrisch.
+
+anglotzen: Interpersonal/Gesture 3/+5/Goal 5/aut/ecc
+Begründung: Anglotzen bedeutet, intensiv und unhöflich auf jemanden zu starren. Es beinhaltet eine Bewegung (3) beim Betrachten einer Person, um Informationen über sie zu erhalten (+5), mit dem Ziel, Kontakt herzustellen oder zu halten (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt agiert und nach außen auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
+
+anglotzen: Material/Gesture 3/5/Goal 5/aut/ecc
+Begründung: Anglotzen kann auch das intensive Starren auf ein Objekt (statt einer Person) bedeuten, wobei der Fokus dann auf dem materiellen Aspekt liegt. Auch hier ist es eine Bewegung (3) zur Informationsaufnahme (5) mit dem Ziel, Information zu gewinnen (Goal 5).. Autonom/Exzentrisch.
+
+angreifen: Fight/Aggression 3/Goal 3/aut/ecc
+Begründung: Angreifen bedeutet eine autonome Bewegung (3) des Akteurs in Richtung eines Antagonisten mit dem Ziel, eine Wirkung (Goal 3) zu erzielen. Dies ist eine exzentrische Handlung, da sie nach außen gerichtet ist, und autonom, da der Akteur selbst die Initiative ergreift.. Autonom/Exzentrisch.
+
+angreifen: Material/Fight/Dispute 3/4/1/5/Goal 3/aut/ecc
+Begründung: Im Kontext einer verbalen Auseinandersetzung bedeutet 'angreifen' eine verbale Attacke, bei der der Akteur aktiv (3) mit Argumenten oder Kritik auf einen Antagonisten zugeht (4/1) und Information (5) einsetzt, um eine Wirkung (Goal 3) zu erzielen.. Autonom/Exzentrisch.
+
+angreifen: Material/Fight/Sports 3/Goal 3/Goal 2/aut/ecc
+Begründung: Im sportlichen Kontext bedeutet 'angreifen' eine offensive Bewegung (3), um im Wettkampf eine Wirkung zu erzielen (Goal 3) mit dem höheren Ziel, einen gewünschten Zustand (Vorteil/Sieg) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+angreifen: Material/Military 3/2/Goal 3/Goal 2/aut/ecc
+Begründung: Im militärischen Kontext beinhaltet 'angreifen' eine koordinierte Bewegung (3) mit Kontrolle/Bestimmung (2) über Truppen, um eine Wirkung beim Gegner zu erzielen (Goal 3) und letztlich einen strategischen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+anhalten: Material/Driving Material/Driving 2/3/Goal -3/aut/ecc
+Begründung: Im Kontext des Fahrens bedeutet 'anhalten' das bestimmte (2) Stoppen einer Bewegung (3), um die Bewegung zum Stillstand zu bringen (Goal -3). Der Fahrer führt eine exzentrische Handlung aus, um das Fahrzeug in seiner Bewegung zu unterbrechen.. Autonom/Exzentrisch.
+
+anhalten: Material/Machine-System Material/Machine-System 2/Goal -3/aut/con
+Begründung: Bei Maschinen bedeutet 'anhalten' das Verfügen (2) über die Steuerung eines Geräts, um dessen Bewegung zu stoppen (Goal -3). Es ist eine autonome, konzentrische Handlung, da der Bediener im eigenen Kontrollbereich einen Schalter betätigt.. Autonom/Konzentrisch.
+
+anhalten: Interpersonal 3/5/Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'anhalten' (jemanden ansprechen), sich auf jemanden zuzubewegen (3), um Kontakt aufzunehmen (5) mit dem Ziel, eine Kommunikation herzustellen (Goal 5).. Autonom/Exzentrisch.
+
+anhalten: Material/Time Material/Time 2/Goal 3/aut/con
+Begründung: Im zeitlichen Kontext kann 'anhalten' bedeuten, über einen Zeitraum zu verfügen (2) und diesen zu verlängern, um eine bestimmte Wirkung zu erzielen (Goal 3), wie z.B. 'den Moment anhalten'.. Autonom/Konzentrisch.
+
+anheben: Material/Physical/Position 3/Goal 2/aut/ecc
+Begründung: Anheben bedeutet, ein Objekt durch Bewegung (3) von unten nach oben in eine neue Position zu bringen, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom (der Akteur bestimmt die Handlung) und exzentrisch (nach außen gerichtet, auf ein Objekt bezogen).. Autonom/Exzentrisch.
+
+anheben: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im Baugewerbe bedeutet anheben das gezielte Hochbewegen (3) eines Bauteils oder einer Konstruktion, um eine bestimmte Höhe oder Position (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+anheben: Material/Financial-Transactions 2/Goal 2/aut/con
+Begründung: Im finanziellen Kontext bedeutet anheben das Erhöhen von Preisen, Gehältern oder Tarifen durch Verfügen/Bestimmen (2), um einen neuen gewünschten Zustand (Goal 2) herzustellen. Die Ausrichtung ist autonom und konzentrisch, da es sich um eine Verfügungsentscheidung im eigenen Kontrollbereich handelt.. Autonom/Konzentrisch.
+
+anheimstellen: Material/Law/Compliance 2/4/2/Goal 2//Goal 4/aut/ecc
+Begründung: Anheimstellen bedeutet, eine Entscheidung oder Angelegenheit der Beurteilung oder dem Ermessen eines anderen zu überlassen. Der Akteur überträgt bestimmend (2) als Leistung (4) die Entscheidungsgewalt (2) an einen Antagonisten, damit dieser über einen gewünschten Zustand verfügen kann (Goal 2), während der Akteur selbst eine korrekte Amts- oder Verfahrenshandlung vollzieht (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt die Entscheidungsübertragung vornimmt und nach außen auf den Antagonisten gerichtet handelt.. Autonom/Exzentrisch.
+
+anheimstellen: Interpersonal/Communication 2/4/2/Goal 2//Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet anheimstellen, jemandem etwas zur freien Entscheidung zu überlassen. Der Akteur überträgt bestimmend (2) als kommunikative Handlung (4) die Entscheidungsgewalt (2) an den Antagonisten, damit dieser über einen gewünschten Zustand entscheiden kann (Goal 2), während es für den Akteur primär um den kommunikativen Kontakt geht (Goal 5).. Autonom/Exzentrisch.
+
+anheimstellen: Material/Responsibility 2/4/2/Goal 2//Goal 2/aut/ecc
+Begründung: Als Übertragung von Verantwortung bedeutet anheimstellen, dass der Akteur bestimmend (2) als Leistung (4) die Verfügungsgewalt (2) an den Antagonisten übergibt, damit dieser über einen Sachverhalt entscheiden kann (Goal 2), wobei der Akteur selbst dadurch einen gewünschten Zustand (Verantwortungsabgabe) erreicht (Goal 2).. Autonom/Exzentrisch.
+
+anherrschen: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 2
+Begründung: In einem Streitkontext beinhaltet anherrschen zusätzlich eine aggressive Bewegungskomponente (3) - der Akteur bestimmt (2) aggressiv (3) die Kommunikation (5), um den Antagonisten in einen unterlegenen Zustand zu bringen (Goal -2).. Autonom/Exzentrisch.
+
+anhimmeln: Interpersonal/Psychological 3/5/Goal 3/Goal 1/het/ecc
+Begründung: Der Begriff 'anhimmeln' bedeutet eine starke Bewunderung oder Verehrung einer Person. Die Kodierung besteht aus: (3) Bewegung/Anstreben in Richtung des Bewunderten, (5) eine kontaktsuchende Komponente, (Goal 3) mit dem Ziel, eine emotionale Wirkung zu erzielen, und (Goal 1) eine Nähe Komponente im Sinne emotionaler Verbundenheit. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich in seiner Bewunderung nach dem Antagonisten ausrichtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+anhimmeln: Interpersonal 5/1/Goal 1/het/ecc
+Begründung: In einer weniger intensiven Form kann 'anhimmeln' auch als ein einfaches Bewundern mit starkem Fokus auf das Gefühl der Nähe verstanden werden. Hier steht der Kontakt (5) und das Bekommen (1) emotionaler Verbundenheit (Goal 1) im Vordergrund, ohne die aktive Bewegungskomponente.. Heteronom/Exzentrisch.
+
+anhängen: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Bei 'anhängen' im grundlegenden Sinne wird ein Objekt an ein anderes befestigt. Der Akteur verfügt (2) über Objekte und bewegt (3) eines davon, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die Verbindung zweier Objekte. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und in den äußeren Raum eingreift.. Autonom/Exzentrisch.
+
+anhängen: Material/IT 2/3/1/Goal 5/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet 'anhängen' das Hinzufügen einer Datei zu einer Nachricht. Der Akteur verfügt (2) über Daten, bewegt (3) diese und fügt sie einer Nachricht hinzu (1), um Informationen zu übermitteln (Goal 5) und einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+anhängen: Material/Transportation 2/3/Goal 3/aut/ecc
+Begründung: Im Transportkontext (z.B. 'einen Anhänger anhängen') verfügt der Akteur (2) über ein Transportmittel und bewegt (3) dieses, um eine Transportfunktion (Goal 3) zu ermöglichen.. Autonom/Exzentrisch.
+
+anhängen: Interpersonal/Social 3/5/Goal 5/het/ecc
+Begründung: Im sozialen Kontext ('sich jemandem anhängen') bewegt sich der Akteur (3) zu einer Person hin und sucht Kontakt (5), um einen sozialen Anschluss herzustellen (Goal 5). Die Ausrichtung ist heterenom und exzentrisch, da der Akteur sich an andere anpasst.. Heteronom/Exzentrisch.
+
+anhäufen: Material/Process 3/1/Goal 2/aut/ecc
+Begründung: Anhäufen bedeutet das Bewegen (3) und Zusammenbringen/Bekommen (1) von Objekten, um einen gewünschten Zustand (Goal 2) herzustellen, nämlich einen Haufen oder eine Ansammlung. Der Akteur handelt dabei selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da er Objekte aus der Umgebung sammelt.. Autonom/Exzentrisch.
+
+anhäufen: Material/Financial-Transactions 3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet anhäufen das strategische Ansammeln (3/1) von Vermögenswerten oder Geld, um einen gewünschten Wohlstandszustand (Goal 2) zu erreichen, mit dem übergeordneten Ziel wirtschaftlicher Anerkennung oder Gewinn (Goal 4).. Autonom/Exzentrisch.
+
+anhören: Material/Communication 5/Goal 5/het/ecc
+Begründung: Beim Anhören nimmt der Akteur aktiv Informationen auf (5), mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da sich der Akteur an die Informationsquelle anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+anhören: Interpersonal/Communication 5/1/Goal 5/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet Anhören, dass der Akteur Kontakt hält (5) und Informationen aufnimmt (1), um informiert zu sein über die Belange des Anderen (Goal 5). Dies kommt insbesondere bei aktiver Kommunikation und Zuhören in sozialen Situationen zum Tragen.. Heteronom/Exzentrisch.
+
+anhören: Material/Law/Court 5/2/Goal 5/aut/ecc
+Begründung: Im rechtlichen Kontext (Anhörung) beinhaltet Anhören das Informieren (5) mit einer Verfügungsgewalt/bestimmenden Komponente (2), um einen Sachverhalt zu erfahren (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da die anhörende Instanz Kontrolle über den Prozess hat.. Autonom/Exzentrisch.
+
+animieren: Interpersonal 2/3/Goal 3/aut/ecc
+Begründung: Als soziale Interaktion bedeutet 'animieren' bestimmend (2) auf jemanden zuzugehen (3) mit dem Ziel, eine Wirkung (Goal 3) zu erzielen - nämlich die Person zu einer Handlung zu bewegen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt (aut) auf einen Antagonisten zugeht und nach außen wirkt (ecc).. Autonom/Exzentrisch.
+
+animieren: Material/Entertainment 3/2/Goal 3/aut/ecc
+Begründung: Im Kontext der Unterhaltungsindustrie bedeutet 'animieren' das Bewegen/Bearbeiten (3) und Gestalten (2) von Bildern oder Figuren, um eine bestimmte Wirkung (Goal 3) zu erzielen. Der Akteur steuert dabei den Prozess selbstbestimmt (aut) und wirkt auf ein Objekt im Außenbereich (ecc).. Autonom/Exzentrisch.
+
+animieren: Material/Hospitality 4/3/1/Goal 3//Goal 4/aut/ecc
+Begründung: In der Gastronomie/Hotellerie bedeutet 'animieren' eine Leistung für Gäste (4) durch Bewegung/Annäherung (3) zum Zweck, ihnen etwas zu geben (1), damit sie eine angenehme Wirkung erfahren (Goal 3), was letztendlich der beruflichen Anerkennung des Animateurs dient (Goal 4).. Autonom/Exzentrisch.
+
+ankaufen: Material/Market 2/1/Goal 2/het/ecc
+Begründung: Ankaufen bedeutet, bestimmend (2) etwas zu bekommen (1), um einen gewünschten Zustand des Besitzens zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Käufer sich an externe Bedingungen des Marktes anpassen muss und nach außen auf einen Verkäufer gerichtet agiert.. Heteronom/Exzentrisch.
+
+ankaufen: Material/Business 2/1/Goal 2/Goal 4/het/ecc
+Begründung: Im geschäftlichen Kontext bedeutet ankaufen, bestimmend (2) etwas zu bekommen (1), um einen gewünschten Zustand des Besitzens zu erreichen (Goal 2) mit dem höheren Ziel, geschäftlich Geld/Anerkennung zu bekommen (Goal 4).. Heteronom/Exzentrisch.
+
+ankeifen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Ankeifen bedeutet, jemanden in scharfem, unfreundlichem Ton anzusprechen oder zu kritisieren. Der Akteur bestimmt (2) eine Leistung für den Antagonisten (4) durch das Geben (1) von Informationen (5) mit dem Ziel, den gewünschten Zustand des Antagonisten zu verschlechtern (Goal -2). Nach dem Wechsel zurück zum Akteur (//), ist sein eigenes Ziel die Realisierung eines gewünschten Zustands (Goal 2), typischerweise die Durchsetzung seiner Position. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt agiert und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+ankeifen: Material/Fight/Dispute/Interpersonal 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im Kontext eines Streits oder einer Auseinandersetzung bedeutet ankeifen eine aggressive verbale Attacke, bei der der Akteur bestimmt (2) eine Leistung für den Antagonisten (4) durch das Geben (1) von negativen Informationen (5) erbringt, um dessen Position zu schwächen (Goal -2), während der Akteur selbst einen vorteilhaften Zustand für sich erreichen will (//Goal 2).. Autonom/Exzentrisch.
+
+anketten: Material/Security 2/3/1/Goal 2/aut/ecc
+Begründung: Ein Objekt oder Person mit einer Kette an einer festen Stelle sichern oder befestigen. Hier bedeutet: Bestimmen (2) durch Bewegung (3) eine Fixierung zu bekommen (1), um einen gewünschten Zustand der Sicherung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da die Handlung selbstbestimmt ist und nach außen auf ein Objekt gerichtet ist.. Autonom/Exzentrisch.
+
+anketten: Material/Fight/Defense 2/3/1/Goal -3/Goal 2/aut/ecc
+Begründung: In einem Verteidigungskontext bedeutet anketten das Fixieren einer Person, um ihre Bewegungsfreiheit einzuschränken. Bestimmen (2) durch Bewegung (3) eine Fixierung zu bekommen (1), um die Bewegungsmöglichkeit eines Antagonisten zu verhindern (Goal -3) und einen gewünschten Sicherheitszustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+anketten: Material/Criminal 2/3/1/Goal 2/aut/ecc
+Begründung: Im kriminellen Kontext bezeichnet es das Fesseln eines Opfers mit Ketten. Bestimmen (2) durch Bewegung (3) eine Fixierung zu bekommen (1), um einen gewünschten Kontrollzustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+anklagen: Material/Law/Court Material/Law/Court 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einem juridischen Kontext bedeutet 'anklagen', dass der Akteur (z.B. Staatsanwalt) bestimmt (2), eine Leistung für den Antagonisten (4) erbringt, indem er Informationen gibt (1/5), die zu einem für den Antagonisten unerwünschten Zustand führen sollen (Goal -2), während das Ziel des Akteurs ein gewünschter Zustand (Goal 2) im Sinne der Rechtspflege ist. Die Ausrichtung ist autonom/eccentric, da der Akteur selbstbestimmt nach außen auf den Antagonisten wirkt.. Autonom/Exzentrisch.
+
+anklagen: Material/Fight/Dispute Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Konflikt bedeutet 'anklagen', dass der Akteur bestimmt (2), eine Leistung für den Antagonisten (4) erbringt, indem er Informationen gibt (1/5), die zu einem für den Antagonisten unerwünschten Zustand führen sollen (Goal -2), mit dem Ziel für den Akteur, einen gewünschten Zustand herzustellen (Goal 2), etwa Recht zu bekommen oder eine Genugtuung zu erhalten.. Autonom/Exzentrisch.
+
+ankleben: Material/Professions/Construction 3/1/2/Goal 2/aut/ecc
+Begründung: Ankleben bedeutet, durch Bewegen (3) eines Klebstoffs oder eines mit Klebstoff versehenen Objekts und dessen Bekommen/Aufbringen (1) auf einer Oberfläche, über die man verfügt (2), einen gewünschten Zustand herzustellen (Goal 2), wobei der Akteur selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+ankleben: Material/Office 3/1/2/Goal 5/aut/ecc
+Begründung: Im Bürokontext bedeutet ankleben das Befestigen von Notizen oder Informationsträgern durch Bewegen (3) und Anbringen (1) auf einer Oberfläche, über die man verfügt (2), mit dem Ziel, Informationen verfügbar zu machen (Goal 5).. Autonom/Exzentrisch.
+
+ankleiden: Material/Clothing 2/3/Goal 2/aut/con
+Begründung: Das Ankleiden bedeutet, über Kleidungsstücke zu verfügen (2) und diese mit Bewegung (3) anzulegen, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich bekleidet zu sein. Dies geschieht selbstbestimmt (aut) im eigenen Kontrollbereich (con).. Autonom/Konzentrisch.
+
+ankleiden: Material/Protection/Clothing 2/3/Goal 2/Goal 3/aut/con
+Begründung: Im Schutzkontext bedeutet Ankleiden, über Kleidungsstücke zu verfügen (2) und diese mit Bewegung (3) anzulegen, um einen gewünschten Zustand (Goal 2) zu erreichen mit dem höheren Ziel, Schutzwirkung gegen äußere Einflüsse zu erzielen (Goal 3).. Autonom/Konzentrisch.
+
+ankleiden: Interpersonal/Physical 4/2/3/Goal 2//Goal 4/het/ecc
+Begründung: Jemand anderen ankleiden bedeutet, für diese Person (4) eine Leistung zu erbringen, indem man über Kleidungsstücke verfügt (2) und diese mit Bewegung (3) anlegt, um für den Antagonisten einen gewünschten Zustand (Goal 2) zu erreichen. Nach dem Wechsel (//), ist das Ziel des Akteurs, Anerkennung für diese Leistung zu bekommen (Goal 4).. Heteronom/Exzentrisch.
+
+anklicken: Material/IT 2/3/Goal 5/aut/ecc
+Begründung: Der Begriff 'anklicken' beschreibt eine IT-spezifische Aktivität, bei der der Akteur bestimmt (2) durch eine gezielte Bewegung (3), um Informationen zu erhalten oder einen digitalen Zugang zu erlangen (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf ein digitales Element einwirkt.. Autonom/Exzentrisch.
+
+anklopfen: Material/Gesture 3/5/Goal 5/aut/ecc
+Begründung: Anklopfen ist eine Bewegung (3) mit dem Zweck der Kontaktherstellung (5/Goal 5). Es ist eine autonome, nach außen gerichtete Handlung (aut/ecc), bei der der Akteur durch Klopfen an einer Tür seine Anwesenheit signalisiert und Aufmerksamkeit erregen möchte, um Kontakt mit jemandem herzustellen.. Autonom/Exzentrisch.
+
+anklopfen: Interpersonal/Communication 3/5/Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext ist Anklopfen eine Kommunikationsgeste, die die Aufmerksamkeit einer anderen Person erregen soll, um Kontakt herzustellen. Es ist eine Bewegung (3) zur Informationsübermittlung (5) mit dem Ziel, eine Kontaktaufnahme zu initiieren (Goal 5).. Autonom/Exzentrisch.
+
+anknüpfen: Interpersonal/Communication 3/5/Goal 5/aut/ecc
+Begründung: Anknüpfen im kommunikativen Sinne bedeutet eine Bewegung/ein Anstreben (3) in Richtung Kontaktaufnahme (5) mit dem Ziel, einen Kontakt herzustellen oder zu erweitern (Goal 5). Die Handlung erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da sie auf eine andere Person oder einen früheren Gesprächspunkt zielt.. Autonom/Exzentrisch.
+
+anknüpfen: Material 3/2/Goal 2/aut/ecc
+Begründung: Im materiellen Sinne bedeutet anknüpfen das Bewegen/Anstreben (3) zur Verbindung zweier Objekte durch Bestimmen/Kontrollieren (2) mit dem Ziel, einen gewünschten Zustand (eine Verbindung) herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+anknüpfen: Material/IT/Process 3/2/Goal 2/Goal 5/aut/ecc
+Begründung: Im IT-Kontext bedeutet anknüpfen das Herstellen (3) einer Verbindung (2) zwischen Daten oder Prozessen, um einen gewünschten Zustand herzustellen (Goal 2) und Informationsfluss zu ermöglichen (Goal 5).. Autonom/Exzentrisch.
+
+ankommen: Material/Transportation 3/1/Goal 3/het/ecc
+Begründung: Ankommen bedeutet durch Bewegung (3) ein Ziel zu erreichen/bekommen (1), wobei die Destination (Goal 3) das Endziel ist. Die heteronome Ausrichtung (het) zeigt an, dass man sich an äußere Gegebenheiten anpassen muss, und die exzentrische Orientierung (ecc) verweist auf den Außenbereich, in dem die Bewegung stattfindet.. Heteronom/Exzentrisch.
+
+ankommen: Interpersonal 3/1/Goal 5/het/ecc
+Begründung: Im zwischenmenschlichen Bereich kann 'ankommen' bedeuten, dass jemand bei anderen gut aufgenommen wird oder einen positiven Eindruck macht. Durch Bewegung/Anstrebung (3) bekommt man (1) Kontakt/Aufmerksamkeit (Goal 5).. Heteronom/Exzentrisch.
+
+ankommen: Material/Time 1/Goal 3/het/ecc
+Begründung: Im zeitlichen Kontext bedeutet 'ankommen', dass ein Zeitpunkt erreicht wird. Man bekommt (1) die Erreichung einer zeitlichen Destination (Goal 3).. Heteronom/Exzentrisch.
+
+ankoppeln: Material/Process 2/3/1/Goal 2/aut/ecc
+Begründung: Ankoppeln bedeutet das Verbinden zweier Objekte oder Systeme miteinander. Der Akteur verfügt über (2) und bewegt (3) ein Objekt, um es mit einem anderen zu verbinden/bekommen (1), mit dem Ziel, einen gewünschten Zustand (Goal 2) herzustellen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf die zu verbindenden Objekte einwirkt.. Autonom/Exzentrisch.
+
+ankoppeln: Material/Transportation 2/3/1/Goal 2/Goal 3/aut/ecc
+Begründung: Im Transportwesen bedeutet ankoppeln das Verbinden von Fahrzeugen (z.B. Waggons an einen Zug oder Anhänger an ein Fahrzeug). Der Akteur verfügt (2) über die Kontrolle, bewegt (3) ein Fahrzeug und verbindet/bekommt (1) einen Zustand der Verbindung (Goal 2), mit dem weitergehenden Ziel der gemeinsamen Bewegung/des Transports (Goal 3).. Autonom/Exzentrisch.
+
+ankoppeln: Material/IT 2/3/1/Goal 2/Goal 5/aut/ecc
+Begründung: Im IT-Bereich bedeutet ankoppeln das Verbinden von Geräten oder Systemen zur Datenübertragung. Der Akteur verfügt (2) über die Kontrolle des Systems, bewegt (3) Komponenten und verbindet/bekommt (1) einen Zustand der Verbindung (Goal 2), mit dem höheren Ziel des Informationsaustauschs (Goal 5).. Autonom/Exzentrisch.
+
+ankreiden: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Jemanden etwas 'ankreiden' bedeutet, ihm einen Vorwurf machen oder etwas negativ anrechnen. Der Akteur bestimmt (2) eine Leistung (4) durch Geben (1) einer Information (5), die den gewünschten Zustand des Antagonisten verschlechtert (Goal -2), mit dem Ziel für den Akteur, einen gewünschten Zustand (Klarstellung, Genugtuung) zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+ankreiden: Material/Marker 3/1/Goal 2/Goal 5/aut/ecc
+Begründung: Im wörtlichen Sinne kann 'ankreiden' auch bedeuten, etwas mit Kreide zu markieren oder anzuzeichnen. Hier bewegt (3) der Akteur die Kreide, um eine Markierung zu bekommen (1) für einen gewünschten Zustand (Goal 2) und informiert (Goal 5) zu sein. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und auf ein Objekt im Außenbereich einwirkt.. Autonom/Exzentrisch.
 
