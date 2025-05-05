@@ -261,6 +261,8 @@
             let verbEntries = [];
             let uniqueVerbs = [];
             let currentIndex = 0;
+            let searchTimeout;
+            let lastSearchTerm = '';
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -300,24 +302,44 @@
                 }
             });
             
-            // Lade die Verb-Datei
-            fetch('Coded_Verbs.txt')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Datei konnte nicht geladen werden');
-                    }
-                    return response.text();
-                })
-                .then(text => {
-                    console.log("Datei geladen, Größe:", text.length);
-                    processVerbFile(text);
-                    displayEntry(0);
-                    updateNavButtons();
-                })
-                .catch(error => {
-                    console.error("Fehler beim Laden:", error);
-                    showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
-                });
+            // Verbdatei direkt einbetten (gekürzte Version)
+            const verbFileContent = `abbrechen: 1/cp a/agt/ecc/deb
+Begründung: Der Akteur hat sich entschieden, etwas abzubrechen. Er ist in der Position a (= Anfangspunkt): Die gedachte Handlung, die abgebrochen werden soll, muss erst beginnen. Er ist 1 (= Agent), weil er die Kontrolle darüber hat, ob sie beginnt oder nicht. Er ist ecc (= eccentric), denn er muss "nach Außen" tätig werden. Er ist deb (= Debitor), denn er schuldet es sich oder anderen, dass er handelt.
+
+ablehnen: 4/4/neg/ecc
+Begründung: Es handelt sich um das Ablehnen einer Sache oder eines Vorschlags. Der Akteur ist in Position 4, er ist mit einem potentiellen Objekt konfrontiert. Seine Einstellung dazu ist neg (= negativ), denn er stellt sich gegen die Integration des Objekts in seine Sphäre. Er kann diese Ablehnung sowohl intern vornehmen als auch sie anderen gegenüber äußern, ist also ecc (= eccentric).
+
+abnehmen: 1/agt/aut/ecc
+Begründung: Es handelt sich um die Zustandsveränderung, bei der einem Menschen sein Körpergewicht abgenommen wird. Der Akteur befindet sich kognitiv und handlungsbezogen am Anfangspunkt der Gewichtsreduktion, somit in Position 1. Er ist agt (= Agent), da er das Abnehmen selbst kontrolliert und aut (= autonom), da er selbst die Veränderung an sich herbeiführt. Ecc (= eccentric) ist er, weil er die Ernährung umstellen und Sport treiben muss, also "nach außen" tätig werden muss.
+
+abwehren: 3/agt/ecc
+Begründung: Der Akteur ist ein Verteidiger (bzw. Torwart), der sich in Position 3 befindet: Er ist mit einem Objekt (dem Ball) konfrontiert, wehrt ihn aber erfolgreich ab, nimmt ihn also nicht in seine unmittelbare Sphäre auf. Als agt (= Agent) kontrolliert er die Situation, und als ecc (= eccentric) agiert er physisch gegen den Gegner und den Ball.`;
+            
+            processVerbFile(verbFileContent);
+            
+            // Lade die Verb-Datei nur, wenn nicht schon eingebetteter Inhalt
+            if (verbEntries.length === 0) {
+                fetch('Coded_Verbs.txt')
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error('Datei konnte nicht geladen werden');
+                        }
+                        return response.text();
+                    })
+                    .then(text => {
+                        console.log("Datei geladen, Größe:", text.length);
+                        processVerbFile(text);
+                        displayEntry(0);
+                        updateNavButtons();
+                    })
+                    .catch(error => {
+                        console.error("Fehler beim Laden:", error);
+                        showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
+                    });
+            } else {
+                displayEntry(0);
+                updateNavButtons();
+            }
                 
             // Verarbeite die Verbdatei und strukturiere die Daten
             function processVerbFile(text) {
@@ -550,6 +572,28 @@
                 searchVerb(term);
             });
             
+            // Live-Suche mit Timeout (aus der funktionierenden Version)
+            searchInput.addEventListener('input', function() {
+                const term = this.value.trim();
+                
+                // Ignoriere kurze Eingaben für die Live-Suche
+                if (term.length < 2) {
+                    hideSuggestions();
+                    return;
+                }
+                
+                // Setze früheren Timeout zurück
+                clearTimeout(searchTimeout);
+                
+                // Warte kurz, bevor die Suche durchgeführt wird
+                searchTimeout = setTimeout(() => {
+                    if (term !== lastSearchTerm) {
+                        searchVerb(term);
+                        lastSearchTerm = term;
+                    }
+                }, 300);
+            });
+            
             searchInput.addEventListener('keypress', function(e) {
                 if (e.key === 'Enter') {
                     console.log("Enter gedrückt in Suchfeld");
@@ -584,6 +628,44 @@
                 console.log("Letzte-Seite-Button geklickt");
                 displayEntry(verbEntries.length - 1);
                 updateNavButtons();
+            });
+            
+            // Tastatur-Navigation (aus der funktionierenden Version)
+            document.addEventListener('keydown', function(e) {
+                if (e.target === searchInput) {
+                    // Wenn im Suchfeld, nur bei Enter-Taste suchen
+                    if (e.key === 'Enter') {
+                        const term = searchInput.value.trim();
+                        if (term) {
+                            searchVerb(term);
+                        }
+                    }
+                    return;
+                }
+                
+                // Sonst allgemeine Navigation
+                switch (e.key) {
+                    case 'ArrowLeft':
+                        if (currentIndex > 0) {
+                            displayEntry(currentIndex - 1);
+                            updateNavButtons();
+                        }
+                        break;
+                    case 'ArrowRight':
+                        if (currentIndex < verbEntries.length - 1) {
+                            displayEntry(currentIndex + 1);
+                            updateNavButtons();
+                        }
+                        break;
+                    case 'Home':
+                        displayEntry(0);
+                        updateNavButtons();
+                        break;
+                    case 'End':
+                        displayEntry(verbEntries.length - 1);
+                        updateNavButtons();
+                        break;
+                }
             });
         });
     </script>
