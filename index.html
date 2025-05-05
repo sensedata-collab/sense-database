@@ -86,6 +86,7 @@
             cursor: not-allowed;
         }
         
+        /* Display-Bereich mit fester Höhe für die Erklärung */
         .display-area {
             margin: 10px 0;
             padding: 15px;
@@ -115,14 +116,29 @@
             font-size: 14px;
         }
         
+        /* Erklärungsbereich mit gleicher Farbe wie unten und fester Höhe */
         .explanation {
             padding: 12px;
-            background-color: #e9ecef;
+            background-color: #e9ecef; /* Grauer Hintergrund wie formula-explanation */
             border-radius: 4px;
             margin-bottom: 15px;
             font-size: 14px;
-            min-height: 100px;
-            overflow-y: auto;
+            min-height: 100px; /* Feste Mindesthöhe um Springen zu verhindern */
+            overflow-y: auto; /* Scrollbar wenn nötig */
+        }
+        
+        .alternatives {
+            margin-top: 15px;
+            border-top: 1px dashed #ccc;
+            padding-top: 12px;
+        }
+        
+        .alternative-item {
+            margin-bottom: 12px;
+            padding: 8px;
+            background-color: #f0f0f0;
+            border-radius: 4px;
+            font-size: 14px;
         }
         
         .suggestion {
@@ -142,6 +158,7 @@
             font-size: 13px;
         }
         
+        /* Navigationsleiste mit festem Abstand */
         .navigation {
             margin: 15px 0;
             padding: 10px 0;
@@ -156,6 +173,7 @@
             justify-content: center;
         }
         
+        /* Formel-Erklärung mit gleichem Stil */
         .formula-explanation {
             margin-top: 15px;
             padding: 12px;
@@ -194,6 +212,7 @@
             border: 1px solid #ced4da;
         }
         
+        /* Responsives Design */
         @media (max-width: 768px) {
             .search-container {
                 flex-direction: column;
@@ -227,8 +246,10 @@
             <div class="verb-info" id="verbInfo">Lädt...</div>
             <div class="code-display" id="codeDisplay">Lädt Kodierung...</div>
             <div class="explanation" id="explanationDisplay">Lädt Begründung...</div>
+            <div class="alternatives" id="alternativesArea" style="display: none;"></div>
         </div>
         
+        <!-- Navigation direkt unter dem Display-Bereich -->
         <div class="navigation">
             <div class="nav-buttons">
                 <button id="firstButton">Erste Seite</button>
@@ -238,6 +259,7 @@
             </div>
         </div>
         
+        <!-- Erklärungssektion für Formel-Zusätze -->
         <div class="formula-explanation">
             <h3>Erklärung von Formel-Zusätzen</h3>
             <select id="formulaSelect" class="formula-select">
@@ -259,22 +281,28 @@
         document.addEventListener('DOMContentLoaded', function() {
             // Variablen für die Verarbeitung
             let verbEntries = [];
-            let uniqueVerbs = [];
+            let uniqueVerbs = []; // Liste der einzigartigen Verben (alphabetisch)
             let currentIndex = 0;
+            let searchTimeout;
+            let lastSearchTerm = '';
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
             const searchButton = document.getElementById('searchButton');
             const errorMessage = document.getElementById('errorMessage');
             const suggestions = document.getElementById('suggestions');
+            const displayArea = document.getElementById('displayArea');
             const currentVerb = document.getElementById('currentVerb');
             const verbInfo = document.getElementById('verbInfo');
             const codeDisplay = document.getElementById('codeDisplay');
             const explanationDisplay = document.getElementById('explanationDisplay');
+            const alternativesArea = document.getElementById('alternativesArea');
             const firstButton = document.getElementById('firstButton');
             const prevButton = document.getElementById('prevButton');
             const nextButton = document.getElementById('nextButton');
             const lastButton = document.getElementById('lastButton');
+            
+            // Neue Elemente für Formel-Erklärungen
             const formulaSelect = document.getElementById('formulaSelect');
             const explanationText = document.getElementById('explanationText');
             
@@ -288,6 +316,9 @@
                 cp: "CP/ (Change Position) bedeutet, dass der Code sich auf den Antagonisten bezieht und der Akteur die Folgen der Handlung des Antagonisten erleidet.",
                 anti: "ANTI/ als Prefix bedeutet, dass genau das Gegenteil der nachfolgenden Kodierung gemeint ist."
             };
+            
+            // CSS-Anpassungen
+            currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
             
             // Event-Listener für Formel-Erklärungen
             formulaSelect.addEventListener('change', function() {
@@ -309,13 +340,11 @@
                     return response.text();
                 })
                 .then(text => {
-                    console.log("Datei geladen, Größe:", text.length);
                     processVerbFile(text);
                     displayEntry(0);
                     updateNavButtons();
                 })
                 .catch(error => {
-                    console.error("Fehler beim Laden:", error);
                     showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
                 });
                 
@@ -330,14 +359,14 @@
                 // Temporäres Array für die Einträge
                 let tempEntries = [];
                 
-                // Verarbeite jeden Block
+                // Verarbeite jeden Block (ein Block = ein Eintrag mit Begründung)
                 for (let blockIndex = 0; blockIndex < blocks.length; blockIndex++) {
                     const block = blocks[blockIndex].trim();
                     if (!block) continue; // Leere Blöcke überspringen
                     
                     const lines = block.split('\n');
                     
-                    // Finde die Verb-Zeile und Begründung
+                    // Finde die Verb-Zeile (sollte die erste sein)
                     let verbLine = null;
                     let explanationLine = null;
                     
@@ -368,7 +397,7 @@
                             verb: verb,
                             code: code,
                             explanation: explanation,
-                            blockIndex: blockIndex
+                            blockIndex: blockIndex // Für die Sortierung
                         });
                     }
                 }
@@ -398,7 +427,7 @@
                             explanation: entry.explanation,
                             meaningNumber: index + 1,
                             totalMeanings: sortedEntries.length,
-                            verbIndex: verbIndex + 1
+                            verbIndex: verbIndex + 1 // 1-basierter Index des Verbs in der alphabetischen Liste
                         });
                     });
                 });
@@ -406,6 +435,10 @@
                 console.log("Verarbeitung abgeschlossen");
                 console.log(`Gefundene Einträge: ${verbEntries.length}`);
                 console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
+                
+                if (verbEntries.length > 0) {
+                    console.log("Erster Eintrag:", verbEntries[0]);
+                }
             }
             
             // Zeige einen Eintrag an
@@ -420,6 +453,7 @@
                 
                 // Verb anzeigen
                 currentVerb.textContent = entry.verb;
+                currentVerb.style.color = 'black'; // Schwarz statt Blau
                 
                 // Zusätzliche Informationen anzeigen
                 verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
@@ -430,9 +464,14 @@
                 // Begründung anzeigen
                 if (entry.explanation && entry.explanation.trim()) {
                     explanationDisplay.textContent = entry.explanation;
+                    explanationDisplay.style.display = 'block';
                 } else {
                     explanationDisplay.textContent = "Keine Begründung verfügbar";
+                    explanationDisplay.style.display = 'block';
                 }
+                
+                // Keine Alternativen mehr anzeigen, da jede Bedeutung einzeln dargestellt wird
+                alternativesArea.style.display = 'none';
                 
                 // Fehler und Vorschläge zurücksetzen
                 hideError();
@@ -467,6 +506,8 @@
                 
                 if (startsWith !== -1) {
                     displayEntry(startsWith);
+                    
+                    // Zeige Vorschläge für ähnliche Verben
                     showSimilarVerbs(term);
                     return true;
                 }
@@ -478,12 +519,25 @@
                 
                 if (partialMatch !== -1) {
                     displayEntry(partialMatch);
+                    
+                    // Zeige Vorschläge für ähnliche Verben
+                    showSimilarVerbs(term);
+                    return true;
+                }
+                
+                // Wenn keine erste Bedeutung gefunden wurde, suche nach beliebiger Bedeutung
+                const anyMatch = verbEntries.findIndex(entry => 
+                    entry.verb.toLowerCase().includes(term)
+                );
+                
+                if (anyMatch !== -1) {
+                    displayEntry(anyMatch);
                     showSimilarVerbs(term);
                     return true;
                 }
                 
                 // Keine Übereinstimmung gefunden
-                showError(`Das Verb "${term}" wurde nicht gefunden.`);
+                showError(`Das Verb "${term}" wurde nicht gefunden. Möglicherweise ist es nicht in unserer Datenbank enthalten oder anders geschrieben.`);
                 showSimilarVerbs(term);
                 return false;
             }
@@ -495,7 +549,7 @@
                     return;
                 }
                 
-                // Finde ähnliche Verben
+                // Finde einzigartige Verben (keine Duplikate wegen mehrerer Bedeutungen)
                 const similarVerbs = uniqueVerbs
                     .filter(verb => verb.toLowerCase().includes(term.toLowerCase()))
                     .slice(0, 5);  // Begrenze auf 5 Vorschläge
@@ -517,6 +571,15 @@
                 } else {
                     hideSuggestions();
                 }
+            }
+            
+            // Prüfe, ob ein String ein gültiges deutsches Verb ist
+            function isValidGermanVerb(text) {
+                // Vereinfachte Prüfung: ein deutsches Verb endet typischerweise auf -en, -eln, -ern
+                // und enthält keine Zahlen oder Sonderzeichen (außer ä, ö, ü, ß)
+                const germanVerbPattern = /^[a-zäöüß]+(?:en|eln|ern)$/i;
+                
+                return germanVerbPattern.test(text.trim());
             }
             
             // Fehler anzeigen
@@ -544,22 +607,48 @@
             }
             
             // Event-Listener registrieren
+            
+            // Live-Suche mit Timeout
+            searchInput.addEventListener('input', function() {
+                const term = this.value.trim();
+                
+                // Ignoriere kurze Eingaben für die Live-Suche
+                if (term.length < 2) {
+                    hideSuggestions();
+                    return;
+                }
+                
+                // Setze früheren Timeout zurück
+                clearTimeout(searchTimeout);
+                
+                // Warte kurz, bevor die Suche durchgeführt wird
+                searchTimeout = setTimeout(() => {
+                    if (term !== lastSearchTerm) {
+                        searchVerb(term);
+                        lastSearchTerm = term;
+                    }
+                }, 300);
+            });
+            
+            // Such-Button
             searchButton.addEventListener('click', function() {
-                console.log("Suchbutton geklickt");
                 const term = searchInput.value.trim();
+                
+                if (!term) {
+                    showError('Bitte geben Sie ein Verb ein.');
+                    return;
+                }
+                
+                if (!isValidGermanVerb(term) && term.length > 2) {
+                    showError('Bitte geben Sie ein gültiges deutsches Verb ein (endet typischerweise auf -en, -eln oder -ern).');
+                    return;
+                }
+                
                 searchVerb(term);
             });
             
-            searchInput.addEventListener('keypress', function(e) {
-                if (e.key === 'Enter') {
-                    console.log("Enter gedrückt in Suchfeld");
-                    const term = this.value.trim();
-                    searchVerb(term);
-                }
-            });
-            
+            // Navigationstasten
             prevButton.addEventListener('click', function() {
-                console.log("Zurück-Button geklickt");
                 if (currentIndex > 0) {
                     displayEntry(currentIndex - 1);
                     updateNavButtons();
@@ -567,7 +656,6 @@
             });
             
             nextButton.addEventListener('click', function() {
-                console.log("Weiter-Button geklickt");
                 if (currentIndex < verbEntries.length - 1) {
                     displayEntry(currentIndex + 1);
                     updateNavButtons();
@@ -575,15 +663,51 @@
             });
             
             firstButton.addEventListener('click', function() {
-                console.log("Erste-Seite-Button geklickt");
                 displayEntry(0);
                 updateNavButtons();
             });
             
             lastButton.addEventListener('click', function() {
-                console.log("Letzte-Seite-Button geklickt");
                 displayEntry(verbEntries.length - 1);
                 updateNavButtons();
+            });
+            
+            // Tastatur-Navigation
+            document.addEventListener('keydown', function(e) {
+                if (e.target === searchInput) {
+                    // Wenn im Suchfeld, nur bei Enter-Taste suchen
+                    if (e.key === 'Enter') {
+                        const term = searchInput.value.trim();
+                        if (term) {
+                            searchVerb(term);
+                        }
+                    }
+                    return;
+                }
+                
+                // Sonst allgemeine Navigation
+                switch (e.key) {
+                    case 'ArrowLeft':
+                        if (currentIndex > 0) {
+                            displayEntry(currentIndex - 1);
+                            updateNavButtons();
+                        }
+                        break;
+                    case 'ArrowRight':
+                        if (currentIndex < verbEntries.length - 1) {
+                            displayEntry(currentIndex + 1);
+                            updateNavButtons();
+                        }
+                        break;
+                    case 'Home':
+                        displayEntry(0);
+                        updateNavButtons();
+                        break;
+                    case 'End':
+                        displayEntry(verbEntries.length - 1);
+                        updateNavButtons();
+                        break;
+                }
             });
         });
     </script>
