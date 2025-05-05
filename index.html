@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -7,10 +8,10 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            line-height: 1.5;
+            line-height: 1.6;
             max-width: 1200px;
             margin: 0 auto;
-            padding: 15px;
+            padding: 20px;
             background-color: #f5f5f5;
         }
         
@@ -18,365 +19,279 @@
             background-color: white;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            padding: 15px;
-        }
-        
-        .top-section {
-            display: flex;
-            gap: 20px;
-            margin-bottom: 15px; /* Reduzierter Abstand */
-        }
-        
-        .search-section {
-            flex: 1;
-        }
-        
-        .categories-section {
-            flex: 1;
+            padding: 20px;
         }
         
         header {
-            margin-bottom: 8px;
+            text-align: center;
+            margin-bottom: 20px;
             border-bottom: 1px solid #eee;
-            padding-bottom: 4px;
-        }
-        
-        header h1 {
-            margin-top: 0; /* Kein Abstand oben */
-            margin-bottom: 5px;
-            font-size: 18px; /* Noch etwas kleiner */
-        }
-        
-        header p {
-            margin-top: 3px;
-            margin-bottom: 5px;
-            font-size: 13px;
+            padding-bottom: 10px;
         }
         
         .search-container {
             display: flex;
-            gap: 8px;
-            margin-bottom: 10px; /* Reduzierter Abstand */
+            gap: 10px;
+            margin-bottom: 20px;
             align-items: center;
             flex-wrap: wrap;
         }
         
         .search-container input {
             flex: 1;
-            padding: 6px;
-            font-size: 14px;
+            padding: 10px;
+            font-size: 16px;
             border: 2px solid #ddd;
             border-radius: 4px;
-            min-width: 150px;
+            min-width: 200px;
         }
         
         .search-container input:focus {
-            border-color: #555;
+            border-color: #007bff;
             outline: none;
         }
         
         .search-hint {
             width: 100%;
-            font-size: 11px;
+            font-size: 14px;
             color: #666;
-            margin-top: 2px;
+            margin-top: 5px;
         }
         
         button {
-            background-color: #444; /* Dunkelgrau */
+            background-color: #007bff;
             color: white;
             border: none;
-            padding: 6px 10px;
+            padding: 10px 15px;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 13px;
+            font-size: 16px;
         }
         
         button:hover {
-            background-color: #333;
+            background-color: #0056b3;
         }
         
         button:disabled {
-            background-color: #999;
+            background-color: #cccccc;
             cursor: not-allowed;
         }
         
-        /* Kategorie-Bereich */
-        .categories-title {
-            font-size: 16px;
-            margin-top: 0; /* Kein Abstand oben für gleiche Höhe */
-            margin-bottom: 8px;
-            font-weight: bold;
+        .navigation {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
         }
         
-        .categories-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 6px;
-            margin-bottom: 5px; /* Reduzierter Abstand */
+        .nav-buttons {
+            display: flex;
+            gap: 10px;
         }
         
-        .category-button {
-            background-color: #f0f0f0;
-            border: 1px solid #ddd;
+        .position-info {
+            background-color: #eef;
+            padding: 5px 10px;
             border-radius: 4px;
-            padding: 5px 7px;
-            text-align: left;
-            font-size: 12px;
-            cursor: pointer;
-            color: #333;
+            margin-left: auto;
         }
         
-        .category-button:hover {
-            background-color: #e0e0e0;
-        }
-        
-        .category-button.active {
-            background-color: #555;
-            color: white;
-        }
-        
-        /* Display-Bereich mit fester Höhe für die Erklärung */
         .display-area {
-            margin: 8px 0; /* Reduzierter Abstand */
-            padding: 12px;
+            margin: 20px 0;
+            padding: 20px;
             background-color: #f9f9f9;
             border-radius: 8px;
-            border-left: 4px solid #555;
+            border-left: 4px solid #007bff;
         }
         
         .verb-heading {
-            font-size: 20px;
-            margin-bottom: 6px;
-            color: black;
+            font-size: 24px;
+            margin-bottom: 10px;
+            color: black; /* Schwarz statt Blau */
         }
         
         .verb-info {
-            font-size: 13px;
+            font-size: 16px;
             color: #666;
-            margin-bottom: 8px;
+            margin-bottom: 15px;
         }
         
         .code-display {
             font-family: 'Courier New', monospace;
             background-color: #eef;
-            padding: 10px;
+            padding: 15px;
             border-radius: 4px;
-            margin-bottom: 8px;
-            font-size: 13px;
+            margin-bottom: 15px;
         }
         
-        /* Erklärungsbereich mit gleicher Farbe wie unten und fester Höhe */
         .explanation {
-            padding: 10px;
-            background-color: #e9ecef; /* Grauer Hintergrund wie formula-explanation */
+            padding: 15px;
+            background-color: #efe;
             border-radius: 4px;
-            margin-bottom: 8px; /* Reduzierter Abstand */
-            font-size: 13px;
-            min-height: 80px; /* Reduzierte Mindesthöhe */
-            max-height: 120px; /* Maximale Höhe */
-            overflow-y: auto; /* Scrollbar wenn nötig */
+            margin-bottom: 20px;
         }
         
         .alternatives {
-            margin-top: 10px;
+            margin-top: 20px;
             border-top: 1px dashed #ccc;
-            padding-top: 8px;
+            padding-top: 15px;
         }
         
         .alternative-item {
-            margin-bottom: 8px;
-            padding: 6px;
+            margin-bottom: 15px;
+            padding: 10px;
             background-color: #f0f0f0;
             border-radius: 4px;
-            font-size: 13px;
         }
         
         .suggestion {
-            margin-top: 6px;
-            padding: 6px;
+            margin-top: 10px;
+            padding: 10px;
             background-color: #fff3cd;
             border-radius: 4px;
-            font-size: 12px;
         }
         
         .error-message {
             color: #d9534f;
             background-color: #f8d7da;
-            padding: 6px;
-            border-radius: 4px;
-            margin: 6px 0;
-            font-size: 12px;
-        }
-        
-        /* Navigationsleiste mit festem Abstand */
-        .navigation {
-            margin: 10px 0; /* Reduzierter Abstand */
-            padding: 8px 0;
-            background-color: #f9f9f9;
-            border-radius: 8px;
-            border-left: 4px solid #555;
-        }
-        
-        .nav-buttons {
-            display: flex;
-            gap: 8px;
-            justify-content: center;
-        }
-        
-        /* Formel-Erklärung mit gleichem Stil */
-        .formula-explanation {
-            margin-top: 10px; /* Reduzierter Abstand */
             padding: 10px;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+        
+        .project-info {
+            margin-top: 30px;
+            padding: 15px;
             background-color: #e9ecef;
-            border-radius: 8px;
-            border-left: 4px solid #555;
-            font-size: 13px;
-            max-height: 150px; /* Maximale Höhe begrenzen */
-            overflow-y: auto;
+            border-radius: 4px;
+            font-size: 14px;
+            text-align: center;
         }
         
-        .formula-explanation h3 {
-            margin-top: 0;
-            margin-bottom: 6px;
-            color: #333;
-            font-size: 15px;
-        }
-        
-        .formula-buttons {
+        /* Neue Styles für die Referenztabellen */
+        .reference-tables {
+            margin-top: 20px;
             display: flex;
             flex-wrap: wrap;
-            gap: 6px;
-            margin-top: 8px;
+            gap: 20px;
+            justify-content: space-between;
         }
         
-        .formula-button {
-            padding: 4px 8px;
-            background-color: #444; /* Dunklerer Hintergrund */
-            border: 1px solid #333;
-            border-radius: 4px;
-            font-size: 12px;
-            cursor: pointer;
-            color: white; /* Weiße Schrift für besseren Kontrast */
-            font-weight: bold; /* Fett für bessere Lesbarkeit */
-        }
-        
-        .formula-button:hover {
-            background-color: #333;
-        }
-        
-        .explanation-text {
-            background-color: #f5f5f5; /* Hellerer Hintergrund für bessere Lesbarkeit */
-            padding: 8px;
-            border-radius: 4px;
-            margin-top: 6px;
-            font-size: 12px;
+        .reference-table {
+            flex: 1;
+            min-width: 300px;
             border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
         }
         
-        /* Diagnose-Bereich Styling */
-        .diagnosis-section {
-            margin-top: 10px;
-            margin-bottom: 10px;
-            padding: 10px;
-            background-color: #f8f9fa;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-        }
-        
-        .diagnosis-section h3 {
-            margin-top: 0;
-            margin-bottom: 8px;
-            font-size: 16px;
-            color: #333;
-        }
-        
-        .file-test-result {
+        .reference-table h3 {
             background-color: #f0f0f0;
-            border: 1px solid #ddd;
-            border-radius: 4px;
+            margin: 0;
             padding: 10px;
-            margin-top: 10px;
-            font-family: monospace;
-            font-size: 12px;
-            white-space: pre-wrap;
-            max-height: 200px;
-            overflow-y: auto;
+            text-align: center;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .reference-table table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        .reference-table th, .reference-table td {
+            padding: 8px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        
+        .reference-table th {
+            background-color: #f8f8f8;
+        }
+        
+        /* Farbcodierung für Sense-Elemente */
+        .code-0 {
+            background-color: #808080;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-1 {
+            background-color: #003366;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-2 {
+            background-color: #006633;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-3 {
+            background-color: #CC0000;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-4 {
+            background-color: #FF9900;
+            color: white;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
+        }
+        
+        .code-5 {
+            background-color: #FFCC00;
+            color: black;
+            padding: 2px 5px;
+            border-radius: 3px;
+            display: inline-block;
         }
         
         /* Responsives Design */
         @media (max-width: 768px) {
-            .top-section {
-                flex-direction: column;
-            }
-            
-            .categories-grid {
-                grid-template-columns: 1fr;
-            }
-            
             .search-container {
                 flex-direction: column;
                 align-items: stretch;
             }
             
-            .nav-buttons {
-                flex-wrap: wrap;
+            .position-info {
+                margin-left: 0;
+                text-align: center;
+                margin-top: 10px;
+            }
+            
+            .reference-table {
+                min-width: 100%;
             }
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <div class="top-section">
-            <!-- Linke Seite: Suche -->
-            <div class="search-section">
-                <header>
-                    <h1>Sense - Verbanwendung</h1>
-                    <p>Durchsuchen Sie deutsche Verben und deren SENSE-Kodierungen</p>
-                </header>
-                
-                <div class="search-container">
-                    <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
-                    <button id="searchButton">Suchen</button>
-                    <div class="search-hint">Bitte geben Sie deutsche Verben ein (enden auf -en, -eln oder -ern).</div>
-                </div>
-                
-                <div id="errorMessage" class="error-message" style="display: none;"></div>
-                <div id="suggestions" class="suggestion" style="display: none;"></div>
-            </div>
-            
-            <!-- Rechte Seite: Kategorien -->
-            <div class="categories-section">
-                <div class="categories-title">Thematische Bereiche</div>
-                <div class="categories-grid">
-                    <button class="category-button" data-category="auseinandersetzung">Auseinandersetzung</button>
-                    <button class="category-button" data-category="behoerden">Behörden</button>
-                    <button class="category-button" data-category="business">Business</button>
-                    <button class="category-button" data-category="computer">Computer</button>
-                    <button class="category-button" data-category="disput">Disput</button>
-                    <button class="category-button" data-category="forschung">Forschung</button>
-                    <button class="category-button" data-category="it">IT</button>
-                    <button class="category-button" data-category="konflikte">Konflikte</button>
-                    <button class="category-button" data-category="koerperlichkeiten">Körperlichkeiten</button>
-                    <button class="category-button" data-category="kriminalitaet">Kriminalität</button>
-                    <button class="category-button" data-category="mahlzeiten">Mahlzeiten</button>
-                    <button class="category-button" data-category="materielles">Materielles</button>
-                    <button class="category-button" data-category="psychologie">Psychologie</button>
-                    <button class="category-button" data-category="sport">Sport</button>
-                    <button class="category-button" data-category="streit">Streit</button>
-                </div>
-            </div>
+        <header>
+            <h1>Sense - Verbanwendung</h1>
+            <p>Durchsuchen Sie deutsche Verben und deren SENSE-Kodierungen</p>
+        </header>
+        
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
+            <button id="searchButton">Suchen</button>
+            <div class="position-info" id="positionInfo">Eintrag 1 von 0</div>
+            <div class="search-hint">Bitte geben Sie nur deutsche Verben ein (Wörter die auf -en, -eln oder -ern enden).</div>
         </div>
         
-        <!-- Diagnose-Bereich -->
-        <div class="diagnosis-section">
-            <h3>Diagnostik-Werkzeuge</h3>
-            <button id="testFileButton">Datei direkt testen</button>
-            <button id="jsTestButton" style="margin-left: 10px;">JavaScript-Test</button>
-            <div id="fileTestResult" class="file-test-result" style="display:none;"></div>
-        </div>
+        <div id="errorMessage" class="error-message" style="display: none;"></div>
+        <div id="suggestions" class="suggestion" style="display: none;"></div>
         
-        <!-- Anzeigebereich für das aktuelle Verb -->
         <div class="display-area" id="displayArea">
             <div class="verb-heading" id="currentVerb">Lädt...</div>
             <div class="verb-info" id="verbInfo">Lädt...</div>
@@ -385,7 +300,127 @@
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
         </div>
         
-        <!-- Navigation direkt unter dem Display-Bereich -->
+        <!-- Neue Referenztabellen -->
+        <div class="reference-tables">
+            <div class="reference-table">
+                <h3>Material Area</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Assistance</th>
+                            <th>Bedeutung</th>
+                            <th>Goal</th>
+                            <th>Bedeutung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><span class="code-0">0</span></td>
+                            <td>warten</td>
+                            <td>auf eine Gelegenheit warten</td>
+                            <td><span class="code-0">Goal 0</span></td>
+                            <td>erholt sein</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-1">1</span></td>
+                            <td>bekommen</td>
+                            <td>passiv etwas erhalten</td>
+                            <td><span class="code-1">Goal 1</span></td>
+                            <td>befriedigt sein</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-2">2</span></td>
+                            <td>bestimmen</td>
+                            <td>Kontrolle über Verfügbares ausüben</td>
+                            <td><span class="code-2">Goal 2</span></td>
+                            <td>gewünschten Zustand erreichen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-3">3</span></td>
+                            <td>bewegen</td>
+                            <td>aktive Bewegung/Anstreben</td>
+                            <td><span class="code-3">Goal 3</span></td>
+                            <td>Destination/Wirkung erreichen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-4">4</span></td>
+                            <td>leisten</td>
+                            <td>für Andere etwas tun</td>
+                            <td><span class="code-4">Goal 4</span></td>
+                            <td>Anerkennung bekommen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-5">5</span></td>
+                            <td>informieren</td>
+                            <td>Infos aufnehmen</td>
+                            <td><span class="code-5">Goal 5</span></td>
+                            <td>informiert sein</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            
+            <div class="reference-table">
+                <h3>Interpersonal Area</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Code</th>
+                            <th>Assistance</th>
+                            <th>Bedeutung</th>
+                            <th>Goal</th>
+                            <th>Bedeutung</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><span class="code-0">0</span></td>
+                            <td>warten</td>
+                            <td>geduldig sein</td>
+                            <td><span class="code-0">Goal 0</span></td>
+                            <td>Vertrauen haben</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-1">1</span></td>
+                            <td>bekommen</td>
+                            <td>Gefühle empfangen</td>
+                            <td><span class="code-1">Goal 1</span></td>
+                            <td>Nähe spüren</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-2">2</span></td>
+                            <td>bestimmen</td>
+                            <td>Entscheidungen treffen/leiten</td>
+                            <td><span class="code-2">Goal 2</span></td>
+                            <td>Einfluss/Macht ausüben</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-3">3</span></td>
+                            <td>bewegen</td>
+                            <td>auf andere zugehen</td>
+                            <td><span class="code-3">Goal 3</span></td>
+                            <td>Wirkung erzielen</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-4">4</span></td>
+                            <td>leisten</td>
+                            <td>unterstützen/helfen</td>
+                            <td><span class="code-4">Goal 4</span></td>
+                            <td>Anerkennung erhalten</td>
+                        </tr>
+                        <tr>
+                            <td><span class="code-5">5</span></td>
+                            <td>kontaktieren</td>
+                            <td>Verbindung aufbauen</td>
+                            <td><span class="code-5">Goal 5</span></td>
+                            <td>im Kontakt sein</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
         <div class="navigation">
             <div class="nav-buttons">
                 <button id="firstButton">Erste Seite</button>
@@ -395,19 +430,9 @@
             </div>
         </div>
         
-        <!-- Erklärungssektion für Formel-Zusätze -->
-        <div class="formula-explanation">
-            <h3>Erklärung von Formel-Zusätzen</h3>
-            <div class="formula-buttons">
-                <button class="formula-button" data-formula="slash">//</button>
-                <button class="formula-button" data-formula="adj">ADJ</button>
-                <button class="formula-button" data-formula="wish">WISH/</button>
-                <button class="formula-button" data-formula="no">NO/</button>
-                <button class="formula-button" data-formula="not">NOT/</button>
-                <button class="formula-button" data-formula="cp">CP/</button>
-                <button class="formula-button" data-formula="anti">ANTI/</button>
-            </div>
-            <div id="explanationText" class="explanation-text" style="display: none;"></div>
+        <div class="project-info">
+            <p>Sense &copy; 2023 - Lokale Verbanwendung</p>
+            <p>Diese Anwendung lädt die Datei "Coded_Verbs.txt", die sich im selben Verzeichnis befinden muss.</p>
         </div>
     </div>
     
@@ -419,31 +444,11 @@
             let currentIndex = 0;
             let searchTimeout;
             let lastSearchTerm = '';
-            let currentCategoryVerbs = []; // Aktuelle Kategorie-Verben
-            let isInCategoryMode = false; // Flag, ob wir uns im Kategoriemodus befinden
-            
-            // Kategorie-Datenbank - Hier können Sie später die vollständigen Daten einfügen
-            const categoryVerbs = {
-                auseinandersetzung: ["abwehren", "angreifen", "aufbegehren", "bekämpfen", "beleidigen", "drohen", "kämpfen", "protestieren", "streiten", "verteidigen", "widersprechen"],
-                behoerden: ["anmelden", "beantragen", "genehmigen", "melden", "registrieren", "verbieten", "verwalten", "zulassen"],
-                business: ["anbieten", "arbeiten", "beschäftigen", "bestellen", "handeln", "investieren", "kaufen", "produzieren", "verkaufen", "vermitteln", "werben"],
-                computer: ["abspeichern", "ausdrucken", "booten", "drucken", "formatieren", "hochfahren", "installieren", "programmieren", "scannen", "speichern"],
-                disput: ["argumentieren", "debattieren", "diskutieren", "kritisieren", "streiten", "widerlegen", "widersprechen"],
-                forschung: ["analysieren", "aufzeichnen", "dokumentieren", "erforschen", "experimentieren", "forschen", "messen", "testen", "untersuchen"],
-                it: ["booten", "coden", "debuggen", "formatieren", "installieren", "programmieren", "scannen", "speichern"],
-                konflikte: ["angreifen", "bekämpfen", "kämpfen", "streiten", "verteidigen", "widersprechen"],
-                koerperlichkeiten: ["atmen", "fühlen", "gehen", "hören", "laufen", "riechen", "schmecken", "sehen", "schwimmen", "springen", "tasten"],
-                kriminalitaet: ["betrügen", "erpressen", "fälschen", "klauen", "rauben", "schmuggeln", "stehlen", "unterschlagen"],
-                mahlzeiten: ["backen", "braten", "essen", "grillen", "kochen", "schmecken", "trinken", "würzen"],
-                materielles: ["aufbewahren", "bauen", "besitzen", "entsorgen", "erwerben", "kaufen", "verkaufen", "verstecken"],
-                psychologie: ["denken", "empfinden", "erinnern", "fühlen", "hoffen", "träumen", "vergessen", "verstehen", "wünschen"],
-                sport: ["gewinnen", "joggen", "laufen", "schwimmen", "spielen", "trainieren", "turnen", "verlieren", "wettkämpfen"],
-                streit: ["anschreien", "beleidigen", "beschimpfen", "fluchen", "schimpfen", "streiten", "zanken"]
-            };
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
             const searchButton = document.getElementById('searchButton');
+            const positionInfo = document.getElementById('positionInfo');
             const errorMessage = document.getElementById('errorMessage');
             const suggestions = document.getElementById('suggestions');
             const displayArea = document.getElementById('displayArea');
@@ -456,225 +461,28 @@
             const prevButton = document.getElementById('prevButton');
             const nextButton = document.getElementById('nextButton');
             const lastButton = document.getElementById('lastButton');
-            const categoryButtons = document.querySelectorAll('.category-button');
-            const formulaButtons = document.querySelectorAll('.formula-button');
-            const explanationText = document.getElementById('explanationText');
-            const testFileButton = document.getElementById('testFileButton');
-            const jsTestButton = document.getElementById('jsTestButton');
-            const fileTestResult = document.getElementById('fileTestResult');
-            
-            // JavaScript Test-Button
-            jsTestButton.addEventListener('click', function() {
-                alert('JavaScript funktioniert!');
-            });
-            
-            // Datei-Test-Button
-            testFileButton.addEventListener('click', function() {
-                fileTestResult.style.display = 'block';
-                fileTestResult.innerHTML = 'Starte Dateitests...\n';
-                
-                // Deaktiviere den Button während des Tests
-                this.disabled = true;
-                this.textContent = 'Test läuft...';
-                
-                // Einfacher Test mit direkten Meldungen
-                fileTestResult.innerHTML += '\n* Teste relativen Pfad "./Coded_Verbs.txt"\n';
-                
-                fetch('./Coded_Verbs.txt')
-                    .then(response => {
-                        fileTestResult.innerHTML += `Status: ${response.status} ${response.statusText}\n`;
-                        
-                        if (!response.ok) {
-                            fileTestResult.innerHTML += 'FEHLER: Datei wurde nicht gefunden.\n';
-                            
-                            // Nächsten Pfad testen
-                            fileTestResult.innerHTML += '\n* Teste absoluten Pfad "/Coded_Verbs.txt"\n';
-                            return fetch('/Coded_Verbs.txt');
-                        }
-                        
-                        return response.text().then(text => {
-                            fileTestResult.innerHTML += `ERFOLG! Datei geladen (${text.length} Zeichen)\n`;
-                            
-                            if (text.length > 0) {
-                                const preview = text.substring(0, 100).replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                                fileTestResult.innerHTML += `Erste 100 Zeichen: ${preview}...\n`;
-                                
-                                // Analysiere Format
-                                const blocks = text.split(/\n\s*\n/);
-                                fileTestResult.innerHTML += `Gefundene Textblöcke: ${blocks.length}\n`;
-                                
-                                // Test ist komplett erfolgreich
-                                testFileButton.textContent = 'Test erneut ausführen';
-                                testFileButton.disabled = false;
-                            }
-                        });
-                    })
-                    .then(response => {
-                        // Wenn wir hier ankommen und response existiert, handelt es sich um den zweiten Fetch
-                        if (!response) return;
-                        
-                        fileTestResult.innerHTML += `Status: ${response.status} ${response.statusText}\n`;
-                        
-                        if (!response.ok) {
-                            fileTestResult.innerHTML += 'FEHLER: Auch der absolute Pfad funktioniert nicht.\n';
-                            testFileButton.textContent = 'Test erneut ausführen';
-                            testFileButton.disabled = false;
-                            return;
-                        }
-                        
-                        return response.text().then(text => {
-                            fileTestResult.innerHTML += `ERFOLG! Datei geladen (${text.length} Zeichen)\n`;
-                            
-                            if (text.length > 0) {
-                                const preview = text.substring(0, 100).replace(/</g, '&lt;').replace(/>/g, '&gt;');
-                                fileTestResult.innerHTML += `Erste 100 Zeichen: ${preview}...\n`;
-                                
-                                // Analysiere Format
-                                const blocks = text.split(/\n\s*\n/);
-                                fileTestResult.innerHTML += `Gefundene Textblöcke: ${blocks.length}\n`;
-                            }
-                            
-                            testFileButton.textContent = 'Test erneut ausführen';
-                            testFileButton.disabled = false;
-                        });
-                    })
-                    .catch(error => {
-                        fileTestResult.innerHTML += `FEHLER: ${error.message}\n`;
-                        fileTestResult.innerHTML += '\nTests abgeschlossen mit Fehlern.\n';
-                        testFileButton.textContent = 'Test erneut ausführen';
-                        testFileButton.disabled = false;
-                    });
-            });
-            
-            // Erklärungstexte für Formel-Zusätze
-            const explanations = {
-                slash: "// (Doppelter Schrägstrich) markiert den Wechsel zwischen den Goals des Akteurs und des Antagonisten. Nach "4" folgen Goals für den Antagonisten, nach // folgen wieder Goals für den Akteur.",
-                adj: "ADJ steht für 'Adjektiv' und kennzeichnet die Eigenschaftsform einer Aktivität. Beispiel: 'machbar' = ADJ 3/Goal 2/aut/ecc.",
-                wish: "WISH/ als Prefix zeigt an, dass eine Aktivität vom Akteur gewünscht wird, aber noch nicht ausgeführt wurde.",
-                no: "NO/ als Prefix zeigt an, dass vor der Ausführung einer Aktivität feststeht, dass sie nicht zum Goal führen wird, oder dass ein benötigtes Objekt fehlt.",
-                not: "NOT/ als Prefix zeigt an, dass sich bei einer Aktivität herausstellt, dass das Goal nicht erreicht werden kann oder nicht erreicht werden soll.",
-                cp: "CP/ (Change Position) bedeutet, dass der Code sich auf den Antagonisten bezieht und der Akteur die Folgen der Handlung des Antagonisten erleidet.",
-                anti: "ANTI/ als Prefix bedeutet, dass genau das Gegenteil der nachfolgenden Kodierung gemeint ist."
-            };
             
             // CSS-Anpassungen
             currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
             
-            // Globale Test-Funktionen für die Konsole
-            window.testVerbs = function() {
-                console.log("Verb-Einträge:", verbEntries.length);
-                console.log("Einzigartige Verben:", uniqueVerbs.length);
-                if (verbEntries.length > 0) {
-                    console.log("Beispiel:", verbEntries[0]);
-                    return "Daten verfügbar";
-                }
-                return "Keine Daten geladen";
-            };
-            
-            window.testFile = function(path) {
-                console.log("Teste Dateipfad:", path);
-                return fetch(path)
-                    .then(r => r.text())
-                    .then(text => {
-                        console.log(`Erfolg! ${text.length} Zeichen`);
-                        return text.length;
-                    })
-                    .catch(err => {
-                        console.error("Fehler:", err);
-                        return "Fehler: " + err.message;
-                    });
-            };
-            
-            // Event-Listener für Formel-Buttons
-            formulaButtons.forEach(button => {
-                button.addEventListener('click', function() {
-                    const formula = this.getAttribute('data-formula');
-                    
-                    // Aktiven Zustand für alle Buttons zurücksetzen
-                    formulaButtons.forEach(btn => {
-                        btn.style.backgroundColor = '#444';
-                    });
-                    
-                    // Diesen Button hervorheben
-                    this.style.backgroundColor = '#222';
-                    
-                    if (formula && explanations[formula]) {
-                        explanationText.textContent = explanations[formula];
-                        explanationText.style.display = 'block';
-                    } else {
-                        explanationText.style.display = 'none';
-                    }
-                });
-            });
-            
-            // Event-Listener für Kategorie-Buttons
-            categoryButtons.forEach(button => {
-                button.addEventListener('click', function() {
-                    const category = this.getAttribute('data-category');
-                    
-                    // Alle Buttons zurücksetzen
-                    categoryButtons.forEach(btn => btn.classList.remove('active'));
-                    
-                    // Diesen Button als aktiv markieren
-                    this.classList.add('active');
-                    
-                    // Kategorie-Verben laden
-                    if (category && categoryVerbs[category] && categoryVerbs[category].length > 0) {
-                        loadCategoryVerbs(category);
-                    } else {
-                        showError(`Keine Verben für die Kategorie "${this.textContent}" gefunden.`);
-                    }
-                });
-            });
-            
-            // Lade die Verb-Datei (mit relativer URL)
-            console.log("Versuche, die Verb-Datei zu laden...");
-            displayArea.innerHTML = '<div style="padding:10px; background-color:#f8f9fa; border-radius:4px;">Versuche Datei zu laden...</div>';
-            
-            fetch('./Coded_Verbs.txt')
+            // Lade die Verb-Datei
+            fetch('Coded_Verbs.txt')
                 .then(response => {
-                    console.log("Erster Versuch:", response.status, response.statusText);
                     if (!response.ok) {
-                        // Wenn die Datei nicht mit relativer URL gefunden wird, versuche absolute URL
-                        console.log("Erster Versuch fehlgeschlagen, versuche absoluten Pfad...");
-                        return fetch('/Coded_Verbs.txt');
+                        throw new Error('Datei konnte nicht geladen werden');
                     }
-                    console.log("Datei gefunden mit relativem Pfad!");
                     return response.text();
                 })
                 .then(text => {
-                    // Prüfe, ob wir einen Text haben oder eine Response vom zweiten Versuch
-                    if (typeof text !== 'string') {
-                        console.log("Zweiter Versuch:", text.status, text.statusText);
-                        if (!text.ok) {
-                            throw new Error("Beide Versuche fehlgeschlagen. Datei konnte nicht gefunden werden.");
-                        }
-                        return text.text();
-                    }
-                    return text;
-                })
-                .then(text => {
-                    console.log(`Datei geladen: ${text.length} Zeichen`);
                     processVerbFile(text);
                     displayEntry(0);
                     updateNavButtons();
                 })
                 .catch(error => {
-                    console.error("Fehler beim Laden der Datei:", error);
                     showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
-                    
-                    // Detaillierte Fehlermeldung
-                    displayArea.innerHTML = `
-                        <div style="padding:15px; background-color:#f8d7da; border-radius:4px; color:#721c24;">
-                            <h3>Fehler beim Laden der Daten</h3>
-                            <p>Die Datei "Coded_Verbs.txt" konnte nicht gefunden werden.</p>
-                            <p>Fehlermeldung: ${error.message}</p>
-                            <p>Bitte verwenden Sie den "Datei direkt testen"-Button für weitere Diagnose.</p>
-                        </div>
-                    `;
                 });
                 
-            // Verarbeite die Verbdatei und strukturiere die Daten
+            // Verarbeite die Verbdatei und strukturiere die Daten - KORRIGIERTE VERSION
             function processVerbFile(text) {
                 console.log("Verarbeite Datei...");
                 
@@ -764,52 +572,18 @@
                 
                 if (verbEntries.length > 0) {
                     console.log("Erster Eintrag:", verbEntries[0]);
-                }
-            }
-            
-            // Kategorie-Verben laden und anzeigen
-            function loadCategoryVerbs(category) {
-                const verbs = categoryVerbs[category];
-                
-                if (!verbs || verbs.length === 0) {
-                    showError(`Keine Verben für diese Kategorie gefunden.`);
-                    return;
-                }
-                
-                // Filter nur Verben, die tatsächlich in unserer Datenbank sind
-                const availableCategoryVerbs = [];
-                
-                // Finde die Indizes der Verben dieser Kategorie
-                verbs.forEach(verb => {
-                    const index = verbEntries.findIndex(entry => 
-                        entry.verb.toLowerCase() === verb.toLowerCase() && entry.meaningNumber === 1
-                    );
                     
-                    if (index !== -1) {
-                        availableCategoryVerbs.push(index);
-                    }
-                });
-                
-                if (availableCategoryVerbs.length === 0) {
-                    showError(`Keine passenden Verben in der Datenbank für diese Kategorie gefunden.`);
-                    return;
+                    // Zeige Debug-Informationen für das erste Verb
+                    const firstVerb = verbEntries[0].verb;
+                    const entriesForFirstVerb = verbEntries.filter(e => e.verb === firstVerb);
+                    console.log(`Bedeutungen für "${firstVerb}" (Verb ${verbEntries[0].verbIndex} von ${uniqueVerbs.length}): ${entriesForFirstVerb.length}`);
+                    entriesForFirstVerb.forEach(e => {
+                        console.log(`  ${e.meaningNumber}. Bedeutung: ${e.code} - ${e.explanation.substring(0, 30)}...`);
+                    });
                 }
                 
-                // Speichere die Kategorie-Verben und zeige das erste an
-                currentCategoryVerbs = availableCategoryVerbs;
-                isInCategoryMode = true;
-                
-                // Zeige das erste Verb der Kategorie an
-                displayEntry(availableCategoryVerbs[0]);
-                updateNavButtons();
-                
-                // Hinweis zeigen
-                const activeCategory = document.querySelector('.category-button.active');
-                const categoryName = activeCategory ? activeCategory.textContent : category;
-                verbInfo.textContent = `Kategorie: ${categoryName} | Verb ${1} von ${availableCategoryVerbs.length} | ${verbEntries[availableCategoryVerbs[0]].meaningNumber}. Bedeutung von ${verbEntries[availableCategoryVerbs[0]].totalMeanings}`;
-                
-                hideError();
-                hideSuggestions();
+                // Aktualisiere die Positionsanzeige
+                positionInfo.textContent = `Eintrag 1 von ${verbEntries.length}`;
             }
             
             // Zeige einen Eintrag an
@@ -827,31 +601,29 @@
                 currentVerb.style.color = 'black'; // Schwarz statt Blau
                 
                 // Zusätzliche Informationen anzeigen
-                if (isInCategoryMode) {
-                    // Finde die Position des aktuellen Verbs in der Kategorie
-                    const categoryIndex = currentCategoryVerbs.findIndex(idx => {
-                        // Vergleiche das Verb, nicht den Index
-                        return verbEntries[idx].verb === entry.verb;
-                    });
-                    
-                    if (categoryIndex !== -1) {
-                        const activeCategory = document.querySelector('.category-button.active');
-                        const categoryName = activeCategory ? activeCategory.textContent : 'Aktiv';
-                        verbInfo.textContent = `Kategorie: ${categoryName} | Verb ${categoryIndex + 1} von ${currentCategoryVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
-                    } else {
-                        // Falls das Verb nicht in der aktuellen Kategorie ist (sollte nicht vorkommen)
-                        verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
-                    }
-                } else {
-                    verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
-                }
+                verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                 
-                // Code anzeigen
+                // Code anzeigen (schwarz)
                 codeDisplay.textContent = entry.code;
                 
-                // Begründung anzeigen
+                // Begründung anzeigen mit farbigen Zahlen
                 if (entry.explanation && entry.explanation.trim()) {
-                    explanationDisplay.textContent = entry.explanation;
+                    // Ersetze Zahlen mit farbigen Spans
+                    let coloredExplanation = entry.explanation
+                        .replace(/\b0\b/g, '<span class="code-0">0</span>')
+                        .replace(/\b1\b/g, '<span class="code-1">1</span>')
+                        .replace(/\b2\b/g, '<span class="code-2">2</span>')
+                        .replace(/\b3\b/g, '<span class="code-3">3</span>')
+                        .replace(/\b4\b/g, '<span class="code-4">4</span>')
+                        .replace(/\b5\b/g, '<span class="code-5">5</span>')
+                        .replace(/Goal 0/g, '<span class="code-0">Goal 0</span>')
+                        .replace(/Goal 1/g, '<span class="code-1">Goal 1</span>')
+                        .replace(/Goal 2/g, '<span class="code-2">Goal 2</span>')
+                        .replace(/Goal 3/g, '<span class="code-3">Goal 3</span>')
+                        .replace(/Goal 4/g, '<span class="code-4">Goal 4</span>')
+                        .replace(/Goal 5/g, '<span class="code-5">Goal 5</span>');
+                    
+                    explanationDisplay.innerHTML = coloredExplanation;
                     explanationDisplay.style.display = 'block';
                 } else {
                     explanationDisplay.textContent = "Keine Begründung verfügbar";
@@ -861,9 +633,15 @@
                 // Keine Alternativen mehr anzeigen, da jede Bedeutung einzeln dargestellt wird
                 alternativesArea.style.display = 'none';
                 
+                // Position aktualisieren
+                positionInfo.textContent = `Eintrag ${index + 1} von ${verbEntries.length}`;
+                
                 // Fehler und Vorschläge zurücksetzen
                 hideError();
                 hideSuggestions();
+                
+                // Scrolle nach oben
+                window.scrollTo(0, 0);
             }
             
             // Suche nach einem Verb
@@ -874,12 +652,6 @@
                 }
                 
                 term = term.toLowerCase().trim();
-                
-                // Zurück zum normalen Modus
-                isInCategoryMode = false;
-                
-                // Alle Kategorie-Buttons zurücksetzen
-                categoryButtons.forEach(btn => btn.classList.remove('active'));
                 
                 // Exakte Übereinstimmung suchen (erste Bedeutung)
                 const exactMatch = verbEntries.findIndex(entry => 
@@ -994,141 +766,10 @@
             
             // Navigationsbuttons aktualisieren
             function updateNavButtons() {
-                if (isInCategoryMode) {
-                    // Wir sind im Kategorie-Modus
-                    // Finde das aktuelle Verb in der Kategorie
-                    const currentEntry = verbEntries[currentIndex];
-                    
-                    // Finde alle Einträge des aktuellen Verbs in der Kategorie
-                    const verbIndices = verbEntries
-                        .filter(entry => entry.verb === currentEntry.verb)
-                        .map(entry => verbEntries.indexOf(entry));
-                    
-                    // Bestimme, ob es vorherige/nachfolgende Bedeutungen gibt
-                    const hasPrevMeaning = currentEntry.meaningNumber > 1;
-                    const hasNextMeaning = currentEntry.meaningNumber < currentEntry.totalMeanings;
-                    
-                    // Bestimme die Position des aktuellen Verbs in der Kategorie-Liste
-                    let verbInCategory = -1;
-                    for (let i = 0; i < currentCategoryVerbs.length; i++) {
-                        const categoryVerbEntry = verbEntries[currentCategoryVerbs[i]];
-                        if (categoryVerbEntry.verb === currentEntry.verb) {
-                            verbInCategory = i;
-                            break;
-                        }
-                    }
-                    
-                    // Prüfe, ob wir das erste/letzte Verb in der Kategorie haben
-                    const isFirstVerb = verbInCategory === 0 && !hasPrevMeaning;
-                    const isLastVerb = verbInCategory === currentCategoryVerbs.length - 1 && !hasNextMeaning;
-                    
-                    prevButton.disabled = isFirstVerb;
-                    firstButton.disabled = isFirstVerb;
-                    nextButton.disabled = isLastVerb;
-                    lastButton.disabled = isLastVerb;
-                } else {
-                    // Normale Navigation im Gesamtmodus
-                    prevButton.disabled = currentIndex <= 0;
-                    firstButton.disabled = currentIndex <= 0;
-                    nextButton.disabled = currentIndex >= verbEntries.length - 1;
-                    lastButton.disabled = currentIndex >= verbEntries.length - 1;
-                }
-            }
-            
-            // Gehe zum nächsten Eintrag
-            function goToNext() {
-                if (isInCategoryMode) {
-                    // Im Kategoriemodus: zuerst durch alle Bedeutungen, dann zum nächsten Verb
-                    const currentEntry = verbEntries[currentIndex];
-                    
-                    // Wenn es weitere Bedeutungen dieses Verbs gibt
-                    if (currentEntry.meaningNumber < currentEntry.totalMeanings) {
-                        // Nächste Bedeutung des aktuellen Verbs
-                        for (let i = currentIndex + 1; i < verbEntries.length; i++) {
-                            if (verbEntries[i].verb === currentEntry.verb) {
-                                displayEntry(i);
-                                break;
-                            }
-                        }
-                    } else {
-                        // Zum nächsten Verb der Kategorie wechseln
-                        let currentVerbInCategory = -1;
-                        
-                        // Finde die Position des aktuellen Verbs in der Kategorie
-                        for (let i = 0; i < currentCategoryVerbs.length; i++) {
-                            const idx = currentCategoryVerbs[i];
-                            if (verbEntries[idx].verb === currentEntry.verb) {
-                                currentVerbInCategory = i;
-                                break;
-                            }
-                        }
-                        
-                        // Wenn wir nicht das letzte Verb in der Kategorie sind
-                        if (currentVerbInCategory >= 0 && currentVerbInCategory < currentCategoryVerbs.length - 1) {
-                            displayEntry(currentCategoryVerbs[currentVerbInCategory + 1]);
-                        }
-                    }
-                } else {
-                    // Im Standardmodus: einfach zum nächsten Eintrag
-                    if (currentIndex < verbEntries.length - 1) {
-                        displayEntry(currentIndex + 1);
-                    }
-                }
-                updateNavButtons();
-            }
-            
-            // Gehe zum vorherigen Eintrag
-            function goToPrevious() {
-                if (isInCategoryMode) {
-                    // Im Kategoriemodus
-                    const currentEntry = verbEntries[currentIndex];
-                    
-                    // Wenn es vorherige Bedeutungen dieses Verbs gibt
-                    if (currentEntry.meaningNumber > 1) {
-                        // Vorherige Bedeutung des aktuellen Verbs
-                        for (let i = currentIndex - 1; i >= 0; i--) {
-                            if (verbEntries[i].verb === currentEntry.verb) {
-                                displayEntry(i);
-                                break;
-                            }
-                        }
-                    } else {
-                        // Zum vorherigen Verb der Kategorie wechseln
-                        let currentVerbInCategory = -1;
-                        
-                        // Finde die Position des aktuellen Verbs in der Kategorie
-                        for (let i = 0; i < currentCategoryVerbs.length; i++) {
-                            const idx = currentCategoryVerbs[i];
-                            if (verbEntries[idx].verb === currentEntry.verb) {
-                                currentVerbInCategory = i;
-                                break;
-                            }
-                        }
-                        
-                        // Wenn wir nicht das erste Verb in der Kategorie sind
-                        if (currentVerbInCategory > 0) {
-                            // Finde das vorherige Verb in der Kategorie
-                            const prevVerbIndex = currentCategoryVerbs[currentVerbInCategory - 1];
-                            const prevVerb = verbEntries[prevVerbIndex].verb;
-                            
-                            // Finde den Index der letzten Bedeutung des vorherigen Verbs
-                            let lastMeaningIndex = prevVerbIndex;
-                            for (let i = 0; i < verbEntries.length; i++) {
-                                if (verbEntries[i].verb === prevVerb) {
-                                    lastMeaningIndex = Math.max(lastMeaningIndex, i);
-                                }
-                            }
-                            
-                            displayEntry(lastMeaningIndex);
-                        }
-                    }
-                } else {
-                    // Im Standardmodus: einfach zum vorherigen Eintrag
-                    if (currentIndex > 0) {
-                        displayEntry(currentIndex - 1);
-                    }
-                }
-                updateNavButtons();
+                prevButton.disabled = currentIndex <= 0;
+                firstButton.disabled = currentIndex <= 0;
+                nextButton.disabled = currentIndex >= verbEntries.length - 1;
+                lastButton.disabled = currentIndex >= verbEntries.length - 1;
             }
             
             // Event-Listener registrieren
@@ -1174,43 +815,26 @@
             
             // Navigationstasten
             prevButton.addEventListener('click', function() {
-                goToPrevious();
+                if (currentIndex > 0) {
+                    displayEntry(currentIndex - 1);
+                    updateNavButtons();
+                }
             });
             
             nextButton.addEventListener('click', function() {
-                goToNext();
+                if (currentIndex < verbEntries.length - 1) {
+                    displayEntry(currentIndex + 1);
+                    updateNavButtons();
+                }
             });
             
             firstButton.addEventListener('click', function() {
-                if (isInCategoryMode) {
-                    // Zum ersten Verb der Kategorie
-                    displayEntry(currentCategoryVerbs[0]);
-                } else {
-                    // Zum absolut ersten Verb
-                    displayEntry(0);
-                }
+                displayEntry(0);
                 updateNavButtons();
             });
             
             lastButton.addEventListener('click', function() {
-                if (isInCategoryMode) {
-                    // Zum letzten Verb der Kategorie (letzte Bedeutung)
-                    const lastCategoryVerbIndex = currentCategoryVerbs[currentCategoryVerbs.length - 1];
-                    const lastVerb = verbEntries[lastCategoryVerbIndex].verb;
-                    
-                    // Finde den Index der letzten Bedeutung des letzten Verbs
-                    let lastMeaningIndex = lastCategoryVerbIndex;
-                    for (let i = 0; i < verbEntries.length; i++) {
-                        if (verbEntries[i].verb === lastVerb) {
-                            lastMeaningIndex = Math.max(lastMeaningIndex, i);
-                        }
-                    }
-                    
-                    displayEntry(lastMeaningIndex);
-                } else {
-                    // Zum absolut letzten Verb
-                    displayEntry(verbEntries.length - 1);
-                }
+                displayEntry(verbEntries.length - 1);
                 updateNavButtons();
             });
             
@@ -1230,80 +854,28 @@
                 // Sonst allgemeine Navigation
                 switch (e.key) {
                     case 'ArrowLeft':
-                        goToPrevious();
+                        if (currentIndex > 0) {
+                            displayEntry(currentIndex - 1);
+                            updateNavButtons();
+                        }
                         break;
                     case 'ArrowRight':
-                        goToNext();
+                        if (currentIndex < verbEntries.length - 1) {
+                            displayEntry(currentIndex + 1);
+                            updateNavButtons();
+                        }
                         break;
                     case 'Home':
-                        if (isInCategoryMode) {
-                            displayEntry(currentCategoryVerbs[0]);
-                        } else {
-                            displayEntry(0);
-                        }
+                        displayEntry(0);
                         updateNavButtons();
                         break;
                     case 'End':
-                        if (isInCategoryMode) {
-                            const lastCategoryVerbIndex = currentCategoryVerbs[currentCategoryVerbs.length - 1];
-                            const lastVerb = verbEntries[lastCategoryVerbIndex].verb;
-                            
-                            let lastMeaningIndex = lastCategoryVerbIndex;
-                            for (let i = 0; i < verbEntries.length; i++) {
-                                if (verbEntries[i].verb === lastVerb) {
-                                    lastMeaningIndex = Math.max(lastMeaningIndex, i);
-                                }
-                            }
-                            
-                            displayEntry(lastMeaningIndex);
-                        } else {
-                            displayEntry(verbEntries.length - 1);
-                        }
+                        displayEntry(verbEntries.length - 1);
                         updateNavButtons();
                         break;
                 }
             });
         });
     </script>
-<!-- Sehr einfache Diagnose-Sektion -->
-    <div style="margin-top:20px; padding:15px; background-color:#f8f9fa; border:1px solid #ddd;">
-        <h3>Einfacher Test</h3>
-        <p>Klicken Sie auf die Buttons, um zu testen:</p>
-        
-        <div style="margin:10px 0;">
-            <button onclick="alert('JavaScript funktioniert!')">JS-Test</button>
-            <button onclick="simpleFileTest()">Dateitest</button>
-        </div>
-        
-        <div id="simpleResult" style="margin-top:10px; padding:10px; background-color:#eee; font-family:monospace;"></div>
-        
-        <script>
-            // Einfachste Version ohne Abhängigkeiten
-            function simpleFileTest() {
-                var result = document.getElementById('simpleResult');
-                result.innerHTML = 'Test läuft...<br>';
-                
-                fetch('./Coded_Verbs.txt')
-                    .then(function(response) {
-                        result.innerHTML += 'Status: ' + response.status + '<br>';
-                        if (!response.ok) {
-                            result.innerHTML += 'Fehler: Datei nicht gefunden<br>';
-                            return;
-                        }
-                        return response.text();
-                    })
-                    .then(function(text) {
-                        if (text) {
-                            result.innerHTML += 'Erfolg! ' + text.length + ' Zeichen<br>';
-                            result.innerHTML += 'Vorschau: ' + text.substring(0, 50).replace(/</g, '&lt;') + '...<br>';
-                        }
-                    })
-                    .catch(function(error) {
-                        result.innerHTML += 'Fehler: ' + error.message + '<br>';
-                    });
-            }
-        </script>
-    </div>
-</body>
 </body>
 </html>
