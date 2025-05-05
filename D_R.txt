@@ -1,0 +1,1262 @@
+rabattieren: Material/Business 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er einen Preisnachlass gibt (1), um einen gewünschten Zustand (bessere Verkaufschancen) zu erreichen (Goal 2), mit dem übergeordneten Ziel, geschäftlich Anerkennung oder Geld zu bekommen (Goal 4). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf Kunden einwirkt.. Autonom/Exzentrisch.
+
+radikalisieren: Material/Fight/Politics 2/3/4/1/5/Goal -2//Goal 3/aut/ecc
+Begründung: Radikalisieren bedeutet, bestimmend (2) durch Bewegung/Anstrebung (3) eine Leistung für den Antagonisten zu erbringen (4), indem man ihm Informationen gibt (1/5), die zu einem unerwünschten Zustand für ihn führen (Goal -2), während der Akteur damit eine Wirkung im politischen Sinne erreicht (//Goal 3). Der Akteur verändert gezielt die Einstellung/Haltung einer Person in Richtung extremer, kompromissloser Positionen, was für den politischen Kampf instrumentalisiert wird.. Autonom/Exzentrisch.
+
+radikalisieren: Interpersonal/Psychological 2/3/4/1/5/Goal -2//Goal 3/aut/ecc
+Begründung: In der psychologischen Dimension bedeutet radikalisieren, dass der Akteur bestimmend (2) mit Bewegung (3) eine Leistung für den Antagonisten erbringt (4), indem er Informationen gibt (1/5), die zu einem unerwünschten mentalen Zustand für den Antagonisten führen (Goal -2), um eine bestimmte psychologische Wirkung zu erzielen (//Goal 3). Hier geht es um die persönliche Beeinflussung, nicht um politische Zwecke.. Autonom/Exzentrisch.
+
+radiographieren: Material/Medical/Analysis 2/3/5/Goal 5/Goal 2/het/ecc
+Begründung: Radiographieren bedeutet, mittels Röntgenstrahlen Aufnahmen vom Inneren eines Körpers oder Objekts zu machen. Der Akteur verfügt (2) über die Röntgengeräte, bewegt (3) diese, um Informationen (5) zu erlangen (Goal 5) mit dem Ziel, einen gewünschten diagnostischen Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom und exzentrisch, da der Akteur sich nach den Erfordernissen des zu untersuchenden Objekts richten muss und nach außen auf dieses einwirkt.. Heteronom/Exzentrisch.
+
+raffeln: Material/Sound 3/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt (3) etwas auf eine Weise, die ein lautes, ratterndes oder kratzendes Geräusch erzeugt (Goal 3). Es handelt sich um eine autonome (aut) nach außen gerichtete (ecc) Aktivität, bei der durch Bewegung eine spezifische akustische Wirkung erzielt wird.. Autonom/Exzentrisch.
+
+raffeln: Material/Textile 3/Goal 2/aut/ecc
+Begründung: Im textilen Kontext bedeutet raffeln das grobe Auftrennen von Nähten oder Stoffen durch Bewegen (3) eines Werkzeugs, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Aktivität wird selbstbestimmt (aut) und nach außen gerichtet (ecc) ausgeführt.. Autonom/Exzentrisch.
+
+raffen: Material 3/1/Goal 2/aut/ecc
+Begründung: Raffen bedeutet, Gegenstände schnell und mit einer energischen Bewegung (3) zusammenzunehmen, zu sammeln und zu bekommen (1), um über sie verfügen zu können (Goal 2). Es ist eine autonome, nach außen gerichtete Aktion des Akteurs.. Autonom/Exzentrisch.
+
+raffen: Material/Textile 3/2/Goal 2/aut/ecc
+Begründung: Im Kontext von Textilien bedeutet raffen das Zusammenziehen und Falten (3) eines Stoffes durch eine bestimmende Handlung (2), um einen gewünschten Zustand oder eine gewünschte Form zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+raffen: Material/Psychological +3/+1/Goal +2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet raffen ein übermäßig gieriges Zusammennehmen (übertriebenes Bewegen +3, übertriebenes Bekommen +1) von Besitztümern, um mehr als nötig zu haben (übersteigerter Besitztrieb Goal +2).. Autonom/Exzentrisch.
+
+raffen: Material/Criminal/Procurement 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im kriminellen Kontext bedeutet raffen, Gegenstände oder Werte schnell an sich zu reißen/stehlen (3/1/Goal 2), wobei gleichzeitig ein rechtmäßiger Besitzanspruch des Antagonisten beeinträchtigt wird (//Goal -2).. Autonom/Exzentrisch.
+
+raffinieren: Material/Chemical/Process 2/3/Goal 2/aut/ecc
+Begründung: Bedeutet das Verfügen (2) über und Bearbeiten/Transformieren (3) von Rohstoffen (insbesondere Erdöl, Zucker oder Metalle), um einen gewünschten, reineren Zustand (Goal 2) zu erreichen. Der Prozess ist autonom und nach außen gerichtet, da der Akteur aktiv auf das Material einwirkt.. Autonom/Exzentrisch.
+
+raffinieren: Material/Cooking 2/3/Goal 2/aut/ecc
+Begründung: In der Küche: Das Verfügen (2) über und Bearbeiten/Transformieren (3) von Lebensmitteln oder Geschmack, um einen gewünschten, verfeinerten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+raffinieren: Interpersonal/Strategy 2/3/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne: Das Verfügen (2) über und Ausarbeiten/Verbessern (3) einer Strategie, um eine verfeinerte Wirkung (Goal 3) zu erzielen. Wird oft im Kontext von Plänen oder Methoden verwendet, die cleverer oder ausgefeilter gemacht werden.. Autonom/Exzentrisch.
+
+ragen: Material/Physical/Position 3/Goal 2/het/ecc
+Begründung: Im physischen Sinne bedeutet 'ragen', dass sich ein Objekt durch seine Bewegung/Position (3) in eine bestimmte Richtung erstreckt, um einen gewünschten oder beabsichtigten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da die Wirkung nach außen gerichtet ist und von externen Gegebenheiten abhängt.. Heteronom/Exzentrisch.
+
+ragen: Material/Measurement 3/Goal 3/het/ecc
+Begründung: In Bezug auf Messungen oder Vergleiche kann 'ragen' bedeuten, dass etwas durch seine Position oder Höhe (3) eine besondere Wirkung oder Auffälligkeit erreicht (Goal 3). Beispielsweise wenn ein Turm über andere Gebäude hinausragt, wodurch er eine bestimmte Wirkung auf die Umgebung erzielt.. Heteronom/Exzentrisch.
+
+rammen: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) aggressiv und bekommt (1) eine Wirkung (Goal 3), wodurch er einen gewünschten eigenen Zustand erreicht (Goal 2), während er gleichzeitig einen gewünschten Zustand des Antagonisten verhindert (//Goal -2). Der Rammstoß ist eine autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
+
+rammen: Material/Vehicle 3/1/Goal 3/Goal -2/het/ecc
+Begründung: Ein Fahrzeug bewegt sich (3) und bekommt (1) einen unerwünschten Kontakt mit einem anderen Objekt (Goal 3), was zu einem ungewollten Schaden (Goal -2) führt. Diese Bedeutung bezieht sich auf einen unbeabsichtigten Unfall und ist heteronomer Natur, da die Kontrolle eingeschränkt ist.. Heteronom/Exzentrisch.
+
+rammen: Material/Construction 3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) einen Pfosten oder Pfahl und bekommt (1) diesen in den Boden, um einen gewünschten Zustand zu erreichen (Goal 2). Diese handwerkliche Tätigkeit des Einrammens ist eine autonome, nach außen gerichtete Handlung.. Autonom/Exzentrisch.
+
+randalieren: Material/Fight/Aggression 3/Goal 2//Goal -2/aut/ecc
+Begründung: Randalieren bedeutet, dass der Akteur aggressiv und gewaltsam vorgeht (3), um einen gewünschten Zustand der Zerstörung/des Chaos zu erreichen (Goal 2) und dabei bewusst die Ordnung und den Besitz des Antagonisten zu schädigen (//Goal -2). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+randalieren: Material/Fight/Aggression/Brawl 3/Goal 3//Goal -2/aut/ecc
+Begründung: In der spezifischeren Bedeutung des Krawallmachens bewegt sich der Akteur (3) mit dem Ziel, eine direkte Wirkung zu erzielen (Goal 3), wodurch er gezielt den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2).. Autonom/Exzentrisch.
+
+rangieren: Material/Transportation 3/2/Goal 3/aut/ecc
+Begründung: Beim Rangieren bewegt (3) der Akteur Fahrzeuge (insbesondere Eisenbahnwaggons) und bestimmt (2) dabei ihre Anordnung, um eine bestimmte Destination/Konfiguration zu erreichen (Goal 3). Die Aktivität ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt die Bewegung im Außenbereich durchführt.. Autonom/Exzentrisch.
+
+rangieren: Material/Positioning 2/3/Goal 2/aut/ecc
+Begründung: In der allgemeineren Bedeutung des Ordnens/Einordnens bedeutet Rangieren, dass der Akteur bestimmt (2) und mit Bewegung (3) Objekte in eine gewünschte Ordnung bringt, um einen gewünschten Zustand zu erreichen (Goal 2). Dies unterscheidet sich von der ersten Bedeutung durch den Fokus auf den zu erreichenden Zustand statt auf die Bewegung zu einer Destination.. Autonom/Exzentrisch.
+
+rangieren: Material/Hierarchy 2/Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet Rangieren auch das Einstufen oder Einordnen in eine Rangfolge. Hier bestimmt der Akteur (2) die Position von etwas/jemandem, um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2), ohne dass eine physische Bewegung im Vordergrund steht.. Autonom/Exzentrisch.
+
+ranken: Material/Plants 3/Goal 3/aut/ecc
+Begründung: Im botanischen Kontext bezeichnet 'ranken' das autonome Bewegungsverhalten (3) von Pflanzen, bei dem sie sich ausstrecken und an Stützen entlangwachsen, um eine bestimmte Wirkung oder Destination zu erreichen (Goal 3) - nämlich mehr Licht, Stabilität oder Ausbreitung. Der Prozess ist autonom und nach außen gerichtet (aut/ecc), da die Pflanze selbstständig wächst und in den verfügbaren Raum vordringt.. Autonom/Exzentrisch.
+
+ranken: Material/Classification 2/3/Goal 2/aut/ecc
+Begründung: Als Verb im Sinne von 'eine Rangliste erstellen' bedeutet 'ranken' das bestimmende (2) Ordnen durch Bewegung/Umstrukturierung (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur verfügt selbstbestimmt über die Einordnung und richtet diese nach außen (aut/ecc).. Autonom/Exzentrisch.
+
+ranschmeißen: Interpersonal 3/Goal 1/aut/ecc
+Begründung: Der Akteur bewegt sich (3) auf einen Antagonisten zu, um Nähe zu bekommen/erreichen (Goal 1). Es handelt sich um eine aufdringliche Annäherung an eine Person, bei der der Akteur aktiv (autonom) und nach außen gerichtet (exzentrisch) handelt.. Autonom/Exzentrisch.
+
+ranschmeißen: Material/Waste-Disposal 3/1/Goal 2/aut/ecc
+Begründung: In der Bedeutung von 'etwas wegwerfen/entsorgen' bewegt (3) der Akteur etwas und gibt es ab (bekommt es los) (1), um einen gewünschten Zustand der Entsorgung zu erreichen (Goal 2). Die Handlung ist selbstbestimmt (autonom) und nach außen gerichtet (exzentrisch).. Autonom/Exzentrisch.
+
+ranschmiegen: Interpersonal/Physical 3/Goal 1/aut/ecc
+Begründung: Sich ranschmiegen bedeutet, dass der Akteur sich körperlich zu jemandem hinbewegt (3) mit dem Ziel, Nähe und physischen Kontakt zu bekommen (Goal 1). Diese Aktivität ist autonom (der Akteur entscheidet selbst) und exzentrisch (nach außen in die Umwelt gerichtet, auf eine andere Person zu).. Autonom/Exzentrisch.
+
+ranschmiegen: Interpersonal/Emotional 3/1/Goal 1/aut/ecc
+Begründung: Im übertragenen Sinne kann sich ranschmiegen auch bedeuten, dass der Akteur sich emotional an jemanden annähert (3) und Zuneigung/Nähe bekommen möchte (1/Goal 1), wobei der Akteur selbstbestimmt (aut) nach außen auf den Anderen zu handelt (ecc).. Autonom/Exzentrisch.
+
+ranwanzen: Interpersonal 3/5/Goal 5/het/ecc
+Begründung: Sich jemandem unerwünscht oder schleichend nähern (3), um Kontakt herzustellen (5/Goal 5), wobei die Person sich den äußeren Gegebenheiten anpassen muss (het) und nach außen auf den Antagonisten gerichtet ist (ecc).. Heteronom/Exzentrisch.
+
+ranwanzen: Material/Movement 3/Goal 3/het/ecc
+Begründung: Sich langsam und mühsam zu einem Ziel hinbewegen (3), um eine Destination zu erreichen (Goal 3), wobei man sich den äußeren Gegebenheiten anpassen muss (het) und nach außen gerichtet ist (ecc).. Heteronom/Exzentrisch.
+
+rapportieren: Material/Reporting 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Rapportieren bedeutet, eine Leistung für einen Antagonisten zu erbringen (4), indem man Informationen (5) gibt (1), damit der Antagonist informiert ist (Goal 5). Der Akteur tut dies letztendlich, um Anerkennung und/oder Bezahlung zu bekommen (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an vorgegebene Berichtsstrukturen anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+rapportieren: Material/Military 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Im militärischen Kontext bedeutet rapportieren, einem Vorgesetzten offiziell Meldung zu erstatten (4/1/5), damit dieser über eine Situation informiert ist (Goal 5). Der Akteur erfüllt damit seine dienstliche Pflicht und bekommt dafür Anerkennung (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da strenge hierarchische Strukturen zu befolgen sind.. Heteronom/Exzentrisch.
+
+rascheln: Material/Sound 3/Goal 5/het/ecc
+Begründung: Ein raschelndes Geräusch entsteht durch Bewegung (3) von Materialien wie Papier, Laub oder Stoff, wodurch Informationen in Form von Geräuschen (Goal 5) entstehen. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Eigenschaften des Materials richten muss und die Wirkung nach außen geht.. Heteronom/Exzentrisch.
+
+rascheln: Material/Plants 3/5/Goal 5/het/ecc
+Begründung: Im Kontext von Pflanzen (wie Laub oder Blättern) bedeutet rascheln, dass diese sich bewegen (3) und dabei Geräusche erzeugen, die Informationen (5) übermitteln. Diese natürliche Bewegung führt zu akustischen Informationen für einen Beobachter (Goal 5).. Heteronom/Exzentrisch.
+
+rasen: Material/Driving 2/3/Goal 3/aut/ecc
+Begründung: Rasen bedeutet, ein Fahrzeug mit überhöhter Geschwindigkeit zu steuern. Der Akteur verfügt/kontrolliert (2) das Fahrzeug und bewegt es (3) mit hoher Geschwindigkeit, um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Fahrer selbstbestimmt handelt und nach außen auf die Umgebung einwirkt.. Autonom/Exzentrisch.
+
+rasen: Material/Physical 3/Goal 3/aut/ecc
+Begründung: Im Sinne von schnell laufen/rennen bedeutet rasen eine intensive Bewegung (3) des Akteurs selbst, um schnell eine Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+rasen: Interpersonal/Emotional 3/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne von 'vor Wut rasen' bedeutet es eine emotionale Bewegung (3) mit intensiver Auswirkung (Goal 3), wobei der Akteur autonom und nach außen auf andere einwirkend (ecc) handelt.. Autonom/Exzentrisch.
+
+rasen: Material/Garden 2/Goal 2/aut/con
+Begründung: Als Substantiv 'der Rasen' (kurz geschnittene Grasfläche) ist dies ein Besitzobjekt (Object 2/Goal 2), über das der Akteur verfügt (2), um einen gewünschten Zustand zu erreichen (Goal 2). Als Verb 'rasen' im Sinne von 'einen Rasen anlegen' wäre es entsprechend 2/3/Goal 2/aut/con.. Autonom/Konzentrisch.
+
+rasieren: Material/Hair 2/3/Goal 2/aut/ecc
+Begründung: Rasieren bedeutet, dass der Akteur bestimmt/verfügt (2) über ein Werkzeug (Rasierer) und bewegt es (3), um einen gewünschten Zustand (glatte, haarlose Haut) zu erreichen (Goal 2). Der Vorgang ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf seine Körperoberfläche einwirkt.. Autonom/Exzentrisch.
+
+rasieren: Material/Appearance 2/3/Goal 2/Goal 5/aut/ecc
+Begründung: Im Kontext der äußeren Erscheinung bedeutet rasieren, dass der Akteur bestimmt/verfügt (2) über ein Werkzeug und bewegt es (3), um sowohl einen gewünschten Zustand zu erreichen (Goal 2) als auch einen gewünschten optischen Eindruck (Goal 5) zu erzielen. Rasieren dient hier nicht nur der Haarentfernung, sondern auch der bewussten Gestaltung des äußeren Erscheinungsbildes.. Autonom/Exzentrisch.
+
+rasieren: Material/Criminal/Activities 2/3/1/Goal 2//Goal -2/aut/ecc
+Begründung: In der Umgangssprache bedeutet jemanden 'rasieren' auch, ihn finanziell auszunehmen oder zu ruinieren. Der Akteur bestimmt (2) und bewegt sich strategisch (3), um etwas zu bekommen (1) und einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig den Zustand des Antagonisten verschlechtert (//Goal -2).. Autonom/Exzentrisch.
+
+raspeln: Material/Woodworking 3/Goal 2/aut/ecc
+Begründung: Beim Raspeln bewegt der Akteur (3) eine Raspel über eine Oberfläche (meist Holz), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich das Material zu formen, zu glätten oder abzutragen. Der Akteur bestimmt autonom (aut) den Vorgang und wirkt nach außen auf das Material ein (ecc).. Autonom/Exzentrisch.
+
+raspeln: Material/Food/Cooking 3/Goal 2/Goal 1/aut/ecc
+Begründung: Im kulinarischen Kontext bedeutet raspeln das Zerkleinern von Lebensmitteln durch Bewegung (3) über eine Reibe, um sie in einen gewünschten Zustand zu bringen (Goal 2) für den Verzehr (Goal 1). Beispiel: Käse raspeln, Karotten raspeln.. Autonom/Exzentrisch.
+
+rasseln: Material/Sound 3/Goal 3/het/ecc
+Begründung: Rasseln bedeutet, dass etwas durch Bewegung (3) ein klapperndes, schnarrendes oder ratterndes Geräusch erzeugt, um eine Wirkung (Goal 3) zu erzielen. Diese Bewegung ist heteronom und nach außen gerichtet, da sie von äußeren Bedingungen abhängt und eine Wirkung in der Umgebung erzielt.. Heteronom/Exzentrisch.
+
+rasseln: Material/Physical 3/Goal 5/het/ecc
+Begründung: Im medizinischen Kontext bedeutet Rasseln ein Atemgeräusch, das durch Bewegung (3) von Luft durch Flüssigkeit in den Atemwegen entsteht, was als diagnostische Information (Goal 5) dient. Die Bewegung ist nicht willentlich steuerbar (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+rasseln: Material/Transportation 2/Goal 3/aut/ecc
+Begründung: Im Kontext von Fahrzeugen bedeutet rasseln, dass ein Fahrzeug durch Steuerung (2) eine rumpelnde, laute Bewegung ausführt, mit dem Ziel einer Fortbewegung (Goal 3). Die Steuerung ist autonom (aut) und die Bewegung nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+rasten: Material/Leisure/Recreation 0/Goal 0/het/con
+Begründung: Rasten bedeutet, eine Pause einzulegen oder zu ruhen, um sich zu erholen. Der Akteur wartet (0) auf Erholung (Goal 0) in einer heteronomen, nach innen gerichteten Ausrichtung (het/con), da er sich an den Zustand seines Körpers anpasst und sich nach innen wendet.. Heteronom/Konzentrisch.
+
+rasten: Material/Transportation 0/Goal 0/het/con
+Begründung: Im Kontext einer Reise bedeutet rasten, eine Pause bei einer Fahrt einzulegen, um sich auszuruhen. Der Akteur wartet (0) auf Erholung (Goal 0) in einer heteronomen, nach innen gerichteten Ausrichtung (het/con).. Heteronom/Konzentrisch.
+
+rasten: Material/Mechanical 2/3/Goal 0/het/con
+Begründung: In einem technischen Kontext bedeutet rasten, dass ein bewegliches Teil in einer Vorrichtung einrastet und zur Ruhe kommt. Das Teil verfügt (2) über eine Bewegung (3), die zum Zustand der Ruhe (Goal 0) führt.. Heteronom/Konzentrisch.
+
+rastern: Material/IT/Process 3/5/2/Goal 5/aut/ecc
+Begründung: Das Rastern im IT-Kontext bedeutet, ein digitales Bild in ein Pixelraster zu zerlegen, indem es bewegt/transformiert (3) und in ein Informationsraster (5) umgewandelt wird, um darüber zu verfügen (2) und letztlich informiert zu sein (Goal 5). Der Akteur transformiert autonom (aut) ein nach außen gerichtetes Objekt (ecc).. Autonom/Exzentrisch.
+
+rastern: Material/Printing 3/5/2/Goal 5/aut/ecc
+Begründung: Im Druckwesen bedeutet Rastern die Zerlegung von Bildern in Rasterpunkte, wobei Informationen (5) durch Bewegung/Transformation (3) in ein verfügbares Format (2) gebracht werden, um sie druckfertig zu haben (Goal 5). Der Prozess ist selbstbestimmt (aut) und auf ein externes Objekt gerichtet (ecc).. Autonom/Exzentrisch.
+
+raten: Material/Advice 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung für einen Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach dem Wechsel (//), um einen gewünschten Zustand für den Akteur zu erreichen (Goal 2) und Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+raten: Material/Problem-Solving 3/5/Goal 5/het/ecc
+Begründung: In der Bedeutung 'erraten/vermuten' strebt der Akteur an (3), sich zu informieren (5), um informiert zu sein (Goal 5). Der Akteur passt sich dabei heteronym an externe Gegebenheiten an (het/ecc).. Heteronom/Exzentrisch.
+
+raten: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/het/ecc
+Begründung: In der finanziellen Bedeutung von 'in Raten zahlen' bestimmt der Akteur (2), eine Leistung (4) durch Abgabe (1) zu erbringen, damit ein gewünschter Zustand für den Antagonisten entsteht (Goal 2), mit dem Ziel geschäftliche Anerkennung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
+
+ratgeben: Material/Advice 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), was nach dem Umschalter (//) dem Akteur dient, einen gewünschten Zustand zu erreichen (Goal 2) und Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+ratgeben: Interpersonal/Support 2/4/1/5/Goal 5//Goal 2/aut/ecc
+Begründung: Im privaten, zwischenmenschlichen Kontext bestimmt der Akteur (2) eine Leistung zu erbringen (4), durch Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5), was nach dem Umschalter (//) dem Akteur dient, einen gewünschten Zustand (bessere Beziehung) zu erreichen (Goal 2), ohne dass berufliche Anerkennung (Goal 4) angestrebt wird.. Autonom/Exzentrisch.
+
+ratifizieren: Material/Law/Compliance 2/4/1/5/Goal 2//Goal 2/Goal 4/aut/ecc
+Begründung: Ratifizieren bedeutet, dass eine Autorität (2) eine Leistung erbringt (4), indem sie ein Dokument oder Abkommen offiziell bestätigt und übergibt (1) mit Informationsgehalt (5), um einen gewünschten Zustand sowohl für den Antagonisten (Vertragspartner) als auch für den Akteur herzustellen (Goal 2//Goal 2), wodurch der Akteur letztlich eine berufliche Anerkennung erhält (Goal 4). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+ratifizieren: Material/Agreement 2/4/1/5/Goal 2//Goal 2/Goal 4/het/ecc
+Begründung: Im Kontext internationaler Beziehungen bedeutet ratifizieren, dass ein Staat oder eine Institution (heteronome Entscheidung aufgrund bestehender Regeln) bestätigt (2), eine Vereinbarung durch Übergabe einer formalisierten Zustimmung (4/1) mit Informationsinhalt (5) zu einem gewünschten Zustand für beide Parteien führt (Goal 2//Goal 2), was letztlich der Anerkennung der eigenen Position dient (Goal 4).. Heteronom/Exzentrisch.
+
+rationalisieren: Material/Process 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) über Prozesse und bewegt/verändert (3) diese, um einen effizienteren Zustand (Goal 2) zu erreichen, mit dem letztlichen Ziel geschäftliche Anerkennung/finanziellen Gewinn zu erhalten (Goal 4). Typischerweise wird dies durch Optimierung von Arbeitsabläufen oder Reduzierung von Ressourceneinsatz erreicht.. Autonom/Exzentrisch.
+
+rationalisieren: Material/Psychological 3/5/Goal 2/aut/ecc
+Begründung: Im psychologischen Kontext bedeutet rationalisieren, dass der Akteur mit Bewegung/Anstreben (3) Informationen sucht und verarbeitet (5), um einen für sich akzeptablen Erklärungszustand (Goal 2) zu schaffen. Hier werden meist unerwünschte Verhaltensweisen oder Gedanken nachträglich mit vernünftig erscheinenden Gründen gerechtfertigt.. Autonom/Exzentrisch.
+
+rationalisieren: Material/Cognitive 3/5/2/Goal 5/aut/ecc
+Begründung: Im kognitiven/mathematischen Sinne bedeutet rationalisieren, dass der Akteur einen mathematischen Ausdruck (z.B. einen Bruch) durch Bewegen/Anstreben (3) und Informationsverarbeitung (5) in eine standardisierte, vereinfachte Form überführt (2), mit dem Ziel, einen informativeren Zustand zu erreichen (Goal 5).. Autonom/Exzentrisch.
+
+ratschen: Interpersonal/Communication 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Ratschen bezeichnet ein informelles Gespräch oder Plaudern, bei dem der Akteur für den Antagonisten eine Leistung erbringt (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Die eigene Absicht des Akteurs dabei ist letztlich, soziale Anerkennung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
+
+ratschen: Material/Mechanical 3/Goal 3/het/ecc
+Begründung: In technischem Kontext bedeutet ratschen eine mechanische Bewegung (3), bei der eine ruckartige Drehbewegung mit Geräuschentwicklung ausgeführt wird, um eine Wirkung zu erzielen (Goal 3). Die heteronome/exzentrische Ausrichtung zeigt, dass die Bewegung nach außen gerichtet und von äußeren Faktoren abhängig ist.. Heteronom/Exzentrisch.
+
+ratschen: Material/Sound 3/Goal 3/aut/ecc
+Begründung: Ratschen kann auch das Erzeugen eines klappernden, rasselnden Geräusches bedeuten, wobei der Akteur eine Bewegung (3) ausführt, um eine spezifische akustische Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+rattern: Material/Sound 3/Goal 5/het/ecc
+Begründung: Rattern bedeutet, dass ein Objekt durch Bewegung (3) ein sich wiederholendes, mechanisches Geräusch erzeugt, wodurch Information in Form von Schall entsteht (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang durch externe Faktoren bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+rattern: Material/Machinery 3/Goal 3/het/ecc
+Begründung: In Bezug auf Maschinen kann rattern auch eine unerwünschte Bewegungsform (3) beschreiben, bei der eine Maschine durch Unregelmäßigkeiten oder Defekte eine ruckelige Bewegung ausführt, um eine Wirkung zu erzielen (Goal 3). Heteronom/exzentrisch, da die Bewegung nicht kontrolliert erfolgt.. Heteronom/Exzentrisch.
+
+rattern: Material/Transportation 3/Goal 3/het/ecc
+Begründung: Bei Transportmitteln bedeutet rattern, dass sich das Fahrzeug schnell mit einem charakteristischen, wiederholten Geräusch bewegt (3), um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da die Bewegung auf externen Gegebenheiten (Schienen, Straßen) erfolgt.. Heteronom/Exzentrisch.
+
+rauben: Material/Criminal/Theft 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Rauben bedeutet, dass der Akteur sich bewegt (3) und etwas bekommt (1), um einen gewünschten Zustand des Besitzens für sich zu erreichen (Goal 2), während er gleichzeitig den gewünschten Besitzzustand des Antagonisten bekämpft (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+rauben: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im Kampf-Kontext bedeutet rauben, mit Gewalt oder Drohung (3) etwas zu nehmen (1), um es in Besitz zu haben (Goal 2), während man dem Antagonisten seinen Besitz wegnimmt (//Goal -2).. Autonom/Exzentrisch.
+
+rauben: Material/Animal/Aggression 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: In der Tierwelt bedeutet rauben, dass ein Tier (z.B. ein Raubtier) durch Bewegung (3) Beute erlangt (1), um seinen Bedarf zu decken (Goal 2), während es die Ressourcen des Beutetiers bekämpft (//Goal -2).. Autonom/Exzentrisch.
+
+rauchen: Material/Stimulation 2/1/Goal 1/het/ecc
+Begründung: Rauchen bedeutet bestimmen/verfügen (2) über eine Zigarette/Tabak, um etwas zu bekommen (1), mit dem Ziel der Befriedigung eines Bedürfnisses (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Eigenschaften des Tabaks anpassen muss und nach außen (zur Umwelt) gerichtet ist.. Heteronom/Exzentrisch.
+
+rauchen: Material/Catastrophes/Fire 3/Goal 2/het/ecc
+Begründung: In Bezug auf Feuer/Brand bedeutet 'rauchen' die Bewegung (3) von Rauch, mit dem Ziel eines bestimmten Zustands (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang sich nach physikalischen Gesetzen richtet und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+raunen: Interpersonal/Communication 4/1/5/Goal 5/het/ecc
+Begründung: Raunen bedeutet, jemandem etwas leise oder heimlich zuzuflüstern. Der Akteur leistet (4) durch Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5). Die Aktivität ist heteronom und nach außen gerichtet (het/ecc), da sie auf den Empfänger ausgerichtet ist und sich an dessen Bedürfnissen orientiert.. Heteronom/Exzentrisch.
+
+raunen: Material/Sound 3/Goal 3/het/ecc
+Begründung: In einer zweiten Bedeutung kann 'raunen' auch ein dumpfes, unklares Geräusch erzeugen bedeuten (wie das Raunen einer Menge). Hier bewegt (3) der Akteur etwas (seine Stimmbänder), um eine Wirkung zu erzielen (Goal 3). Die Aktivität ist heteronom und nach außen gerichtet (het/ecc), da sie von äußeren Umständen beeinflusst wird.. Heteronom/Exzentrisch.
+
+rauschen: Material/Sound 3/Goal 5/het/ecc
+Begründung: Das Rauschen bezeichnet die Bewegung (3) von Klängen oder Signalen, die wahrgenommen werden, um informiert zu sein (Goal 5). Es ist heteronomer Natur, da der Akteur sich dem Klang anpasst und nach außen gerichtet, da der Klang von außen kommt.. Heteronom/Exzentrisch.
+
+rauschen: Material/Fluids 3/Goal 3/het/ecc
+Begründung: Im Sinne des Fließens oder Strömens von Flüssigkeiten bezeichnet 'rauschen' die Bewegung (3) eines Mediums (z.B. Wasser), die zu einer zielgerichteten Wirkung führt (Goal 3). Es ist heteronomer Natur, da die Bewegung natürlichen Gesetzen folgt und nach außen gerichtet.. Heteronom/Exzentrisch.
+
+rauschen: Material/IT 3/Goal -5/het/ecc
+Begründung: Im IT-Kontext bezieht sich Rauschen auf Störsignale, die sich bewegen (3) und zu unerwünschten Informationen führen (Goal -5), da sie die Informationsqualität beeinträchtigen. Es ist heteronom und exzentrisch, da es ungesteuert von außen auftritt.. Heteronom/Exzentrisch.
+
+rausholen: Material/Extraction 3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) etwas aus einem Ort/Behälter heraus und bekommt (1) es, um einen gewünschten Zustand zu erreichen (Goal 2). Dabei handelt der Akteur autonom und nach außen gerichtet, da er aktiv etwas aus einem anderen Bereich in seinen Verfügungsbereich bringt.. Autonom/Exzentrisch.
+
+rausholen: Material/Performance 3/Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne: Das Maximum aus etwas herausholen, z.B. aus einer Situation oder Leistung. Der Akteur strebt (3) an, einen bestmöglichen Zustand (Goal 2) zu erreichen, indem er das vorhandene Potential optimal nutzt.. Autonom/Exzentrisch.
+
+rausholen: Material/Sports 2/3/Goal 3/aut/ecc
+Begründung: Im sportlichen Kontext: Eine Mannschaft aus einer schwierigen Situation herausholen. Der Akteur verfügt (2) über Strategien und bewegt (3) die Mannschaft in eine bessere Position, um ein Ziel zu erreichen (Goal 3).. Autonom/Exzentrisch.
+
+rausholen: Interpersonal/Support 3/4/Goal 2//Goal 4/aut/ecc
+Begründung: Jemanden aus einer misslichen Lage rausholen. Der Akteur bewegt sich (3) und leistet Hilfe (4), um für den Antagonisten einen gewünschten Zustand zu erreichen (Goal 2), mit dem Ziel, Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
+
+reagieren: Material/Response 1/3/Goal 3/het/ecc
+Begründung: Reagieren bedeutet, dass der Akteur auf einen äußeren Reiz, Anlass oder eine Situation (1) mit einer aktiven Bewegung oder Handlung (3) antwortet, um eine passende Wirkung zu erzielen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur sich nach äußeren Gegebenheiten richten muss und sein Handeln nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+reagieren: Material/Chemical/Process 1/3/Goal 3/het/ecc
+Begründung: Im chemischen Kontext bedeutet reagieren, dass Stoffe aufeinander einwirken (1), wodurch eine chemische Bewegung/Veränderung (3) stattfindet, die zu einer neuen chemischen Verbindung oder Wirkung führt (Goal 3). Die Reaktion ist fremdbestimmt (het) durch die chemischen Eigenschaften und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+reagieren: Interpersonal/Response 1/3/Goal 3/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet reagieren, dass der Akteur auf das Verhalten oder die Äußerung einer anderen Person (1) mit einer Handlung oder Äußerung (3) antwortet, um eine soziale Wirkung zu erzielen (Goal 3). Die Reaktion ist fremdbestimmt (het) durch das Verhalten des Anderen und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+reaktivieren: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt (2) über etwas und wendet Bewegung/Anstreben (3) an, um einen inaktiven Zustand wieder in einen aktiven Zustand zu verwandeln (Goal 2). Dies ist autonomes, nach außen gerichtetes Handeln, da der Akteur selbstbestimmt handelt und auf ein Objekt oder einen Vorgang einwirkt, um es wieder in Funktion zu bringen.. Autonom/Exzentrisch.
+
+reaktivieren: Material/IT 2/3/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet reaktivieren das Verfügen (2) über ein System, eine Software oder einen Account und das Anstreben (3) einer Wiederherstellung des aktiven Zustands (Goal 2), z.B. ein deaktiviertes Konto oder eine stillgelegte Software wieder in Betrieb nehmen.. Autonom/Exzentrisch.
+
+reaktivieren: Material/Medical/Process 2/3/Goal 2/aut/ecc
+Begründung: Im medizinischen Kontext bedeutet reaktivieren das Verfügen (2) über eine medizinische Behandlung oder Methode und das Anstreben (3) der Wiederherstellung einer Funktion oder eines Zustands (Goal 2), z.B. eine Therapie wieder aufnehmen oder einen Heilungsprozess erneut in Gang setzen.. Autonom/Exzentrisch.
+
+realisieren: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Realisieren bedeutet, durch bestimmende Verfügung (2) und gezielte Handlungen/Bewegungen (3) einen gewünschten Zustand umzusetzen oder herzustellen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc), um etwas Geplantes in die Wirklichkeit umzusetzen.. Autonom/Exzentrisch.
+
+realisieren: Material/Cognitive 3/5/1/Goal 5/het/ecc
+Begründung: Im Sinne von 'etwas verstehen/begreifen' bedeutet realisieren, dass der Akteur durch aktive mentale Bewegung (3) Informationen aufnimmt (5) und bekommt (1), um informiert zu sein (Goal 5). Der Prozess ist fremdbestimmt (het), da er von externen Informationen abhängig ist, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+realisieren: Material/Finance 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet realisieren, einen Vermögenswert zu Geld zu machen. Der Akteur verfügt (2) über sein Eigentum und bewegt es (3), um es in Geld zu bekommen (1), mit dem Ziel einen gewünschten Zustand zu erreichen (Goal 2) und letztlich einen finanziellen Vorteil zu erzielen (Goal 4).. Autonom/Exzentrisch.
+
+rebellieren: Material/Fight/Protest 3/Goal 3//Goal -2/aut/ecc
+Begründung: Rebellieren bedeutet, dass der Akteur sich mit einer aggressiven Bewegung (3) gegen eine bestehende Ordnung oder Autorität auflehnt, um eine Wirkung zu erzielen (Goal 3), die gleichzeitig den gewünschten Zustand des Antagonisten bekämpft (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gegen die herrschende Ordnung wirkt.. Autonom/Exzentrisch.
+
+rebellieren: Interpersonal/Dispute 3/Goal 3//Goal -2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet rebellieren, dass der Akteur sich gegen Autoritätspersonen auflehnt (3), um eine Wirkung zu erzielen (Goal 3) und gleichzeitig den gewünschten Zustand des Antagonisten (Kontrolle über den Akteur) zu bekämpfen (//Goal -2).. Autonom/Exzentrisch.
+
+rebooten: Material/IT/Process 2/1/Goal 2/aut/con
+Begründung: Rebooten bedeutet, einen Computer oder ein System neu zu starten, indem der Akteur über sein Gerät verfügt (2), einen neuen Betriebszustand bekommt (1), um einen gewünschten funktionsfähigen Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt über sein eigenes System verfügt.. Autonom/Konzentrisch.
+
+rebranden: Material/Marketing 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur verfügt über (2) und transformiert durch Bewegen/Anstreben (3) eine Marke oder ein Produkt, um einen gewünschten neuen Zustand (Goal 2) zu erreichen, mit dem übergeordneten Ziel, wirtschaftlichen Erfolg und Anerkennung zu erhalten (Goal 4). Rebranding ist ein aktiver, selbstbestimmter Prozess (aut), der nach außen in den Markt gerichtet ist (ecc).. Autonom/Exzentrisch.
+
+rebranden: Material/Business/Competition 2/3/Goal 3//Goal -2/aut/ecc
+Begründung: In einer wettbewerbsorientierten Bedeutung kann Rebranding auch als strategische Maßnahme verstanden werden, bei der der Akteur verfügt (2) und aktiv verändert (3), um eine Marktwirkung zu erzielen (Goal 3) und gleichzeitig die Positionierung der Konkurrenz zu schwächen (//Goal -2).. Autonom/Exzentrisch.
+
+rechen: Material/Garden 2/3/Goal 2/aut/ecc
+Begründung: Rechen bedeutet, dass der Akteur über ein Werkzeug verfügt (2) und damit eine Bewegung ausführt (3), um einen gewünschten Zustand (Goal 2) zu erreichen, wie z.B. Blätter oder Gartenabfälle zusammenzuharken oder den Boden zu glätten. Die Tätigkeit ist autonom (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+rechen: Material/Mathematics 3/5/Goal 5/aut/ecc
+Begründung: Im mathematischen Sinne bedeutet rechen (rechnen), dass der Akteur eine geistige Bewegung (3) ausführt, um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5). Es handelt sich um eine autonome, nach außen gerichtete Aktivität.. Autonom/Exzentrisch.
+
+rechen: Material/Woodworking 3/Goal 2/aut/ecc
+Begründung: Als Herstellungstätigkeit bedeutet rechen das Anfertigen eines Rechens (Werkzeug) durch Bewegen/Bearbeiten (3) von Material, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Tätigkeit ist autonom (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+recherchieren: Material/Research 3/5/2/Goal 5/het/ecc
+Begründung: Der Akteur bewegt sich aktiv (3) im Informationsraum, um bestimmte Informationen zu suchen und zu sammeln (5), um diese dann zu ordnen und verfügbar zu haben (2), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Informationsquellen anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
+
+recherchieren: Material/Criminal/Investigation 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Im Kontext einer Ermittlung bedeutet recherchieren, Informationen aktiv zu suchen (3/5) und zu ordnen (2), mit dem Ziel informiert zu sein (Goal 5) und letztlich einen gewünschten Zustand herzustellen (Goal 2), wie beispielsweise einen Fall zu lösen.. Heteronom/Exzentrisch.
+
+rechnen: Material/Mathematics 3/5/Goal 5/het/ecc
+Begründung: Rechnen bedeutet, durch mentale Bewegung (3) und Informationsverarbeitung (5) Informationen zu erlangen (Goal 5). Es ist heteronym (het), da die mathematischen Regeln vorgegeben sind und der Akteur sich anpassen muss, und nach außen gerichtet (ecc), da die Informationen aus der externen Welt verarbeitet werden.. Heteronom/Exzentrisch.
+
+rechnen: Material/Finance 3/5/Goal 2/het/ecc
+Begründung: Im finanziellen Kontext bedeutet 'rechnen' das Anstreben (3) und Informieren (5), um einen gewünschten Zustand (Goal 2) zu erreichen, wie bei Kalkulationen für Budgetplanung oder Kostenanalyse.. Heteronom/Exzentrisch.
+
+rechnen: Interpersonal 0/3/5/Goal 2/het/ecc
+Begründung: Als 'mit jemandem rechnen' bedeutet es, zu erwarten (0) durch Beobachtung (3/5), dass eine Person verfügbar sein wird/einen Zustand einnimmt (Goal 2), zum Beispiel bei der Planung.. Heteronom/Exzentrisch.
+
+rechtfertigen: Material/Argument 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand der Kritik für den Antagonisten bekämpfen (Goal -2), um seinen eigenen gewünschten Zustand (Akzeptanz seines Handelns) zu erreichen (//Goal 2). Der Akteur gibt aktiv Gründe, um sein Handeln zu verteidigen, daher aut/ecc.. Autonom/Exzentrisch.
+
+rechtfertigen: Material/Law/Court 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet rechtfertigen, bestimmend (2) eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), die einen unerwünschten Rechtszustand für den Antagonisten entkräften (Goal -2), um einen gewünschten Rechtszustand für sich selbst zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+rechtsbelehren: Material/Law/Compliance 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5) über rechtliche Sachverhalte, damit der Antagonist informiert ist (Goal 5). Nach dieser Leistung für den Antagonisten erwartet der Akteur Anerkennung bzw. Vergütung für seine Tätigkeit (//Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und sich nach außen richtet.. Autonom/Exzentrisch.
+
+recovern: Material/Medical/Process 3/2/Goal 2/het/ecc
+Begründung: Der Akteur bewegt/strebt (3) das Verfügen/Kontrollieren (2) an, um einen gewünschten Zustand (Goal 2) wiederherzustellen. Es handelt sich um einen Genesungsprozess, bei dem der Körper heteronomen (het) Prozessen unterliegt, die nach außen (ecc) auf die Wiederherstellung der Gesundheit gerichtet sind.. Heteronom/Exzentrisch.
+
+recovern: Material/IT/Process 3/2/Goal 2/het/ecc
+Begründung: Im IT-Kontext bedeutet 'recovern' das Wiederherstellen (3/2) von Daten oder Systemen, um einen gewünschten funktionsfähigen Zustand (Goal 2) zu erreichen. Der Prozess unterliegt externen Einflussfaktoren (het) und ist auf die Wiederherstellung externer Daten oder Systeme gerichtet (ecc).. Heteronom/Exzentrisch.
+
+recovern: Material/Sports/Training 0/Goal 0/het/con
+Begründung: Im sportlichen Kontext bedeutet 'recovern' die Erholungsphase nach dem Training, wobei der Akteur wartet (0), um sich zu erholen (Goal 0). Dieser Prozess ist heteronomer Natur (het) und nach innen auf den eigenen Körper gerichtet (con).. Heteronom/Konzentrisch.
+
+recyceln: Material/Environmental 3/Goal 2/aut/ecc
+Begründung: Beim Recyceln bewegt/transformiert (3) der Akteur Materialien, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Wiederverwertung von Abfallstoffen. Der Prozess ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Transformation auf externe Materialien einwirkt.. Autonom/Exzentrisch.
+
+recyceln: Material/Waste-Disposal 3/2/Goal 2/Goal 4/aut/ecc
+Begründung: In einer professionellen Abfallwirtschaft bedeutet Recyceln das Bewegen/Transformieren (3) von Abfällen, über die man verfügt (2), um einen gewünschten Zustand der Wiederverwertung zu erreichen (Goal 2) mit dem Endziel der wirtschaftlichen Verwertung (Goal 4).. Autonom/Exzentrisch.
+
+reden: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5). Nach dem Leistungswechsel // folgt das eigene Ziel des Akteurs, Anerkennung zu bekommen (Goal 4). Bei Reden ist die autonome (aut) nach außen gerichtete (ecc) Ausrichtung zentral, da der Akteur selbstbestimmt Informationen nach außen an einen Empfänger übermittelt.. Autonom/Exzentrisch.
+
+reden: Interpersonal/Communication 4/1/5/Goal 5/Goal 1//Goal 4/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich kann Reden auch eine Nähekomponente haben. Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5) und eine persönliche Nähe entsteht (Goal 1). Das eigene Ziel des Akteurs nach // ist die soziale Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+reden: Material/Psychological 3/5/Goal 5/aut/ecc
+Begründung: Im Sinne von 'vor sich hin reden' oder 'mit sich selbst reden': Der Akteur bewegt (3) Informationen (5), um für sich selbst Klarheit zu gewinnen oder informiert zu sein (Goal 5). Hier gibt es keinen Antagonisten und daher keine Leistungskomponente.. Autonom/Exzentrisch.
+
+redigieren: Material/Writing 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Beim Redigieren verfügt der Akteur (2) über einen Text, bearbeitet ihn durch Bewegung/Anstreben (3) mit dem Ziel, Informationen zu verbessern (5/Goal 5), um letztendlich einen gewünschten Zustand des Textes herzustellen (Goal 2). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc), da er aktiv den Text umgestaltet.. Autonom/Exzentrisch.
+
+redigieren: Material/Correction 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: In der spezifischen Bedeutung des Korrigierens verfügt der Akteur (2) über einen Text, bearbeitet ihn (3) und verbessert die Informationen (5), um informativ korrekter zu sein (Goal 5) und einen gewünschten Endzustand des Textes zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+reduzieren: Material/Limitation 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) eine Verringerung, um einen gewünschten Zustand (Goal 2) zu erreichen. Beim Reduzieren wird kontrolliert eine Verringerung vorgenommen, mit dem Ziel einen gewünschten niedrigeren Zustand zu realisieren.. Autonom/Exzentrisch.
+
+reduzieren: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bestimmt der Akteur (2) durch Bewegung/Anstreben (3) eine Preisverringerung, um einen gewünschten Zustand (Goal 2) zu erreichen, letztendlich mit dem Ziel, geschäftlich Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+reduzieren: Material/Chemical/Process 2/3/Goal 2/aut/ecc
+Begründung: In chemischen Prozessen bestimmt/verfügt der Akteur (2) durch Bewegung/Anstreben (3) eine chemische Reduktion, um einen gewünschten Zustand (Goal 2) zu erreichen. Dies bezieht sich auf die Verringerung des Oxidationszustands eines Elements.. Autonom/Exzentrisch.
+
+reduzieren: Material/Mathematics 2/3/Goal 2/aut/ecc
+Begründung: In der Mathematik bestimmt der Akteur (2) durch Bewegung/Anstreben (3) eine Vereinfachung mathematischer Ausdrücke, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei komplexe Terme auf einfachere Formen gebracht werden.. Autonom/Exzentrisch.
+
+referenzieren: Material/Academic 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Referenzieren bedeutet, bestimmend (2) eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), damit der Antagonist (z.B. Leser) informiert ist über die Herkunft von Wissen/Zitaten (Goal 5), was letztendlich dem Akteur zur Anerkennung im akademischen Kontext dient (//Goal 4).. Autonom/Exzentrisch.
+
+referenzieren: Material/IT 2/3/5/Goal 5/het/ecc
+Begründung: In der IT bedeutet referenzieren, über etwas zu verfügen (2) und es durch Bewegung/Anstreben (3) mit anderen Informationen zu verknüpfen (5), um informiert zu sein (Goal 5). Hier findet keine Leistung für einen Antagonisten statt, sondern eine technische Verknüpfung von Daten.. Heteronom/Exzentrisch.
+
+referieren: Material/Presentation 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Beim Referieren leistet ein Akteur (4) durch das Geben (1) von Informationen (5) eine Präsentation, damit der Antagonist (Zuhörer) informiert ist (Goal 5). Letztendlich dient dies dem Ziel des Akteurs, Anerkennung oder Vergütung zu erhalten (//Goal 4). Die Ausrichtung ist autonom/excentrisch, da der Referent selbstbestimmt agiert und nach außen auf sein Publikum wirkt.. Autonom/Exzentrisch.
+
+referieren: Material/Academic 5/3/2/1/Goal 5/aut/ecc
+Begründung: In der wissenschaftlichen Bedeutung kann 'referieren' auch das Bezugnehmen auf andere Quellen bedeuten. Hier informiert sich der Akteur (5), bewegt sich durch das Material (3), verfügt über die Informationen (2) und bekommt (1) sie für sein Informiertsein (Goal 5). Die Ausrichtung ist autonom/excentrisch, da der Akteur selbstbestimmt handelt und sich auf externe Quellen bezieht.. Autonom/Exzentrisch.
+
+refinanzieren: Material/Finance 2/4/1/2/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur verfügt/bestimmt (2) eine Leistung (4) zu erbringen, indem er Geld (1) gibt, um eine finanzielle Verfügungsmöglichkeit (2) des Antagonisten zu verbessern (Goal 2), mit dem Endziel, Geld und/oder Anerkennung zu bekommen (//Goal 4). Refinanzieren bedeutet eine bereits getätigte Finanzierung durch neue Mittel abzusichern oder zu ersetzen, wodurch der Akteur eine weitere Finanzierung bereitstellt.. Autonom/Exzentrisch.
+
+refinanzieren: Material/Business 2/1/Goal 2/Goal 4/aut/ecc
+Begründung: Wenn ein Unternehmen sich selbst refinanziert, verfügt es (2) über das Bekommen (1) von finanziellen Mitteln, um einen gewünschten finanziellen Zustand zu erreichen (Goal 2), mit dem Endziel der geschäftlichen Anerkennung/Vergütung (Goal 4). In diesem Fall gibt es keinen Antagonisten, dem die Leistung erbracht wird.. Autonom/Exzentrisch.
+
+reflektieren: Material/Cognitive 3/5/2/Goal 5/het/ecc
+Begründung: Reflektieren bedeutet, durch Bewegen und Untersuchen (3/5) von Informationen und Gedanken, um diese zu ordnen/zu verfügen über (2), mit dem Ziel, informiert zu sein (Goal 5). Es ist ein heteronom/exzentrischer Prozess, da der Akteur sich auf externe Informationen oder Ereignisse bezieht und sein Denken darauf ausrichtet.. Heteronom/Exzentrisch.
+
+reflektieren: Material/Physics 3/Goal 3/het/ecc
+Begründung: Im physikalischen Sinne bedeutet reflektieren das Zurückwerfen von Licht, Schall oder anderen Wellen. Hier bewegt sich (3) etwas, um eine bestimmte Wirkung zu erzielen (Goal 3). Es ist heteronom/exzentrisch, da der Vorgang durch externe Faktoren bestimmt wird.. Heteronom/Exzentrisch.
+
+reflektieren: Material/Optical 2/3/Goal 5/het/ecc
+Begründung: In optischen Zusammenhängen kann reflektieren das gezielte Zurückwerfen von Licht durch eine Oberfläche bedeuten. Eine Oberfläche verfügt über (2) die Eigenschaft, Licht zurückzuwerfen (3), was der visuellen Information dient (Goal 5). Es ist heteronom/exzentrisch, da der Vorgang von den Eigenschaften der Oberfläche und dem einfallenden Licht abhängt.. Heteronom/Exzentrisch.
+
+reformieren: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Reformieren bedeutet, bestehende Strukturen oder Systeme durch gezielte Veränderungen und Überarbeitungen (2/3) zu verbessern, um einen gewünschten (besseren) Zustand zu erreichen (Goal 2). Der Akteur verfügt (2) über die Macht, Veränderungen (3) durchzuführen, um einen verbesserten Zustand herzustellen.. Autonom/Exzentrisch.
+
+reformieren: Material/Political 2/3/Goal 2/aut/ecc
+Begründung: Im politischen Kontext bedeutet reformieren, dass eine Führung oder Autorität (2) bestehende Strukturen, Gesetze oder Institutionen gezielt verändert (3), um einen verbesserten Zustand des Systems zu erreichen (Goal 2), ohne das System grundlegend zu ersetzen.. Autonom/Exzentrisch.
+
+reformieren: Material/Chemical/Process 2/3/Goal 2/aut/ecc
+Begründung: In der Chemie bezeichnet Reformieren einen technischen Prozess, bei dem durch bestimmte Verfahren (2) chemische Verbindungen umgewandelt werden (3), um eine gewünschte Struktur oder Eigenschaft zu erreichen (Goal 2), wie beispielsweise bei der Reformierung von Kohlenwasserstoffen.. Autonom/Exzentrisch.
+
+refreshen: Material/IT 3/5/2/Goal 5/het/ecc
+Begründung: Das Refreshen im IT-Kontext bedeutet das Aktualisieren (3/5) von Daten oder einer Ansicht, um den verfügbaren Informationsstand (2/Goal 5) zu erneuern. Der Akteur bewegt/aktualisiert (3) Informationen (5), um über die aktuellsten verfügbaren Daten (2/Goal 5) zu verfügen. Da der Prozess von externen Datenquellen abhängig ist, ist die Ausrichtung heteronom/exzentrisch.. Heteronom/Exzentrisch.
+
+refreshen: Material/Stimulation 3/1/Goal 2/het/ecc
+Begründung: In einem allgemeinen Kontext kann 'refreshen' auch das Erfrischen oder Auffrischen bedeuten, wobei durch Bewegen/Anstreben (3) etwas bekommen wird (1), um einen gewünschten Zustand (Goal 2) zu erreichen, z.B. durch ein erfrischendes Getränk oder eine Pause.. Heteronom/Exzentrisch.
+
+refreshen: Material/Presentation 3/5/Goal 5/het/ecc
+Begründung: Im Präsentationskontext bedeutet refreshen das Auffrischen/Aktualisieren (3) von Informationen (5), um den aktuellsten Informationsstand (Goal 5) zu haben, z.B. bei einer Präsentation oder einem Vortrag.. Heteronom/Exzentrisch.
+
+regeln: Material/Leadership 2/Goal 2/aut/con
+Begründung: Der Akteur bestimmt/verfügt (2) über Prozesse, Abläufe oder Verhaltensweisen mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen. Regeln aufstellen ist eine autonome Bestimmungstätigkeit im eigenen Kontrollbereich (aut/con).. Autonom/Konzentrisch.
+
+regeln: Material/Regulation 2/3/Goal 2/aut/ecc
+Begründung: In einem technischen Kontext: Der Akteur bestimmt (2) durch Bewegung/Anpassung (3) einen Prozess oder ein System, um einen gewünschten Zustand (Goal 2) zu erreichen. Beispiel: Die Temperatur regeln, den Wasserfluss regeln.. Autonom/Exzentrisch.
+
+regeln: Material/Law/Compliance 2/4/5/Goal 2//Goal 4/aut/ecc
+Begründung: In einem offiziellen/gesetzlichen Kontext: Der Akteur bestimmt (2) eine Leistung (4) in Form von Informationen (5) für den Antagonisten, um einen gewünschten Zustand zu erreichen (Goal 2 nach //), wobei der Akteur Anerkennung/Vergütung erhält (Goal 4).. Autonom/Exzentrisch.
+
+regenerieren: Material/Biological/Process 3/Goal 2/het/ecc
+Begründung: Regenerieren bedeutet, dass ein Akteur durch einen biologischen Prozess (3) einen gewünschten Zustand (Goal 2) wiederherstellt. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an biologische Gesetzmäßigkeiten anpassen muss und der Prozess nach außen gerichtet ist, um verlorene Substanz oder Energie zu erneuern.. Heteronom/Exzentrisch.
+
+regenerieren: Material/Medical/Process 2/3/Goal 2/het/ecc
+Begründung: In medizinischem Kontext bedeutet regenerieren, dass durch bestimmte Maßnahmen (2) und biologische Prozesse (3) eine Wiederherstellung von Gewebe oder Körperfunktionen erfolgt (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Heilungsprozess biologischen Gesetzmäßigkeiten folgt.. Heteronom/Exzentrisch.
+
+regenerieren: Material/Technical 2/3/Goal 2/aut/ecc
+Begründung: Im technischen Sinne bedeutet regenerieren, dass ein Akteur bestimmt (2) durch gezielte Bearbeitung (3) einen Gegenstand oder ein System wieder in einen funktionsfähigen Zustand zu versetzen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur den Prozess steuert und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
+regieren: Material/Government 2/Goal 2/Goal 4/aut/con
+Begründung: Regieren bedeutet, als Staatsoberhaupt oder Regierungschef Verfügungsgewalt (2) auszuüben, um einen gewünschten Zustand im Staat zu erreichen (Goal 2) mit dem übergeordneten Ziel, für diese berufliche Tätigkeit Anerkennung/Vergütung zu erhalten (Goal 4). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Regierende selbstbestimmt innerhalb seines Machtbereichs handelt.. Autonom/Konzentrisch.
+
+regieren: Material/Fight/Power-Politics 2/3/Goal 2//Goal -3/aut/ecc
+Begründung: Im Kontext politischer Machtkämpfe bedeutet regieren das Bestimmen (2) mit Durchsetzung (3) eines gewünschten Zustands (Goal 2) gegen konkurrierende politische Kräfte, deren Einfluss eingeschränkt wird (//Goal -3), mit einer nach außen gerichteten Machtausübung.. Autonom/Exzentrisch.
+
+registrieren: Material/Registration 2/1/5/Goal 5/aut/ecc
+Begründung: Der Akteur bestimmt (2) das Aufnehmen/Bekommen (1) von Informationen (5), um diese verfügbar zu haben/informiert zu sein (Goal 5). Durch die Registrierung werden Daten in ein System aufgenommen und dort gespeichert, sodass sie jederzeit verfügbar sind.. Autonom/Exzentrisch.
+
+registrieren: Material/IT/Documentation 2/1/5/Goal 5/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) das Aufnehmen/Bekommen (1) von Informationen (5), um diese verfügbar zu haben (Goal 5) mit dem höheren Ziel, einen geordneten Zustand herzustellen (Goal 2). In IT-Kontexten geht es nicht nur um die Information selbst, sondern auch um die systematische Ordnung.. Autonom/Exzentrisch.
+
+registrieren: Material/Administrative 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt/aufnimmt (1/5), damit der Antagonist (z.B. Kunde, Bürger) informiert ist/registriert ist (Goal 5). Nach dem Umschalter folgen die Ziele des Akteurs: einen geordneten Zustand herzustellen (Goal 2) und berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+reglementieren: Material/Regulation 2/3/4/5/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) mit Bewegung/Anstreben (3), eine Leistung für Andere zu erbringen (4), indem er Informationen bereitstellt (5), um einen gewünschten Zustand (strukturierte Ordnung) herzustellen (Goal 2), mit dem Endziel der beruflichen Anerkennung/Vergütung (//Goal 4).. Autonom/Exzentrisch.
+
+reglementieren: Material/Law/Compliance 2/4/5/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) eine Leistung für Andere zu erbringen (4), indem er verbindliche Informationen/Regeln bereitstellt (5), um einen gewünschten geordneten Zustand herzustellen (Goal 2), mit dem Endziel der beruflichen Anerkennung/Vergütung (//Goal 4).. Autonom/Exzentrisch.
+
+regulieren: Material/Regulation 2/3/Goal 2/aut/con
+Begründung: Regulieren bedeutet, dass der Akteur bestimmt/kontrolliert (2) und durch Anpassungsbewegungen (3) einen gewünschten Zustand erreicht (Goal 2). Der Akteur verfügt autonom über den Prozess und wirkt konzentrisch auf die zu regelnden Parameter ein. Dies ist typisch für Steuerungs- und Kontrollprozesse, bei denen Werte oder Abläufe in einem bestimmten Rahmen gehalten werden sollen.. Autonom/Konzentrisch.
+
+regulieren: Material/Government 2/3/Goal 2/Goal 4/aut/con
+Begründung: Im behördlichen oder staatlichen Kontext bedeutet regulieren, dass der Akteur bestimmt/kontrolliert (2) und durch Eingriffe/Vorgaben (3) einen gewünschten gesellschaftlichen oder wirtschaftlichen Zustand herstellt (Goal 2), mit dem übergeordneten Ziel, dem Gemeinwohl zu dienen und dafür Anerkennung zu erhalten (Goal 4).. Autonom/Konzentrisch.
+
+regulieren: Material/Control 2/3/Goal 3/aut/con
+Begründung: Bei technischen Systemen bedeutet regulieren, dass der Akteur bestimmt/kontrolliert (2) und durch Anpassungsbewegungen (3) eine bestimmte Wirkung erzielt (Goal 3), wie z.B. bei der Regulierung von Flüssigkeiten oder Energie, wo nicht nur ein Zustand, sondern eine kontinuierliche Wirkung das Ziel ist.. Autonom/Konzentrisch.
+
+rehabilitieren: Material/Medical/Process 4/3/2/Goal 2//Goal 4/het/ecc
+Begründung: Rehabilitieren bedeutet, eine Leistung für einen Antagonisten zu erbringen (4), indem man durch gezielte Bewegungsmaßnahmen (3) und Verfügung über Therapiemethoden (2) einen gewünschten Zustand der Wiederherstellung von Gesundheit oder Funktionsfähigkeit (Goal 2) erreicht. Der Akteur (z.B. Therapeut) leistet dies im Rahmen seiner beruflichen Tätigkeit (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach dem Gesundheitszustand des Patienten richten muss und nach außen auf den Patienten gerichtet arbeitet.. Heteronom/Exzentrisch.
+
+rehabilitieren: Material/Social 4/3/2/Goal 2//Goal 4/het/ecc
+Begründung: Im sozialen Kontext bedeutet rehabilitieren, jemandem zu helfen (4), durch gezielte Maßnahmen (3) und Bereitstellung von Ressourcen (2) wieder einen akzeptierten gesellschaftlichen Status zu erreichen (Goal 2), etwa nach Inhaftierung oder sozialer Ausgrenzung. Der Akteur tut dies meist im Rahmen einer beruflichen Tätigkeit (//Goal 4).. Heteronom/Exzentrisch.
+
+rehabilitieren: Material/Law 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet rehabilitieren, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er eine Erklärung/Information gibt (1/5), die zu einem gewünschten Zustand der Wiederherstellung des Rufes oder der rechtlichen Stellung führt (Goal 2). Dies erfolgt oft im Rahmen einer beruflichen Tätigkeit (//Goal 4).. Autonom/Exzentrisch.
+
+reiben: Material/Process 3/Goal 2/aut/ecc
+Begründung: Reiben bedeutet, mit Bewegung (3) einen Gegenstand zu bearbeiten, um einen gewünschten Zustand zu erreichen (Goal 2), wobei dies autonom und nach außen gerichtet geschieht (aut/ecc). Der Akteur bewegt einen Gegenstand (oder seine Hand) auf einer Oberfläche hin und her, um deren Zustand zu verändern, beispielsweise beim Glattreiben einer Oberfläche.. Autonom/Exzentrisch.
+
+reiben: Material/Cooking 3/Goal 2/Goal 1/aut/ecc
+Begründung: Im Kochkontext bedeutet Reiben das Zerkleinern von Lebensmitteln durch Bewegung (3), um einen gewünschten Zustand herzustellen (Goal 2) mit dem letztendlichen Ziel der Nahrungsaufnahme (Goal 1). Beispiel: Käse reiben, um ihn zum Verzehr vorzubereiten.. Autonom/Exzentrisch.
+
+reiben: Material/Cleaning 3/Goal 2/aut/ecc
+Begründung: Im Reinigungskontext bedeutet Reiben das Bearbeiten einer Oberfläche durch Bewegung (3), um einen gewünschten sauberen Zustand herzustellen (Goal 2). Beispiel: Einen Fleck aus einem Textil reiben.. Autonom/Exzentrisch.
+
+reiben: Interpersonal/Physical 3/4/Goal 1//Goal 4/aut/ecc
+Begründung: In der zwischenmenschlichen Bedeutung bedeutet Reiben das Bewegen (3) der Hände auf dem Körper einer anderen Person als Leistung (4), um ihr ein angenehmes Gefühl zu geben (Goal 1), mit dem Ziel, Anerkennung zu erhalten (//Goal 4). Beispiel: Den Rücken reiben zur Entspannung.. Autonom/Exzentrisch.
+
+reichen: Material 4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur leistet (4) für einen Antagonisten, indem er etwas gibt (1), damit der Antagonist darüber verfügen kann (Goal 2), wobei der Akteur letztlich Anerkennung oder Vergütung erhält (//Goal 4). Der Akteur bestimmt selbst (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
+reichen: Material/Measurement 3/1/Goal 3/het/ecc
+Begründung: Im Sinne von 'bis zu einem Punkt reichen/ausreichen': Der Akteur bewegt sich/erstreckt sich (3) und bekommt (1) eine Zielposition/Wirkung (Goal 3). Dies ist heteronom, da es von äußeren Bedingungen abhängt, und exzentrisch, da es nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+reichen: Material 2/1/Goal 2/het/ecc
+Begründung: Im Sinne von 'ausreichen/genügen': Der Akteur verfügt (2) über etwas, das bekommen wird (1), um einen gewünschten Zustand zu erreichen (Goal 2). Es ist heteronom, da es von äußeren Anforderungen abhängt.. Heteronom/Exzentrisch.
+
+reichen: Material/Hospitality 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im Sinne von 'anreichen' (bei Tisch): Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1), damit der Antagonist darüber verfügen kann (Goal 2), wobei der Akteur Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
+
+reihen: Material/Order 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) über Objekte und bewegt (3) sie, um einen gewünschten Zustand (Goal 2) zu erreichen, indem er sie in einer bestimmten Ordnung oder Abfolge anordnet. Die Tätigkeit ist autonom (aut) und auf den Außenbereich gerichtet (ecc), da der Akteur selbstbestimmt die Objekte im Außenbereich arrangiert.. Autonom/Exzentrisch.
+
+reihen: Material/Group 2/3/Goal 2/aut/ecc
+Begründung: Im Sinne von 'sich einreihen': Der Akteur bestimmt (2) über seine Position und bewegt sich (3), um einen gewünschten Zustand (Goal 2) zu erreichen, indem er sich in eine Reihe oder Gruppe einfügt.. Autonom/Exzentrisch.
+
+reinigen: Material/Cleaning 3/Goal 2/aut/ecc
+Begründung: Reinigen bedeutet, durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) herzustellen, bei dem Schmutz oder unerwünschte Substanzen entfernt werden. Der Akteur handelt dabei selbstbestimmt (aut) und auf ein Objekt im Außenbereich einwirkend (ecc).. Autonom/Exzentrisch.
+
+reinigen: Material/Medical/Cleaning 3/Goal 2/Goal 3/aut/ecc
+Begründung: Im medizinischen Kontext bedeutet reinigen das Bewegung/Anstreben (3) eines gewünschten hygienischen Zustands (Goal 2) mit dem höheren Ziel, eine gesundheitliche Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+reinigen: Material/Chemical/Process 3/2/Goal 2/aut/ecc
+Begründung: In der chemischen Verarbeitung bedeutet reinigen das Bewegen/Anstreben (3) mit Kontrolle über den Prozess (2), um einen gewünschten Reinheitsgrad eines Stoffes (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+reinlegen: Interpersonal/Deception 3/4/1/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) zum Antagonisten, um eine Leistung zu erbringen (4) und gibt ihm etwas (1), was zu einem unerwünschten Zustand für den Antagonisten führt (Goal -2). Nach dem Umschalter folgt der gewünschte Zustand des Akteurs (//Goal 2). Es handelt sich um eine autonome, nach außen gerichtete Aktivität (aut/ecc), bei der der Akteur gezielt den Antagonisten täuscht.. Autonom/Exzentrisch.
+
+reinlegen: Material/Positioning 3/2/Goal 2/aut/ecc
+Begründung: Im materiellen Sinne bedeutet 'reinlegen' etwas in etwas anderes hineinlegen. Der Akteur bewegt (3) einen Gegenstand und verfügt über dessen Position (2), um einen gewünschten Zustand zu erreichen (Goal 2). Dies ist eine autonome, nach außen gerichtete Aktivität (aut/ecc).. Autonom/Exzentrisch.
+
+reinlegen: Material/Housing 2/3/Goal 2/aut/ecc
+Begründung: In Bezug auf Wohnraum bedeutet 'reinlegen' Gegenstände oder Materialien in einen Raum oder Behälter einbringen. Der Akteur bestimmt (2) die Bewegung (3) eines Objekts, um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+reinplatzen: Material/Disturbance 3/5/Goal 3//Goal -5/aut/ecc
+Begründung: Reinplatzen bedeutet, dass der Akteur in einen Raum oder eine Situation unerwartet und abrupt hineingeht (3), wobei es zu einer Störung einer laufenden Aktivität kommt. Dabei bewegt sich der Akteur zu seinem Ziel (Goal 3), während er gleichzeitig die informationelle Situation des Antagonisten (z.B. eine Besprechung, ein privates Gespräch) stört (//Goal -5).. Autonom/Exzentrisch.
+
+reinplatzen: Interpersonal/Disturbance 3/Goal 3//Goal -5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet reinplatzen, dass der Akteur plötzlich in eine Situation eindringt (3), um sein Ziel zu erreichen (Goal 3), während er gleichzeitig eine soziale Interaktion oder Kommunikation stört (//Goal -5). Hier steht die soziale Störung und der Verstoß gegen Kommunikationsregeln im Vordergrund.. Autonom/Exzentrisch.
+
+reinreden: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) aktiv in ein Gespräch und erbringt eine Leistung (4) für den Antagonisten, indem er Informationen gibt (1/5), mit dem Ziel, den gewünschten Zustand des Antagonisten zu beeinträchtigen (Goal -2), während er seinen eigenen gewünschten Zustand (//Goal 2) erreichen will. Dies ist eine einmischende, störende Aktivität, bei der der Akteur ungefragt in die Kommunikation eines anderen eingreift.. Autonom/Exzentrisch.
+
+reinreden: Interpersonal/Communication 3/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: In einer neutraleren Bedeutung kann 'reinreden' auch bedeuten, dass der Akteur sich aktiv einbringt (3), eine Leistung für den Antagonisten erbringt (4), indem er Informationen gibt (1/5), um einen gewünschten Zustand herzustellen (Goal 2), etwa durch konstruktive Beiträge, wobei seine eigene Anerkennung ein Ziel ist (//Goal 4).. Autonom/Exzentrisch.
+
+reintun: Material/Container 2/3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) über seine Bewegung (3), um etwas einem Behältnis zuzuführen, wodurch ein Bekommen (1) eines gewünschten Zustands (Goal 2) erreicht wird. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc), da er einen Gegenstand in einen Raum oder Behälter bewegt.. Autonom/Exzentrisch.
+
+reintun: Material/Fluids 2/3/1/Goal 2/aut/ecc
+Begründung: Bei Flüssigkeiten bedeutet 'reintun' das Bestimmen (2) über die Bewegung (3) einer Flüssigkeit, damit ein Behältnis die Flüssigkeit bekommt (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+reintun: Material/Food/Cooking 2/3/1/Goal 2/Goal 1/aut/ecc
+Begründung: Im Kochkontext bedeutet 'reintun' das Bestimmen (2) über die Bewegung (3) von Zutaten, die in einen Topf oder eine Speise gegeben werden (1), um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem Endziel der Nahrungsaufnahme (Goal 1).. Autonom/Exzentrisch.
+
+reinvestieren: Material/Finance 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) mit einer Bewegung (3) das Bekommen (1) eines gewünschten Zustands (Goal 2), nämlich dass Geld oder Ressourcen wieder angelegt werden, mit dem übergeordneten Ziel einer finanziellen Rendite/Anerkennung (Goal 4). Die Ausrichtung ist autonom (aut), da der Akteur die Kontrolle über den Investitionsprozess hat, und nach außen gerichtet (ecc), da das Geld in externe Objekte investiert wird.. Autonom/Exzentrisch.
+
+reinvestieren: Material/Business 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im Unternehmenskontext bedeutet reinvestieren, dass Gewinne bestimmend (2) zurück in das Unternehmen bewegt (3) werden, um sie wieder zu bekommen (1) mit dem Ziel, einen gewünschten Unternehmenszustand zu erreichen (Goal 2) und letztlich geschäftlichen Erfolg/Anerkennung zu erlangen (Goal 4).. Autonom/Exzentrisch.
+
+reisen: Material/Tourism 3/1/Goal 3/aut/ecc
+Begründung: Reisen bedeutet, sich (3) zu einer Destination zu bewegen und diese zu erreichen (1), mit dem Ziel, an einem bestimmten Ort anzukommen (Goal 3). Die Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt eine Bewegung in die Umwelt hinein unternimmt.. Autonom/Exzentrisch.
+
+reisen: Material/Vacation 3/1/Goal 3/Goal 0/aut/ecc
+Begründung: Im Kontext von Urlaub oder Erholung bedeutet Reisen nicht nur das Bewegen (3) zu und Erreichen (1) einer Destination (Goal 3), sondern hat zusätzlich das Ziel der Erholung und Entspannung (Goal 0).. Autonom/Exzentrisch.
+
+reisen: Material/Business 3/1/Goal 3/Goal 4/aut/ecc
+Begründung: Geschäftlich reisen beinhaltet das Bewegen (3) zu und Erreichen (1) einer Destination (Goal 3) mit dem zusätzlichen Ziel, berufliche Aufgaben zu erfüllen und dafür Anerkennung oder Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+reiten: Material/Animal/Training 2/Goal 3/aut/ecc
+Begründung: Beim Reiten verfügt der Akteur (2) über ein Pferd und steuert es, um eine Destination zu erreichen oder sich fortzubewegen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Reiter bestimmt, wohin es geht, und die Bewegung nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+reiten: Material/Sports 2/Goal 3/aut/ecc
+Begründung: Im sportlichen Kontext bedeutet Reiten das Steuern und Kontrollieren (2) eines Pferdes mit dem Ziel, bestimmte Bewegungen oder Figuren auszuführen oder einen Parcours zu durchlaufen (Goal 3).. Autonom/Exzentrisch.
+
+reiten: Material/Slang 2/3/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'auf etwas reiten' (z.B. auf einem Argument beharren), dass man ein Thema bestimmt/kontrolliert (2) und aktiv vorantreibt (3), um eine Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+reizen: Material/Stimulation 3/1/Goal 3/aut/ecc
+Begründung: Reizen bedeutet, eine Wirkung auf etwas oder jemanden auszuüben (3), um eine Reaktion zu bekommen (1), mit dem Ziel, eine bestimmte Wirkung zu erzielen (Goal 3). Der Akteur bewegt/strebt zielgerichtet an, eine Reaktion hervorzurufen.. Autonom/Exzentrisch.
+
+reizen: Interpersonal/Psychological 3/Goal 3//Goal -2/aut/ecc
+Begründung: Im psychologischen Sinne bedeutet reizen, jemanden zu provozieren oder zu ärgern (3), um eine Wirkung zu erzielen (Goal 3), wobei man gleichzeitig den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2).. Autonom/Exzentrisch.
+
+reizen: Interpersonal/Sex 3/1/Goal 3/aut/ecc
+Begründung: Im sexuellen Kontext bedeutet reizen, durch Bewegungen (3) eine Erregung zu bewirken (1), mit dem Ziel, eine sexuelle Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+reizen: Material/Fight/Dispute 3/Goal 3//Goal -2/aut/ecc
+Begründung: Im Konflikt-Kontext bedeutet reizen, den Antagonisten zu provozieren (3), um eine bestimmte Wirkung zu erzielen (Goal 3) und dabei den gewünschten Zustand des Antagonisten zu beeinträchtigen (//Goal -2).. Autonom/Exzentrisch.
+
+rekalibrieren: Material/Measurement 2/3/Goal 2/aut/ecc
+Begründung: Rekalibrieren bedeutet, dass der Akteur verfügt (2) über ein Messinstrument und bewegt/verändert (3) dessen Einstellungen, um einen gewünschten Zustand (Goal 2) der korrekten Messwertanzeige herzustellen. Der Vorgang ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
+rekalibrieren: Material/Technical 2/3/Goal 2/aut/ecc
+Begründung: Im technischen Kontext bedeutet rekalibrieren das Verfügen (2) über ein Gerät und das Bewegen/Anpassen (3) seiner Einstellungen, um einen gewünschten Zustand (Goal 2) der korrekten Funktionsweise wiederherzustellen.. Autonom/Exzentrisch.
+
+rekalibrieren: Material/IT/Process 2/3/Goal 2/aut/ecc
+Begründung: In der IT bedeutet rekalibrieren das Verfügen (2) über ein System und das Anpassen/Neuausrichten (3) seiner Parameter, um einen gewünschten Zustand (Goal 2) optimaler Funktionalität zu erreichen.. Autonom/Exzentrisch.
+
+reklamieren: Material/Customer-Service 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Reklamieren bedeutet, dass der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er ihm eine Information gibt (1/5), die auf einen unerwünschten Zustand (Goal -2) des gelieferten Produkts oder der erbrachten Dienstleistung hinweist, mit dem Ziel für sich selbst (nach //) einen gewünschten Zustand (Goal 2) wie Ersatz, Reparatur oder Rückerstattung zu erreichen.. Autonom/Exzentrisch.
+
+reklamieren: Material/Law/Compliance 2/3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einem rechtlichen Kontext bedeutet reklamieren, bestimmt (2) und aktiv (3) eine Leistung für den Antagonisten zu erbringen (4), indem man ihm eine Information gibt (1/5), die auf einen unerwünschten Zustand oder eine Vertragsverletzung hinweist (Goal -2), um für sich selbst (nach //) einen vertragskonformen Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+reklamieren: Material/Advertisement 2/4/1/5//Goal 2/Goal 4/aut/ecc
+Begründung: In der Werbungssprache bedeutet reklamieren (Werbung machen), dass der Akteur bestimmt (2) eine Leistung für den Antagonisten erbringt (4), indem er Informationen gibt (1/5), mit dem Ziel, einen gewünschten Zustand zu erreichen (//Goal 2) und letztendlich Anerkennung/Bezahlung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+rekognoszieren: Material/Military 3/5/Goal 5/het/ecc
+Begründung: Rekognoszieren bedeutet, ein Gebiet zu erkunden oder auszukundschaften, insbesondere in militärischen Zusammenhängen. Der Akteur bewegt sich (3) und sucht Informationen (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur sich an die vorgefundenen Gegebenheiten im Außenbereich anpassen muss.. Heteronom/Exzentrisch.
+
+rekognoszieren: Material/Fight/Intelligence-Operations 3/5/Goal 5/Goal 2/het/ecc
+Begründung: Im Kontext von geheimdienstlichen Operationen bedeutet rekognoszieren das Erkunden eines Gebiets (3/5), um Informationen zu sammeln (Goal 5) mit dem höheren Ziel, einen gewünschten Zustand herzustellen, etwa einen strategischen Vorteil zu erlangen (Goal 2).. Heteronom/Exzentrisch.
+
+rekonfigurieren: Material/IT/Process 2/3/Goal 2/aut/ecc
+Begründung: Beim Rekonfigurieren verfügt der Akteur (2) über ein System und führt aktive Veränderungen (3) durch, um einen neuen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und die Aktivität ist nach außen gerichtet (ecc), da Systemelemente neu organisiert werden. In der IT-Area bezieht sich dies auf das Neuanordnen von Systemkomponenten nach den Vorstellungen des Akteurs.. Autonom/Exzentrisch.
+
+rekonfigurieren: Material/Technical 2/3/Goal 2/aut/ecc
+Begründung: In technischen Kontexten außerhalb der IT bedeutet Rekonfigurieren das aktive Umgestalten (3) von Geräten oder Anlagen, wobei der Akteur Kontrolle ausübt (2), um eine neue gewünschte Konfiguration (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+rekonstruieren: Material/Construction 3/5/2/Goal 2/aut/ecc
+Begründung: Rekonstruieren bedeutet, durch aktive Bewegung (3) und Informationsanalyse (5) die Verfügung über einen ursprünglichen oder historischen Zustand (2) wiederherzustellen (Goal 2). Der Akteur bewegt und untersucht Informationen und Materialien, um einen gewünschten Zustand zu erreichen, der dem ursprünglichen entspricht.. Autonom/Exzentrisch.
+
+rekonstruieren: Material/Archaeological 3/5/2/Goal 5/aut/ecc
+Begründung: Im archäologischen oder historischen Kontext bedeutet rekonstruieren, durch Untersuchung (3) und Analyse (5) historische Informationen zu ordnen (2), um Wissen über vergangene Zustände zu erlangen (Goal 5). Hier steht das Informiertsein über den historischen Zustand im Vordergrund, nicht primär seine physische Wiederherstellung.. Autonom/Exzentrisch.
+
+rekonstruieren: Material/IT 3/5/2/Goal 5/het/ecc
+Begründung: Im IT-Kontext bedeutet rekonstruieren, durch Datenwiederherstellung (3/5) Zugriff auf Informationen wiederzuerlangen (2), um über diese Informationen wieder verfügen zu können (Goal 5). Hier ist der Akteur von externen Datenstrukturen abhängig (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+rekrutieren: Material/Human-Resources 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Rekrutieren bedeutet, dass der Akteur bestimmt (2) und durch aktives Anwerben/Bewegen (3) neue Mitarbeiter/Mitglieder bekommt (1), um einen gewünschten Zustand (vollständige Belegschaft) zu erreichen (Goal 2), letztendlich mit dem geschäftlichen Ziel, Anerkennung/Vergütung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+rekrutieren: Material/Military 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im militärischen Kontext bedeutet rekrutieren, dass eine Autorität (2) aktiv (3) neue Soldaten in die Streitkräfte aufnimmt (1), um die gewünschte Truppenstärke zu erreichen (Goal 2), letztendlich für militärische Zwecke und die damit verbundene Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+rekrutieren: Material/Group 2/3/1/Goal 2/aut/ecc
+Begründung: Im allgemeinen Sinne (z.B. für eine Freizeitgruppe) bedeutet rekrutieren, dass der Akteur bestimmt (2) und aktiv anwirbt (3), um neue Mitglieder zu bekommen (1) und dadurch einen gewünschten Gruppenzustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+relativieren: Material/Interpretation 2/5/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt über (2) und informiert (5) über einen Sachverhalt, um ihn in seiner Bedeutung oder Wirkung abzuschwächen und in einen breiteren Kontext zu setzen, wodurch ein gewünschter Zustand (Goal 2) erreicht wird. Beim Relativieren bestimmt der Akteur autonom, wie etwas einzuordnen ist, und ist dabei nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+relativieren: Material/Evaluation 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Im analytischen Kontext bedeutet relativieren, dass der Akteur verfügt über (2) und durch aktives Untersuchen (3) von Informationen (5) einen neuen Informationsstand erreicht (Goal 5), um einen gewünschten Zustand der korrekten Gewichtung (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+relativieren: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einer Auseinandersetzung bedeutet relativieren, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), um dessen Position zu schwächen (Goal -2), mit dem eigenen Ziel, die Diskussion in eine gewünschte Richtung zu lenken (//Goal 2).. Autonom/Exzentrisch.
+
+relaxen: Material/Leisure/Recreation 0/Goal 0/het/con
+Begründung: Das Wort 'relaxen' bedeutet, dass der Akteur nichts tut (Assistance 0) mit dem Ziel, sich zu erholen und einen erholten Zustand zu erreichen (Goal 0). Die Ausrichtung ist heterogen (het), da der Akteur sich an die Erholungsbedingungen anpasst, und konzentrisch (con), da der Vorgang im eigenen Bereich stattfindet.. Heteronom/Konzentrisch.
+
+relaxen: Material/Physical 2/Goal 0/aut/con
+Begründung: In dieser Bedeutung geht es um das bewusste Entspannen von Muskeln, wobei der Akteur über seinen Körper verfügt (2), um einen entspannten, erholten Zustand zu erreichen (Goal 0). Die Kontrolle über die eigene Körperspannung steht im Vordergrund.. Autonom/Konzentrisch.
+
+relegieren: Material/Education 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Relegieren bedeutet, einen Schüler oder Studenten von einer Bildungseinrichtung zu verweisen. Der Akteur (z.B. Schulleiter, Universitätsrektor) bestimmt (2) als Autoritätsperson eine Leistung zu erbringen (4), indem er eine formelle Mitteilung gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirkt (Goal -2, nämlich den Ausschluss von der Bildungseinrichtung). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand in der Bildungseinrichtung herzustellen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Entscheidung selbstbestimmt trifft und sie nach außen auf den Antagonisten wirkt.. Autonom/Exzentrisch.
+
+relegieren: Material/Punishment 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Als Disziplinarmaßnahme betrachtet bedeutet relegieren, jemanden als Strafe von einer Institution auszuschließen. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er eine formelle Ausschlussmitteilung gibt (1/5), die eine negative Konsequenz für den Antagonisten darstellt (Goal -2), um die eigene Ordnung wiederherzustellen (//Goal 2).. Autonom/Exzentrisch.
+
+remote arbeiten: Material/IT/Work 2/3/Goal 2/Goal 4/het/ecc
+Begründung: Remote arbeiten bedeutet, dass der Akteur verfügt (2) über und bewegt sich (3) in einem IT-System, um einen gewünschten Arbeitszustand (Goal 2) zu erreichen und letztendlich berufliche Anerkennung/Vergütung zu bekommen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Strukturen (Arbeitsvorgaben, IT-Systeme) anpassen muss und die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+remote arbeiten: Material/Work 2/4/Goal 2/Goal 4/het/ecc
+Begründung: Im Sinne von 'aus der Ferne für einen Arbeitgeber tätig sein' bedeutet remote arbeiten, dass der Akteur verfügt (2) über seine Arbeitskraft und erbringt eine Leistung (4) für einen Antagonisten (Arbeitgeber), um einen gewünschten Zustand zu erreichen (Goal 2) und dafür Anerkennung/Vergütung zu erhalten (Goal 4).. Heteronom/Exzentrisch.
+
+renaturieren: Material/Environmental 3/Goal 2/aut/ecc
+Begründung: Beim Renaturieren bewegt und verändert (3) der Akteur aktiv eine Umwelt oder ein Gebiet, um einen gewünschten natürlichen Zustand (Goal 2) wiederherzustellen. Der Prozess ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und in die natürliche Umgebung eingreift, um sie in einen naturnahen Zustand zurückzuversetzen.. Autonom/Exzentrisch.
+
+rendern: Material/IT/Process 3/2/Goal 2/Goal 5/aut/ecc
+Begründung: Beim Rendern wird durch Bewegung/Bearbeitung (3) von Daten unter Verwendung bestimmter Algorithmen/Verfahren (2) ein gewünschter Zustand (Goal 2) erreicht, nämlich eine visualisierte Darstellung der Daten, die zur Information (Goal 5) dient. Der Akteur steuert diesen Prozess selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+rendern: Material/Professions/Construction 3/2/Goal 2/aut/ecc
+Begründung: Im Baugewerbe bezeichnet 'rendern' das Verputzen/Bearbeiten (3) von Wänden durch bestimmte Techniken (2), um einen gewünschten Oberflächenzustand (Goal 2) zu erreichen. Der Akteur führt diese Tätigkeit selbstbestimmt und auf ein äußeres Objekt gerichtet aus.. Autonom/Exzentrisch.
+
+rennen: Material/Physical/Movement 3/Goal 3/aut/ecc
+Begründung: Rennen bedeutet eine schnelle autonome Bewegung (3) des Akteurs mit dem Ziel, eine Destination zu erreichen oder eine Wirkung zu erzielen (Goal 3). Der Akteur bestimmt selbst die Bewegung (aut) und ist nach außen in die Umwelt gerichtet (ecc).. Autonom/Exzentrisch.
+
+rennen: Material/Sports 3/Goal 3/Goal 2/aut/ecc
+Begründung: Im sportlichen Kontext bedeutet Rennen eine autonome Bewegung (3) mit dem Ziel, schnell eine Destination zu erreichen (Goal 3) und einen gewünschten Zustand (Gewinn, Erfolg) zu erzielen (Goal 2).. Autonom/Exzentrisch.
+
+rennen: Fight/Competition 3/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im Wettbewerbskontext bedeutet Rennen eine schnelle Bewegung (3), um das Ziel zu erreichen (Goal 3) und einen Erfolg zu erzielen (Goal 2), während gleichzeitig der Erfolg des Antagonisten verhindert wird (//Goal -2).. Autonom/Exzentrisch.
+
+renommieren: Interpersonal/Reputation 3/4/1/5/Goal 3//Goal 4/aut/ecc
+Begründung: Der Akteur bewegt sich (3) selbst in eine Position, um eine Leistung (4) zu zeigen, indem er Informationen gibt (1/5), um eine Wirkung bei anderen zu erzielen (Goal 3) und letztendlich Anerkennung zu bekommen (//Goal 4). Renommieren bedeutet, sich mit seinen Leistungen, Erfolgen oder Besitztümern zu brüsten, um Eindruck zu machen und soziale Anerkennung zu gewinnen.. Autonom/Exzentrisch.
+
+renommieren: Material/Reputation 3/5/Goal 3/Goal 4/aut/ecc
+Begründung: Der Akteur bewegt sich (3) und informiert andere (5), um eine Wirkung zu erzielen (Goal 3) mit dem Ziel, Anerkennung zu bekommen (Goal 4). Diese Bedeutung betont den materiellen Aspekt des Angebens mit Besitztümern oder Errungenschaften.. Autonom/Exzentrisch.
+
+renovieren: Material/Construction 3/Goal 2/aut/ecc
+Begründung: Renovieren bedeutet, durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) wiederherzustellen oder zu verbessern. Der Akteur bewegt sich und bearbeitet ein Objekt (beispielsweise eine Wohnung, ein Haus oder einen Raum) autonom (aut) und nach außen gerichtet (ecc), um dessen Zustand zu verbessern.. Autonom/Exzentrisch.
+
+renovieren: Material/House 3/Goal 2/Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext bedeutet renovieren, durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) herzustellen, mit dem Endziel, Geld/Anerkennung zu bekommen (Goal 4). Hier geht es um die professionelle Dienstleistung des Renovierens.. Autonom/Exzentrisch.
+
+reorganisieren: Material/Organization 2/3/Goal 2/aut/ecc
+Begründung: Reorganisieren bedeutet, bestehende Strukturen oder Systeme neu zu ordnen und umzugestalten. Der Akteur verfügt (2) über Elemente und bewegt/verändert sie (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf die zu reorganisierenden Elemente einwirkt.. Autonom/Exzentrisch.
+
+reorganisieren: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet Reorganisieren, dass der Akteur bestehende Unternehmensstrukturen neu ordnet (2/3), um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem übergeordneten Ziel, geschäftlichen Erfolg oder Anerkennung zu erzielen (Goal 4).. Autonom/Exzentrisch.
+
+reparieren: Material/Maintenance 3/Goal 2/aut/ecc
+Begründung: Beim Reparieren bewegt/bearbeitet (3) der Akteur ein defektes Objekt, um einen gewünschten Zustand (Goal 2) wiederherzustellen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
+
+reparieren: Material/Technical 3/Goal 2/Goal 4/aut/ecc
+Begründung: In der beruflichen Bedeutung bewegt/bearbeitet (3) ein Techniker ein defektes Objekt, um einen gewünschten Zustand (Goal 2) wiederherzustellen, mit dem zusätzlichen Ziel, eine berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+replizieren: Material/Scientific 3/2/Goal 2/aut/ecc
+Begründung: In der wissenschaftlichen Bedeutung bedeutet 'replizieren', dass der Akteur eine Bewegung/Anstreben (3) ausführt, um zu verfügen/kontrollieren (2), damit ein gewünschter Zustand (Goal 2) erreicht wird - nämlich die exakte Wiederholung eines Experiments oder Verfahrens. Der Akteur handelt autonom und nach außen gerichtet (aut/ecc), da er aktiv einen externen Prozess steuert und nachbildet.. Autonom/Exzentrisch.
+
+replizieren: Material/Biological/Process 3/2/Goal 2/aut/ecc
+Begründung: In der biologischen Bedeutung bezeichnet 'replizieren' die Verdoppelung von genetischem Material (DNA/RNA). Der Akteur (z.B. ein Organismus oder eine Zelle) bewegt/strebt an (3), um zu verfügen/kontrollieren (2), damit ein gewünschter Zustand (Goal 2) - die Vervielfältigung des genetischen Materials - erreicht wird.. Autonom/Exzentrisch.
+
+replizieren: Material/IT 3/5/2/Goal 5/aut/ecc
+Begründung: Im IT-Kontext bedeutet 'replizieren' das Synchronisieren oder Kopieren von Daten zwischen verschiedenen Speicherorten. Der Akteur bewegt (3) Informationen (5), um sie verfügbar zu machen (2), mit dem Ziel, einen informierten Zustand (Goal 5) zu erreichen, wobei der Akteur autonom und nach außen gerichtet handelt (aut/ecc).. Autonom/Exzentrisch.
+
+replizieren: Material/Academic 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im akademischen Kontext kann 'replizieren' auch bedeuten, eine wissenschaftliche Arbeit oder einen Befund zu bestätigen, indem man ihn anderen mitteilt. Der Akteur leistet etwas (4) durch Geben (1) von Information (5), damit der Antagonist (z.B. die wissenschaftliche Gemeinschaft) informiert ist (Goal 5), und der Akteur selbst Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
+
+reporten: Material/Reporting 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Antagonist (z.B. Vorgesetzter, Auftraggeber) informiert ist (Goal 5). Nach dem Umschalter folgt das Ziel des Akteurs, für diese Leistung Anerkennung oder Bezahlung zu erhalten (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Anforderungen anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+reporten: Material/IT/Documentation 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: In der IT-Kontext bedeutet 'reporten' oft das bestimmende (2) Erstellen eines Berichts als Leistung (4) durch das Geben (1) von strukturierten Informationen (5), damit der Empfänger informiert ist (Goal 5), um geschäftlich Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur mehr Kontrolle über den Prozess hat und nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+reposten: Material/IT/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas (1) informatives (5) gibt, damit der Antagonist informiert ist (Goal 5). Das Endziel des Akteurs nach dem Wechsel (//) ist Anerkennung zu bekommen (Goal 4). In sozialen Medien bedeutet reposten, dass ein Beitrag eines anderen Nutzers erneut veröffentlicht wird, wobei der Akteur selbstbestimmt (aut) nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+reposten: Material/Media 2/3/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im medialen Kontext außerhalb der IT kann reposten bedeuten, dass ein Akteur bestimmt (2), mit aktivem Aufwand (3) eine Leistung (4) zu erbringen, indem er Inhalte (1) mit informativem Charakter (5) erneut veröffentlicht, damit andere informiert sind (Goal 5), mit dem Endziel der eigenen Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+reproduzieren: Material/Manufacturing 2/3/Goal 2/aut/ecc
+Begründung: Reproduzieren bedeutet, etwas Bestehendes nachzubilden oder zu vervielfältigen. Der Akteur bestimmt/verfügt (2) über die notwendigen Mittel und bewegt/bearbeitet (3) Material, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Kopie oder Nachbildung des Originals. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf externe Materialien einwirkt.. Autonom/Exzentrisch.
+
+reproduzieren: Material/Biological/Process 3/1/Goal 2/aut/ecc
+Begründung: Im biologischen Kontext bedeutet reproduzieren sich fortzupflanzen. Der Akteur bewegt/strebt an (3) und bekommt (1) einen gewünschten Zustand (Goal 2) - Nachkommen zu erzeugen. Die Ausrichtung ist autonom/exzentrisch, da es eine selbstbestimmte Aktivität mit Wirkung nach außen ist.. Autonom/Exzentrisch.
+
+reproduzieren: Material/IT 2/3/Goal 5/aut/ecc
+Begründung: Im IT-Kontext bedeutet reproduzieren, einen Fehler oder ein Problem gezielt nachzustellen. Der Akteur bestimmt/verfügt (2) über die notwendigen Mittel und bewegt/steuert (3) das System, um Informationen (Goal 5) über das Problem zu erhalten. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf externe Systeme einwirkt.. Autonom/Exzentrisch.
+
+repräsentieren: Material/Diplomatic 2/4/1/5/Goal 5/Goal 3//Goal 4/aut/ecc
+Begründung: Repräsentieren bedeutet, dass der Akteur bestimmt (2), eine Leistung für einen Antagonisten (z.B. eine Nation, Organisation) zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5) und eine Wirkung auf Dritte erzielt wird (Goal 3). Nach diesem Dienst für den Antagonisten (//), erhält der Akteur als Endziel Anerkennung/Vergütung (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Repräsentierende selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
+
+repräsentieren: Material/Presentation 2/4/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im Kontext einer Präsentation bedeutet repräsentieren, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen vermittelt (5), damit der Antagonist informiert ist (Goal 5). Nach diesem Dienst (//), erhält der Akteur Anerkennung/Vergütung (Goal 4).. Autonom/Exzentrisch.
+
+repräsentieren: Interpersonal/Status 3/5/Goal 3/Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet repräsentieren, dass der Akteur durch sein Auftreten (3) Informationen über sich oder seine Gruppe vermittelt (5), um eine Wirkung zu erzielen (Goal 3) und als Vertreter wahrgenommen zu werden (Goal 5).. Autonom/Exzentrisch.
+
+requirieren: Material/Military 2/3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) mit Bewegung (3) etwas zu bekommen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Es bezeichnet die militärische oder behördliche Beschlagnahme von Gütern oder Einrichtungen, wobei der Akteur autonom handelt und die Handlung nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+requirieren: Material/Procurement 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: In der Beschaffung bedeutet requirieren das amtliche Anfordern und Beschlagnahmen von Gütern für dienstliche Zwecke. Der Akteur bestimmt (2) mit Bewegung (3) etwas zu bekommen (1), um einen gewünschten Zustand (Goal 2) herzustellen, letztlich um eine berufliche Aufgabe zu erfüllen (Goal 4).. Autonom/Exzentrisch.
+
+researchen: Material/Research 3/5/Goal 5/het/ecc
+Begründung: Beim Researchen bewegt sich der Akteur (3) gezielt in Informationsquellen hinein, sucht und sammelt Informationen (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Informationsquellen anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
+
+researchen: Material/Academic 3/5/2/Goal 5/het/ecc
+Begründung: Im wissenschaftlichen/akademischen Kontext bedeutet Researchen nicht nur das Suchen und Sammeln von Informationen (3/5), sondern auch das systematische Verfügen über und Einordnen dieser Informationen (2), um einen fundierten Wissensstand zu erreichen (Goal 5).. Heteronom/Exzentrisch.
+
+reservieren: Material/Registration 2/4/5//Goal 2/Goal 4/aut/con
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4) durch Informieren (5), damit sein gewünschter Zustand (//Goal 2) erreicht wird, nämlich etwas Bestimmtes (z.B. Platz, Sitzplatz, Tisch, Hotelzimmer) verfügbar zu haben, und um ggf. beruflich Anerkennung/Geld zu bekommen (Goal 4).. Autonom/Konzentrisch.
+
+reservieren: Material/Storage 2/Goal 2/aut/con
+Begründung: Im Sinne von 'etwas zurückhalten/reservieren' bestimmt der Akteur (2) über ein Objekt, um einen gewünschten Zustand zu erreichen (Goal 2), indem er es für einen bestimmten Zweck bereithält oder nicht anderweitig verwendet.. Autonom/Konzentrisch.
+
+resetten: Material/IT/Process 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt/kontrolliert (2) und bewegt/verändert (3) ein IT-System, um einen gewünschten Ausgangszustand wiederherzustellen (Goal 2). Die Handlung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt auf ein externes System einwirkt.. Autonom/Exzentrisch.
+
+resetten: Material/Technical 2/3/Goal 2/aut/ecc
+Begründung: In einem technischen Kontext bedeutet 'resetten' das Verfügen (2) über ein Gerät und das Bewegen/Betätigen (3) z.B. eines Knopfes oder Schalters, um einen ursprünglichen Zustand wiederherzustellen (Goal 2). Die Handlung ist selbstbestimmt (aut) und auf ein externes Objekt gerichtet (ecc).. Autonom/Exzentrisch.
+
+resonieren: Material/Physics 3/1/Goal 3/het/ecc
+Begründung: Resonieren bedeutet, dass ein Körper durch äußere Anregung in Schwingung versetzt wird (3) und dabei eine bestimmte Reaktion (1) zeigt, um eine physikalische Wirkung zu erzielen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Körper aufgrund äußerer Kräfte schwingt.. Heteronom/Exzentrisch.
+
+resonieren: Interpersonal/Communication 1/3/Goal 5/het/ecc
+Begründung: Im übertragenen Sinne bedeutet resonieren, dass jemand auf eine Idee oder Äußerung anspricht (1) und darauf reagiert (3), um einen kommunikativen Kontakt herzustellen (Goal 5). Der Akteur nimmt die Kommunikation auf und entwickelt sie weiter.. Heteronom/Exzentrisch.
+
+resonieren: Material/Sound 3/Goal 3/het/ecc
+Begründung: Im akustischen Kontext bedeutet resonieren, dass ein Körper (z.B. ein Instrument) schwingt (3), um einen bestimmten Klang zu erzeugen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da die Schwingung von äußeren Faktoren abhängt.. Heteronom/Exzentrisch.
+
+respektieren: Interpersonal/Respect 2/4/Goal 2//Goal 4/het/ecc
+Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er dessen Wünsche, Grenzen oder Position anerkennt (Goal 2), mit dem eigenen Ziel, soziale Anerkennung zu erhalten (//Goal 4). Dies ist heteronomisch (het), da der Akteur sich an die Bedürfnisse des Anderen anpasst, und nach außen gerichtet (ecc), da es eine soziale Interaktion ist.. Heteronom/Exzentrisch.
+
+respektieren: Material/Law/Compliance 2/4/Goal 2//Goal 4/het/ecc
+Begründung: In einem rechtlichen oder formellen Kontext bedeutet respektieren, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Regeln, Gesetze oder Vereinbarungen einhält (Goal 2), mit dem Ziel, Konformität zu zeigen und Anerkennung/keine Sanktionen zu erhalten (//Goal 4).. Heteronom/Exzentrisch.
+
+respondieren: Material/Response 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Respondieren bedeutet, auf eine Anfrage, Mitteilung oder Aufforderung zu antworten. Der Akteur leistet (4) für den Antagonisten, indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach Erfüllung dieser Leistung erhält der Akteur Anerkennung oder Vergütung (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Anfrage des Antagonisten anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+respondieren: Interpersonal/Response 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet respondieren, auf eine persönliche Anfrage oder soziale Interaktion zu antworten. Der Akteur leistet (4) für den Antagonisten, indem er Kontaktinformationen gibt (1/5), damit der Antagonist in Kontakt bleibt (Goal 5). Danach erhält der Akteur soziale Anerkennung (//Goal 4).. Heteronom/Exzentrisch.
+
+respondieren: Material/Diplomatic 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Im diplomatischen Kontext bedeutet respondieren das offizielle Antworten auf diplomatische Noten oder Anfragen. Der Akteur leistet (4) für den Antagonisten, indem er offizielle Informationen übermittelt (1/5), damit der Antagonist informiert ist (Goal 5). Der Akteur erhält dadurch diplomatische Anerkennung (//Goal 4).. Heteronom/Exzentrisch.
+
+ressourcenschonen: Material/Resources 2/3/Goal 2/aut/ecc
+Begründung: Ressourcenschonen bedeutet, über Ressourcen zu verfügen (2) und diese bewusst zu bewegen/einzusetzen (3), um einen gewünschten Zustand der Ressourcenerhaltung zu erreichen (Goal 2). Der Akteur handelt autonom (aut) und wirkt dabei nach außen (ecc) auf die Umwelt ein.. Autonom/Exzentrisch.
+
+ressourcenschonen: Material/Sustainability 2/3/Goal 2/Goal 3/aut/ecc
+Begründung: Im Kontext der Nachhaltigkeit bedeutet ressourcenschonen, über Ressourcen zu verfügen (2) und diese gezielt einzusetzen (3), um einen gewünschten Zustand der Ressourcenerhaltung (Goal 2) mit positiver Umweltwirkung (Goal 3) zu erreichen.. Autonom/Exzentrisch.
+
+ressourcensparen: Material/Sustainability 2/3/Goal 2/aut/ecc
+Begründung: Beim Ressourcensparen bestimmt/verfügt der Akteur (2) über die Art und Weise, wie Ressourcen bewegt/eingesetzt werden (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich einen reduzierten Verbrauch und damit die Schonung von Ressourcen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Auswirkungen auf die Umwelt gerichtet sind.. Autonom/Exzentrisch.
+
+ressourcensparen: Material/Resources 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: In einem beruflichen oder geschäftlichen Kontext bestimmt der Akteur (2) wie Ressourcen bewegt/eingesetzt werden (3), um einen gewünschten Zustand der Einsparung (Goal 2) zu erreichen, mit dem weiteren Ziel, monetäre Vorteile oder Anerkennung zu erhalten (Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc).. Autonom/Exzentrisch.
+
+restarten: Material/IT/Process 2/3/Goal 2/aut/ecc
+Begründung: Beim Restarten verfügt der Akteur (2) über ein System und bewegt/bringt es (3) in einen neuen, gewünschten Ausgangszustand (Goal 2). Es handelt sich um eine selbstbestimmte (aut), nach außen gerichtete (ecc) Aktivität, bei der ein IT-System neu gestartet wird, um es in einen funktionierenden Zustand zu versetzen.. Autonom/Exzentrisch.
+
+restarten: Material/Machine-System 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext von Maschinen oder technischen Systemen bedeutet Restarten, dass der Akteur verfügt (2) über das System und es durch Bewegung/Betätigung (3) wieder in einen gewünschten Ausgangszustand (Goal 2) versetzt, um die Funktionalität wiederherzustellen.. Autonom/Exzentrisch.
+
+restaurieren: Material/Historical/Preservation 3/2/Goal 2/aut/ecc
+Begründung: Restaurieren bedeutet, ein historisches Objekt durch Bewegung/Bearbeitung (3) wiederherzustellen und so zu verfügen (2), dass ein gewünschter (ursprünglicher) Zustand erreicht wird (Goal 2). Der Akteur handelt selbstbestimmt (aut) und seine Handlung ist nach außen auf das zu restaurierende Objekt gerichtet (ecc).. Autonom/Exzentrisch.
+
+restaurieren: Material/Furniture 3/2/Goal 2/aut/ecc
+Begründung: Im Kontext von Möbeln bedeutet restaurieren, ein altes Möbelstück durch Bewegung/Bearbeitung (3) wiederherzustellen und so zu verfügen (2), dass ein gewünschter (ursprünglicher) Zustand erreicht wird (Goal 2).. Autonom/Exzentrisch.
+
+restaurieren: Material/Food/Cooking 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Als gastronomischer Begriff bedeutet restaurieren, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Speisen gibt (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2 vor //), mit dem Ziel Anerkennung/Bezahlung zu erhalten (Goal 4 nach //).. Autonom/Exzentrisch.
+
+restoren: Material/Preservation 2/3/Goal 2/aut/ecc
+Begründung: Restoren (restaurieren) bedeutet, einen Gegenstand in seinen ursprünglichen Zustand zurückzuversetzen. Der Akteur verfügt (2) über die Ressourcen und bewegt/bearbeitet (3) das Objekt, um einen gewünschten Zustand (Goal 2) wiederherzustellen. Die Tätigkeit erfordert autonomes Handeln mit Fokus auf ein externes Objekt (aut/ecc).. Autonom/Exzentrisch.
+
+restoren: Material/Historical/Preservation 2/3/Goal 2/Goal 5/aut/ecc
+Begründung: Im Kontext der historischen Restaurierung bedeutet restoren, ein historisches Objekt zu bearbeiten (2/3), um seinen ursprünglichen Zustand wiederherzustellen (Goal 2), wobei auch der Erhalt von historischen Informationen (Goal 5) eine wichtige Rolle spielt.. Autonom/Exzentrisch.
+
+restoren: Material/IT 2/1/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet restoren (wiederherstellen), dass der Akteur verfügt (2) über eine Sicherung und bekommt (1) den gewünschten ursprünglichen Zustand (Goal 2) eines Systems oder von Daten zurück.. Autonom/Exzentrisch.
+
+restrukturieren: Material/Organization 2/3/Goal 2/aut/ecc
+Begründung: Restrukturieren bedeutet, dass der Akteur bestimmt/verfügt (2) über Elemente einer Organisation und bewegt/transformiert (3) diese, um einen gewünschten neuen Zustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Aktivität (aut/ecc), bei der eine bestehende Struktur gezielt verändert wird. Der Akteur verfügt über die Autorität und organisiert Elemente neu, um eine verbesserte Struktur herzustellen.. Autonom/Exzentrisch.
+
+restrukturieren: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet Restrukturieren, dass der Akteur bestimmt/verfügt (2) über Unternehmensbestandteile und bewegt/transformiert (3) diese, um einen gewünschten Zustand (Goal 2) herzustellen, mit dem übergeordneten Ziel, geschäftlichen Erfolg und finanzielle Anerkennung zu erzielen (Goal 4). Dies kann Umorganisation von Abteilungen, Arbeitsabläufen oder Geschäftsprozessen umfassen.. Autonom/Exzentrisch.
+
+restylen: Material/Fashion 2/3/Goal 2/aut/ecc
+Begründung: Beim Restylen verfügt/kontrolliert (2) der Akteur über ein Objekt und bewegt/verändert (3) dessen Aussehen oder Stil, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur agiert selbstbestimmt (aut) und wirkt auf ein Objekt in der Außenwelt (ecc).. Autonom/Exzentrisch.
+
+restylen: Material/Interior-Design 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext von Inneneinrichtung bedeutet Restylen, dass der Akteur verfügt/kontrolliert (2) über Einrichtungsgegenstände und bewegt/verändert (3) deren Anordnung oder Erscheinungsbild, um einen gewünschten Zustand des Raumes (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+resultieren: Material/Causation 3/1/Goal 3/het/ecc
+Begründung: Resultieren bedeutet, dass sich aus einer Bewegung oder einem Prozess (3) eine bestimmte Wirkung (Goal 3) ergibt, die der Akteur bekommt (1). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang von äußeren Bedingungen abhängt und nach außen gerichtet ist. Der Akteur bewegt bzw. führt einen Prozess durch, aus dem sich zwangsläufig ein Ergebnis oder eine Wirkung ergibt.. Heteronom/Exzentrisch.
+
+resultieren: Material/Logic 5/3/1/Goal 5/het/ecc
+Begründung: Im Kontext logischer Schlussfolgerungen bedeutet resultieren, dass man aus vorhandenen Informationen (5) durch einen analytischen Prozess (3) zu einer neuen Erkenntnis gelangt, die man bekommt (1), mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Denkprozess von den vorliegenden Fakten abhängig ist.. Heteronom/Exzentrisch.
+
+resümieren: Material/Analysis 3/5/2/Goal 5/het/ecc
+Begründung: Resümieren bedeutet, Informationen zusammenfassend zu analysieren (3/5), indem man die wichtigsten Punkte identifiziert und diese in eigener Verfügung (2) strukturiert, mit dem Ziel, informiert zu sein oder andere zu informieren (Goal 5). Es ist heterenom (het), weil man sich nach einem vorgegebenen Sachverhalt richten muss, und nach außen gerichtet (ecc), da man nach außen hin eine Zusammenfassung erstellt.. Heteronom/Exzentrisch.
+
+resümieren: Material/Business/Documentation 3/5/2/Goal 5/Goal 4/het/ecc
+Begründung: Im geschäftlichen Kontext bedeutet resümieren das Zusammenfassen (3/5/2) von Informationen mit dem Ziel der Dokumentation und Informationsweitergabe (Goal 5), was letztendlich der beruflichen Anerkennung dient (Goal 4).. Heteronom/Exzentrisch.
+
+retten: Material/Emergency 3/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bewegt sich (3) und leistet (4) für den Antagonisten etwas, indem er ihn aus einer Gefahrensituation herausbekommt (1), mit dem Ziel, einen gewünschten Zustand (Sicherheit, Wohlbefinden) herzustellen (Goal 2). Nach dem Wechsel zurück zum Akteur folgt dessen Ziel, Anerkennung für die Rettungsleistung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
+
+retten: Material/Defense 3/4/1/Goal 2//Goal -3/Goal 4/aut/ecc
+Begründung: Im Verteidigungskontext bewegt sich der Akteur (3), leistet etwas für den Antagonisten (4), indem er ihn herausbringt/bekommt (1) aus einer Situation, die einen gewünschten Zustand herstellt (Goal 2), wobei gleichzeitig eine negative Wirkung für einen weiteren Antagonisten (z.B. Angreifer) verhindert wird (//Goal -3). Die Handlung dient auch dem Ziel des Akteurs, Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+retten: Material/Finance 3/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext bewegt der Akteur (3) Ressourcen und leistet etwas (4), indem er einem Unternehmen oder Projekt durch Kapitalgabe oder Maßnahmen (1) hilft, in einen gewünschten (finanziell stabilen) Zustand zu kommen (Goal 2), mit dem Ziel, selbst Anerkennung oder wirtschaftlichen Vorteil zu erlangen (//Goal 4).. Autonom/Exzentrisch.
+
+returnen: Material/Fight/Sports/Ball-Game 3/1/Goal 3/het/ecc
+Begründung: Beim Returnen in Ballsportarten (z.B. Tennis, Tischtennis) bewegt der Akteur (3) sich und den Schläger, um den Ball zurückzuschlagen und empfängt/bekommt (1) dabei den Ball, mit dem Ziel, eine bestimmte Wirkung/Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den vom Gegner gespielten Ball anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
+
+returnen: Material/Business 3/1/Goal 2/het/ecc
+Begründung: Im Geschäftskontext bedeutet 'returnen' die Rückgabe von Waren. Der Akteur bewegt (3) die Ware und übergibt/gibt ab (1) sie, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Rückabwicklung des Kaufs. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an Rückgabebedingungen anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+returnen: Material/IT 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: In der Programmierung bedeutet 'returnen' das Zurückgeben eines Wertes durch eine Funktion. Der Akteur (die Funktion) leistet (4) für den Aufrufenden, indem sie einen Wert gibt (1) und damit eine Information übermittelt (5), damit der Aufrufende informiert ist (Goal 5). Nach dem Wechsel zum Akteur folgt das Ziel, den Programmablauf fortzusetzen (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Funktion nach vorgegebenen Regeln arbeitet und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+revidieren: Material/Correction 3/5/2/Goal 2/aut/ecc
+Begründung: Beim Revidieren bewegt (3) der Akteur sich informierend (5) durch bereits verfügbare Inhalte und bestimmt (2) Änderungen, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt autonom und nach außen gerichtet, da er aktiv eine Überprüfung und Korrektur vornimmt.. Autonom/Exzentrisch.
+
+revidieren: Material/Inspection 3/5/Goal 5/aut/ecc
+Begründung: Im Sinne von 'nachprüfen/kontrollieren' bewegt (3) sich der Akteur informierend (5) durch Dokumente oder Prozesse, um informiert zu sein (Goal 5). Hier steht die Überprüfung ohne zwingenden Änderungszweck im Vordergrund.. Autonom/Exzentrisch.
+
+revidieren: Material/Legal 2/3/5/Goal 2//Goal -2/aut/ecc
+Begründung: Im rechtlichen Kontext bedeutet revidieren, bestimmend (2) mit Bewegung (3) und Informationen (5) einen gewünschten Zustand (Goal 2) zu erreichen, indem man gegen eine bestehende Entscheidung vorgeht (//Goal -2). Hier bekämpft der Akteur ein Goal des Antagonisten (z.B. ein Gerichtsurteil).. Autonom/Exzentrisch.
+
+reviewen: Material/Evaluation 3/5/2/Goal 5/het/ecc
+Begründung: Beim Reviewen bewegt sich der Akteur durch etwas (3), informiert sich (5) und gewinnt Verfügung (2) über Erkenntnisse, mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den zu prüfenden Inhalten orientieren muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+reviewen: Material/Business/Documentation 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext bedeutet Reviewen, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Empfänger informiert ist (Goal 5), was letztendlich für den Akteur zur beruflichen Anerkennung führt (//Goal 4).. Autonom/Exzentrisch.
+
+revitalisieren: Material/Medical/Process 3/Goal 2/aut/ecc
+Begründung: Revitalisieren bedeutet, etwas durch aktives Bewegen/Bearbeiten (3) wieder in einen lebendigen, funktionsfähigen, gewünschten Zustand zu bringen (Goal 2). Der Akteur strebt selbstbestimmt (aut) durch eine nach außen gerichtete Tätigkeit (ecc) an, dem Objekt neue Vitalität zu verleihen.. Autonom/Exzentrisch.
+
+revitalisieren: Material/Medical 3/1/Goal 2/aut/ecc
+Begründung: Im medizinischen Sinne bedeutet revitalisieren, durch Behandlung (3) dem Körper/Gewebe neue Lebenskraft zuzuführen (1), um einen besseren Gesundheitszustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+revitalisieren: Material/Urban-Development 3/Goal 2/aut/ecc
+Begründung: In der Stadtplanung bedeutet revitalisieren, durch Umgestaltung und Entwicklungsmaßnahmen (3) einen Stadtteil oder eine Region wieder in einen lebendigen, attraktiven Zustand zu versetzen (Goal 2).. Autonom/Exzentrisch.
+
+revoltieren: Material/Fight/Protest 3/Goal 3//Goal -2/aut/ecc
+Begründung: Revoltieren bedeutet, aggressiv vorzugehen (3) um eine Wirkung zu erzielen (Goal 3) und dabei die bestehende Ordnung zu bekämpfen (//Goal -2). Der Akteur bewegt sich aktiv gegen eine etablierte Autorität oder Struktur, mit dem Ziel, diese zu erschüttern oder zu stürzen. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten (das bestehende System) einwirkt.. Autonom/Exzentrisch.
+
+revoltieren: Interpersonal/Fight/Dispute 3/Goal 3//Goal -2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet revoltieren, sich gegen eine Autoritätsperson aufzulehnen oder zu rebellieren. Der Akteur setzt Bewegung/Anstreben ein (3), um eine Wirkung zu erzielen (Goal 3) und bekämpft dabei den gewünschten Zustand des Antagonisten (//Goal -2), typischerweise dessen Machtposition oder Kontrolle über den Akteur.. Autonom/Exzentrisch.
+
+revolutionieren: Material/Fight/Politics 3/Goal 3//Goal -2/aut/ecc
+Begründung: Etwas revolutionieren bedeutet, durch aktive Bewegung/Anstreben (3) eine grundlegende Veränderung/Wirkung zu erzielen (Goal 3), die gegen bestehende Strukturen oder Ordnungen gerichtet ist (//Goal -2). Der Akteur handelt autonom (aut) und nach außen gerichtet (ecc), um ein System, eine Idee oder einen Prozess radikal zu verändern und dabei das Bestehende zu überwinden.. Autonom/Exzentrisch.
+
+revolutionieren: Material/Technological 3/Goal 2/aut/ecc
+Begründung: Im technologischen Kontext bedeutet revolutionieren, durch Innovation und Entwicklung (3) einen grundlegend neuen, gewünschten Zustand (Goal 2) zu erreichen, ohne dass dabei notwendigerweise ein Antagonist bekämpft wird. Dies bezieht sich auf die Umgestaltung von Produkten, Prozessen oder Technik durch bahnbrechende Neuerungen.. Autonom/Exzentrisch.
+
+rezensieren: Material/Evaluation 2/3/5/Goal 5/Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur verfügt (2) über die Fähigkeit, etwas zu bewerten, indem er es untersucht/analysiert (3/5), um Informationen darüber zu gewinnen (Goal 5), einen gewünschten Zustand der Bewertung herzustellen (Goal 2) und letztendlich berufliche Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+rezensieren: Material/Literary 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: Als literarischer Kritiker bestimmt der Akteur (2) eine Leistung für den Autor zu erbringen (4), indem er Informationen gibt (1/5), die den Lesern eine fundierte Einschätzung liefern (Goal 5), wodurch der Akteur einen gewünschten Zustand herstellt (//Goal 2) und berufliche Anerkennung erhält (Goal 4).. Autonom/Exzentrisch.
+
+rezeptieren: Material/Medical 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Arzt bestimmt (2) als Leistung für den Patienten (4) diesem ein Rezept zu geben (1) mit Informationen (5), damit der Patient informiert ist (Goal 5), mit dem Ziel für den Arzt, berufliche Anerkennung zu erhalten (//Goal 4). Rezeptieren beinhaltet die ärztliche Verschreibung von Medikamenten, wobei der Arzt selbstbestimmt (aut) nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+rezeptieren: Material/Pharmaceutical 4/5/1/Goal 5//Goal 4/het/ecc
+Begründung: In der Apotheke bedeutet rezeptieren, dass der Apotheker als Leistung (4) ein erhaltenes Rezept überprüft (5), dem Patienten das Medikament gibt (1), damit der Patient über die notwendige Medikation informiert ist (Goal 5), mit dem Ziel berufliche Anerkennung zu erhalten (//Goal 4). Der Apotheker handelt dabei anpassend an die Vorgabe des Arztes (het) nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+rezitieren: Material/Performing-Arts 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Beim Rezitieren leistet der Akteur (4) eine Darbietung, indem er etwas (meist literarischen Text) gibt (1) und damit Informationen (5) übermittelt, damit die Zuhörer informiert sind (Goal 5). Nach dem Umschalter folgt das eigene Ziel des Akteurs, Anerkennung zu erhalten (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Vortragende selbstbestimmt agiert und nach außen auf das Publikum wirkt.. Autonom/Exzentrisch.
+
+rezitieren: Material/Education 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Im Bildungskontext bedeutet Rezitieren das Aufsagen gelernter Texte, wobei der Akteur eine Leistung (4) erbringt, indem er Information gibt (1/5), damit der Lehrer/Prüfer informiert ist (Goal 5), mit dem Ziel selbst Anerkennung oder Bewertung zu erhalten (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich den Vorgaben des Lehrers anpasst.. Heteronom/Exzentrisch.
+
+richten: Material/Law/Court 2/Goal 2/aut/ecc
+Begründung: Als Richter ein Urteil fällen bedeutet, dass der Akteur bestimmt/verfügt (2) über einen Sachverhalt, um einen gewünschten Zustand (rechtliche Entscheidung) zu erreichen (Goal 2). Die Ausrichtung ist autonom (der Richter entscheidet) und exzentrisch (wirkt nach außen auf den Rechtsfall).. Autonom/Exzentrisch.
+
+richten: Material/Direction 2/3/Goal 2/aut/ecc
+Begründung: Etwas ausrichten/in eine bestimmte Position bringen bedeutet, dass der Akteur bestimmt (2) und bewegt (3) ein Objekt, um einen gewünschten Zustand (korrekte Ausrichtung) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+richten: Material/Preparation 2/3/Goal 2/aut/ecc
+Begründung: Etwas herrichten/vorbereiten bedeutet, dass der Akteur bestimmt (2) und bewegt (3) Objekte, um einen gewünschten Zustand (Vorbereitung) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+richten: Material/Damage 3/Goal -2/aut/ecc
+Begründung: Etwas zugrunde richten bedeutet, dass der Akteur durch Bewegung/Anstreben (3) einen unerwünschten Zustand (Goal -2) herbeiführt. Der Akteur schädigt sich hier selbst bzw. sein eigenes Objekt, daher kein // mit Antagonisten-Goals.. Autonom/Exzentrisch.
+
+richten: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Jemandem etwas ausrichten (eine Nachricht überbringen) bedeutet, dass der Akteur eine Leistung (4) erbringt, indem er Information gibt (1/5), damit der Antagonist informiert ist (Goal 5), um Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
+
+richtigstellen: Material/Correction 2/4/1/5/Goal 2//Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), um einen korrekten Zustand herzustellen (Goal 2), was auch für den Antagonisten (den Informationsempfänger) ein gewünschter Zustand ist (//Goal 2). Die Ausrichtung ist autonom (der Akteur entscheidet selbst zu korrigieren) und exzentrisch (auf andere gerichtet).. Autonom/Exzentrisch.
+
+richtigstellen: Material/Information 2/4/1/5/Goal 5//Goal 2/aut/ecc
+Begründung: In einem anderen Kontext bedeutet richtigstellen, bestimmend (2) eine Leistung zu erbringen (4), indem Informationen gegeben werden (1/5), damit der Empfänger korrekt informiert ist (Goal 5), was dem Ziel des Akteurs entspricht, einen gewünschten Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
+
+riechen: Material/Sensory 5/Goal 5/het/ecc
+Begründung: Beim Riechen nimmt der Akteur (durch den Geruchssinn) Informationen über Düfte und Gerüche aus der Umgebung auf (5), mit dem Ziel, informiert zu sein (Goal 5). Der Vorgang ist heteronom (het), da der Akteur sich an die vorhandenen Gerüche anpassen muss und nicht selbst bestimmt, welche Gerüche wahrnehmbar sind, sowie nach außen gerichtet (ecc), da die Geruchsquellen typischerweise aus der Umgebung stammen.. Heteronom/Exzentrisch.
+
+riechen: Material/Investigation 3/5/Goal 5/het/ecc
+Begründung: Im übertragenen Sinne kann 'riechen' auch bedeuten, etwas zu erahnen oder zu vermuten. Hier bewegt sich der Akteur aktiv (3) in Richtung einer Information (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom und exzentrisch, da der Akteur auf externe Hinweise angewiesen ist.. Heteronom/Exzentrisch.
+
+riechen: Material/Evaluation 5/1/Goal 5/het/ecc
+Begründung: In der Bedeutung 'etwas prüfen durch Riechen' (z.B. 'an der Milch riechen, ob sie noch gut ist') nimmt der Akteur Informationen auf (5), bekommt diese (1), mit dem Ziel informiert zu sein (Goal 5). Der Prozess ist heteronom und nach außen gerichtet, da der Geruch vom Objekt bestimmt wird.. Heteronom/Exzentrisch.
+
+riegeln: Material/Security 2/3/Goal 2//Goal -3/aut/con
+Begründung: Der Akteur verfügt/bestimmt (2) über eine Bewegung/einen Mechanismus (3), um einen gewünschten Zustand (Goal 2) herzustellen, der gleichzeitig die Bewegungsfreiheit des Antagonisten einschränkt (//Goal -3). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmend handelt und sich die Handlung auf seinen unmittelbaren Kontrollbereich bezieht.. Autonom/Konzentrisch.
+
+riegeln: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/con
+Begründung: In einem Verteidigungskontext bedeutet 'riegeln', dass der Akteur bestimmend (2) eine Barriere schafft (3), um einen geschützten Zustand (Goal 2) herzustellen und gleichzeitig die Bewegung des Antagonisten zu verhindern (//Goal -3).. Autonom/Konzentrisch.
+
+riffeln: Material/Surface/Treatment 3/Goal 2/aut/ecc
+Begründung: Riffeln bezeichnet das Anbringen von feinen, parallelen Rillen oder Rippen auf einer Oberfläche. Der Akteur bewegt (3) Material oder ein Werkzeug, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine geriffelte Oberfläche. Die Kontrolle liegt vollständig beim Akteur (aut) und richtet sich auf die Bearbeitung eines äußeren Objekts (ecc).. Autonom/Exzentrisch.
+
+riffeln: Material/Textile 3/Goal 2/aut/ecc
+Begründung: Im Textilbereich bedeutet riffeln das gezielte Aufrauen oder Strukturieren von Stoffoberflächen. Der Akteur bewegt (3) ein Werkzeug oder Material, um einen gewünschten Zustand (Goal 2) einer strukturierten Oberfläche zu erreichen. Die Aktivität wird autonom durchgeführt (aut) und richtet sich auf ein äußeres Objekt (ecc).. Autonom/Exzentrisch.
+
+ringen: Fight/Sport 3/Goal 3/Goal 2/aut/ecc
+Begründung: Beim Ringen bewegt sich (3) der Akteur mit dem Ziel, eine Wirkung auf den Gegner zu erzielen (Goal 3) und letztendlich den Kampf zu gewinnen, also einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt gegen einen Gegner kämpft.. Autonom/Exzentrisch.
+
+ringen: Material/Struggle 3/Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'ringen' das intensive Bemühen um etwas, wobei der Akteur sich anstrengt und bewegt (3), um einen gewünschten Zustand zu erreichen (Goal 2). Beispiel: 'Mit einer Entscheidung ringen'.. Autonom/Exzentrisch.
+
+ringen: Interpersonal/Struggle 3/Goal 2//Goal -3/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext kann 'ringen' bedeuten, dass der Akteur sich bemüht (3) und für seinen eigenen gewünschten Zustand kämpft (Goal 2), während er gleichzeitig gegen den Widerstand oder Einfluss eines Antagonisten ankämpft (//Goal -3).. Autonom/Exzentrisch.
+
+rinnen: Material/Fluids/Process 3/Goal 3/het/ecc
+Begründung: Flüssigkeiten, die aufgrund der Schwerkraft in eine bestimmte Richtung fließen (3), um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom (het), da die Bewegung durch physikalische Gesetze bestimmt wird und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+rinnen: Material/Accident 3/1/Goal -2/het/ecc
+Begründung: Im Sinne von 'auslaufen' oder 'entweichen': Eine ungewollte Bewegung (3) von Flüssigkeit, die einen Behälter verlässt (1) und zu einem unerwünschten Zustand führt (Goal -2). Die Bewegung wird durch die Schwerkraft bestimmt (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+rinnen: Material/Time 3/Goal 3/het/ecc
+Begründung: Im übertragenen Sinne: Die Zeit rinnt (vergeht) durch Bewegung (3) in Richtung eines unvermeidlichen Ziels (Goal 3). Der Prozess ist nicht kontrollierbar (het) und nach außen in die Zukunft gerichtet (ecc).. Heteronom/Exzentrisch.
+
+riskieren: Material/Risk 3/Goal 2//Goal -3/aut/ecc
+Begründung: Der Akteur bewegt sich bewusst (3) in eine potenziell gefährliche Situation, um einen gewünschten Zustand zu erreichen (Goal 2), wobei gleichzeitig in Kauf genommen wird, dass negative Wirkungen eintreten könnten (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen in die Umwelt wirkt.. Autonom/Exzentrisch.
+
+riskieren: Material/Business/Competition 3/Goal 2/Goal 4//Goal -3/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet 'riskieren', bewusst (3) eine unsichere Handlung zu unternehmen, um einen gewünschten Zustand (Goal 2) und geschäftlichen Erfolg (Goal 4) zu erreichen, wobei potenzielle negative Wirkungen in Kauf genommen werden (//Goal -3).. Autonom/Exzentrisch.
+
+ritualisieren: Material/Religious 2/3/5/Goal 2/aut/ecc
+Begründung: Ritualisieren bedeutet, bestimmte Handlungen oder Abläufe (2) durch wiederholtes Ausführen und Standardisieren (3) zu einem festen, vorgeschriebenen Ritual zu machen, wobei oft symbolische Bedeutungen (5) vermittelt werden, um einen gewünschten, formellen Zustand (Goal 2) zu erreichen. Dies geschieht autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+ritualisieren: Material/Process 2/3/Goal 2/aut/con
+Begründung: Im allgemeineren Kontext bedeutet ritualisieren, bestimmte Handlungen oder Abläufe (2) durch Standardisierung und wiederholtes Ausführen (3) zu einem gewohnheitsmäßigen Verfahren zu machen, um einen gewünschten, strukturierten Zustand (Goal 2) zu erreichen. Dies geschieht selbstbestimmt im eigenen Kontrollbereich (aut/con).. Autonom/Konzentrisch.
+
+rivalisieren: Interpersonal/Competition 3/Goal 3//Goal -3/aut/ecc
+Begründung: Rivalisieren bedeutet, dass der Akteur aktiv anstrebt (3) eine Wirkung zu erzielen (Goal 3), während er gleichzeitig die Wirkungsmöglichkeiten des Antagonisten zu beeinträchtigen versucht (//Goal -3). Der Akteur agiert selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er in einen Wettbewerb mit dem Antagonisten tritt.. Autonom/Exzentrisch.
+
+rivalisieren: Material/Business/Competition 3/Goal 2/Goal 3//Goal -3/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet rivalisieren, dass ein Unternehmen (Akteur) durch aktives Anstreben (3) einen gewünschten Zustand am Markt (Goal 2) und eine Wirkung (Goal 3) erreichen will, während es gleichzeitig die Wirkungsmöglichkeiten der Konkurrenz (Antagonist) zu beeinträchtigen versucht (//Goal -3).. Autonom/Exzentrisch.
+
+robben: Material/Physical/Movement 3/Goal 3/het/ecc
+Begründung: Robben bezeichnet eine Fortbewegungsform, bei der sich der Akteur auf dem Bauch liegend mit Hilfe von Armen und Beinen vorwärtsbewegt (3), um eine Destination zu erreichen (Goal 3). Die Bewegung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an die Bodenverhältnisse anpassen muss und die Bewegung nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+robben: Material/Animal 3/Goal 3/aut/ecc
+Begründung: Als Begriff für die Fortbewegung von Robben (Tieren), die sich mit Flossen auf dem Land vorwärtsbewegen (3), um eine Destination zu erreichen (Goal 3). Die Bewegung ist autonom/exzentrisch (aut/ecc), da das Tier die Bewegung nach eigenem Antrieb durchführt.. Autonom/Exzentrisch.
+
+robben: Fight/Aggression/War/Training 3/Goal 3/het/ecc
+Begründung: Im militärischen Kontext bedeutet robben eine taktische Fortbewegungsart, bei der Soldaten flach auf dem Boden liegend vorwärtskriechen (3), um ein Ziel zu erreichen (Goal 3), wobei sie sich an das Gelände anpassen müssen (het/ecc).. Heteronom/Exzentrisch.
+
+robotisieren: Material/Technological 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt (2) über technische Mittel und transformiert durch Bewegung/Bearbeitung (3) einen Prozess oder Arbeitssystem, um einen gewünschten automatisierten Zustand zu erreichen (Goal 2). Es handelt sich um einen autonomen, nach außen gerichteten Prozess (aut/ecc), bei dem manuelle Arbeit durch Roboter ersetzt wird.. Autonom/Exzentrisch.
+
+robotisieren: Material/Engineering 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext bedeutet robotisieren, dass der Akteur bestimmt (2) durch Bewegung/Transformation (3) Technik zu implementieren und zu bekommen (1), um einen automatisierten Zustand herzustellen (Goal 2) mit dem Endziel, geschäftlichen Erfolg/Effizienz zu erzielen (Goal 4).. Autonom/Exzentrisch.
+
+rollen: Material/Movement 3/Goal 3/aut/ecc
+Begründung: Eine rollende Bewegung ausführen (3), um eine Destination zu erreichen oder eine Wirkung zu erzielen (Goal 3). Der Akteur bewegt sich oder ein Objekt eigenständig (aut) in Richtung Außenbereich (ecc).. Autonom/Exzentrisch.
+
+rollen: Material/Transportation 2/Goal 3/aut/ecc
+Begründung: Mit einem Fahrzeug langsam/rollend fahren, wobei der Akteur das Fahrzeug kontrolliert/steuert (2), um eine Destination zu erreichen (Goal 3).. Autonom/Exzentrisch.
+
+rollen: Material/Food/Cooking 3/Goal 2/aut/ecc
+Begründung: Teig ausrollen oder formen, wobei der Akteur eine Bewegung ausführt (3), um einen gewünschten Zustand des Teiges zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+rollen: Interpersonal/Theater-Acting 3/4/5/Goal 3//Goal 4/aut/ecc
+Begründung: Eine Rolle spielen/darstellen, wobei der Akteur eine Bewegung ausführt (3), eine Leistung für das Publikum erbringt (4) und Informationen vermittelt (5), um eine Wirkung zu erzielen (Goal 3) mit dem Ziel, Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
+
+romantisieren: Interpersonal/Emotional 3/1/5/Goal 3/Goal 5/aut/ecc
+Begründung: Romantisieren bedeutet, etwas oder jemanden verklärend darzustellen (3/1), indem man Informationen so präsentiert (5), dass sie eine bestimmte positive emotionale Wirkung erzielen (Goal 3) und ein idealisiertes Bild vermitteln (Goal 5). Der Akteur bewegt sich dabei aktiv und selbstbestimmt in Richtung einer Verfälschung der Realität (aut/ecc).. Autonom/Exzentrisch.
+
+romantisieren: Material/Creative/Writing 3/5/Goal 3/Goal 5/aut/ecc
+Begründung: Im Kontext des kreativen Schreibens bedeutet romantisieren, einen Sachverhalt bewusst mit romantischen oder idealisierten Elementen anzureichern (3/5), um eine bestimmte Wirkung beim Leser zu erzielen (Goal 3) und ein verklärtes Bild zu vermitteln (Goal 5).. Autonom/Exzentrisch.
+
+roomsharen: Material/Sharing-Economy 2/4/2/Goal 2//Goal 2/het/ecc
+Begründung: Beim Roomsharen verfügt (2) der Akteur über seinen Wohnraum und leistet (4) für den Antagonisten, indem er ihm Verfügung (2) über diesen Raum gibt, damit beide einen gewünschten Zustand erreichen: der Antagonist bekommt temporären Wohnraum (Goal 2 vor //) und der Akteur teilt seine Ressourcen effizient und erhält ggf. eine Gegenleistung (//Goal 2). Die Ausrichtung ist heteronom/eccentric, da der Akteur sich an die Bedürfnisse des Gastes anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+roomsharen: Material/Hospitality 2/4/2/Goal 2//Goal 4/het/ecc
+Begründung: In einer stärker kommerziellen oder dienstleistungsorientierten Bedeutung bestimmt (2) der Akteur über seinen Wohnraum und leistet (4) für den Antagonisten das Verfügen (2) über diesen Raum, damit der Antagonist einen gewünschten Zustand erreicht (Goal 2 vor //), während der Akteur primär auf Geld/Anerkennung (//Goal 4) abzielt, nicht auf gleichberechtigtes Teilen.. Heteronom/Exzentrisch.
+
+rooten: Material/IT/Security 2/3/Goal 2/Goal 5/aut/ecc
+Begründung: Im IT-Kontext bedeutet 'rooten' das Erlangen von Administratorrechten ('Root-Zugang') auf einem System. Der Akteur bestimmt/verfügt (2) durch aktives Bewegen/Anstreben (3), um einen gewünschten Zustand der vollen Kontrolle über das System zu erreichen (Goal 2) und dadurch Zugang zu allen Informationen zu bekommen (Goal 5).. Autonom/Exzentrisch.
+
+rooten: Material/Plants 3/Goal 2/aut/ecc
+Begründung: In der Gartenbau-Bedeutung: Pflanzen oder Stecklinge zum Wurzeln bringen. Der Akteur bewegt/aktiviert (3) die Pflanze, um den gewünschten Zustand des Wurzelschlagens zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+rudern: Material/Sports 2/3/Goal 3/aut/ecc
+Begründung: Beim Rudern verfügt der Akteur (2) über Ruder oder ein Ruderboot und bewegt (3) sich damit, um ein Ziel zu erreichen bzw. eine Destination/Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Aktivität nach außen in die Umwelt gerichtet ist.. Autonom/Exzentrisch.
+
+rudern: Material/Gesture 3/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'rudern' auch eine Armbewegung, bei der die Arme kreisförmig geschwungen werden, ähnlich der Ruderbewegung. Der Akteur bewegt (3) seine Arme, um eine bestimmte Wirkung zu erzielen (Goal 3), ohne dabei tatsächlich ein Fortbewegungsmittel zu steuern.. Autonom/Exzentrisch.
+
+rudern: Interpersonal/Psychological 3/Goal -3/het/ecc
+Begründung: Im übertragenen Sinne bedeutet 'rudern' auch, sich in einer schwierigen Situation zu befinden und mit Anstrengung zu versuchen, diese zu bewältigen, wobei man nicht effektiv vorankommt. Der Akteur bewegt sich (3), erreicht aber nicht das gewünschte Ziel (Goal -3), da die Bewegung nicht zielführend ist. Die Ausrichtung ist heteronom/exzentrisch, weil der Akteur sich an die widrigen Umstände anpassen muss.. Heteronom/Exzentrisch.
+
+rufen: Interpersonal/Communication 3/5/Goal 5/aut/ecc
+Begründung: Der Akteur bewegt (3) sich auf einen Kontakt (5) zu, indem er einen Ruf ausstößt, mit dem Ziel Kontakt herzustellen (Goal 5). Die Ausrichtung ist autonom (der Akteur entscheidet selbst zu rufen) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+rufen: Material/Communication 3/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im Sinne von jemanden zu sich rufen: Der Akteur bewegt (3) sich auf einen Kontakt zu, leistet (4) etwas für den Antagonisten, indem er Informationen gibt (1/5), damit dieser informiert ist (Goal 5). Nach dem Wechsel (//) zielt der Akteur auf Anerkennung für seine Leistung (Goal 4).. Autonom/Exzentrisch.
+
+rufen: Material/Telecommunications 2/3/5/Goal 5/aut/ecc
+Begründung: Im Sinne von telefonisch anrufen: Der Akteur bestimmt (2) die Bewegung (3) zur Kontaktaufnahme (5), um eine Information zu übermitteln bzw. Kontakt herzustellen (Goal 5).. Autonom/Exzentrisch.
+
+ruhen: Material 0/Goal 0/het/con
+Begründung: Ruhen bedeutet, dass der Akteur sich in einem Zustand des Wartens (0) befindet, um sich zu erholen (Goal 0). Der Akteur passt sich den inneren Bedürfnissen des Körpers an (het/con) und verbleibt in einem passiven Zustand ohne aktive Bewegung, um Energie zu regenerieren.. Heteronom/Konzentrisch.
+
+ruhen: Material/Legal 0/Goal 0/het/con
+Begründung: Im rechtlichen Kontext bedeutet 'ruhen' das temporäre Aussetzen eines Verfahrens oder Anspruchs. Der Akteur wartet (0) in einer passiven Position, wobei der Vorgang pausiert wird, um später möglicherweise wieder aufgenommen zu werden (Goal 0).. Heteronom/Konzentrisch.
+
+ruhen: Material/Physical/Condition 0/Goal 0/het/con
+Begründung: Im körperlichen Sinne bedeutet ruhen, dass der Körper in einem Zustand der Inaktivität (0) verbleibt, um physische Erholung zu erreichen (Goal 0). Der Akteur lässt die natürlichen Erholungsprozesse des Körpers geschehen (het/con).. Heteronom/Konzentrisch.
+
+ruinieren: Material/Damage 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt/bearbeitet (3) etwas und erreicht (1) dadurch einen gewünschten Zustand für sich (Goal 2), während er gleichzeitig den Zustand des Antagonisten (Objekt oder Person) verschlechtert (//Goal -2). Dabei handelt der Akteur autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+ruinieren: Material/Business/Competition 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im wirtschaftlichen Kontext bedeutet ruinieren, dass ein Akteur bestimmte Maßnahmen ergreift (3), um einen gewünschten Zustand für sich selbst zu erreichen (Goal 2), während er gleichzeitig den Konkurrenten (Antagonisten) in einen unerwünschten Zustand (Ruin) bringt (//Goal -2).. Autonom/Exzentrisch.
+
+ruinieren: Interpersonal/Reputation 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im sozialen Kontext bedeutet ruinieren, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2), was dem eigenen Ziel des Akteurs dient (//Goal 2).. Autonom/Exzentrisch.
+
+rundbiegen: Material/Metalworking 3/Goal 2/aut/ecc
+Begründung: Rundbiegen bedeutet, durch gezieltes Bewegen/Anstreben (3) einen Werkstoff (meist Metall) in eine gebogene/runde Form zu bringen, um einen gewünschten Zustand zu erreichen (Goal 2). Dies geschieht selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+rundbiegen: Material/Form 2/3/Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet rundbiegen, etwas bestimmend (2) durch Bewegung (3) anzupassen oder zu verändern, um einen gewünschten Zustand (Goal 2) zu erreichen. Beispielsweise Regeln oder Vorgaben so zu interpretieren oder anzupassen, dass sie dem eigenen Zweck dienen.. Autonom/Exzentrisch.
+
+runddrehen: Material/Mechanical 2/3/Goal 2/aut/ecc
+Begründung: Runddrehen bedeutet, ein Objekt mit Verfügungsgewalt (2) in eine rotierende Bewegung (3) zu versetzen, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc) auf das zu drehende Objekt ein.. Autonom/Exzentrisch.
+
+runddrehen: Material/Manufacturing 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im Kontext der Fertigung bedeutet runddrehen eine spezifische Bearbeitungstechnik, bei der der Akteur mit Verfügungsgewalt (2) einen Werkstoff durch Drehbewegungen (3) bearbeitet, um einen gewünschten Zustand des Werkstücks (Goal 2) herzustellen und beruflich Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+runddrehen: Material/Dance 3/Goal 3/aut/ecc
+Begründung: Im Tanz-Kontext bedeutet runddrehen eine Bewegung (3), die der Akteur ausführt, um eine bestimmte Wirkung oder Position (Goal 3) zu erreichen. Der Akteur bestimmt selbst diese Bewegung (aut) und führt sie im Raum aus (ecc).. Autonom/Exzentrisch.
+
+rundkanten: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Rundkanten bedeutet, die scharfen Kanten eines Materials oder Werkstücks durch Bewegung/Bearbeitung (3) abzurunden, um einen gewünschten Zustand (Goal 2) herzustellen. Der Akteur bewegt dabei selbstbestimmt (aut) Werkzeuge nach außen gerichtet (ecc) auf das zu bearbeitende Material.. Autonom/Exzentrisch.
+
+rundkanten: Material/Woodworking 3/Goal 2/aut/ecc
+Begründung: Im Kontext der Holzbearbeitung bezeichnet rundkanten das Abrunden scharfer Kanten an einem Holzstück durch Bewegung/Bearbeitung (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur führt dies selbstbestimmt (aut) und nach außen gerichtet (ecc) aus.. Autonom/Exzentrisch.
+
+rundschleifen: Material/Manufacturing 3/Goal 2/aut/ecc
+Begründung: Rundschleifen bedeutet, ein Werkstück durch rotierende Bewegung (3) eines Schleifkörpers zu bearbeiten, um einen gewünschten Zustand der Rundheit zu erreichen (Goal 2). Der Akteur bewegt/steuert dabei aktiv die Schleifmaschine, daher autonome und in die Umwelt gerichtete Ausrichtung (aut/ecc).. Autonom/Exzentrisch.
+
+rundschleifen: Material/Metalworking 3/Goal 2/Goal 3/aut/ecc
+Begründung: In der Metallbearbeitung bedeutet Rundschleifen, durch gezielte Bewegung eines Schleifkörpers (3) einen gewünschten Rundheitszustand (Goal 2) herzustellen, wobei die Oberfläche eine bestimmte Wirkung/Qualität (Goal 3) erhalten soll.. Autonom/Exzentrisch.
+
+runterziehen: Material/Physical/Position 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) etwas nach unten, um einen gewünschten Zustand (Goal 2) zu erreichen, beispielsweise bei einem Rollo oder Vorhang. Die Ausrichtung ist autonom (der Akteur bestimmt selbst) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+runterziehen: Interpersonal/Psychological 3/4/1/5/Goal -2//Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne: Der Akteur bewegt sich (3) auf jemanden zu, um eine Leistung zu erbringen (4), die in der Übermittlung (1) von negativen Informationen (5) besteht, wodurch der Antagonist in einen unerwünschten Zustand versetzt wird (Goal -2). Dies dient dem Ziel des Akteurs, eine Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
+
+runterziehen: Material/Clothing 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) ein Kleidungsstück nach unten, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch.. Autonom/Exzentrisch.
+
+rutschen: Material/Physical/Movement 3/Goal 3/het/ecc
+Begründung: Der Akteur bewegt sich (3) auf einer glatten Oberfläche, wobei er eine Destination erreicht (Goal 3). Die Bewegung erfolgt durch Gleiten auf einer Fläche, wobei der Akteur sich den physikalischen Gegebenheiten anpassen muss (het) und die Bewegung nach außen gerichtet ist (ecc).. Heteronom/Exzentrisch.
+
+rutschen: Material/Accident 3/Goal -3/het/ecc
+Begründung: Unbeabsichtigtes Rutschen im Sinne eines Ausrutschens, bei dem der Akteur eine ungewollte Bewegung (3) macht, die nicht zum gewünschten Ziel führt (Goal -3). Der Akteur hat keine volle Kontrolle über die Bewegung (het/ecc).. Heteronom/Exzentrisch.
+
+rutschen: Material/Position 3/Goal 2/het/ecc
+Begründung: Auf einem Sitz nach vorne oder zur Seite rutschen, um eine andere Position einzunehmen. Der Akteur bewegt sich (3), um einen gewünschten Zustand (Position) zu erreichen (Goal 2). Die Bewegung passt sich an die Gegebenheiten an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+rächen: Material/Fight/Aggression 3/Goal 2//Goal -3/aut/ecc
+Begründung: Bei Rache bewegt/strebt der Akteur (3) einen gewünschten Zustand für sich an (Goal 2), indem er absichtlich eine negative Wirkung für den Antagonisten herbeiführt (//Goal -3). Es geht darum, dem Antagonisten Schaden zuzufügen, als Vergeltung für eine vorherige Handlung. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur die Initiative ergreift und aktiv nach außen wirkt.. Autonom/Exzentrisch.
+
+rächen: Material/Fight/Dispute 2/3/Goal 2//Goal -3/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext kann Rache auch die Komponente des Bestimmens/Kontrollierens (2) beinhalten, bevor die aggressive Handlung (3) erfolgt. Der Akteur plant bewusst die Vergeltung und führt sie kontrolliert durch, um seinen gewünschten Zustand der Genugtuung zu erreichen (Goal 2), während er dem Antagonisten einen negativen Zustand zufügt (//Goal -3).. Autonom/Exzentrisch.
+
+rächen: Interpersonal/Psychological/Fight 3/Goal 2//Goal -3/aut/ecc
+Begründung: Im psychologischen Sinne strebt der Akteur beim Rächen (3) nach emotionaler Genugtuung oder Gerechtigkeit (Goal 2), indem er dem Antagonisten bewusst einen negativen emotionalen Zustand oder sozialen Schaden zufügt (//Goal -3). Die Handlung erfolgt aus eigenem Antrieb (aut) und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+rändeln: Material/Metalworking 3/Goal 2/aut/ecc
+Begründung: Rändeln bezeichnet das Anbringen eines Musters auf der Oberfläche eines Werkstücks, typischerweise aus Metall, durch Bewegen (3) eines Rändeleisens oder einer Rändelwalze, um einen gewünschten Zustand (Goal 2) herzustellen. Der Akteur bewegt dabei autonom (aut) das Werkzeug und wirkt nach außen (ecc) auf das Werkstück ein.. Autonom/Exzentrisch.
+
+rändeln: Material/Manufacturing 3/Goal 2/aut/ecc
+Begründung: Als allgemeinerer Fertigungsprozess bedeutet rändeln das Erzeugen eines speziellen Oberflächenprofils an einem Bauteil durch Bewegen (3) eines Werkzeugs, um eine bestimmte Griffigkeit oder Funktionalität (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+ränkeschmieden: Material/Fight/Strategy 3/5/2/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Ränkeschmieden bedeutet, listige Pläne oder Intrigen zu entwickeln, um strategische Vorteile zu erlangen. Der Akteur bewegt (3) und untersucht Informationen (5), um gezielt (2) eine Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand für sich zu erreichen (Goal 2), während gleichzeitig die Pläne oder die Position des Antagonisten untergraben werden (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf andere einwirkt.. Autonom/Exzentrisch.
+
+ränkeschmieden: Interpersonal/Deception 2/3/5/Goal 2//Goal -2/aut/ecc
+Begründung: In zwischenmenschlichen Beziehungen bedeutet Ränkeschmieden, dass der Akteur bestimmt (2) und durch gezieltes Vorgehen (3) und manipulative Informationsverwendung (5) seine eigene Position stärkt (Goal 2), während er gleichzeitig die Position des Antagonisten schwächt (//Goal -2). Der Fokus liegt hier mehr auf dem interpersonellen Machtgefüge als auf der strategischen Komponente.. Autonom/Exzentrisch.
+
+räsonieren: Material/Argument 3/5/2/Goal 5/aut/ecc
+Begründung: Räsonieren bedeutet, Überlegungen anstellen und argumentieren, oft in kritischer oder widerlegender Weise. Der Akteur bewegt/strebt nach (3) Informationen (5), über die er verfügen will (2), um informiert zu sein (Goal 5). Es ist ein autonomer, nach außen gerichteter Prozess des kritischen Denkens und Argumentierens.. Autonom/Exzentrisch.
+
+räsonieren: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In der Bedeutung von 'meckern' oder 'widersprechen' bewegt sich der Akteur (3) mit einer Leistung (4) durch Geben (1) von Informationen (5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2), um einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+rätseln: Material/Problem-Solving 3/5/2/Goal 5/het/ecc
+Begründung: Rätseln bedeutet, durch Bewegung/Anstreben (3) im Informationsbereich (5) und Verfügen über Informationen (2), um informiert zu sein (Goal 5). Der Akteur sucht nach Lösungen für ein Rätsel oder Problem, indem er Informationen analysiert, verknüpft und zu verstehen versucht. Die Aktivität ist heteronom und nach außen gerichtet (het/ecc), da sie von externen Informationen abhängig ist.. Heteronom/Exzentrisch.
+
+rätseln: Material/Cognitive 3/5/Goal 5/het/ecc
+Begründung: Im kognitiven Kontext bedeutet rätseln das Nachdenken über etwas Unklares, wobei man aktiv nach Informationen (5) sucht und gedankliche Bewegungen ausführt (3), um zu einer Erkenntnis zu gelangen (Goal 5). Die verfügende Komponente (2) tritt hier weniger in den Vordergrund als das suchende Element.. Heteronom/Exzentrisch.
+
+räuchern: Material/Food/Cooking 2/3/1/Goal 2/Goal 1/aut/ecc
+Begründung: Beim Räuchern bestimmt der Akteur (2) die Bewegung/den Prozess (3) des Bekommens von Rauch (1), um einen gewünschten Zustand (Goal 2) des Lebensmittels (insbesondere Konservierung, Aromatisierung) zu erreichen und letztlich für Verzehr geeignete Nahrung zu haben (Goal 1). Der Prozess des Räucherns ist eine autonome, nach außen gerichtete Aktivität (aut/ecc).. Autonom/Exzentrisch.
+
+räuchern: Material/Religious 2/3/4/1/Goal 5//Goal 2/aut/ecc
+Begründung: Im religiösen Kontext bedeutet Räuchern das bestimmende (2) Bewegen (3) einer Leistung für einen höheren Antagonisten (4) durch das Geben (1) von Weihrauch oder anderen Substanzen, um spirituelle Informationen/Signale zu übermitteln (Goal 5), mit dem eigenen Ziel, einen gewünschten Zustand (wie Reinigung, Segnung) zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+räumen: Material/Tidiness 2/3/Goal 2/aut/ecc
+Begründung: Räumen bedeutet, dass der Akteur bestimmt/verfügt (2) und Objekte bewegt/anstrebt (3), um einen gewünschten Zustand der Ordnung herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt Dinge in seiner Umgebung umordnet.. Autonom/Exzentrisch.
+
+räumen: Material/Cleaning 3/Goal 2/aut/ecc
+Begründung: Im Sinne von 'einen Weg frei räumen' oder 'Schnee räumen' bewegt der Akteur (3) Hindernisse/Material, um einen gewünschten Zustand (Goal 2) herzustellen, nämlich einen freien, passierbaren Weg.. Autonom/Exzentrisch.
+
+räumen: Material/House 2/3/1/Goal 2/aut/ecc
+Begründung: Als 'ausräumen' oder 'abräumen' bedeutet es, dass der Akteur bestimmt (2), Gegenstände bewegt (3) und sie entfernt/bekommt (1), um einen gewünschten Zustand (Goal 2) wie ein leeres Zimmer oder einen leeren Tisch herzustellen.. Autonom/Exzentrisch.
+
+röcheln: Material/Physical 4/1/Goal 4/het/ecc
+Begründung: Röcheln ist eine schwere, rasselnd-pfeifende Atmung, bei der der Akteur mit Mühe (4) Luft (1) bekommen will, um den lebenswichtigen Prozess des Atmens aufrechtzuerhalten (Goal 4). Es handelt sich um eine fremdbestimmte (het) nach außen gerichtete (ecc) Aktivität, da der Körper unter erschwerten Bedingungen versucht, Sauerstoff aufzunehmen.. Heteronom/Exzentrisch.
+
+röcheln: Material/Medical/Process 4/1/Goal 4/het/ecc
+Begründung: Im medizinischen Kontext bezeichnet röcheln einen pathologischen Atemvorgang, bei dem durch Flüssigkeit oder Verengungen in den Atemwegen erschwerte Atemgeräusche entstehen. Der Körper leistet eine Anstrengung (4), um Luft zu bekommen (1), mit dem Ziel der lebenswichtigen Atmung (Goal 4).. Heteronom/Exzentrisch.
+
+röcheln: Material/Physical/Organ -4/Goal -4/het/ecc
+Begründung: Als Symptom einer Erkrankung bedeutet röcheln eine eingeschränkte Atmungsfähigkeit, bei der die Atemleistung (4) nicht normal erbracht werden kann, was zu einer unzureichenden Versorgung mit Sauerstoff führt (Goal -4). Die Ausrichtung ist heterogen (het) und nach außen gerichtet (ecc), da der Körper unter externen Einflüssen leidet.. Heteronom/Exzentrisch.
+
+röntgen: Material/Medical/Analysis 2/3/5/1/Goal 5/het/ecc
+Begründung: Röntgen ist eine medizinische Untersuchungsmethode, bei der der Akteur (medizinisches Personal) bestimmt (2), eine Bewegung/Anstreben (3) von Röntgenstrahlen durch den Körper vornimmt, um Informationen (5) über innere Strukturen zu erhalten (1), mit dem Ziel, Informiertheit über den Gesundheitszustand zu erlangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die gegebenen körperlichen Strukturen anpassen muss und nach außen auf den Körper einwirkt.. Heteronom/Exzentrisch.
+
+röntgen: Material/Radiation 2/3/5/Goal 5/aut/ecc
+Begründung: Als physikalischer Prozess bedeutet röntgen das Verfügen (2) über und Bewegen (3) von Röntgenstrahlen, um Informationen (5) über die innere Struktur von Objekten zu gewinnen (Goal 5). Hier steht die technische Durchführung im Vordergrund, nicht der medizinische Kontext.. Autonom/Exzentrisch.
+
+rösten: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
+Begründung: Beim Rösten bestimmt/kontrolliert (2) der Akteur die Bewegung/Transformation (3) von Nahrungsmitteln, um einen gewünschten Zustand (Goal 2) zu erreichen und letztendlich das Bedürfnis nach Nahrung zu befriedigen (Goal 1). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf externe Objekte (die Lebensmittel) einwirkt.. Autonom/Exzentrisch.
+
+rösten: Material/Metallurgy 2/3/Goal 2/aut/ecc
+Begründung: In der Metallurgie bedeutet Rösten das Erhitzen von Erzen zur Oxidation. Der Akteur bestimmt/kontrolliert (2) den Transformationsprozess (3), um einen gewünschten Zustand des Materials (Goal 2) zu erreichen. Bei diesem technischen Prozess steht nicht die Nahrungsaufnahme im Vordergrund, daher entfällt Goal 1.. Autonom/Exzentrisch.
+
+rösten: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet jemanden 'rösten', ihn scharf zu kritisieren. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er negative Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+rücken: Material/Positioning 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Bewegung (3), um einen gewünschten Zustand zu erreichen (Goal 2). Beim Rücken wird ein Objekt durch kontrollierten Bewegungsimpuls in eine neue Position gebracht, wodurch der Akteur einen gewünschten Zustand (die neue Position) realisiert.. Autonom/Exzentrisch.
+
+rücken: Material/Furniture 3/Goal 2/aut/ecc
+Begründung: In der Bedeutung 'Möbel verschieben' bewegt (3) der Akteur ein Objekt, um einen gewünschten Zustand zu erreichen (Goal 2). Hierbei steht die körperliche Bewegungskomponente im Vordergrund.. Autonom/Exzentrisch.
+
+rücken: Material/Military 3/Goal 3/aut/ecc
+Begründung: In der militärischen Bedeutung bewegt (3) sich eine Truppe auf ein bestimmtes Ziel zu, um eine Destination/Wirkung zu erreichen (Goal 3). Hier steht die Bewegung zu einem strategischen Ziel im Vordergrund.. Autonom/Exzentrisch.
+
+rücken: Interpersonal/Status 2/1/Goal 2/het/ecc
+Begründung: Im sozialen Kontext bedeutet 'in eine Position rücken': bestimmen über (2) und bekommen (1) einen gewünschten Zustand (Goal 2), wie bei einer Beförderung oder dem Aufstieg in der Hierarchie.. Heteronom/Exzentrisch.
+
+rückfragen: Material/Information 3/5/1/Goal 5/het/ecc
+Begründung: Der Akteur bewegt sich (3) auf Informationen zu (5), um Informationen zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). 'Rückfragen' beinhaltet ein aktives Nachfragen für zusätzliche Informationen, wobei der Akteur sich an externe Gegebenheiten anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+rückfragen: Interpersonal/Communication 3/5/1/Goal 5/het/ecc
+Begründung: In zwischenmenschlicher Kommunikation bedeutet 'rückfragen' das Anstreben (3) und Suchen (5) von Kontakt, um eine Rückmeldung zu bekommen (1), mit dem Ziel, einen Kontakt herzustellen bzw. aufrechtzuerhalten (Goal 5). Der Akteur passt sich dabei an den Gesprächspartner an (het/ecc).. Heteronom/Exzentrisch.
+
+rückkoppeln: Material/IT/Process 2/4/5/Goal 5//Goal 2/aut/ecc
+Begründung: Rückkoppeln bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen (5) zurückgibt, damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter folgt als Ziel des Akteurs die Realisierung eines gewünschten Zustands (//Goal 2), nämlich die Optimierung eines Systems durch die Rückkopplung.. Autonom/Exzentrisch.
+
+rückkoppeln: Material/Communication 2/4/5/Goal 5//Goal 2/aut/ecc
+Begründung: Im Kommunikationskontext bedeutet rückkoppeln, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen (5) zurückgibt, damit der Empfänger informiert ist (Goal 5), mit dem Ziel, einen gewünschten Kommunikationszustand für den Akteur zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+rückkoppeln: Material/Electrical 3/1/Goal 2/het/ecc
+Begründung: In der Elektro- und Audiotechnik bedeutet rückkoppeln, dass ein Signal bewegt wird (3) und zurückgeführt/bekommen wird (1), um einen gewünschten (oder ungewünschten) Zustand herzustellen (Goal 2), wie etwa bei der akustischen Rückkopplung. Dies geschieht heterogen (het), da der Prozess von externen Faktoren abhängt.. Heteronom/Exzentrisch.
+
+rückmelden: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Rückmelden bedeutet, dass der Akteur eine Leistung (4) erbringt, indem er etwas (eine Information) gibt (1) mit informierendem Charakter (5), damit der Antagonist informiert ist (Goal 5). Nach Abschluss dieser Leistung erwartet der Akteur Anerkennung/Bezahlung (//Goal 4). Dabei handelt der Akteur autonom und nach außen gerichtet (aut/ecc), weil er selbstbestimmt die Rückmeldung gibt.. Autonom/Exzentrisch.
+
+rückmelden: Material/Reporting 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: In einem formellen oder beruflichen Kontext bedeutet rückmelden, dass der Akteur bestimmt (2), eine Leistung (4) zu erbringen, indem er eine Information gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach dieser Leistung verfolgt der Akteur einen gewünschten Zustand (//Goal 2) und erwartet Anerkennung/Bezahlung (Goal 4).. Autonom/Exzentrisch.
+
+rüffeln: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Rüffeln bedeutet, jemanden zu tadeln oder zurechtzuweisen. Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die den Zustand des Antagonisten verschlechtern sollen (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand (Korrektur des Verhaltens) zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+rüffeln: Interpersonal/Leadership 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einem Führungskontext bedeutet rüffeln, dass eine Autoritätsperson (2) eine Leistung für den Untergebenen erbringt (4), indem sie kritische Informationen gibt (1/5), die den mentalen Zustand des Untergebenen vorübergehend verschlechtern (Goal -2), um letztendlich eine Verhaltensänderung beim Untergebenen zu bewirken (//Goal 2).. Autonom/Exzentrisch.
+
+rügen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), nämlich die Korrektur des Fehlverhaltens.. Autonom/Exzentrisch.
+
+rügen: Material/Leadership 2/4/1/5/Goal -2//Goal 2/Goal 4/aut/ecc
+Begründung: In einem beruflichen Kontext bestimmt der Akteur (2) eine Leistung (4) zu erbringen, indem er kritische Informationen gibt (1/5), die einen unerwünschten Zustand für den Untergebenen bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand herzustellen (//Goal 2) und berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+rühmen: Material/Reputation 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4) durch das Geben (1) von lobenden Informationen (5), damit der Antagonist informiert ist bzw. die Information bekommt (Goal 5), mit dem Ziel für den Akteur, in seiner Rolle Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt die Informationen nach außen gibt.. Autonom/Exzentrisch.
+
+rühmen: Interpersonal/Status 4/1/5/Goal 5/Goal 2//Goal 4/het/ecc
+Begründung: In der zwischenmenschlichen Bedeutung leistet der Akteur (4) durch das Geben (1) von positiven Informationen (5), damit der Antagonist informiert ist (Goal 5) und dadurch einen höheren Status erhält (Goal 2), während der Akteur dafür soziale Anerkennung erhält (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da sich der Akteur an sozialen Normen orientiert.. Heteronom/Exzentrisch.
+
+rühmen: Interpersonal/Respect 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Als Ausdruck von Respekt oder Bewunderung leistet der Akteur (4) durch das Geben (1) von positiven, anerkennenden Informationen (5), damit der Antagonist diese erhält (Goal 5), während der Akteur dadurch soziale Anerkennung für sein respektvolles Verhalten bekommt (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aus eigener Initiative heraus handelt.. Autonom/Exzentrisch.
+
+rühren: Material/Food/Cooking 3/Goal 2/Goal 1/aut/ecc
+Begründung: Das Rühren im Kochkontext bedeutet, eine Bewegung (3) auszuführen, um einen gewünschten Zustand bei Lebensmitteln zu erreichen (Goal 2) mit dem Endziel der Nahrungsaufnahme/Sättigung (Goal 1). Die Aktivität ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt auf die Speise einwirkt.. Autonom/Exzentrisch.
+
+rühren: Material/Fluids/Process 3/Goal 2/aut/ecc
+Begründung: Rühren kann auch das allgemeine Umrühren von Flüssigkeiten oder Substanzen bedeuten, wobei der Akteur durch Bewegung (3) einen gewünschten Zustand (Goal 2) wie Vermischung oder Auflösung erreicht, ohne dass Nahrungsmittel involviert sind.. Autonom/Exzentrisch.
+
+rühren: Interpersonal/Emotional 3/1/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'jemanden rühren', durch eine Handlung oder Äußerung (3) eine emotionale Wirkung bei einem Anderen zu erzielen (Goal 3) und dadurch eine emotionale Reaktion zu bekommen (1).. Autonom/Exzentrisch.
+
+rüsten: Material/Military 2/3/Goal 2/Goal 3/aut/ecc
+Begründung: Beim Rüsten verfügt/bestimmt der Akteur (2) über Waffen, Materialien und Ausrüstung, bewegt und transformiert diese (3), um einen gewünschten Zustand der Kampfbereitschaft zu erreichen (Goal 2) mit dem Ziel, eine militärische Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen (auf potenzielle Konflikte) gerichtet ist.. Autonom/Exzentrisch.
+
+rüsten: Material/Fight/Preparation 2/3/1/Goal 2/aut/ecc
+Begründung: In einem allgemeineren Kontext bedeutet rüsten das Vorbereiten und Zusammenstellen (2/3) von Ausrüstung, die bekommen wird (1), um einen gewünschten Zustand der Bereitschaft (Goal 2) zu erreichen. Dies bezieht sich auf die Vorbereitung für einen Kampf, Sport oder andere Herausforderungen ohne spezifisch militärischen Kontext.. Autonom/Exzentrisch.
+
+rütteln: Material/Physical/Movement 3/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt (3) etwas oder jemanden mit kurzen, schnellen Bewegungen hin und her, um eine Wirkung zu erzielen (Goal 3). Die Kontrolle liegt beim Akteur (aut) und die Bewegung ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+rütteln: Material/Construction 3/Goal 2/aut/ecc
+Begründung: Im Baubereich bedeutet rütteln das Verdichten von Material durch Vibration, wobei der Akteur Bewegungen ausführt (3), um einen gewünschten Zustand der Materialverdichtung zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+rütteln: Interpersonal/Challenge 3/Goal 3//Goal -2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'an etwas rütteln' (z.B. an einer Überzeugung), dass der Akteur eine Bewegung ausführt (3), um eine Wirkung zu erzielen (Goal 3) und gleichzeitig den gefestigten Zustand eines Antagonisten zu destabilisieren (//Goal -2).. Autonom/Exzentrisch.

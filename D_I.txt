@@ -1,0 +1,23 @@
+inkraftsetzen: Material/Law 2/4/5/Goal 2/aut/ecc
+Begründung: Beim Inkraftsetzen bestimmt der Akteur (2) durch Geben (4), von Informationen , um einen gewünschten Zustand, dass ein Gesetz wirksam wird (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+inkraftsetzen: Material/Legislative 2/4/5/Goal 2/aut/ecc
+Begründung: Im legislativen Kontext bestimmt der Akteur (2) durch Geben (4) einer formalen Information (5), um einen gewünschten Zustand, dass ein Gesetz gültig wird (Goal 2), herzustellen. Dies ist typisch für das formelle Inkraftsetzen von Gesetzen oder Verordnungen.. Autonom/Exzentrisch.
+
+innehaben: Material/Possession 2/Goal 2/aut/con
+Begründung: Der Akteur verfügt (2) über etwas und befindet sich im Zustand des Besitzens, wobei er einen gewünschten Zustand erreicht hat (Goal 2). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt über den Besitz im eigenen Bereich verfügt.. Autonom/Konzentrisch.
+
+innehaben: Material/Position 2/Goal 2/aut/con
+Begründung: Eine Position oder ein Amt innehaben bedeutet, dass der Akteur über diese Position verfügt (2) und damit einen gewünschten Zustand erreicht hat (Goal 2). Auch hier ist die Ausrichtung autonom/konzentrisch (aut/con), da er eigenständig über die Position verfügt.. Autonom/Konzentrisch.
+
+inserieren: Material/Advertisement 2/4/1/5/Goal 5//Goal 3/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) die Leistung (4) zu erbringen, indem er Informationen (1/5) gibt, damit der Antagonist (potenzielle Leser/Kunden) informiert ist (Goal 5). Nach dem Wechsel zum Akteur zurück (//), zielt dieser auf eine Wirkung (Goal 3) und letztendlich auf geschäftliche Anerkennung/Bezahlung (Goal 4). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+inserieren: Material/Media 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: Im Kontext von Medienveröffentlichungen bestimmt der Akteur (2) die Leistung (4) zu erbringen, Information (1/5) zur Verfügung zu stellen, damit der Empfänger informiert ist (Goal 5). Der Akteur selbst will einen gewünschten Zustand erreichen (//Goal 2) und geschäftliche Anerkennung/Bezahlung (Goal 4).. Autonom/Exzentrisch.
+
+inspirieren: Interpersonal/Influence 3/4/1/5/Goal 3//Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur bewegt und strebt an (3), eine Leistung zu erbringen (4) indem er etwas gibt (1), nämlich Informationen oder Ideen (5), um beim Antagonisten eine Wirkung zu erzielen (Goal 3). Nach dem Wechsel zurück zum Akteur (//), dient dies dem Akteur, einen gewünschten Zustand zu erreichen (Goal 2) und Anerkennung zu bekommen (Goal 4). Der Akteur bestimmt aktiv den Prozess (aut) und wirkt nach außen auf den Antagonisten (ecc).. Autonom/Exzentrisch.
+
+inspirieren: Material/Creative 3/4/1/5/Goal 5//Goal 3/Goal 4/aut/ecc
+Begründung: Im kreativen Kontext bedeutet inspirieren, dass der Akteur bewegt (3) eine Leistung erbringt (4), indem er Ideen gibt (1/5), die den Antagonisten informieren (Goal 5). Nach dem Wechsel (//), erhält der Akteur die Wirkung seiner Inspiration (Goal 3) und Anerkennung (Goal 4) für seine kreative Leistung.. Autonom/Exzentrisch.
