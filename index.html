@@ -98,14 +98,6 @@
             flex-wrap: wrap;
         }
         
-        .position-info {
-            background-color: #f0f0f0;
-            padding: 4px 8px;
-            border-radius: 4px;
-            margin-left: auto;
-            font-size: 13px;
-        }
-        
         .display-area {
             margin: 12px 0;
             padding: 12px;
@@ -240,12 +232,6 @@
                 flex-direction: column;
                 align-items: stretch;
             }
-            
-            .position-info {
-                margin-left: 0;
-                text-align: center;
-                margin-top: 6px;
-            }
         }
         
         /* Für kleinere Bildschirme, aber dafür sorgen, dass Buttons sichtbar bleiben */
@@ -281,7 +267,7 @@
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
             <button id="searchButton">Suchen</button>
-            <div class="position-info" id="positionInfo">Eintrag 0 von 0</div>
+            <!-- Position-Info entfernt -->
             <div class="search-hint">Bitte geben Sie nur deutsche Verben ein (Wörter die auf -en, -eln oder -ern enden).</div>
         </div>
         
@@ -340,38 +326,9 @@
             let lastSearchTerm = '';          // Letzter Suchbegriff
             let currentFile = null;           // Aktuell geladene Datei
             let cachedFiles = {};             // Cache für bereits geladene Dateien
-            const TOTAL_ENTRIES = 3400;       // Aktualisierte Gesamtzahl der Einträge
             
             // Verfügbare Buchstaben für die Navigation
             const AVAILABLE_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            
-            // Startposition für die absolute Nummerierung nach Buchstaben
-            const letterStartPositions = {
-                'A': 1,
-                'B': 413,
-                'C': 1118,
-                'D': 1145,
-                'E': 1364,
-                'F': 1696,
-                'G': 1876,
-                'H': 2089,
-                'I': 2230,
-                'J': 2263,
-                'K': 2275,
-                'L': 2448,
-                'M': 2609,
-                'N': 2673,
-                'O': 2735,
-                'P': 2770,
-                'Q': 2798,
-                'R': 2805,
-                'S': 2940,
-                'T': 3300,  // Schätzungen angepasst
-                'U': 3320,
-                'V': 3350,
-                'W': 3370,
-                'Z': 3390
-            };
             
             // Liste der Dateien, die tatsächlich existieren
             let availableFiles = {};
@@ -379,7 +336,6 @@
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
             const searchButton = document.getElementById('searchButton');
-            const positionInfo = document.getElementById('positionInfo');
             const errorMessage = document.getElementById('errorMessage');
             const suggestions = document.getElementById('suggestions');
             const loadingIndicator = document.getElementById('loadingIndicator');
@@ -627,7 +583,7 @@
                 console.log(`Gefundene Einträge: ${verbEntries.length}`);
                 console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
                 
-                // Aktualisiere die Positionsanzeige
+                // Aktualisiere die Anzeige
                 if (verbEntries.length > 0) {
                     displayEntry(0);
                 }
@@ -648,25 +604,6 @@
                 // Verb anzeigen
                 currentVerb.textContent = entry.verb;
                 currentVerb.style.color = 'black'; // Schwarz statt Blau
-                
-                // Berechne absolute Position
-                let absolutePos;
-                
-                // Bestimme, ob es sich um das letzte Verb handelt
-                const isLastLetter = getLastAvailableLetter() === currentFile;
-                const isLastIndex = index === verbEntries.length - 1;
-                const isSpecialVerb = entry.verb.toLowerCase().includes('kultivieren');
-                
-                if ((isLastLetter && isLastIndex) || isSpecialVerb) {
-                    // Letztes Verb in der Datenbank oder spezielles Verb "kultivieren"
-                    absolutePos = TOTAL_ENTRIES;
-                } else {
-                    // Normale Berechnung basierend auf der Position
-                    absolutePos = (letterStartPositions[currentFile] || 1) + index;
-                }
-                
-                // Update position info with absolute position
-                positionInfo.textContent = `Eintrag ${absolutePos} von ${TOTAL_ENTRIES}`;
                 
                 // Code anzeigen
                 codeDisplay.textContent = entry.code;
@@ -819,31 +756,7 @@
             
             // Navigation zum letzten Eintrag der letzten Datei
             async function goToLast() {
-                // Spezialfall für das Verb "sich kultivieren"
-                if (AVAILABLE_LETTERS.includes('S')) {
-                    try {
-                        // Lade zuerst die S-Datei und suche nach "sich kultivieren"
-                        const success = await loadAndProcessFile('S');
-                        
-                        if (success) {
-                            const kultivierenIndex = verbEntries.findIndex(
-                                entry => entry.verb.toLowerCase().includes('kultivieren') && 
-                                        entry.verb.toLowerCase().startsWith('sich')
-                            );
-                            
-                            if (kultivierenIndex !== -1) {
-                                displayEntry(kultivierenIndex);
-                                // Setze manuelle Position
-                                positionInfo.textContent = `Eintrag ${TOTAL_ENTRIES} von ${TOTAL_ENTRIES}`;
-                                return;
-                            }
-                        }
-                    } catch (error) {
-                        console.error("Fehler bei der Suche nach 'sich kultivieren':", error);
-                    }
-                }
-                
-                // Fallback: Lade die letzte verfügbare Datei
+                // Lade die letzte verfügbare Datei
                 const lastLetter = getLastAvailableLetter();
                 
                 if (lastLetter) {
