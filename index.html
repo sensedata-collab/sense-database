@@ -120,8 +120,6 @@
             color: black;
         }
         
-        /* Verb-Info-Zeile entfernt */
-        
         .code-display {
             font-family: 'Courier New', monospace;
             background-color: #f0f0f0;
@@ -136,7 +134,7 @@
             border-radius: 4px;
             margin-bottom: 8px;
             font-size: 13px;
-            min-height: 105px; /* Stabiler Erklärungsblock */
+            min-height: 105px; /* 5 Zeilen */
         }
         
         .formula-additions {
@@ -293,7 +291,6 @@
         
         <div class="display-area" id="displayArea">
             <div class="verb-heading" id="currentVerb">Geben Sie ein Verb ein</div>
-            <!-- Verb-Info-Zeile entfernt -->
             <div class="code-display" id="codeDisplay">Der Code wird hier angezeigt.</div>
             <div class="explanation" id="explanationDisplay">Die Begründung wird hier angezeigt.</div>
             
@@ -388,7 +385,6 @@
             const loadingIndicator = document.getElementById('loadingIndicator');
             const displayArea = document.getElementById('displayArea');
             const currentVerb = document.getElementById('currentVerb');
-            // verbInfo-Element entfernt
             const codeDisplay = document.getElementById('codeDisplay');
             const explanationDisplay = document.getElementById('explanationDisplay');
             const alternativesArea = document.getElementById('alternativesArea');
@@ -653,9 +649,6 @@
                 currentVerb.textContent = entry.verb;
                 currentVerb.style.color = 'black'; // Schwarz statt Blau
                 
-                // Zusätzliche Informationen anzeigen (entfernt)
-                // verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
-                
                 // Berechne absolute Position
                 let absolutePos;
                 
@@ -701,8 +694,6 @@
                 updateNavButtons();
             }
             
-            // Rest des Codes bleibt unverändert
-            
             // Ermittle den letzten verfügbaren Buchstaben
             function getLastAvailableLetter() {
                 for (let i = AVAILABLE_LETTERS.length - 1; i >= 0; i--) {
@@ -731,33 +722,33 @@
                     // Zum vorherigen Eintrag in der aktuellen Datei wechseln
                     displayEntry(currentIndex - 1);
                 } else {
-                    // Suche nach der vorherigen verfügbaren Datei
+                    // Prüfe, ob es vorherige Dateien gibt
                     const currentPos = AVAILABLE_LETTERS.indexOf(currentFile);
+                    let foundPrev = false;
                     
-                    if (currentPos > 0) {
-                        // Durchlaufe alle Buchstaben rückwärts
-                        for (let i = currentPos - 1; i >= 0; i--) {
-                            const prevLetter = AVAILABLE_LETTERS[i];
-                            
-                            // Prüfe, ob die Datei verfügbar ist
-                            if (availableFiles[prevLetter]) {
-                                try {
-                                    // Lade die vorherige Datei
-                                    const success = await loadAndProcessFile(prevLetter);
-                                    
-                                    if (success && verbEntries.length > 0) {
-                                        // Zeige den letzten Eintrag dieser Datei
-                                        displayEntry(verbEntries.length - 1);
-                                        break;
-                                    }
-                                } catch (error) {
-                                    console.error(`Fehler beim Laden der Datei ${prevLetter}:`, error);
-                                    // Weiter zur nächsten Datei
+                    // Durchlaufe alle vorherigen Buchstaben (rückwärts)
+                    for (let i = currentPos - 1; i >= 0; i--) {
+                        const prevLetter = AVAILABLE_LETTERS[i];
+                        
+                        // Prüfe, ob die Datei verfügbar ist
+                        if (availableFiles[prevLetter]) {
+                            try {
+                                // Lade die vorherige Datei
+                                const success = await loadAndProcessFile(prevLetter);
+                                
+                                if (success && verbEntries.length > 0) {
+                                    // Springe zum letzten Eintrag dieser Datei
+                                    displayEntry(verbEntries.length - 1);
+                                    foundPrev = true;
+                                    break;
                                 }
+                            } catch (error) {
+                                console.error(`Fehler beim Laden der Datei ${prevLetter}:`, error);
                             }
                         }
-                    } else {
-                        // Wenn wir bereits beim ersten Buchstaben sind, zeige eine Meldung
+                    }
+                    
+                    if (!foundPrev) {
                         showError("Sie befinden sich bereits am Anfang der Datenbank.");
                     }
                 }
@@ -769,39 +760,45 @@
                     // Zum nächsten Eintrag in der aktuellen Datei wechseln
                     displayEntry(currentIndex + 1);
                 } else {
-                    // Suche nach der nächsten verfügbaren Datei
+                    // Prüfe, ob es weitere Dateien gibt
                     const currentPos = AVAILABLE_LETTERS.indexOf(currentFile);
+                    let foundNext = false;
                     
-                    if (currentPos < AVAILABLE_LETTERS.length - 1) {
-                        // Durchlaufe alle folgenden Buchstaben
-                        for (let i = currentPos + 1; i < AVAILABLE_LETTERS.length; i++) {
-                            const nextLetter = AVAILABLE_LETTERS[i];
-                            
-                            // Prüfe, ob die Datei verfügbar ist
-                            if (availableFiles[nextLetter]) {
-                                try {
-                                    // Lade die nächste Datei
-                                    const success = await loadAndProcessFile(nextLetter);
-                                    
-                                    if (success && verbEntries.length > 0) {
-                                        // Zeige den ersten Eintrag dieser Datei
-                                        displayEntry(0);
-                                        break;
-                                    }
-                                } catch (error) {
-                                    console.error(`Fehler beim Laden der Datei ${nextLetter}:`, error);
-                                    // Weiter zur nächsten Datei
+                    // Durchlaufe alle folgenden Buchstaben
+                    for (let i = currentPos + 1; i < AVAILABLE_LETTERS.length; i++) {
+                        const nextLetter = AVAILABLE_LETTERS[i];
+                        
+                        // Prüfe, ob die Datei verfügbar ist
+                        if (availableFiles[nextLetter]) {
+                            try {
+                                // Lade die nächste Datei
+                                const success = await loadAndProcessFile(nextLetter);
+                                
+                                if (success && verbEntries.length > 0) {
+                                    // Springe zum ersten Eintrag dieser Datei
+                                    displayEntry(0);
+                                    foundNext = true;
+                                    break;
                                 }
+                            } catch (error) {
+                                console.error(`Fehler beim Laden der Datei ${nextLetter}:`, error);
                             }
                         }
-                    } else {
-                        // Wenn wir bereits beim letzten Buchstaben sind, zeige eine Meldung
-                        showError("Sie haben das Ende der Datenbank erreicht.");
+                    }
+                    
+                    // Wenn keine weitere Datei gefunden wurde und wir beim letzten Buchstaben sind
+                    if (!foundNext) {
+                        const lastLetter = getLastAvailableLetter();
+                        if (currentFile === lastLetter) {
+                            showError("Sie haben das Ende der Datenbank erreicht.");
+                        } else {
+                            showError("Keine weiteren Verben gefunden.");
+                        }
                     }
                 }
             }
             
-            // Navigation zum ersten Eintrag
+            // Navigation zum ersten Eintrag der ersten Datei
             async function goToFirst() {
                 const firstLetter = getFirstAvailableLetter();
                 
@@ -820,17 +817,29 @@
                 }
             }
             
-            // Navigation zum letzten Eintrag
+            // Navigation zum letzten Eintrag der letzten Datei
             async function goToLast() {
-                // Suche direkt nach "sich kultivieren" falls es das letzte Wort ist
+                // Spezialfall für das Verb "sich kultivieren"
                 if (AVAILABLE_LETTERS.includes('S')) {
-                    searchInput.value = "sich kultivieren";
-                    const found = await searchVerbWithFileLoading("sich kultivieren");
-                    
-                    if (found) {
-                        // Manuell die richtige Position setzen
-                        positionInfo.textContent = `Eintrag ${TOTAL_ENTRIES} von ${TOTAL_ENTRIES}`;
-                        return;
+                    try {
+                        // Lade zuerst die S-Datei und suche nach "sich kultivieren"
+                        const success = await loadAndProcessFile('S');
+                        
+                        if (success) {
+                            const kultivierenIndex = verbEntries.findIndex(
+                                entry => entry.verb.toLowerCase().includes('kultivieren') && 
+                                        entry.verb.toLowerCase().startsWith('sich')
+                            );
+                            
+                            if (kultivierenIndex !== -1) {
+                                displayEntry(kultivierenIndex);
+                                // Setze manuelle Position
+                                positionInfo.textContent = `Eintrag ${TOTAL_ENTRIES} von ${TOTAL_ENTRIES}`;
+                                return;
+                            }
+                        }
+                    } catch (error) {
+                        console.error("Fehler bei der Suche nach 'sich kultivieren':", error);
                     }
                 }
                 
@@ -1010,36 +1019,30 @@
             
             // Navigationsbuttons aktualisieren
             function updateNavButtons() {
-                // Prüfe, ob es vorherige oder nächste Einträge gibt (innerhalb der aktuellen Datei)
-                const hasLocalPrev = currentIndex > 0;
-                const hasLocalNext = currentIndex < verbEntries.length - 1;
+                // Prüfe die aktuelle Position und verfügbare Dateien
+                const isFirstLetter = currentFile === getFirstAvailableLetter();
+                const isLastLetter = currentFile === getLastAvailableLetter();
+                const isFirstEntry = currentIndex === 0;
+                const isLastEntry = currentIndex === verbEntries.length - 1;
                 
-                // Prüfe die Position im Alphabet
-                const currentPosition = AVAILABLE_LETTERS.indexOf(currentFile);
+                // Aktiviere/deaktiviere Buttons entsprechend
+                firstButton.disabled = isFirstLetter && isFirstEntry;
+                prevButton.disabled = isFirstLetter && isFirstEntry;
                 
-                // Prüfe, ob es vorherige verfügbare Buchstaben gibt
-                let hasPrevFile = false;
-                for (let i = currentPosition - 1; i >= 0; i--) {
-                    if (availableFiles[AVAILABLE_LETTERS[i]]) {
-                        hasPrevFile = true;
-                        break;
-                    }
-                }
-                
-                // Prüfe, ob es weitere verfügbare Buchstaben gibt
+                // Für die Vorwärts-Buttons müssen wir prüfen, ob es überhaupt weitere Dateien gibt
                 let hasNextFile = false;
-                for (let i = currentPosition + 1; i < AVAILABLE_LETTERS.length; i++) {
+                const currentPos = AVAILABLE_LETTERS.indexOf(currentFile);
+                
+                for (let i = currentPos + 1; i < AVAILABLE_LETTERS.length; i++) {
                     if (availableFiles[AVAILABLE_LETTERS[i]]) {
                         hasNextFile = true;
                         break;
                     }
                 }
                 
-                // Aktualisiere die Button-Status
-                prevButton.disabled = !hasLocalPrev && !hasPrevFile;
-                firstButton.disabled = currentPosition <= 0 && currentIndex <= 0;
-                nextButton.disabled = !hasLocalNext && !hasNextFile;
-                lastButton.disabled = (currentFile === getLastAvailableLetter() && currentIndex >= verbEntries.length - 1);
+                // Deaktiviere "Weiter" und "Letzte Seite" nur, wenn wir am Ende der letzten Datei sind
+                nextButton.disabled = isLastLetter && isLastEntry && !hasNextFile;
+                lastButton.disabled = isLastLetter && isLastEntry && !hasNextFile;
             }
             
             // Event-Listener registrieren
