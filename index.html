@@ -1,4 +1,3 @@
-```html
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -24,33 +23,33 @@
         
         header {
             text-align: center;
-            margin-bottom: 10px; /* noch weiter verringert */
+            margin-bottom: 10px;
             border-bottom: 1px solid #eee;
-            padding-bottom: 5px; /* noch weiter verringert */
+            padding-bottom: 5px;
         }
         
         header h1 {
-            font-size: 20px; /* noch kleiner */
-            margin-bottom: 3px; /* noch weiter verringert */
+            font-size: 20px;
+            margin-bottom: 3px;
         }
         
         header p {
-            font-size: 13px; /* verkleinert */
-            margin: 3px 0; /* verringert */
+            font-size: 13px;
+            margin: 3px 0;
         }
         
         .search-container {
             display: flex;
             gap: 10px;
-            margin-bottom: 10px; /* verringert */
+            margin-bottom: 10px;
             align-items: center;
             flex-wrap: wrap;
         }
         
         .search-container input {
             flex: 1;
-            padding: 6px; /* verringert */
-            font-size: 14px; /* verkleinert */
+            padding: 6px;
+            font-size: 14px;
             border: 1px solid #ddd;
             border-radius: 4px;
             min-width: 200px;
@@ -63,23 +62,23 @@
         
         .search-hint {
             width: 100%;
-            font-size: 12px; /* verkleinert */
+            font-size: 12px;
             color: #666;
-            margin-top: 3px; /* verringert */
+            margin-top: 3px;
         }
         
         button {
-            background-color: #444; /* dunkelgrau statt blau */
+            background-color: #444;
             color: white;
             border: none;
-            padding: 6px 10px; /* verringert */
+            padding: 6px 10px;
             border-radius: 4px;
             cursor: pointer;
-            font-size: 14px; /* verkleinert */
+            font-size: 14px;
         }
         
         button:hover {
-            background-color: #666; /* helleres grau beim hover */
+            background-color: #666;
         }
         
         button:disabled {
@@ -90,57 +89,54 @@
         .navigation {
             display: flex;
             justify-content: space-between;
-            margin-top: 10px; /* verringert */
+            margin-top: 10px;
         }
         
         .nav-buttons {
             display: flex;
             gap: 10px;
-            flex-wrap: wrap; /* erlaubt Umbruch wenn nötig */
+            flex-wrap: wrap;
         }
         
         .position-info {
-            background-color: #f0f0f0; /* heller, nicht farbig */
+            background-color: #f0f0f0;
             padding: 4px 8px;
             border-radius: 4px;
             margin-left: auto;
-            font-size: 13px; /* verkleinert */
+            font-size: 13px;
         }
         
         .display-area {
-            margin: 12px 0; /* verringert */
-            padding: 12px; /* verringert */
+            margin: 12px 0;
+            padding: 12px;
             background-color: #f9f9f9;
             border-radius: 8px;
-            border-left: 2px solid #ccc; /* grau statt blau */
+            border-left: 2px solid #ccc;
         }
         
         .verb-heading {
-            font-size: 20px; /* verkleinert */
-            margin-bottom: 6px; /* verringert */
+            font-size: 20px;
+            margin-bottom: 6px;
             color: black;
         }
         
-        .verb-info {
-            font-size: 14px; /* verkleinert */
-            color: #666;
-            margin-bottom: 10px; /* verringert */
-        }
+        /* Verb-Info-Zeile entfernt */
         
         .code-display {
             font-family: 'Courier New', monospace;
-            background-color: #f0f0f0; /* heller, nicht farbig */
-            padding: 10px; /* verringert */
+            background-color: #f0f0f0;
+            padding: 10px;
             border-radius: 4px;
-            margin-bottom: 10px; /* verringert */
+            margin-bottom: 10px;
         }
         
         .explanation {
-            padding: 10px; /* verringert */
-            background-color: #f0f0f0; /* heller, nicht farbig */
+            padding: 10px;
+            background-color: #f0f0f0;
             border-radius: 4px;
-            margin-bottom: 8px; /* verringert */
-            font-size: 13px; /* kleinere Schrift */
+            margin-bottom: 8px;
+            font-size: 13px;
+            min-height: 60px; /* Stabiler Erklärungsblock */
         }
         
         .formula-additions {
@@ -179,56 +175,57 @@
             border-left: 2px solid #ccc;
             font-size: 13px;
             line-height: 1.4;
+            min-height: 40px; /* Stabiler Erklärungsblock */
         }
         
         .complexity-info {
             margin-top: 5px;
-            font-size: 13px; /* gleiche Größe wie Zeichenerklärungen */
+            font-size: 13px;
             color: #333;
-            background-color: #f5f5f5; /* gleicher Hintergrund wie Zeichenerklärungen */
+            background-color: #f5f5f5;
             padding: 8px;
             border-radius: 4px;
-            border-left: 2px solid #ccc; /* gleicher Border wie Zeichenerklärungen */
+            border-left: 2px solid #ccc;
             line-height: 1.4;
         }
         
         .alternatives {
-            margin-top: 12px; /* verringert */
+            margin-top: 12px;
             border-top: 1px dashed #ccc;
-            padding-top: 10px; /* verringert */
+            padding-top: 10px;
         }
         
         .alternative-item {
-            margin-bottom: 10px; /* verringert */
-            padding: 6px; /* verringert */
+            margin-bottom: 10px;
+            padding: 6px;
             background-color: #f0f0f0;
             border-radius: 4px;
         }
         
         .suggestion {
-            margin-top: 6px; /* verringert */
-            padding: 6px; /* verringert */
-            background-color: #f0f0f0; /* nicht farbig */
+            margin-top: 6px;
+            padding: 6px;
+            background-color: #f0f0f0;
             border-radius: 4px;
-            font-size: 13px; /* verkleinert */
+            font-size: 13px;
         }
         
         .error-message {
             color: #d9534f;
-            background-color: #f0f0f0; /* nicht farbig */
-            padding: 6px; /* verringert */
+            background-color: #f0f0f0;
+            padding: 6px;
             border-radius: 4px;
-            margin: 6px 0; /* verringert */
-            font-size: 13px; /* verkleinert */
-            border-left: 2px solid #d9534f; /* roter Rand links */
+            margin: 6px 0;
+            font-size: 13px;
+            border-left: 2px solid #d9534f;
         }
         
         .project-info {
-            margin-top: 15px; /* verringert */
-            padding: 10px; /* verringert */
+            margin-top: 15px;
+            padding: 10px;
             background-color: #f0f0f0;
             border-radius: 4px;
-            font-size: 12px; /* verkleinert */
+            font-size: 12px;
             text-align: center;
         }
         
@@ -249,7 +246,7 @@
             .position-info {
                 margin-left: 0;
                 text-align: center;
-                margin-top: 6px; /* verringert */
+                margin-top: 6px;
             }
         }
         
@@ -296,7 +293,7 @@
         
         <div class="display-area" id="displayArea">
             <div class="verb-heading" id="currentVerb">Geben Sie ein Verb ein</div>
-            <div class="verb-info" id="verbInfo">Verwenden Sie das Suchfeld um nach einem Verb zu suchen.</div>
+            <!-- Verb-Info-Zeile entfernt -->
             <div class="code-display" id="codeDisplay">Der Code wird hier angezeigt.</div>
             <div class="explanation" id="explanationDisplay">Die Begründung wird hier angezeigt.</div>
             
@@ -391,7 +388,7 @@
             const loadingIndicator = document.getElementById('loadingIndicator');
             const displayArea = document.getElementById('displayArea');
             const currentVerb = document.getElementById('currentVerb');
-            const verbInfo = document.getElementById('verbInfo');
+            // verbInfo-Element entfernt
             const codeDisplay = document.getElementById('codeDisplay');
             const explanationDisplay = document.getElementById('explanationDisplay');
             const alternativesArea = document.getElementById('alternativesArea');
@@ -656,8 +653,8 @@
                 currentVerb.textContent = entry.verb;
                 currentVerb.style.color = 'black'; // Schwarz statt Blau
                 
-                // Zusätzliche Informationen anzeigen
-                verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
+                // Zusätzliche Informationen anzeigen (entfernt)
+                // verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                 
                 // Berechne absolute Position
                 let absolutePos;
@@ -703,6 +700,8 @@
                 // Aktualisiere die Navigation
                 updateNavButtons();
             }
+            
+            // Rest des Codes bleibt unverändert
             
             // Ermittle den letzten verfügbaren Buchstaben
             function getLastAvailableLetter() {
