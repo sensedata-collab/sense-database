@@ -23,23 +23,33 @@
         
         header {
             text-align: center;
-            margin-bottom: 20px;
+            margin-bottom: 15px; /* verringert */
             border-bottom: 1px solid #eee;
-            padding-bottom: 10px;
+            padding-bottom: 8px; /* verringert */
+        }
+        
+        header h1 {
+            font-size: 22px; /* verkleinert */
+            margin-bottom: 5px; /* verringert */
+        }
+        
+        header p {
+            font-size: 14px; /* verkleinert */
+            margin: 5px 0; /* verringert */
         }
         
         .search-container {
             display: flex;
             gap: 10px;
-            margin-bottom: 20px;
+            margin-bottom: 15px; /* verringert */
             align-items: center;
             flex-wrap: wrap;
         }
         
         .search-container input {
             flex: 1;
-            padding: 10px;
-            font-size: 16px;
+            padding: 8px; /* verringert */
+            font-size: 15px; /* verkleinert */
             border: 2px solid #ddd;
             border-radius: 4px;
             min-width: 200px;
@@ -52,19 +62,19 @@
         
         .search-hint {
             width: 100%;
-            font-size: 14px;
+            font-size: 13px; /* verkleinert */
             color: #666;
-            margin-top: 5px;
+            margin-top: 4px; /* verringert */
         }
         
         button {
             background-color: #007bff;
             color: white;
             border: none;
-            padding: 10px 15px;
+            padding: 8px 12px; /* verringert */
             border-radius: 4px;
             cursor: pointer;
-            font-size: 16px;
+            font-size: 15px; /* verkleinert */
         }
         
         button:hover {
@@ -79,7 +89,7 @@
         .navigation {
             display: flex;
             justify-content: space-between;
-            margin-top: 10px; /* verringert von 20px */
+            margin-top: 10px; /* verringert */
         }
         
         .nav-buttons {
@@ -92,93 +102,59 @@
             padding: 5px 10px;
             border-radius: 4px;
             margin-left: auto;
+            font-size: 14px; /* verkleinert */
         }
         
         .display-area {
-            margin: 20px 0;
-            padding: 20px;
+            margin: 15px 0; /* verringert */
+            padding: 15px; /* verringert */
             background-color: #f9f9f9;
             border-radius: 8px;
             border-left: 4px solid #007bff;
         }
         
         .verb-heading {
-            font-size: 24px;
-            margin-bottom: 10px;
+            font-size: 22px; /* verkleinert */
+            margin-bottom: 8px; /* verringert */
             color: black; /* Schwarz statt Blau */
         }
         
         .verb-info {
-            font-size: 16px;
+            font-size: 15px; /* verkleinert */
             color: #666;
-            margin-bottom: 15px;
+            margin-bottom: 12px; /* verringert */
         }
         
         .code-display {
             font-family: 'Courier New', monospace;
             background-color: #eef;
-            padding: 15px;
+            padding: 12px; /* verringert */
             border-radius: 4px;
-            margin-bottom: 15px;
+            margin-bottom: 12px; /* verringert */
         }
         
         .explanation {
-            padding: 15px;
+            padding: 12px; /* verringert */
             background-color: #efe;
             border-radius: 4px;
-            margin-bottom: 10px; /* verringert von 20px */
-        }
-        
-        .alternatives {
-            margin-top: 20px;
-            border-top: 1px dashed #ccc;
-            padding-top: 15px;
-        }
-        
-        .alternative-item {
-            margin-bottom: 15px;
-            padding: 10px;
-            background-color: #f0f0f0;
-            border-radius: 4px;
-        }
-        
-        .suggestion {
-            margin-top: 10px;
-            padding: 10px;
-            background-color: #fff3cd;
-            border-radius: 4px;
-        }
-        
-        .error-message {
-            color: #d9534f;
-            background-color: #f8d7da;
-            padding: 10px;
-            border-radius: 4px;
-            margin: 10px 0;
-        }
-        
-        .project-info {
-            margin-top: 30px;
-            padding: 15px;
-            background-color: #e9ecef;
-            border-radius: 4px;
-            font-size: 14px;
-            text-align: center;
+            margin-bottom: 8px; /* verringert */
         }
         
         .formula-additions {
             display: flex;
             gap: 10px;
             flex-wrap: wrap;
-            margin-bottom: 10px;
+            margin-top: 8px;
+            margin-bottom: 8px;
         }
         
         .formula-item {
             cursor: pointer;
             background-color: #f0f0f0;
-            padding: 5px 8px;
+            padding: 4px 7px;
             border-radius: 3px;
             border: 1px solid #ddd;
+            font-size: 14px;
         }
         
         .formula-explanation {
@@ -187,10 +163,50 @@
             background-color: #f9f9f9;
             border-radius: 4px;
             border-left: 3px solid #ccc;
+            font-size: 14px;
+        }
+        
+        .alternatives {
+            margin-top: 15px; /* verringert */
+            border-top: 1px dashed #ccc;
+            padding-top: 12px; /* verringert */
+        }
+        
+        .alternative-item {
+            margin-bottom: 12px; /* verringert */
+            padding: 8px; /* verringert */
+            background-color: #f0f0f0;
+            border-radius: 4px;
+        }
+        
+        .suggestion {
+            margin-top: 8px; /* verringert */
+            padding: 8px; /* verringert */
+            background-color: #fff3cd;
+            border-radius: 4px;
+            font-size: 14px; /* verkleinert */
+        }
+        
+        .error-message {
+            color: #d9534f;
+            background-color: #f8d7da;
+            padding: 8px; /* verringert */
+            border-radius: 4px;
+            margin: 8px 0; /* verringert */
+            font-size: 14px; /* verkleinert */
+        }
+        
+        .project-info {
+            margin-top: 20px; /* verringert */
+            padding: 12px; /* verringert */
+            background-color: #e9ecef;
+            border-radius: 4px;
+            font-size: 13px; /* verkleinert */
+            text-align: center;
         }
         
         .complexity-info {
-            margin-top: 15px;
+            margin-top: 12px;
             font-size: 14px;
             color: #666;
             background-color: #f8f9fa;
@@ -208,7 +224,7 @@
             .position-info {
                 margin-left: 0;
                 text-align: center;
-                margin-top: 10px;
+                margin-top: 8px; /* verringert */
             }
         }
     </style>
@@ -230,23 +246,25 @@
         <div id="errorMessage" class="error-message" style="display: none;"></div>
         <div id="suggestions" class="suggestion" style="display: none;"></div>
         
-        <div class="formula-additions">
-            <span class="formula-item">//</span>
-            <span class="formula-item">-</span>
-            <span class="formula-item">+</span>
-            <span class="formula-item">?</span>
-            <span class="formula-item">!</span>
-            <span class="formula-item">⟲</span>
-        </div>
-        <div class="formula-explanation" id="formulaExplanation">
-            Mit "-" gekennzeichnet sind Goals die nicht zum Ziel führen oder führen sollen.
-        </div>
-        
         <div class="display-area" id="displayArea">
             <div class="verb-heading" id="currentVerb">Lädt...</div>
             <div class="verb-info" id="verbInfo">Lädt...</div>
             <div class="code-display" id="codeDisplay">Lädt Kodierung...</div>
             <div class="explanation" id="explanationDisplay">Lädt Begründung...</div>
+            
+            <!-- Formelzusätze erscheinen nun unter der Erklärung -->
+            <div class="formula-additions">
+                <span class="formula-item">//</span>
+                <span class="formula-item">-</span>
+                <span class="formula-item">+</span>
+                <span class="formula-item">?</span>
+                <span class="formula-item">!</span>
+                <span class="formula-item">⟲</span>
+            </div>
+            <div class="formula-explanation" id="formulaExplanation">
+                Mit "-" gekennzeichnet sind Goals die nicht zum Ziel führen oder führen sollen.
+            </div>
+            
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
         </div>
         
