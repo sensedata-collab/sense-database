@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sense - Verbanwendung</title>
     <style>
-        /* CSS bleibt unverändert */
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -24,33 +23,33 @@
         
         header {
             text-align: center;
-            margin-bottom: 10px;
+            margin-bottom: 10px; /* noch weiter verringert */
             border-bottom: 1px solid #eee;
-            padding-bottom: 5px;
+            padding-bottom: 5px; /* noch weiter verringert */
         }
         
         header h1 {
-            font-size: 20px;
-            margin-bottom: 3px;
+            font-size: 20px; /* noch kleiner */
+            margin-bottom: 3px; /* noch weiter verringert */
         }
         
         header p {
-            font-size: 13px;
-            margin: 3px 0;
+            font-size: 13px; /* verkleinert */
+            margin: 3px 0; /* verringert */
         }
         
         .search-container {
             display: flex;
             gap: 10px;
-            margin-bottom: 10px;
+            margin-bottom: 10px; /* verringert */
             align-items: center;
             flex-wrap: wrap;
         }
         
         .search-container input {
             flex: 1;
-            padding: 6px;
-            font-size: 14px;
+            padding: 6px; /* verringert */
+            font-size: 14px; /* verkleinert */
             border: 1px solid #ddd;
             border-radius: 4px;
             min-width: 200px;
@@ -63,23 +62,23 @@
         
         .search-hint {
             width: 100%;
-            font-size: 12px;
+            font-size: 12px; /* verkleinert */
             color: #666;
-            margin-top: 3px;
+            margin-top: 3px; /* verringert */
         }
         
         button {
-            background-color: #444;
+            background-color: #444; /* dunkelgrau statt blau */
             color: white;
             border: none;
-            padding: 6px 10px;
+            padding: 6px 10px; /* verringert */
             border-radius: 4px;
             cursor: pointer;
-            font-size: 14px;
+            font-size: 14px; /* verkleinert */
         }
         
         button:hover {
-            background-color: #666;
+            background-color: #666; /* helleres grau beim hover */
         }
         
         button:disabled {
@@ -90,57 +89,57 @@
         .navigation {
             display: flex;
             justify-content: space-between;
-            margin-top: 10px;
+            margin-top: 10px; /* verringert */
         }
         
         .nav-buttons {
             display: flex;
             gap: 10px;
-            flex-wrap: wrap;
+            flex-wrap: wrap; /* erlaubt Umbruch wenn nötig */
         }
         
         .position-info {
-            background-color: #f0f0f0;
+            background-color: #f0f0f0; /* heller, nicht farbig */
             padding: 4px 8px;
             border-radius: 4px;
             margin-left: auto;
-            font-size: 13px;
+            font-size: 13px; /* verkleinert */
         }
         
         .display-area {
-            margin: 12px 0;
-            padding: 12px;
+            margin: 12px 0; /* verringert */
+            padding: 12px; /* verringert */
             background-color: #f9f9f9;
             border-radius: 8px;
-            border-left: 2px solid #ccc;
+            border-left: 2px solid #ccc; /* grau statt blau */
         }
         
         .verb-heading {
-            font-size: 20px;
-            margin-bottom: 6px;
+            font-size: 20px; /* verkleinert */
+            margin-bottom: 6px; /* verringert */
             color: black;
         }
         
         .verb-info {
-            font-size: 14px;
+            font-size: 14px; /* verkleinert */
             color: #666;
-            margin-bottom: 10px;
+            margin-bottom: 10px; /* verringert */
         }
         
         .code-display {
             font-family: 'Courier New', monospace;
-            background-color: #f0f0f0;
-            padding: 10px;
+            background-color: #f0f0f0; /* heller, nicht farbig */
+            padding: 10px; /* verringert */
             border-radius: 4px;
-            margin-bottom: 10px;
+            margin-bottom: 10px; /* verringert */
         }
         
         .explanation {
-            padding: 10px;
-            background-color: #f0f0f0;
+            padding: 10px; /* verringert */
+            background-color: #f0f0f0; /* heller, nicht farbig */
             border-radius: 4px;
-            margin-bottom: 8px;
-            font-size: 13px;
+            margin-bottom: 8px; /* verringert */
+            font-size: 13px; /* kleinere Schrift */
         }
         
         .formula-additions {
@@ -183,52 +182,52 @@
         
         .complexity-info {
             margin-top: 5px;
-            font-size: 13px;
+            font-size: 13px; /* gleiche Größe wie Zeichenerklärungen */
             color: #333;
-            background-color: #f5f5f5;
+            background-color: #f5f5f5; /* gleicher Hintergrund wie Zeichenerklärungen */
             padding: 8px;
             border-radius: 4px;
-            border-left: 2px solid #ccc;
+            border-left: 2px solid #ccc; /* gleicher Border wie Zeichenerklärungen */
             line-height: 1.4;
         }
         
         .alternatives {
-            margin-top: 12px;
+            margin-top: 12px; /* verringert */
             border-top: 1px dashed #ccc;
-            padding-top: 10px;
+            padding-top: 10px; /* verringert */
         }
         
         .alternative-item {
-            margin-bottom: 10px;
-            padding: 6px;
+            margin-bottom: 10px; /* verringert */
+            padding: 6px; /* verringert */
             background-color: #f0f0f0;
             border-radius: 4px;
         }
         
         .suggestion {
-            margin-top: 6px;
-            padding: 6px;
-            background-color: #f0f0f0;
+            margin-top: 6px; /* verringert */
+            padding: 6px; /* verringert */
+            background-color: #f0f0f0; /* nicht farbig */
             border-radius: 4px;
-            font-size: 13px;
+            font-size: 13px; /* verkleinert */
         }
         
         .error-message {
             color: #d9534f;
-            background-color: #f0f0f0;
-            padding: 6px;
+            background-color: #f0f0f0; /* nicht farbig */
+            padding: 6px; /* verringert */
             border-radius: 4px;
-            margin: 6px 0;
-            font-size: 13px;
-            border-left: 2px solid #d9534f;
+            margin: 6px 0; /* verringert */
+            font-size: 13px; /* verkleinert */
+            border-left: 2px solid #d9534f; /* roter Rand links */
         }
         
         .project-info {
-            margin-top: 15px;
-            padding: 10px;
+            margin-top: 15px; /* verringert */
+            padding: 10px; /* verringert */
             background-color: #f0f0f0;
             border-radius: 4px;
-            font-size: 12px;
+            font-size: 12px; /* verkleinert */
             text-align: center;
         }
         
@@ -237,35 +236,6 @@
             padding: 10px;
             font-style: italic;
             color: #666;
-        }
-        
-        /* Alphabet-Navigation */
-        .alphabet-nav {
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 5px;
-            margin: 10px 0;
-        }
-        
-        .alphabet-item {
-            padding: 3px 6px;
-            background-color: #f0f0f0;
-            border: 1px solid #ddd;
-            border-radius: 3px;
-            cursor: pointer;
-            font-size: 14px;
-        }
-        
-        .alphabet-item:hover {
-            background-color: #e0e0e0;
-            border-color: #aaa;
-        }
-        
-        .alphabet-item.active {
-            background-color: #444;
-            color: white;
-            border-color: #333;
         }
         
         /* Responsives Design */
@@ -278,7 +248,7 @@
             .position-info {
                 margin-left: 0;
                 text-align: center;
-                margin-top: 6px;
+                margin-top: 6px; /* verringert */
             }
         }
         
@@ -302,15 +272,6 @@
                 grid-template-columns: 1fr 1fr;
                 gap: 5px;
             }
-            
-            .alphabet-nav {
-                gap: 3px;
-            }
-            
-            .alphabet-item {
-                padding: 2px 4px;
-                font-size: 12px;
-            }
         }
     </style>
 </head>
@@ -320,11 +281,6 @@
             <h1>Sense - Verbanwendung</h1>
             <p>Durchsuchen Sie deutsche Verben und deren SENSE-Kodierungen</p>
         </header>
-        
-        <!-- Alphabet-Navigation -->
-        <div class="alphabet-nav" id="alphabetNav">
-            <!-- Wird dynamisch generiert -->
-        </div>
         
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
@@ -390,14 +346,36 @@
             let currentFile = null;           // Aktuell geladene Datei
             let cachedFiles = {};             // Cache für bereits geladene Dateien
             
-            // Die Buchstaben des Alphabets (mit Umlauten am Ende)
-            const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ".split('');
-            
-            // Verfügbare Dateien nach Buchstaben (wird dynamisch überprüft)
-            const availableFiles = {};
-            
-            // Datei-Statistiken (wird aktualisiert, wenn eine Datei geladen wird)
-            const fileStats = {};
+            // Startposition für die absolute Nummerierung nach Buchstaben
+            const letterStartPositions = {
+                'A': 1,
+                'B': 413,
+                'C': 1118,
+                'D': 1145,
+                'E': 1364,
+                'F': 1696,
+                'G': 1876,
+                'H': 2089,
+                'I': 2230,
+                'J': 2263,
+                'K': 2275,
+                'L': 2448,
+                'M': 2609,
+                'N': 2673,
+                'O': 2735,
+                'P': 2770,
+                'Q': 2798,
+                'R': 2805,
+                'S': 2940,
+                'T': 3720,
+                'U': 3860,
+                'V': 4130,
+                'W': 4430,
+                'Z': 4640,
+                'Ä': 4850,
+                'Ö': 4865,
+                'Ü': 4880
+            };
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -417,7 +395,6 @@
             const nextButton = document.getElementById('nextButton');
             const lastButton = document.getElementById('lastButton');
             const formulaExplanation = document.getElementById('formulaExplanation');
-            const alphabetNav = document.getElementById('alphabetNav');
             
             // Erklärungen für die Zeichen
             const symbolExplanations = {
@@ -429,230 +406,6 @@
                 "CP/": "CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.",
                 "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
             };
-            
-            // Initialisierung
-            initializeApp();
-            
-            // Alphabet-Navigation initialisieren
-            function initializeApp() {
-                // Alphabet-Navigation erstellen
-                createAlphabetNavigation();
-                
-                // Überprüfe verfügbare Dateien
-                checkAvailableFiles();
-            }
-            
-            // Erstelle die Alphabet-Navigation
-            function createAlphabetNavigation() {
-                alphabetNav.innerHTML = '';
-                
-                // Erstelle für jeden Buchstaben einen Button
-                alphabet.forEach(letter => {
-                    const item = document.createElement('span');
-                    item.className = 'alphabet-item';
-                    item.textContent = letter;
-                    item.setAttribute('data-letter', letter);
-                    
-                    // Event-Listener zum Laden der entsprechenden Datei
-                    item.addEventListener('click', function() {
-                        const selectedLetter = this.getAttribute('data-letter');
-                        loadAndProcessFile(selectedLetter);
-                    });
-                    
-                    alphabetNav.appendChild(item);
-                });
-            }
-            
-            // Überprüfe, welche Dateien verfügbar sind
-            async function checkAvailableFiles() {
-                for (const letter of alphabet) {
-                    const fileName = getFileNameForLetter(letter);
-                    
-                    try {
-                        const response = await fetch(fileName, { method: 'HEAD' });
-                        availableFiles[letter] = response.ok;
-                        
-                        // Markiere verfügbare Dateien in der Alphabet-Navigation
-                        const alphaItem = document.querySelector(`.alphabet-item[data-letter="${letter}"]`);
-                        if (alphaItem) {
-                            if (response.ok) {
-                                alphaItem.style.opacity = '1';
-                            } else {
-                                alphaItem.style.opacity = '0.5';
-                            }
-                        }
-                    } catch (error) {
-                        availableFiles[letter] = false;
-                        console.warn(`Datei ${fileName} ist nicht verfügbar.`);
-                    }
-                }
-                
-                // Lade die Datei für "A" als Startdatei
-                if (availableFiles['A']) {
-                    loadAndProcessFile('A');
-                }
-            }
-            
-            // Aktualisiere die Navigationsbuttons basierend auf der aktuellen Position
-            function updateGlobalNavigation() {
-                // Aktualisiere die aktive Buchstabenschaltfläche
-                document.querySelectorAll('.alphabet-item').forEach(item => {
-                    item.classList.remove('active');
-                });
-                
-                if (currentFile) {
-                    const currentAlphaItem = document.querySelector(`.alphabet-item[data-letter="${currentFile}"]`);
-                    if (currentAlphaItem) {
-                        currentAlphaItem.classList.add('active');
-                    }
-                }
-                
-                // Berechne globale Statistiken (falls verfügbar)
-                let totalEntries = 0;
-                let currentEntryNumber = 0;
-                
-                // Zähle die Einträge in allen Dateien
-                Object.keys(fileStats).forEach(letter => {
-                    totalEntries += fileStats[letter].totalEntries || 0;
-                    
-                    // Wenn wir vor dem aktuellen Buchstaben sind, zähle alle Einträge
-                    if (alphabet.indexOf(letter) < alphabet.indexOf(currentFile)) {
-                        currentEntryNumber += fileStats[letter].totalEntries || 0;
-                    }
-                });
-                
-                // Füge die aktuelle Position innerhalb der aktuellen Datei hinzu
-                currentEntryNumber += (currentIndex + 1);
-                
-                // Aktualisiere die Positionsanzeige
-                if (totalEntries > 0) {
-                    positionInfo.textContent = `Eintrag ${currentEntryNumber} von ${totalEntries}`;
-                } else {
-                    // Fallback, wenn keine Statistiken verfügbar sind
-                    positionInfo.textContent = `Eintrag ${currentIndex + 1} von ${verbEntries.length}`;
-                }
-                
-                // Bestimme, ob es vorherige/nächste Seiten in anderen Dateien gibt
-                const currentLetterIndex = alphabet.indexOf(currentFile);
-                
-                // Vorherige Seite: Entweder im aktuellen Buchstaben oder im vorherigen Buchstaben
-                const hasPrevInCurrentFile = currentIndex > 0;
-                let hasPrevInPrevFile = false;
-                
-                // Suche nach dem nächsten verfügbaren vorherigen Buchstaben
-                for (let i = currentLetterIndex - 1; i >= 0; i--) {
-                    const prevLetter = alphabet[i];
-                    if (availableFiles[prevLetter] && fileStats[prevLetter] && fileStats[prevLetter].totalEntries > 0) {
-                        hasPrevInPrevFile = true;
-                        break;
-                    }
-                }
-                
-                // Nächste Seite: Entweder im aktuellen Buchstaben oder im nächsten Buchstaben
-                const hasNextInCurrentFile = currentIndex < verbEntries.length - 1;
-                let hasNextInNextFile = false;
-                
-                // Suche nach dem nächsten verfügbaren Buchstaben
-                for (let i = currentLetterIndex + 1; i < alphabet.length; i++) {
-                    const nextLetter = alphabet[i];
-                    if (availableFiles[nextLetter] && fileStats[nextLetter] && fileStats[nextLetter].totalEntries > 0) {
-                        hasNextInNextFile = true;
-                        break;
-                    }
-                }
-                
-                // Aktiviere/deaktiviere Navigationsbuttons entsprechend
-                firstButton.disabled = !hasPrevInCurrentFile && !hasPrevInPrevFile;
-                prevButton.disabled = !hasPrevInCurrentFile && !hasPrevInPrevFile;
-                nextButton.disabled = !hasNextInCurrentFile && !hasNextInNextFile;
-                lastButton.disabled = !hasNextInCurrentFile && !hasNextInNextFile;
-            }
-            
-            // Zum vorherigen Eintrag gehen (auch über Dateigrenzen hinweg)
-            async function goToPrevious() {
-                if (currentIndex > 0) {
-                    // Zum vorherigen Eintrag in der aktuellen Datei wechseln
-                    displayEntry(currentIndex - 1);
-                } else {
-                    // Suche nach dem vorherigen verfügbaren Buchstaben
-                    const currentLetterIndex = alphabet.indexOf(currentFile);
-                    
-                    for (let i = currentLetterIndex - 1; i >= 0; i--) {
-                        const prevLetter = alphabet[i];
-                        if (availableFiles[prevLetter]) {
-                            // Lade den vorherigen Buchstaben und zeige den letzten Eintrag an
-                            await loadAndProcessFile(prevLetter);
-                            if (verbEntries.length > 0) {
-                                displayEntry(verbEntries.length - 1);
-                            }
-                            break;
-                        }
-                    }
-                }
-                
-                updateGlobalNavigation();
-            }
-            
-            // Zum nächsten Eintrag gehen (auch über Dateigrenzen hinweg)
-            async function goToNext() {
-                if (currentIndex < verbEntries.length - 1) {
-                    // Zum nächsten Eintrag in der aktuellen Datei wechseln
-                    displayEntry(currentIndex + 1);
-                } else {
-                    // Suche nach dem nächsten verfügbaren Buchstaben
-                    const currentLetterIndex = alphabet.indexOf(currentFile);
-                    
-                    for (let i = currentLetterIndex + 1; i < alphabet.length; i++) {
-                        const nextLetter = alphabet[i];
-                        if (availableFiles[nextLetter]) {
-                            // Lade den nächsten Buchstaben und zeige den ersten Eintrag an
-                            await loadAndProcessFile(nextLetter);
-                            if (verbEntries.length > 0) {
-                                displayEntry(0);
-                            }
-                            break;
-                        }
-                    }
-                }
-                
-                updateGlobalNavigation();
-            }
-            
-            // Zum ersten Eintrag im Wörterbuch gehen
-            async function goToFirst() {
-                // Finde den ersten verfügbaren Buchstaben
-                for (let i = 0; i < alphabet.length; i++) {
-                    const letter = alphabet[i];
-                    if (availableFiles[letter]) {
-                        // Lade den ersten Buchstaben und zeige den ersten Eintrag an
-                        await loadAndProcessFile(letter);
-                        if (verbEntries.length > 0) {
-                            displayEntry(0);
-                        }
-                        break;
-                    }
-                }
-                
-                updateGlobalNavigation();
-            }
-            
-            // Zum letzten Eintrag im Wörterbuch gehen
-            async function goToLast() {
-                // Finde den letzten verfügbaren Buchstaben
-                for (let i = alphabet.length - 1; i >= 0; i--) {
-                    const letter = alphabet[i];
-                    if (availableFiles[letter]) {
-                        // Lade den letzten Buchstaben und zeige den letzten Eintrag an
-                        await loadAndProcessFile(letter);
-                        if (verbEntries.length > 0) {
-                            displayEntry(verbEntries.length - 1);
-                        }
-                        break;
-                    }
-                }
-                
-                updateGlobalNavigation();
-            }
             
             // Event-Listeners für Formel-Zusätze
             document.querySelectorAll('.formula-item').forEach(item => {
@@ -674,8 +427,7 @@
             // Hilfsfunktion: Ermittle den Dateinamen basierend auf dem Buchstaben
             function getFileNameForLetter(letter) {
                 if (!letter) return null;
-                letter = letter.toUpperCase();
-                return `D_${letter}.txt`;
+                return `D_${letter.toUpperCase()}.txt`;
             }
             
             // Hilfsfunktion: Lade eine Datei basierend auf dem Anfangsbuchstaben
@@ -684,11 +436,6 @@
                 
                 // Normalisiere den Buchstaben
                 letter = letter.toUpperCase();
-                
-                // Prüfe, ob der Buchstabe im Alphabet enthalten ist
-                if (!alphabet.includes(letter)) {
-                    throw new Error(`Ungültiger Buchstabe: ${letter}`);
-                }
                 
                 // Prüfe den Cache
                 if (cachedFiles[letter]) {
@@ -715,14 +462,10 @@
                     cachedFiles[letter] = text;
                     currentFile = letter;
                     
-                    // Markiere die Datei als verfügbar
-                    availableFiles[letter] = true;
-                    
                     console.log(`Datei "${fileName}" erfolgreich geladen.`);
                     return text;
                 } catch (error) {
                     console.error(`Fehler beim Laden der Datei "${fileName}":`, error);
-                    availableFiles[letter] = false;
                     throw error;
                 } finally {
                     // Verstecke Ladeindikator
@@ -738,9 +481,6 @@
                     
                     // Verarbeite die Daten
                     processVerbFile(text);
-                    
-                    // Aktualisiere die Steuerelemente
-                    updateGlobalNavigation();
                     
                     return true;
                 } catch (error) {
@@ -840,20 +580,12 @@
                 console.log(`Gefundene Einträge: ${verbEntries.length}`);
                 console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
                 
-                // Speichere Statistiken für den aktuellen Buchstaben
-                if (currentFile) {
-                    fileStats[currentFile] = {
-                        uniqueVerbs: uniqueVerbs.length,
-                        totalEntries: verbEntries.length
-                    };
-                }
-                
                 // Aktualisiere die Positionsanzeige
                 if (verbEntries.length > 0) {
                     displayEntry(0);
                 }
                 
-                updateGlobalNavigation();
+                updateNavButtons();
             }
             
             // Zeige einen Eintrag an
@@ -873,6 +605,13 @@
                 // Zusätzliche Informationen anzeigen
                 verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                 
+                // Berechne absolute Position
+                const startPos = letterStartPositions[currentFile] || 1;
+                const absolutePos = startPos + index;
+                
+                // Update position info with absolute position
+                positionInfo.textContent = `Eintrag ${absolutePos} von 8607`;
+                
                 // Code anzeigen
                 codeDisplay.textContent = entry.code;
                 
@@ -887,9 +626,6 @@
                 
                 // Keine Alternativen mehr anzeigen, da jede Bedeutung einzeln dargestellt wird
                 alternativesArea.style.display = 'none';
-                
-                // Aktualisiere die globale Position
-                updateGlobalNavigation();
                 
                 // Fehler und Vorschläge zurücksetzen
                 hideError();
@@ -908,12 +644,6 @@
                 
                 term = term.toLowerCase().trim();
                 const firstLetter = term.charAt(0).toUpperCase();
-                
-                // Prüfe, ob der Buchstabe gültig ist
-                if (!alphabet.includes(firstLetter)) {
-                    showError(`Ungültiger Anfangsbuchstabe "${firstLetter}".`);
-                    return false;
-                }
                 
                 // Prüfe, ob wir die richtige Datei bereits geladen haben
                 if (currentFile !== firstLetter) {
@@ -1053,6 +783,14 @@
                 suggestions.style.display = 'none';
             }
             
+            // Navigationsbuttons aktualisieren
+            function updateNavButtons() {
+                prevButton.disabled = currentIndex <= 0 || verbEntries.length === 0;
+                firstButton.disabled = currentIndex <= 0 || verbEntries.length === 0;
+                nextButton.disabled = currentIndex >= verbEntries.length - 1 || verbEntries.length === 0;
+                lastButton.disabled = currentIndex >= verbEntries.length - 1 || verbEntries.length === 0;
+            }
+            
             // Event-Listener registrieren
             
             // Live-Suche mit Timeout
@@ -1096,19 +834,31 @@
             
             // Navigationstasten
             prevButton.addEventListener('click', function() {
-                goToPrevious();
+                if (currentIndex > 0) {
+                    displayEntry(currentIndex - 1);
+                    updateNavButtons();
+                }
             });
             
             nextButton.addEventListener('click', function() {
-                goToNext();
+                if (currentIndex < verbEntries.length - 1) {
+                    displayEntry(currentIndex + 1);
+                    updateNavButtons();
+                }
             });
             
             firstButton.addEventListener('click', function() {
-                goToFirst();
+                if (verbEntries.length > 0) {
+                    displayEntry(0);
+                    updateNavButtons();
+                }
             });
             
             lastButton.addEventListener('click', function() {
-                goToLast();
+                if (verbEntries.length > 0) {
+                    displayEntry(verbEntries.length - 1);
+                    updateNavButtons();
+                }
             });
             
             // Tastatur-Navigation
@@ -1127,16 +877,28 @@
                 // Sonst allgemeine Navigation
                 switch (e.key) {
                     case 'ArrowLeft':
-                        goToPrevious();
+                        if (currentIndex > 0) {
+                            displayEntry(currentIndex - 1);
+                            updateNavButtons();
+                        }
                         break;
                     case 'ArrowRight':
-                        goToNext();
+                        if (currentIndex < verbEntries.length - 1) {
+                            displayEntry(currentIndex + 1);
+                            updateNavButtons();
+                        }
                         break;
                     case 'Home':
-                        goToFirst();
+                        if (verbEntries.length > 0) {
+                            displayEntry(0);
+                            updateNavButtons();
+                        }
                         break;
                     case 'End':
-                        goToLast();
+                        if (verbEntries.length > 0) {
+                            displayEntry(verbEntries.length - 1);
+                            updateNavButtons();
+                        }
                         break;
                 }
             });
