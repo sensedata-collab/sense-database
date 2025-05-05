@@ -157,6 +157,16 @@
             font-size: 14px;
         }
         
+        .formula-item:hover {
+            background-color: #e0e0e0;
+            border-color: #aaa;
+        }
+        
+        .formula-item.active {
+            background-color: #d0d8e8;
+            border-color: #6c8cbf;
+        }
+        
         .formula-explanation {
             margin-top: 5px;
             padding: 8px;
@@ -257,22 +267,16 @@
             
             <!-- Formelzusätze erscheinen nun unter der Erklärung -->
             <div class="formula-additions">
-                <span class="formula-item">//</span>
-                <span class="formula-item">-</span>
-                <span class="formula-item">ADJ</span>
-                <span class="formula-item">NO/</span>
-                <span class="formula-item">NOT/</span>
-                <span class="formula-item">CP/</span>
-                <span class="formula-item">ANTI/</span>
+                <span class="formula-item active" data-symbol="//">//</span>
+                <span class="formula-item" data-symbol="-">-</span>
+                <span class="formula-item" data-symbol="ADJ">ADJ</span>
+                <span class="formula-item" data-symbol="NO/">NO/</span>
+                <span class="formula-item" data-symbol="NOT/">NOT/</span>
+                <span class="formula-item" data-symbol="CP/">CP/</span>
+                <span class="formula-item" data-symbol="ANTI/">ANTI/</span>
             </div>
             <div class="formula-explanation" id="formulaExplanation">
-                // ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.<br>
-                - kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.<br>
-                ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).<br>
-                NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.<br>
-                NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.<br>
-                CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.<br>
-                ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt.
+                // ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.
             </div>
             
             <div class="complexity-info">
@@ -324,39 +328,31 @@
             const lastButton = document.getElementById('lastButton');
             const formulaExplanation = document.getElementById('formulaExplanation');
             
+            // Erklärungen für die Zeichen
+            const symbolExplanations = {
+                "//": "// ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.",
+                "-": "- kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.",
+                "ADJ": "ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).",
+                "NO/": "NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.",
+                "NOT/": "NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.",
+                "CP/": "CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.",
+                "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
+            };
+            
             // Event-Listeners für Formel-Zusätze
             document.querySelectorAll('.formula-item').forEach(item => {
                 item.addEventListener('click', function() {
-                    const symbol = this.textContent;
-                    let explanation = "";
+                    // Entferne aktive Klasse von allen Items
+                    document.querySelectorAll('.formula-item').forEach(i => {
+                        i.classList.remove('active');
+                    });
                     
-                    switch(symbol) {
-                        case "//":
-                            explanation = "// ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.";
-                            break;
-                        case "-":
-                            explanation = "- kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.";
-                            break;
-                        case "ADJ":
-                            explanation = "ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).";
-                            break;
-                        case "NO/":
-                            explanation = "NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.";
-                            break;
-                        case "NOT/":
-                            explanation = "NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.";
-                            break;
-                        case "CP/":
-                            explanation = "CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.";
-                            break;
-                        case "ANTI/":
-                            explanation = "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt.";
-                            break;
-                        default:
-                            explanation = "Keine Erklärung verfügbar";
-                    }
+                    // Füge aktive Klasse zum angeklickten Item hinzu
+                    this.classList.add('active');
                     
-                    formulaExplanation.innerHTML = explanation;
+                    // Zeige die passende Erklärung an
+                    const symbol = this.getAttribute('data-symbol');
+                    formulaExplanation.textContent = symbolExplanations[symbol] || "Keine Erklärung verfügbar";
                 });
             });
             
