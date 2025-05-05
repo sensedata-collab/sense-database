@@ -478,7 +478,7 @@
                 });
             });
             
-            // Lade die Verb-Datei - WICHTIG: Exakt wie im funktionierenden Code
+            // KRITISCHER TEIL: Der exakte Code aus der funktionierenden Version
             fetch('Coded_Verbs.txt')
                 .then(response => {
                     if (!response.ok) {
@@ -494,53 +494,7 @@
                 .catch(error => {
                     showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
                 });
-                
-            // Kategorie-Verben laden und anzeigen
-            function loadCategoryVerbs(category) {
-                const verbs = categoryVerbs[category];
-                
-                if (!verbs || verbs.length === 0) {
-                    showError(`Keine Verben für diese Kategorie gefunden.`);
-                    return;
-                }
-                
-                // Filter nur Verben, die tatsächlich in unserer Datenbank sind
-                const availableCategoryVerbs = [];
-                
-                // Finde die Indizes der Verben dieser Kategorie
-                verbs.forEach(verb => {
-                    const index = verbEntries.findIndex(entry => 
-                        entry.verb.toLowerCase() === verb.toLowerCase() && entry.meaningNumber === 1
-                    );
-                    
-                    if (index !== -1) {
-                        availableCategoryVerbs.push(index);
-                    }
-                });
-                
-                if (availableCategoryVerbs.length === 0) {
-                    showError(`Keine passenden Verben in der Datenbank für diese Kategorie gefunden.`);
-                    return;
-                }
-                
-                // Speichere die Kategorie-Verben und zeige das erste an
-                currentCategoryVerbs = availableCategoryVerbs;
-                isInCategoryMode = true;
-                
-                // Zeige das erste Verb der Kategorie an
-                displayEntry(availableCategoryVerbs[0]);
-                updateNavButtons();
-                
-                // Hinweis zeigen
-                const activeCategory = document.querySelector('.category-button.active');
-                const categoryName = activeCategory ? activeCategory.textContent : category;
-                verbInfo.textContent = `Kategorie: ${categoryName} | Verb 1 von ${availableCategoryVerbs.length} | ${verbEntries[availableCategoryVerbs[0]].meaningNumber}. Bedeutung von ${verbEntries[availableCategoryVerbs[0]].totalMeanings}`;
-                
-                hideError();
-                hideSuggestions();
-            }
             
-            // Verarbeite die Verbdatei und strukturiere die Daten
             function processVerbFile(text) {
                 console.log("Verarbeite Datei...");
                 
@@ -631,6 +585,51 @@
                 if (verbEntries.length > 0) {
                     console.log("Erster Eintrag:", verbEntries[0]);
                 }
+            }
+            
+            // Kategorie-Verben laden und anzeigen
+            function loadCategoryVerbs(category) {
+                const verbs = categoryVerbs[category];
+                
+                if (!verbs || verbs.length === 0) {
+                    showError(`Keine Verben für diese Kategorie gefunden.`);
+                    return;
+                }
+                
+                // Filter nur Verben, die tatsächlich in unserer Datenbank sind
+                const availableCategoryVerbs = [];
+                
+                // Finde die Indizes der Verben dieser Kategorie
+                verbs.forEach(verb => {
+                    const index = verbEntries.findIndex(entry => 
+                        entry.verb.toLowerCase() === verb.toLowerCase() && entry.meaningNumber === 1
+                    );
+                    
+                    if (index !== -1) {
+                        availableCategoryVerbs.push(index);
+                    }
+                });
+                
+                if (availableCategoryVerbs.length === 0) {
+                    showError(`Keine passenden Verben in der Datenbank für diese Kategorie gefunden.`);
+                    return;
+                }
+                
+                // Speichere die Kategorie-Verben und zeige das erste an
+                currentCategoryVerbs = availableCategoryVerbs;
+                isInCategoryMode = true;
+                
+                // Zeige das erste Verb der Kategorie an
+                displayEntry(availableCategoryVerbs[0]);
+                updateNavButtons();
+                
+                // Hinweis zeigen
+                const activeCategory = document.querySelector('.category-button.active');
+                const categoryName = activeCategory ? activeCategory.textContent : category;
+                verbInfo.textContent = `Kategorie: ${categoryName} | Verb 1 von ${availableCategoryVerbs.length} | ${verbEntries[availableCategoryVerbs[0]].meaningNumber}. Bedeutung von ${verbEntries[availableCategoryVerbs[0]].totalMeanings}`;
+                
+                hideError();
+                hideSuggestions();
             }
             
             // Zeige einen Eintrag an
