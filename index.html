@@ -23,62 +23,62 @@
         
         header {
             text-align: center;
-            margin-bottom: 15px; /* verringert */
+            margin-bottom: 10px; /* noch weiter verringert */
             border-bottom: 1px solid #eee;
-            padding-bottom: 8px; /* verringert */
+            padding-bottom: 5px; /* noch weiter verringert */
         }
         
         header h1 {
-            font-size: 22px; /* verkleinert */
-            margin-bottom: 5px; /* verringert */
+            font-size: 20px; /* noch kleiner */
+            margin-bottom: 3px; /* noch weiter verringert */
         }
         
         header p {
-            font-size: 14px; /* verkleinert */
-            margin: 5px 0; /* verringert */
+            font-size: 13px; /* verkleinert */
+            margin: 3px 0; /* verringert */
         }
         
         .search-container {
             display: flex;
             gap: 10px;
-            margin-bottom: 15px; /* verringert */
+            margin-bottom: 10px; /* verringert */
             align-items: center;
             flex-wrap: wrap;
         }
         
         .search-container input {
             flex: 1;
-            padding: 8px; /* verringert */
-            font-size: 15px; /* verkleinert */
-            border: 2px solid #ddd;
+            padding: 6px; /* verringert */
+            font-size: 14px; /* verkleinert */
+            border: 1px solid #ddd;
             border-radius: 4px;
             min-width: 200px;
         }
         
         .search-container input:focus {
-            border-color: #007bff;
+            border-color: #666;
             outline: none;
         }
         
         .search-hint {
             width: 100%;
-            font-size: 13px; /* verkleinert */
+            font-size: 12px; /* verkleinert */
             color: #666;
-            margin-top: 4px; /* verringert */
+            margin-top: 3px; /* verringert */
         }
         
         button {
-            background-color: #007bff;
+            background-color: #444; /* dunkelgrau statt blau */
             color: white;
             border: none;
-            padding: 8px 12px; /* verringert */
+            padding: 6px 10px; /* verringert */
             border-radius: 4px;
             cursor: pointer;
-            font-size: 15px; /* verkleinert */
+            font-size: 14px; /* verkleinert */
         }
         
         button:hover {
-            background-color: #0056b3;
+            background-color: #666; /* helleres grau beim hover */
         }
         
         button:disabled {
@@ -95,49 +95,51 @@
         .nav-buttons {
             display: flex;
             gap: 10px;
+            flex-wrap: wrap; /* erlaubt Umbruch wenn nötig */
         }
         
         .position-info {
-            background-color: #eef;
-            padding: 5px 10px;
+            background-color: #f0f0f0; /* heller, nicht farbig */
+            padding: 4px 8px;
             border-radius: 4px;
             margin-left: auto;
-            font-size: 14px; /* verkleinert */
+            font-size: 13px; /* verkleinert */
         }
         
         .display-area {
-            margin: 15px 0; /* verringert */
-            padding: 15px; /* verringert */
+            margin: 12px 0; /* verringert */
+            padding: 12px; /* verringert */
             background-color: #f9f9f9;
             border-radius: 8px;
-            border-left: 4px solid #007bff;
+            border-left: 2px solid #ccc; /* grau statt blau */
         }
         
         .verb-heading {
-            font-size: 22px; /* verkleinert */
-            margin-bottom: 8px; /* verringert */
-            color: black; /* Schwarz statt Blau */
+            font-size: 20px; /* verkleinert */
+            margin-bottom: 6px; /* verringert */
+            color: black;
         }
         
         .verb-info {
-            font-size: 15px; /* verkleinert */
+            font-size: 14px; /* verkleinert */
             color: #666;
-            margin-bottom: 12px; /* verringert */
+            margin-bottom: 10px; /* verringert */
         }
         
         .code-display {
             font-family: 'Courier New', monospace;
-            background-color: #eef;
-            padding: 12px; /* verringert */
+            background-color: #f0f0f0; /* heller, nicht farbig */
+            padding: 10px; /* verringert */
             border-radius: 4px;
-            margin-bottom: 12px; /* verringert */
+            margin-bottom: 10px; /* verringert */
         }
         
         .explanation {
-            padding: 12px; /* verringert */
-            background-color: #efe;
+            padding: 10px; /* verringert */
+            background-color: #f0f0f0; /* heller, nicht farbig */
             border-radius: 4px;
             margin-bottom: 8px; /* verringert */
+            font-size: 13px; /* kleinere Schrift */
         }
         
         .formula-additions {
@@ -151,10 +153,10 @@
         .formula-item {
             cursor: pointer;
             background-color: #f0f0f0;
-            padding: 4px 7px;
+            padding: 3px 6px;
             border-radius: 3px;
             border: 1px solid #ddd;
-            font-size: 14px;
+            font-size: 13px;
         }
         
         .formula-item:hover {
@@ -163,67 +165,69 @@
         }
         
         .formula-item.active {
-            background-color: #d0d8e8;
-            border-color: #6c8cbf;
+            background-color: #e0e0e0;
+            border-color: #999;
+            font-weight: bold;
         }
         
         .formula-explanation {
             margin-top: 5px;
             padding: 8px;
-            background-color: #f9f9f9;
+            background-color: #f5f5f5;
             border-radius: 4px;
-            border-left: 3px solid #ccc;
-            font-size: 14px;
-            line-height: 1.5;
+            border-left: 2px solid #ccc;
+            font-size: 13px;
+            line-height: 1.4;
         }
         
         .complexity-info {
             margin-top: 5px;
-            font-size: 14px;
+            font-size: 13px; /* gleiche Größe wie Zeichenerklärungen */
             color: #333;
-            background-color: #ffe;
+            background-color: #f5f5f5; /* gleicher Hintergrund wie Zeichenerklärungen */
             padding: 8px;
             border-radius: 4px;
-            border-left: 3px solid #fc0;
-            font-weight: bold;
+            border-left: 2px solid #ccc; /* gleicher Border wie Zeichenerklärungen */
+            line-height: 1.4;
         }
         
         .alternatives {
-            margin-top: 15px; /* verringert */
+            margin-top: 12px; /* verringert */
             border-top: 1px dashed #ccc;
-            padding-top: 12px; /* verringert */
+            padding-top: 10px; /* verringert */
         }
         
         .alternative-item {
-            margin-bottom: 12px; /* verringert */
-            padding: 8px; /* verringert */
+            margin-bottom: 10px; /* verringert */
+            padding: 6px; /* verringert */
             background-color: #f0f0f0;
             border-radius: 4px;
         }
         
         .suggestion {
-            margin-top: 8px; /* verringert */
-            padding: 8px; /* verringert */
-            background-color: #fff3cd;
+            margin-top: 6px; /* verringert */
+            padding: 6px; /* verringert */
+            background-color: #f0f0f0; /* nicht farbig */
             border-radius: 4px;
-            font-size: 14px; /* verkleinert */
+            font-size: 13px; /* verkleinert */
         }
         
         .error-message {
             color: #d9534f;
-            background-color: #f8d7da;
-            padding: 8px; /* verringert */
+            background-color: #f0f0f0; /* nicht farbig */
+            padding: 6px; /* verringert */
             border-radius: 4px;
-            margin: 8px 0; /* verringert */
-            font-size: 14px; /* verkleinert */
+            margin: 6px 0; /* verringert */
+            font-size: 13px; /* verkleinert */
+            border-left: 2px solid #d9534f; /* roter Rand links */
         }
         
         .project-info {
-            margin-top: 20px; /* verringert */
-            padding: 12px; /* verringert */
-            background-color: #e9ecef;
+            margin-top: 15px; /* verringert */
+            padding: 10px; /* verringert */
+            background-color: #f0f0f0;
             border-radius: 4px;
-            font-size: 13px; /* verkleinert */
+            font-size: 12px; /* verkleinert */
             text-align: center;
         }
         
@@ -237,7 +241,29 @@
             .position-info {
                 margin-left: 0;
                 text-align: center;
-                margin-top: 8px; /* verringert */
+                margin-top: 6px; /* verringert */
+            }
+        }
+        
+        /* Für kleinere Bildschirme, aber dafür sorgen, dass Buttons sichtbar bleiben */
+        @media (max-width: 640px) {
+            .nav-buttons {
+                justify-content: center;
+                width: 100%;
+            }
+            
+            .nav-buttons button {
+                padding: 5px 8px;
+                font-size: 13px;
+            }
+        }
+        
+        /* Bei noch kleineren Bildschirmen 2x2 Button-Layout */
+        @media (max-width: 480px) {
+            .nav-buttons {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 5px;
             }
         }
     </style>
@@ -279,7 +305,7 @@
                 // ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.
             </div>
             
-            <div class="complexity-info">
+            <div class="complexity-info" id="complexityInfo">
                 Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
             </div>
             
