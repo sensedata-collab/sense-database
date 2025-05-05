@@ -79,7 +79,7 @@
         .navigation {
             display: flex;
             justify-content: space-between;
-            margin-top: 20px;
+            margin-top: 10px; /* verringert von 20px */
         }
         
         .nav-buttons {
@@ -126,7 +126,7 @@
             padding: 15px;
             background-color: #efe;
             border-radius: 4px;
-            margin-bottom: 20px;
+            margin-bottom: 10px; /* verringert von 20px */
         }
         
         .alternatives {
@@ -166,6 +166,38 @@
             text-align: center;
         }
         
+        .formula-additions {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 10px;
+        }
+        
+        .formula-item {
+            cursor: pointer;
+            background-color: #f0f0f0;
+            padding: 5px 8px;
+            border-radius: 3px;
+            border: 1px solid #ddd;
+        }
+        
+        .formula-explanation {
+            margin-top: 5px;
+            padding: 8px;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+            border-left: 3px solid #ccc;
+        }
+        
+        .complexity-info {
+            margin-top: 15px;
+            font-size: 14px;
+            color: #666;
+            background-color: #f8f9fa;
+            padding: 8px;
+            border-radius: 4px;
+        }
+        
         /* Responsives Design */
         @media (max-width: 768px) {
             .search-container {
@@ -198,6 +230,18 @@
         <div id="errorMessage" class="error-message" style="display: none;"></div>
         <div id="suggestions" class="suggestion" style="display: none;"></div>
         
+        <div class="formula-additions">
+            <span class="formula-item">//</span>
+            <span class="formula-item">-</span>
+            <span class="formula-item">+</span>
+            <span class="formula-item">?</span>
+            <span class="formula-item">!</span>
+            <span class="formula-item">⟲</span>
+        </div>
+        <div class="formula-explanation" id="formulaExplanation">
+            Mit "-" gekennzeichnet sind Goals die nicht zum Ziel führen oder führen sollen.
+        </div>
+        
         <div class="display-area" id="displayArea">
             <div class="verb-heading" id="currentVerb">Lädt...</div>
             <div class="verb-info" id="verbInfo">Lädt...</div>
@@ -213,6 +257,10 @@
                 <button id="nextButton">Weiter</button>
                 <button id="lastButton">Letzte Seite</button>
             </div>
+        </div>
+        
+        <div class="complexity-info">
+            Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
         </div>
         
         <div class="project-info">
@@ -246,6 +294,40 @@
             const prevButton = document.getElementById('prevButton');
             const nextButton = document.getElementById('nextButton');
             const lastButton = document.getElementById('lastButton');
+            const formulaExplanation = document.getElementById('formulaExplanation');
+            
+            // Event-Listeners für Formel-Zusätze
+            document.querySelectorAll('.formula-item').forEach(item => {
+                item.addEventListener('click', function() {
+                    const symbol = this.textContent;
+                    let explanation = "";
+                    
+                    switch(symbol) {
+                        case "//":
+                            explanation = "Kommentar oder alternative Beschreibung";
+                            break;
+                        case "-":
+                            explanation = "Mit \"-\" gekennzeichnet sind Goals die nicht zum Ziel führen oder führen sollen.";
+                            break;
+                        case "+":
+                            explanation = "Positive Verstärkung oder Hinzufügung einer Eigenschaft";
+                            break;
+                        case "?":
+                            explanation = "Unsichere oder optionale Komponente";
+                            break;
+                        case "!":
+                            explanation = "Wichtige oder zwingende Komponente";
+                            break;
+                        case "⟲":
+                            explanation = "Wiederkehrende oder zyklische Komponente";
+                            break;
+                        default:
+                            explanation = "Keine Erklärung verfügbar";
+                    }
+                    
+                    formulaExplanation.textContent = explanation;
+                });
+            });
             
             // CSS-Anpassungen
             currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
