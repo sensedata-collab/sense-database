@@ -338,13 +338,48 @@
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             // Variablen für die Verarbeitung
-            let verbEntries = [];
-            let uniqueVerbs = []; // Liste der einzigartigen Verben (alphabetisch)
-            let currentIndex = 0;
-            let searchTimeout;
-            let lastSearchTerm = '';
-            let currentFile = null;
-            let cachedFiles = {}; // Cache für bereits geladene Dateien
+            let verbEntries = [];             // Verben in aktueller Datei
+            let uniqueVerbs = [];             // Alphabetische Liste der Verben in aktueller Datei
+            let currentIndex = 0;             // Index des aktuell angezeigten Verbs
+            let searchTimeout;                // Timeout für die Sucheingabe
+            let lastSearchTerm = '';          // Letzter Suchbegriff
+            let currentFile = null;           // Aktuell geladene Datei
+            let cachedFiles = {};             // Cache für bereits geladene Dateien
+            let totalVerbCount = 8607;        // Geschätzte Gesamtzahl der Verben in allen Dateien
+            let currentVerbGlobalIndex = 0;   // Globale Position des aktuellen Verbs (über alle Dateien)
+            
+            // Datei-Informationen
+            const fileInfo = {
+                'A': { count: 0, verbRange: [] },
+                'B': { count: 0, verbRange: [] },
+                'C': { count: 0, verbRange: [] },
+                'D': { count: 0, verbRange: [] },
+                'E': { count: 0, verbRange: [] },
+                'F': { count: 0, verbRange: [] },
+                'G': { count: 0, verbRange: [] },
+                'H': { count: 0, verbRange: [] },
+                'I': { count: 0, verbRange: [] },
+                'J': { count: 0, verbRange: [] },
+                'K': { count: 0, verbRange: [] },
+                'L': { count: 0, verbRange: [] },
+                'M': { count: 0, verbRange: [] },
+                'N': { count: 0, verbRange: [] },
+                'O': { count: 0, verbRange: [] },
+                'P': { count: 0, verbRange: [] },
+                'Q': { count: 0, verbRange: [] },
+                'R': { count: 0, verbRange: [] },
+                'S': { count: 0, verbRange: [] },
+                'T': { count: 0, verbRange: [] },
+                'U': { count: 0, verbRange: [] },
+                'V': { count: 0, verbRange: [] },
+                'W': { count: 0, verbRange: [] },
+                'X': { count: 0, verbRange: [] },
+                'Y': { count: 0, verbRange: [] },
+                'Z': { count: 0, verbRange: [] },
+                'Ä': { count: 0, verbRange: [] },
+                'Ö': { count: 0, verbRange: [] },
+                'Ü': { count: 0, verbRange: [] }
+            };
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -392,6 +427,37 @@
                     formulaExplanation.textContent = symbolExplanations[symbol] || "Keine Erklärung verfügbar";
                 });
             });
+            
+            // Hilfsfunktion: Zeigt die globale Position des aktuellen Verbs an
+            function updateGlobalPosition() {
+                let globalIndex = 0;
+                
+                // Zähle Verben in allen Dateien vor dem aktuellen Buchstaben
+                if (currentFile) {
+                    const letterIndex = Object.keys(fileInfo).indexOf(currentFile);
+                    for (let i = 0; i < letterIndex; i++) {
+                        const letter = Object.keys(fileInfo)[i];
+                        globalIndex += fileInfo[letter].count;
+                    }
+                    
+                    // Füge die Position in der aktuellen Datei hinzu
+                    if (verbEntries.length > 0 && currentIndex >= 0) {
+                        const entry = verbEntries[currentIndex];
+                        const verbIndexInCurrentFile = uniqueVerbs.indexOf(entry.verb);
+                        
+                        // Addiere alle früheren Bedeutungen dieses Verbs
+                        globalIndex += verbIndexInCurrentFile;
+                        
+                        // Addiere die aktuelle Bedeutungsnummer
+                        globalIndex += entry.meaningNumber - 1;
+                    }
+                }
+                
+                currentVerbGlobalIndex = globalIndex + 1; // 1-basierte Indexierung
+                
+                // Aktualisiere die Anzeige
+                positionInfo.textContent = `Verb ${currentVerbGlobalIndex} von ${totalVerbCount}`;
+            }
             
             // Hilfsfunktion: Ermittle den Dateinamen basierend auf dem Buchstaben
             function getFileNameForLetter(letter) {
@@ -469,6 +535,11 @@
                 // Teile den Text in Blöcke auf (Leerzeilen als Trenner)
                 const blocks = text.split(/\n\s*\n/);
                 console.log(`Gefundene Textblöcke: ${blocks.length}`);
+                
+                // Speichere die Anzahl der Verben für die aktuelle Datei
+                if (currentFile) {
+                    fileInfo[currentFile].count = blocks.length;
+                }
                 
                 // Temporäres Array für die Einträge
                 let tempEntries = [];
@@ -551,10 +622,7 @@
                 
                 // Aktualisiere die Positionsanzeige
                 if (verbEntries.length > 0) {
-                    positionInfo.textContent = `Eintrag 1 von ${verbEntries.length}`;
                     displayEntry(0);
-                } else {
-                    positionInfo.textContent = `Eintrag 0 von 0`;
                 }
                 
                 updateNavButtons();
@@ -574,8 +642,11 @@
                 currentVerb.textContent = entry.verb;
                 currentVerb.style.color = 'black'; // Schwarz statt Blau
                 
-                // Zusätzliche Informationen anzeigen
+                // Zusätzliche Informationen anzeigen (lokale Nummerierung in der aktuellen Datei)
                 verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
+                
+                // Aktualisiere die globale Position
+                updateGlobalPosition();
                 
                 // Code anzeigen
                 codeDisplay.textContent = entry.code;
@@ -591,9 +662,6 @@
                 
                 // Keine Alternativen mehr anzeigen, da jede Bedeutung einzeln dargestellt wird
                 alternativesArea.style.display = 'none';
-                
-                // Position aktualisieren
-                positionInfo.textContent = `Eintrag ${index + 1} von ${verbEntries.length}`;
                 
                 // Fehler und Vorschläge zurücksetzen
                 hideError();
