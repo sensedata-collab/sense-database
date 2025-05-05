@@ -1265,5 +1265,45 @@
             });
         });
     </script>
+<!-- Sehr einfache Diagnose-Sektion -->
+    <div style="margin-top:20px; padding:15px; background-color:#f8f9fa; border:1px solid #ddd;">
+        <h3>Einfacher Test</h3>
+        <p>Klicken Sie auf die Buttons, um zu testen:</p>
+        
+        <div style="margin:10px 0;">
+            <button onclick="alert('JavaScript funktioniert!')">JS-Test</button>
+            <button onclick="simpleFileTest()">Dateitest</button>
+        </div>
+        
+        <div id="simpleResult" style="margin-top:10px; padding:10px; background-color:#eee; font-family:monospace;"></div>
+        
+        <script>
+            // Einfachste Version ohne Abhängigkeiten
+            function simpleFileTest() {
+                var result = document.getElementById('simpleResult');
+                result.innerHTML = 'Test läuft...<br>';
+                
+                fetch('./Coded_Verbs.txt')
+                    .then(function(response) {
+                        result.innerHTML += 'Status: ' + response.status + '<br>';
+                        if (!response.ok) {
+                            result.innerHTML += 'Fehler: Datei nicht gefunden<br>';
+                            return;
+                        }
+                        return response.text();
+                    })
+                    .then(function(text) {
+                        if (text) {
+                            result.innerHTML += 'Erfolg! ' + text.length + ' Zeichen<br>';
+                            result.innerHTML += 'Vorschau: ' + text.substring(0, 50).replace(/</g, '&lt;') + '...<br>';
+                        }
+                    })
+                    .catch(function(error) {
+                        result.innerHTML += 'Fehler: ' + error.message + '<br>';
+                    });
+            }
+        </script>
+    </div>
+</body>
 </body>
 </html>
