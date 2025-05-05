@@ -252,24 +252,26 @@
         
         .formula-button {
             padding: 4px 8px;
-            background-color: #f0f0f0;
-            border: 1px solid #ddd;
+            background-color: #444; /* Dunklerer Hintergrund */
+            border: 1px solid #333;
             border-radius: 4px;
             font-size: 12px;
             cursor: pointer;
+            color: white; /* Weiße Schrift für besseren Kontrast */
+            font-weight: bold; /* Fett für bessere Lesbarkeit */
         }
         
         .formula-button:hover {
-            background-color: #e0e0e0;
+            background-color: #333;
         }
         
         .explanation-text {
-            background-color: #e9ecef;
+            background-color: #f5f5f5; /* Hellerer Hintergrund für bessere Lesbarkeit */
             padding: 8px;
             border-radius: 4px;
             margin-top: 6px;
             font-size: 12px;
-            border: 1px solid #ced4da;
+            border: 1px solid #ddd;
         }
         
         /* Responsives Design */
@@ -438,6 +440,15 @@
             formulaButtons.forEach(button => {
                 button.addEventListener('click', function() {
                     const formula = this.getAttribute('data-formula');
+                    
+                    // Aktiven Zustand für alle Buttons zurücksetzen
+                    formulaButtons.forEach(btn => {
+                        btn.style.backgroundColor = '#444';
+                    });
+                    
+                    // Diesen Button hervorheben
+                    this.style.backgroundColor = '#222';
+                    
                     if (formula && explanations[formula]) {
                         explanationText.textContent = explanations[formula];
                         explanationText.style.display = 'block';
@@ -467,11 +478,12 @@
                 });
             });
             
-            // Lade die Verb-Datei
-            fetch('Coded_Verbs.txt')
+            // Lade die Verb-Datei (mit relativer URL)
+            fetch('./Coded_Verbs.txt')
                 .then(response => {
                     if (!response.ok) {
-                        throw new Error('Datei konnte nicht geladen werden');
+                        // Wenn die Datei nicht mit relativer URL gefunden wird, versuche absolute URL
+                        return fetch('/Coded_Verbs.txt');
                     }
                     return response.text();
                 })
@@ -481,6 +493,7 @@
                     updateNavButtons();
                 })
                 .catch(error => {
+                    console.error("Fehler beim Laden der Datei:", error);
                     showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
                 });
                 
@@ -614,7 +627,9 @@
                 updateNavButtons();
                 
                 // Hinweis zeigen
-                verbInfo.textContent = `Kategorie: ${category} | Verb ${1} von ${availableCategoryVerbs.length} | ${verbEntries[availableCategoryVerbs[0]].meaningNumber}. Bedeutung von ${verbEntries[availableCategoryVerbs[0]].totalMeanings}`;
+                const activeCategory = document.querySelector('.category-button.active');
+                const categoryName = activeCategory ? activeCategory.textContent : category;
+                verbInfo.textContent = `Kategorie: ${categoryName} | Verb ${1} von ${availableCategoryVerbs.length} | ${verbEntries[availableCategoryVerbs[0]].meaningNumber}. Bedeutung von ${verbEntries[availableCategoryVerbs[0]].totalMeanings}`;
                 
                 hideError();
                 hideSuggestions();
