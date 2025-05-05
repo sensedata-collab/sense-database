@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sense - Verbanwendung -</title>
+    <title>Sense - Verbanwendung</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -381,10 +381,12 @@
             let currentIndex = 0;
             let searchTimeout;
             let lastSearchTerm = '';
-            let currentCategoryVerbs = []; // Aktuelle Kategorie-Verben
-            let isInCategoryMode = false; // Flag, ob wir uns im Kategoriemodus befinden
             
-            // Kategorie-Datenbank
+            // NEU: Für Kategorien
+            let currentCategoryVerbs = [];
+            let isInCategoryMode = false;
+            
+            // NEU: Kategorie-Datenbank
             const categoryVerbs = {
                 auseinandersetzung: ["abwehren", "angreifen", "aufbegehren", "bekämpfen", "beleidigen", "drohen", "kämpfen", "protestieren", "streiten", "verteidigen", "widersprechen"],
                 behoerden: ["anmelden", "beantragen", "genehmigen", "melden", "registrieren", "verbieten", "verwalten", "zulassen"],
@@ -403,6 +405,17 @@
                 streit: ["anschreien", "beleidigen", "beschimpfen", "fluchen", "schimpfen", "streiten", "zanken"]
             };
             
+            // NEU: Erklärungstexte für Formel-Zusätze
+            const explanations = {
+                slash: "// (Doppelter Schrägstrich) markiert den Wechsel zwischen den Goals des Akteurs und des Antagonisten. Nach "4" folgen Goals für den Antagonisten, nach // folgen wieder Goals für den Akteur.",
+                adj: "ADJ steht für 'Adjektiv' und kennzeichnet die Eigenschaftsform einer Aktivität. Beispiel: 'machbar' = ADJ 3/Goal 2/aut/ecc.",
+                wish: "WISH/ als Prefix zeigt an, dass eine Aktivität vom Akteur gewünscht wird, aber noch nicht ausgeführt wurde.",
+                no: "NO/ als Prefix zeigt an, dass vor der Ausführung einer Aktivität feststeht, dass sie nicht zum Goal führen wird, oder dass ein benötigtes Objekt fehlt.",
+                not: "NOT/ als Prefix zeigt an, dass sich bei einer Aktivität herausstellt, dass das Goal nicht erreicht werden kann oder nicht erreicht werden soll.",
+                cp: "CP/ (Change Position) bedeutet, dass der Code sich auf den Antagonisten bezieht und der Akteur die Folgen der Handlung des Antagonisten erleidet.",
+                anti: "ANTI/ als Prefix bedeutet, dass genau das Gegenteil der nachfolgenden Kodierung gemeint ist."
+            };
+            
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
             const searchButton = document.getElementById('searchButton');
@@ -418,25 +431,16 @@
             const prevButton = document.getElementById('prevButton');
             const nextButton = document.getElementById('nextButton');
             const lastButton = document.getElementById('lastButton');
+            
+            // NEU: Zusätzliche DOM-Elemente für Kategorien und Formeln
             const categoryButtons = document.querySelectorAll('.category-button');
             const formulaButtons = document.querySelectorAll('.formula-button');
             const explanationText = document.getElementById('explanationText');
             
-            // Erklärungstexte für Formel-Zusätze
-            const explanations = {
-                slash: "// (Doppelter Schrägstrich) markiert den Wechsel zwischen den Goals des Akteurs und des Antagonisten. Nach "4" folgen Goals für den Antagonisten, nach // folgen wieder Goals für den Akteur.",
-                adj: "ADJ steht für 'Adjektiv' und kennzeichnet die Eigenschaftsform einer Aktivität. Beispiel: 'machbar' = ADJ 3/Goal 2/aut/ecc.",
-                wish: "WISH/ als Prefix zeigt an, dass eine Aktivität vom Akteur gewünscht wird, aber noch nicht ausgeführt wurde.",
-                no: "NO/ als Prefix zeigt an, dass vor der Ausführung einer Aktivität feststeht, dass sie nicht zum Goal führen wird, oder dass ein benötigtes Objekt fehlt.",
-                not: "NOT/ als Prefix zeigt an, dass sich bei einer Aktivität herausstellt, dass das Goal nicht erreicht werden kann oder nicht erreicht werden soll.",
-                cp: "CP/ (Change Position) bedeutet, dass der Code sich auf den Antagonisten bezieht und der Akteur die Folgen der Handlung des Antagonisten erleidet.",
-                anti: "ANTI/ als Prefix bedeutet, dass genau das Gegenteil der nachfolgenden Kodierung gemeint ist."
-            };
-            
             // CSS-Anpassungen
             currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
             
-            // Event-Listener für Formel-Buttons
+            // NEU: Event-Listener für Formel-Buttons
             formulaButtons.forEach(button => {
                 button.addEventListener('click', function() {
                     const formula = this.getAttribute('data-formula');
@@ -458,7 +462,7 @@
                 });
             });
             
-            // Event-Listener für Kategorie-Buttons
+            // NEU: Event-Listener für Kategorie-Buttons
             categoryButtons.forEach(button => {
                 button.addEventListener('click', function() {
                     const category = this.getAttribute('data-category');
@@ -478,7 +482,7 @@
                 });
             });
             
-            // KRITISCHER TEIL: Der exakte Code aus der funktionierenden Version
+            // WICHTIG: Unverändert aus der funktionierenden Version
             fetch('Coded_Verbs.txt')
                 .then(response => {
                     if (!response.ok) {
@@ -495,6 +499,7 @@
                     showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
                 });
             
+            // WICHTIG: Unverändert aus der funktionierenden Version    
             function processVerbFile(text) {
                 console.log("Verarbeite Datei...");
                 
@@ -587,7 +592,7 @@
                 }
             }
             
-            // Kategorie-Verben laden und anzeigen
+            // NEU: Funktion zum Laden von Kategorien
             function loadCategoryVerbs(category) {
                 const verbs = categoryVerbs[category];
                 
@@ -632,7 +637,7 @@
                 hideSuggestions();
             }
             
-            // Zeige einen Eintrag an
+            // Minimal angepasst für Kategorien
             function displayEntry(index) {
                 if (index < 0 || index >= verbEntries.length) {
                     showError('Ungültiger Index: ' + index);
@@ -648,9 +653,8 @@
                 
                 // Zusätzliche Informationen anzeigen
                 if (isInCategoryMode) {
-                    // Finde die Position des aktuellen Verbs in der Kategorie
+                    // Kategorie-Modus
                     const categoryIndex = currentCategoryVerbs.findIndex(idx => {
-                        // Vergleiche das Verb, nicht den Index
                         return verbEntries[idx].verb === entry.verb;
                     });
                     
@@ -659,10 +663,10 @@
                         const categoryName = activeCategory ? activeCategory.textContent : 'Aktiv';
                         verbInfo.textContent = `Kategorie: ${categoryName} | Verb ${categoryIndex + 1} von ${currentCategoryVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                     } else {
-                        // Falls das Verb nicht in der aktuellen Kategorie ist (sollte nicht vorkommen)
                         verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                     }
                 } else {
+                    // Standard-Modus
                     verbInfo.textContent = `Verb ${entry.verbIndex} von ${uniqueVerbs.length} | ${entry.meaningNumber}. Bedeutung von ${entry.totalMeanings}`;
                 }
                 
@@ -686,7 +690,7 @@
                 hideSuggestions();
             }
             
-            // Suche nach einem Verb
+            // Minimal angepasst für Kategorien
             function searchVerb(term) {
                 if (!term) {
                     hideSuggestions();
@@ -695,10 +699,8 @@
                 
                 term = term.toLowerCase().trim();
                 
-                // Zurück zum normalen Modus
+                // Zurück zum normalen Modus bei Suche
                 isInCategoryMode = false;
-                
-                // Alle Kategorie-Buttons zurücksetzen
                 categoryButtons.forEach(btn => btn.classList.remove('active'));
                 
                 // Exakte Übereinstimmung suchen (erste Bedeutung)
@@ -756,7 +758,7 @@
                 return false;
             }
             
-            // Zeige ähnliche Verben als Vorschläge
+            // Unverändert aus funktionierendem Code
             function showSimilarVerbs(term) {
                 if (!term || term.length < 2) {
                     hideSuggestions();
@@ -787,7 +789,7 @@
                 }
             }
             
-            // Prüfe, ob ein String ein gültiges deutsches Verb ist
+            // Unverändert aus funktionierendem Code
             function isValidGermanVerb(text) {
                 // Vereinfachte Prüfung: ein deutsches Verb endet typischerweise auf -en, -eln, -ern
                 // und enthält keine Zahlen oder Sonderzeichen (außer ä, ö, ü, ß)
@@ -796,33 +798,27 @@
                 return germanVerbPattern.test(text.trim());
             }
             
-            // Fehler anzeigen
+            // Unverändert aus funktionierendem Code
             function showError(message) {
                 errorMessage.textContent = message;
                 errorMessage.style.display = 'block';
             }
             
-            // Fehler ausblenden
+            // Unverändert aus funktionierendem Code
             function hideError() {
                 errorMessage.style.display = 'none';
             }
             
-            // Vorschläge ausblenden
+            // Unverändert aus funktionierendem Code
             function hideSuggestions() {
                 suggestions.style.display = 'none';
             }
             
-            // Navigationsbuttons aktualisieren
+            // Angepasst für Kategorien
             function updateNavButtons() {
                 if (isInCategoryMode) {
-                    // Wir sind im Kategorie-Modus
-                    // Finde das aktuelle Verb in der Kategorie
+                    // Kategorie-Modus: Besondere Logik
                     const currentEntry = verbEntries[currentIndex];
-                    
-                    // Finde alle Einträge des aktuellen Verbs in der Kategorie
-                    const verbIndices = verbEntries
-                        .filter(entry => entry.verb === currentEntry.verb)
-                        .map(entry => verbEntries.indexOf(entry));
                     
                     // Bestimme, ob es vorherige/nachfolgende Bedeutungen gibt
                     const hasPrevMeaning = currentEntry.meaningNumber > 1;
@@ -847,7 +843,7 @@
                     nextButton.disabled = isLastVerb;
                     lastButton.disabled = isLastVerb;
                 } else {
-                    // Normale Navigation im Gesamtmodus
+                    // Standard-Modus: Wie bisher
                     prevButton.disabled = currentIndex <= 0;
                     firstButton.disabled = currentIndex <= 0;
                     nextButton.disabled = currentIndex >= verbEntries.length - 1;
@@ -855,15 +851,15 @@
                 }
             }
             
-            // Gehe zum nächsten Eintrag
+            // Angepasst für Kategorien
             function goToNext() {
                 if (isInCategoryMode) {
-                    // Im Kategoriemodus: zuerst durch alle Bedeutungen, dann zum nächsten Verb
+                    // Im Kategoriemodus
                     const currentEntry = verbEntries[currentIndex];
                     
-                    // Wenn es weitere Bedeutungen dieses Verbs gibt
+                    // Erst durch alle Bedeutungen dieses Verbs, dann zum nächsten Verb
                     if (currentEntry.meaningNumber < currentEntry.totalMeanings) {
-                        // Nächste Bedeutung des aktuellen Verbs
+                        // Zur nächsten Bedeutung
                         for (let i = currentIndex + 1; i < verbEntries.length; i++) {
                             if (verbEntries[i].verb === currentEntry.verb) {
                                 displayEntry(i);
@@ -871,10 +867,9 @@
                             }
                         }
                     } else {
-                        // Zum nächsten Verb der Kategorie wechseln
+                        // Zum nächsten Verb in der Kategorie
                         let currentVerbInCategory = -1;
                         
-                        // Finde die Position des aktuellen Verbs in der Kategorie
                         for (let i = 0; i < currentCategoryVerbs.length; i++) {
                             const idx = currentCategoryVerbs[i];
                             if (verbEntries[idx].verb === currentEntry.verb) {
@@ -883,13 +878,12 @@
                             }
                         }
                         
-                        // Wenn wir nicht das letzte Verb in der Kategorie sind
                         if (currentVerbInCategory >= 0 && currentVerbInCategory < currentCategoryVerbs.length - 1) {
                             displayEntry(currentCategoryVerbs[currentVerbInCategory + 1]);
                         }
                     }
                 } else {
-                    // Im Standardmodus: einfach zum nächsten Eintrag
+                    // Im Standard-Modus: Wie bisher
                     if (currentIndex < verbEntries.length - 1) {
                         displayEntry(currentIndex + 1);
                     }
@@ -897,15 +891,15 @@
                 updateNavButtons();
             }
             
-            // Gehe zum vorherigen Eintrag
+            // Angepasst für Kategorien
             function goToPrevious() {
                 if (isInCategoryMode) {
                     // Im Kategoriemodus
                     const currentEntry = verbEntries[currentIndex];
                     
-                    // Wenn es vorherige Bedeutungen dieses Verbs gibt
+                    // Erst durch alle vorherigen Bedeutungen, dann zum vorherigen Verb
                     if (currentEntry.meaningNumber > 1) {
-                        // Vorherige Bedeutung des aktuellen Verbs
+                        // Zur vorherigen Bedeutung
                         for (let i = currentIndex - 1; i >= 0; i--) {
                             if (verbEntries[i].verb === currentEntry.verb) {
                                 displayEntry(i);
@@ -913,10 +907,9 @@
                             }
                         }
                     } else {
-                        // Zum vorherigen Verb der Kategorie wechseln
+                        // Zum vorherigen Verb in der Kategorie
                         let currentVerbInCategory = -1;
                         
-                        // Finde die Position des aktuellen Verbs in der Kategorie
                         for (let i = 0; i < currentCategoryVerbs.length; i++) {
                             const idx = currentCategoryVerbs[i];
                             if (verbEntries[idx].verb === currentEntry.verb) {
@@ -925,13 +918,11 @@
                             }
                         }
                         
-                        // Wenn wir nicht das erste Verb in der Kategorie sind
                         if (currentVerbInCategory > 0) {
-                            // Finde das vorherige Verb in der Kategorie
+                            // Zum vorherigen Verb, letzte Bedeutung
                             const prevVerbIndex = currentCategoryVerbs[currentVerbInCategory - 1];
                             const prevVerb = verbEntries[prevVerbIndex].verb;
                             
-                            // Finde den Index der letzten Bedeutung des vorherigen Verbs
                             let lastMeaningIndex = prevVerbIndex;
                             for (let i = 0; i < verbEntries.length; i++) {
                                 if (verbEntries[i].verb === prevVerb) {
@@ -943,7 +934,7 @@
                         }
                     }
                 } else {
-                    // Im Standardmodus: einfach zum vorherigen Eintrag
+                    // Im Standard-Modus: Wie bisher
                     if (currentIndex > 0) {
                         displayEntry(currentIndex - 1);
                     }
@@ -1001,6 +992,7 @@
                 goToNext();
             });
             
+            // Angepasst für Kategorien
             firstButton.addEventListener('click', function() {
                 if (isInCategoryMode) {
                     // Zum ersten Verb der Kategorie
@@ -1012,6 +1004,7 @@
                 updateNavButtons();
             });
             
+            // Angepasst für Kategorien
             lastButton.addEventListener('click', function() {
                 if (isInCategoryMode) {
                     // Zum letzten Verb der Kategorie (letzte Bedeutung)
