@@ -231,6 +231,13 @@
             text-align: center;
         }
         
+        .loading-indicator {
+            text-align: center;
+            padding: 10px;
+            font-style: italic;
+            color: #666;
+        }
+        
         /* Responsives Design */
         @media (max-width: 768px) {
             .search-container {
@@ -278,18 +285,19 @@
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
             <button id="searchButton">Suchen</button>
-            <div class="position-info" id="positionInfo">Eintrag 1 von 0</div>
+            <div class="position-info" id="positionInfo">Eintrag 0 von 0</div>
             <div class="search-hint">Bitte geben Sie nur deutsche Verben ein (Wörter die auf -en, -eln oder -ern enden).</div>
         </div>
         
         <div id="errorMessage" class="error-message" style="display: none;"></div>
         <div id="suggestions" class="suggestion" style="display: none;"></div>
+        <div id="loadingIndicator" class="loading-indicator" style="display: none;">Lädt Datei...</div>
         
         <div class="display-area" id="displayArea">
-            <div class="verb-heading" id="currentVerb">Lädt...</div>
-            <div class="verb-info" id="verbInfo">Lädt...</div>
-            <div class="code-display" id="codeDisplay">Lädt Kodierung...</div>
-            <div class="explanation" id="explanationDisplay">Lädt Begründung...</div>
+            <div class="verb-heading" id="currentVerb">Geben Sie ein Verb ein</div>
+            <div class="verb-info" id="verbInfo">Verwenden Sie das Suchfeld um nach einem Verb zu suchen.</div>
+            <div class="code-display" id="codeDisplay">Der Code wird hier angezeigt.</div>
+            <div class="explanation" id="explanationDisplay">Die Begründung wird hier angezeigt.</div>
             
             <!-- Formelzusätze erscheinen nun unter der Erklärung -->
             <div class="formula-additions">
@@ -314,16 +322,16 @@
         
         <div class="navigation">
             <div class="nav-buttons">
-                <button id="firstButton">Erste Seite</button>
-                <button id="prevButton">Zurück</button>
-                <button id="nextButton">Weiter</button>
-                <button id="lastButton">Letzte Seite</button>
+                <button id="firstButton" disabled>Erste Seite</button>
+                <button id="prevButton" disabled>Zurück</button>
+                <button id="nextButton" disabled>Weiter</button>
+                <button id="lastButton" disabled>Letzte Seite</button>
             </div>
         </div>
         
         <div class="project-info">
             <p>Sense &copy; 2023 - Lokale Verbanwendung</p>
-            <p>Diese Anwendung lädt die Datei "Coded_Verbs.txt", die sich im selben Verzeichnis befinden muss.</p>
+            <p>Diese Anwendung verwendet aufgeteilte Verbdateien (D_A.txt, D_B.txt, etc.)</p>
         </div>
     </div>
     
@@ -335,6 +343,8 @@
             let currentIndex = 0;
             let searchTimeout;
             let lastSearchTerm = '';
+            let currentFile = null;
+            let cachedFiles = {}; // Cache für bereits geladene Dateien
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -342,6 +352,7 @@
             const positionInfo = document.getElementById('positionInfo');
             const errorMessage = document.getElementById('errorMessage');
             const suggestions = document.getElementById('suggestions');
+            const loadingIndicator = document.getElementById('loadingIndicator');
             const displayArea = document.getElementById('displayArea');
             const currentVerb = document.getElementById('currentVerb');
             const verbInfo = document.getElementById('verbInfo');
@@ -382,29 +393,78 @@
                 });
             });
             
-            // CSS-Anpassungen
-            currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
+            // Hilfsfunktion: Ermittle den Dateinamen basierend auf dem Buchstaben
+            function getFileNameForLetter(letter) {
+                if (!letter) return null;
+                return `D_${letter.toUpperCase()}.txt`;
+            }
             
-            // Lade die Verb-Datei
-            fetch('Coded_Verbs.txt')
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error('Datei konnte nicht geladen werden');
-                    }
-                    return response.text();
-                })
-                .then(text => {
-                    processVerbFile(text);
-                    displayEntry(0);
-                    updateNavButtons();
-                })
-                .catch(error => {
-                    showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
-                });
+            // Hilfsfunktion: Lade eine Datei basierend auf dem Anfangsbuchstaben
+            async function loadFileForLetter(letter) {
+                if (!letter) return null;
                 
-            // Verarbeite die Verbdatei und strukturiere die Daten - KORRIGIERTE VERSION
+                // Normalisiere den Buchstaben
+                letter = letter.toUpperCase();
+                
+                // Prüfe den Cache
+                if (cachedFiles[letter]) {
+                    console.log(`Verwende gecachte Datei für "${letter}"`);
+                    return cachedFiles[letter];
+                }
+                
+                const fileName = getFileNameForLetter(letter);
+                console.log(`Lade Datei "${fileName}" für Buchstaben "${letter}"...`);
+                
+                // Zeige Ladeindikator
+                loadingIndicator.style.display = 'block';
+                
+                try {
+                    const response = await fetch(fileName);
+                    
+                    if (!response.ok) {
+                        throw new Error(`Datei ${fileName} konnte nicht geladen werden (${response.status})`);
+                    }
+                    
+                    const text = await response.text();
+                    
+                    // Speichere im Cache
+                    cachedFiles[letter] = text;
+                    currentFile = letter;
+                    
+                    console.log(`Datei "${fileName}" erfolgreich geladen.`);
+                    return text;
+                } catch (error) {
+                    console.error(`Fehler beim Laden der Datei "${fileName}":`, error);
+                    throw error;
+                } finally {
+                    // Verstecke Ladeindikator
+                    loadingIndicator.style.display = 'none';
+                }
+            }
+            
+            // Lade eine Datei und verarbeite sie
+            async function loadAndProcessFile(letter) {
+                try {
+                    // Lade die Datei
+                    const text = await loadFileForLetter(letter);
+                    
+                    // Verarbeite die Daten
+                    processVerbFile(text);
+                    
+                    return true;
+                } catch (error) {
+                    showError(`Fehler beim Laden der Datei für "${letter}": ${error.message}`);
+                    return false;
+                }
+            }
+            
+            // Verarbeite die Verbdatei und strukturiere die Daten
             function processVerbFile(text) {
                 console.log("Verarbeite Datei...");
+                
+                // Zurücksetzen der aktuellen Daten
+                verbEntries = [];
+                uniqueVerbs = [];
                 
                 // Teile den Text in Blöcke auf (Leerzeilen als Trenner)
                 const blocks = text.split(/\n\s*\n/);
@@ -466,7 +526,6 @@
                 });
                 
                 // Erstelle die finale Liste mit Bedeutungsnummern
-                verbEntries = [];
                 uniqueVerbs = Object.keys(verbGroups).sort();
                 
                 uniqueVerbs.forEach((verb, verbIndex) => {
@@ -490,20 +549,15 @@
                 console.log(`Gefundene Einträge: ${verbEntries.length}`);
                 console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
                 
+                // Aktualisiere die Positionsanzeige
                 if (verbEntries.length > 0) {
-                    console.log("Erster Eintrag:", verbEntries[0]);
-                    
-                    // Zeige Debug-Informationen für das erste Verb
-                    const firstVerb = verbEntries[0].verb;
-                    const entriesForFirstVerb = verbEntries.filter(e => e.verb === firstVerb);
-                    console.log(`Bedeutungen für "${firstVerb}" (Verb ${verbEntries[0].verbIndex} von ${uniqueVerbs.length}): ${entriesForFirstVerb.length}`);
-                    entriesForFirstVerb.forEach(e => {
-                        console.log(`  ${e.meaningNumber}. Bedeutung: ${e.code} - ${e.explanation.substring(0, 30)}...`);
-                    });
+                    positionInfo.textContent = `Eintrag 1 von ${verbEntries.length}`;
+                    displayEntry(0);
+                } else {
+                    positionInfo.textContent = `Eintrag 0 von 0`;
                 }
                 
-                // Aktualisiere die Positionsanzeige
-                positionInfo.textContent = `Eintrag 1 von ${verbEntries.length}`;
+                updateNavButtons();
             }
             
             // Zeige einen Eintrag an
@@ -549,11 +603,39 @@
                 window.scrollTo(0, 0);
             }
             
-            // Suche nach einem Verb
+            // Suche nach einem Verb mit dynamischem Laden der passenden Datei
+            async function searchVerbWithFileLoading(term) {
+                if (!term) {
+                    hideSuggestions();
+                    return false;
+                }
+                
+                term = term.toLowerCase().trim();
+                const firstLetter = term.charAt(0).toUpperCase();
+                
+                // Prüfe, ob wir die richtige Datei bereits geladen haben
+                if (currentFile !== firstLetter) {
+                    try {
+                        const success = await loadAndProcessFile(firstLetter);
+                        if (!success) {
+                            showError(`Konnte keine Verben mit dem Anfangsbuchstaben "${firstLetter}" laden.`);
+                            return false;
+                        }
+                    } catch (error) {
+                        showError(`Fehler beim Laden der Datei: ${error.message}`);
+                        return false;
+                    }
+                }
+                
+                // Jetzt können wir in den geladenen Einträgen suchen
+                return searchVerb(term);
+            }
+            
+            // Suche nach einem Verb innerhalb der aktuell geladenen Daten
             function searchVerb(term) {
                 if (!term) {
                     hideSuggestions();
-                    return;
+                    return false;
                 }
                 
                 term = term.toLowerCase().trim();
@@ -636,7 +718,7 @@
                             e.preventDefault();
                             const selectedVerb = this.textContent;
                             searchInput.value = selectedVerb;
-                            searchVerb(selectedVerb);
+                            searchVerbWithFileLoading(selectedVerb);
                         });
                     });
                 } else {
@@ -671,10 +753,10 @@
             
             // Navigationsbuttons aktualisieren
             function updateNavButtons() {
-                prevButton.disabled = currentIndex <= 0;
-                firstButton.disabled = currentIndex <= 0;
-                nextButton.disabled = currentIndex >= verbEntries.length - 1;
-                lastButton.disabled = currentIndex >= verbEntries.length - 1;
+                prevButton.disabled = currentIndex <= 0 || verbEntries.length === 0;
+                firstButton.disabled = currentIndex <= 0 || verbEntries.length === 0;
+                nextButton.disabled = currentIndex >= verbEntries.length - 1 || verbEntries.length === 0;
+                lastButton.disabled = currentIndex >= verbEntries.length - 1 || verbEntries.length === 0;
             }
             
             // Event-Listener registrieren
@@ -695,7 +777,7 @@
                 // Warte kurz, bevor die Suche durchgeführt wird
                 searchTimeout = setTimeout(() => {
                     if (term !== lastSearchTerm) {
-                        searchVerb(term);
+                        searchVerbWithFileLoading(term);
                         lastSearchTerm = term;
                     }
                 }, 300);
@@ -715,7 +797,7 @@
                     return;
                 }
                 
-                searchVerb(term);
+                searchVerbWithFileLoading(term);
             });
             
             // Navigationstasten
@@ -734,13 +816,17 @@
             });
             
             firstButton.addEventListener('click', function() {
-                displayEntry(0);
-                updateNavButtons();
+                if (verbEntries.length > 0) {
+                    displayEntry(0);
+                    updateNavButtons();
+                }
             });
             
             lastButton.addEventListener('click', function() {
-                displayEntry(verbEntries.length - 1);
-                updateNavButtons();
+                if (verbEntries.length > 0) {
+                    displayEntry(verbEntries.length - 1);
+                    updateNavButtons();
+                }
             });
             
             // Tastatur-Navigation
@@ -750,7 +836,7 @@
                     if (e.key === 'Enter') {
                         const term = searchInput.value.trim();
                         if (term) {
-                            searchVerb(term);
+                            searchVerbWithFileLoading(term);
                         }
                     }
                     return;
@@ -771,12 +857,16 @@
                         }
                         break;
                     case 'Home':
-                        displayEntry(0);
-                        updateNavButtons();
+                        if (verbEntries.length > 0) {
+                            displayEntry(0);
+                            updateNavButtons();
+                        }
                         break;
                     case 'End':
-                        displayEntry(verbEntries.length - 1);
-                        updateNavButtons();
+                        if (verbEntries.length > 0) {
+                            displayEntry(verbEntries.length - 1);
+                            updateNavButtons();
+                        }
                         break;
                 }
             });
