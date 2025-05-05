@@ -273,28 +273,32 @@
             font-size: 12px;
             border: 1px solid #ddd;
         }
-
-        /* Diagnose-Bereich */
+        
+        /* Diagnose-Bereich Styling */
         .diagnosis-section {
-            margin-top: 15px;
+            margin-top: 10px;
+            margin-bottom: 10px;
             padding: 10px;
             background-color: #f8f9fa;
-            border: 1px solid #dee2e6;
+            border: 1px solid #ddd;
             border-radius: 4px;
         }
         
         .diagnosis-section h3 {
             margin-top: 0;
-            color: #444;
+            margin-bottom: 8px;
             font-size: 16px;
+            color: #333;
         }
         
         .file-test-result {
-            margin-top: 10px;
-            padding: 10px;
-            background-color: #e9ecef;
+            background-color: #f0f0f0;
+            border: 1px solid #ddd;
             border-radius: 4px;
+            padding: 10px;
+            margin-top: 10px;
             font-family: monospace;
+            font-size: 12px;
             white-space: pre-wrap;
             max-height: 200px;
             overflow-y: auto;
@@ -364,12 +368,12 @@
             </div>
         </div>
         
-        <!-- Diagnose-Bereich (neu) -->
+        <!-- Diagnose-Bereich -->
         <div class="diagnosis-section">
-            <h3>Diagnose-Status</h3>
-            <div id="loadingStatus">Initialisiere Anwendung...</div>
+            <h3>Diagnostik-Werkzeuge</h3>
+            <button id="testFileButton">Datei direkt testen</button>
+            <button id="jsTestButton" style="margin-left: 10px;">JavaScript-Test</button>
             <div id="fileTestResult" class="file-test-result" style="display:none;"></div>
-            <button id="testFileButton" style="margin-top:10px;">Datei direkt testen</button>
         </div>
         
         <!-- Anzeigebereich für das aktuelle Verb -->
@@ -418,68 +422,6 @@
             let currentCategoryVerbs = []; // Aktuelle Kategorie-Verben
             let isInCategoryMode = false; // Flag, ob wir uns im Kategoriemodus befinden
             
-            // Diagnose-Variablen
-            const loadingStatus = document.getElementById('loadingStatus');
-            const fileTestResult = document.getElementById('fileTestResult');
-            const testFileButton = document.getElementById('testFileButton');
-            
-            // Diagnose-Funktionen
-            function updateLoadingStatus(message) {
-                console.log(message);
-                loadingStatus.textContent = message;
-            }
-            
-            testFileButton.addEventListener('click', function() {
-                testFileButton.disabled = true;
-                testFileButton.textContent = 'Test läuft...';
-                fileTestResult.style.display = 'block';
-                fileTestResult.textContent = 'Starte Dateitest...\n';
-                
-                // Test verschiedene Dateipfade
-                testPath('./Coded_Verbs.txt')
-                    .then(() => testPath('/Coded_Verbs.txt'))
-                    .then(() => testPath('../Coded_Verbs.txt'))
-                    .then(() => {
-                        fileTestResult.textContent += '\nAlle Tests abgeschlossen.';
-                        testFileButton.disabled = false;
-                        testFileButton.textContent = 'Test erneut ausführen';
-                    });
-            });
-            
-            // Testen eines bestimmten Pfads
-            function testPath(path) {
-                fileTestResult.textContent += `\nTeste Pfad: ${path}\n`;
-                
-                return fetch(path)
-                    .then(response => {
-                        fileTestResult.textContent += `Status: ${response.status} ${response.statusText}\n`;
-                        
-                        if (!response.ok) {
-                            fileTestResult.textContent += `Fehler: Datei nicht gefunden.\n`;
-                            return Promise.resolve(); // Fahre mit dem nächsten Test fort
-                        }
-                        
-                        return response.text().then(text => {
-                            fileTestResult.textContent += `Erfolg! Datei geladen (${text.length} Zeichen).\n`;
-                            fileTestResult.textContent += `Inhalt (Anfang): ${text.substring(0, 100).replace(/\n/g, '\\n')}...\n`;
-                            
-                            // Teste das Format
-                            const blocks = text.split(/\n\s*\n/);
-                            fileTestResult.textContent += `Gefundene Blöcke: ${blocks.length}\n`;
-                            
-                            if (blocks.length > 0) {
-                                fileTestResult.textContent += `Beispielblock: ${blocks[0]}\n`;
-                            }
-                            
-                            return Promise.resolve();
-                        });
-                    })
-                    .catch(error => {
-                        fileTestResult.textContent += `Fehler beim Laden: ${error.message}\n`;
-                        return Promise.resolve(); // Fahre mit dem nächsten Test fort
-                    });
-            }
-            
             // Kategorie-Datenbank - Hier können Sie später die vollständigen Daten einfügen
             const categoryVerbs = {
                 auseinandersetzung: ["abwehren", "angreifen", "aufbegehren", "bekämpfen", "beleidigen", "drohen", "kämpfen", "protestieren", "streiten", "verteidigen", "widersprechen"],
@@ -517,6 +459,92 @@
             const categoryButtons = document.querySelectorAll('.category-button');
             const formulaButtons = document.querySelectorAll('.formula-button');
             const explanationText = document.getElementById('explanationText');
+            const testFileButton = document.getElementById('testFileButton');
+            const jsTestButton = document.getElementById('jsTestButton');
+            const fileTestResult = document.getElementById('fileTestResult');
+            
+            // JavaScript Test-Button
+            jsTestButton.addEventListener('click', function() {
+                alert('JavaScript funktioniert!');
+            });
+            
+            // Datei-Test-Button
+            testFileButton.addEventListener('click', function() {
+                fileTestResult.style.display = 'block';
+                fileTestResult.innerHTML = 'Starte Dateitests...\n';
+                
+                // Deaktiviere den Button während des Tests
+                this.disabled = true;
+                this.textContent = 'Test läuft...';
+                
+                // Einfacher Test mit direkten Meldungen
+                fileTestResult.innerHTML += '\n* Teste relativen Pfad "./Coded_Verbs.txt"\n';
+                
+                fetch('./Coded_Verbs.txt')
+                    .then(response => {
+                        fileTestResult.innerHTML += `Status: ${response.status} ${response.statusText}\n`;
+                        
+                        if (!response.ok) {
+                            fileTestResult.innerHTML += 'FEHLER: Datei wurde nicht gefunden.\n';
+                            
+                            // Nächsten Pfad testen
+                            fileTestResult.innerHTML += '\n* Teste absoluten Pfad "/Coded_Verbs.txt"\n';
+                            return fetch('/Coded_Verbs.txt');
+                        }
+                        
+                        return response.text().then(text => {
+                            fileTestResult.innerHTML += `ERFOLG! Datei geladen (${text.length} Zeichen)\n`;
+                            
+                            if (text.length > 0) {
+                                const preview = text.substring(0, 100).replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                                fileTestResult.innerHTML += `Erste 100 Zeichen: ${preview}...\n`;
+                                
+                                // Analysiere Format
+                                const blocks = text.split(/\n\s*\n/);
+                                fileTestResult.innerHTML += `Gefundene Textblöcke: ${blocks.length}\n`;
+                                
+                                // Test ist komplett erfolgreich
+                                testFileButton.textContent = 'Test erneut ausführen';
+                                testFileButton.disabled = false;
+                            }
+                        });
+                    })
+                    .then(response => {
+                        // Wenn wir hier ankommen und response existiert, handelt es sich um den zweiten Fetch
+                        if (!response) return;
+                        
+                        fileTestResult.innerHTML += `Status: ${response.status} ${response.statusText}\n`;
+                        
+                        if (!response.ok) {
+                            fileTestResult.innerHTML += 'FEHLER: Auch der absolute Pfad funktioniert nicht.\n';
+                            testFileButton.textContent = 'Test erneut ausführen';
+                            testFileButton.disabled = false;
+                            return;
+                        }
+                        
+                        return response.text().then(text => {
+                            fileTestResult.innerHTML += `ERFOLG! Datei geladen (${text.length} Zeichen)\n`;
+                            
+                            if (text.length > 0) {
+                                const preview = text.substring(0, 100).replace(/</g, '&lt;').replace(/>/g, '&gt;');
+                                fileTestResult.innerHTML += `Erste 100 Zeichen: ${preview}...\n`;
+                                
+                                // Analysiere Format
+                                const blocks = text.split(/\n\s*\n/);
+                                fileTestResult.innerHTML += `Gefundene Textblöcke: ${blocks.length}\n`;
+                            }
+                            
+                            testFileButton.textContent = 'Test erneut ausführen';
+                            testFileButton.disabled = false;
+                        });
+                    })
+                    .catch(error => {
+                        fileTestResult.innerHTML += `FEHLER: ${error.message}\n`;
+                        fileTestResult.innerHTML += '\nTests abgeschlossen mit Fehlern.\n';
+                        testFileButton.textContent = 'Test erneut ausführen';
+                        testFileButton.disabled = false;
+                    });
+            });
             
             // Erklärungstexte für Formel-Zusätze
             const explanations = {
@@ -531,6 +559,31 @@
             
             // CSS-Anpassungen
             currentVerb.style.color = 'black'; // Überschrift schwarz statt blau
+            
+            // Globale Test-Funktionen für die Konsole
+            window.testVerbs = function() {
+                console.log("Verb-Einträge:", verbEntries.length);
+                console.log("Einzigartige Verben:", uniqueVerbs.length);
+                if (verbEntries.length > 0) {
+                    console.log("Beispiel:", verbEntries[0]);
+                    return "Daten verfügbar";
+                }
+                return "Keine Daten geladen";
+            };
+            
+            window.testFile = function(path) {
+                console.log("Teste Dateipfad:", path);
+                return fetch(path)
+                    .then(r => r.text())
+                    .then(text => {
+                        console.log(`Erfolg! ${text.length} Zeichen`);
+                        return text.length;
+                    })
+                    .catch(err => {
+                        console.error("Fehler:", err);
+                        return "Fehler: " + err.message;
+                    });
+            };
             
             // Event-Listener für Formel-Buttons
             formulaButtons.forEach(button => {
@@ -574,74 +627,60 @@
                 });
             });
             
-            // Lade die Verb-Datei mit verbesserter Diagnose
-            updateLoadingStatus("Versuche Datei zu laden...");
-            
-            // Versuche verschiedene Pfade nacheinander
-            updateLoadingStatus("Versuche relativen Pfad './Coded_Verbs.txt'...");
+            // Lade die Verb-Datei (mit relativer URL)
+            console.log("Versuche, die Verb-Datei zu laden...");
+            displayArea.innerHTML = '<div style="padding:10px; background-color:#f8f9fa; border-radius:4px;">Versuche Datei zu laden...</div>';
             
             fetch('./Coded_Verbs.txt')
                 .then(response => {
+                    console.log("Erster Versuch:", response.status, response.statusText);
                     if (!response.ok) {
-                        updateLoadingStatus("Relativer Pfad fehlgeschlagen, versuche '/Coded_Verbs.txt'...");
+                        // Wenn die Datei nicht mit relativer URL gefunden wird, versuche absolute URL
+                        console.log("Erster Versuch fehlgeschlagen, versuche absoluten Pfad...");
                         return fetch('/Coded_Verbs.txt');
                     }
-                    updateLoadingStatus("Datei gefunden mit './Coded_Verbs.txt'!");
-                    return response.text();
-                })
-                .then(response => {
-                    if (response.ok === false) {
-                        updateLoadingStatus("Auch '/Coded_Verbs.txt' fehlgeschlagen, versuche absoluten Repository-Pfad...");
-                        // Versuche einen absoluten Pfad (passen Sie dies an Ihre Repository-Struktur an)
-                        return fetch('https://[GITHUB-USERNAME].github.io/[REPOSITORY-NAME]/Coded_Verbs.txt');
-                    }
-                    
-                    if (typeof response === 'string') {
-                        updateLoadingStatus("Datei erfolgreich geladen! Länge: " + response.length + " Zeichen. Verarbeite Inhalt...");
-                        return response; // Text wurde bereits extrahiert
-                    }
-                    
-                    updateLoadingStatus("Datei gefunden, extrahiere Text...");
+                    console.log("Datei gefunden mit relativem Pfad!");
                     return response.text();
                 })
                 .then(text => {
-                    if (!text || text.length < 100) {
-                        updateLoadingStatus("Warnung: Datei scheint leer oder zu kurz zu sein: " + text.substring(0, 50) + "...");
-                    } else {
-                        updateLoadingStatus("Verarbeite Datei mit " + text.length + " Zeichen...");
+                    // Prüfe, ob wir einen Text haben oder eine Response vom zweiten Versuch
+                    if (typeof text !== 'string') {
+                        console.log("Zweiter Versuch:", text.status, text.statusText);
+                        if (!text.ok) {
+                            throw new Error("Beide Versuche fehlgeschlagen. Datei konnte nicht gefunden werden.");
+                        }
+                        return text.text();
                     }
-                    
-                    try {
-                        processVerbFile(text);
-                        displayEntry(0);
-                        updateNavButtons();
-                        updateLoadingStatus("Daten erfolgreich verarbeitet! Anwendung bereit.");
-                    } catch (error) {
-                        updateLoadingStatus("Fehler beim Verarbeiten der Daten: " + error.message);
-                        console.error("Verarbeitungsfehler:", error);
-                    }
+                    return text;
+                })
+                .then(text => {
+                    console.log(`Datei geladen: ${text.length} Zeichen`);
+                    processVerbFile(text);
+                    displayEntry(0);
+                    updateNavButtons();
                 })
                 .catch(error => {
                     console.error("Fehler beim Laden der Datei:", error);
-                    updateLoadingStatus("Fehler beim Laden der Datei: " + error.message);
-                    showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte verwenden Sie den Test-Button für mehr Informationen.');
+                    showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
+                    
+                    // Detaillierte Fehlermeldung
+                    displayArea.innerHTML = `
+                        <div style="padding:15px; background-color:#f8d7da; border-radius:4px; color:#721c24;">
+                            <h3>Fehler beim Laden der Daten</h3>
+                            <p>Die Datei "Coded_Verbs.txt" konnte nicht gefunden werden.</p>
+                            <p>Fehlermeldung: ${error.message}</p>
+                            <p>Bitte verwenden Sie den "Datei direkt testen"-Button für weitere Diagnose.</p>
+                        </div>
+                    `;
                 });
                 
             // Verarbeite die Verbdatei und strukturiere die Daten
             function processVerbFile(text) {
                 console.log("Verarbeite Datei...");
-                updateLoadingStatus("Analysiere Dateiinhalt...");
                 
                 // Teile den Text in Blöcke auf (Leerzeilen als Trenner)
                 const blocks = text.split(/\n\s*\n/);
                 console.log(`Gefundene Textblöcke: ${blocks.length}`);
-                updateLoadingStatus(`Gefundene Textblöcke: ${blocks.length}`);
-                
-                if (blocks.length < 2) {
-                    updateLoadingStatus("PROBLEM: Zu wenige Textblöcke gefunden. Dateiformat könnte falsch sein.");
-                    console.log("Dateiinhalt Anfang:", text.substring(0, 200));
-                    throw new Error("Ungültiges Dateiformat - zu wenige Blöcke gefunden");
-                }
                 
                 // Temporäres Array für die Einträge
                 let tempEntries = [];
@@ -689,13 +728,6 @@
                     }
                 }
                 
-                if (tempEntries.length === 0) {
-                    updateLoadingStatus("FEHLER: Keine gültigen Verbeinträge gefunden!");
-                    throw new Error("Keine gültigen Einträge im Dateiformat gefunden");
-                }
-                
-                updateLoadingStatus(`Gefundene Roheinträge: ${tempEntries.length}`);
-                
                 // Gruppiere nach Verb und nummeriere
                 const verbGroups = {};
                 tempEntries.forEach(entry => {
@@ -732,7 +764,6 @@
                 
                 if (verbEntries.length > 0) {
                     console.log("Erster Eintrag:", verbEntries[0]);
-                    updateLoadingStatus(`Verarbeitung abgeschlossen. ${verbEntries.length} Einträge für ${uniqueVerbs.length} Verben gefunden.`);
                 }
             }
             
