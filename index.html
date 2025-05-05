@@ -273,6 +273,32 @@
             font-size: 12px;
             border: 1px solid #ddd;
         }
+
+        /* Diagnose-Bereich */
+        .diagnosis-section {
+            margin-top: 15px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border: 1px solid #dee2e6;
+            border-radius: 4px;
+        }
+        
+        .diagnosis-section h3 {
+            margin-top: 0;
+            color: #444;
+            font-size: 16px;
+        }
+        
+        .file-test-result {
+            margin-top: 10px;
+            padding: 10px;
+            background-color: #e9ecef;
+            border-radius: 4px;
+            font-family: monospace;
+            white-space: pre-wrap;
+            max-height: 200px;
+            overflow-y: auto;
+        }
         
         /* Responsives Design */
         @media (max-width: 768px) {
@@ -338,6 +364,14 @@
             </div>
         </div>
         
+        <!-- Diagnose-Bereich (neu) -->
+        <div class="diagnosis-section">
+            <h3>Diagnose-Status</h3>
+            <div id="loadingStatus">Initialisiere Anwendung...</div>
+            <div id="fileTestResult" class="file-test-result" style="display:none;"></div>
+            <button id="testFileButton" style="margin-top:10px;">Datei direkt testen</button>
+        </div>
+        
         <!-- Anzeigebereich für das aktuelle Verb -->
         <div class="display-area" id="displayArea">
             <div class="verb-heading" id="currentVerb">Lädt...</div>
@@ -383,6 +417,68 @@
             let lastSearchTerm = '';
             let currentCategoryVerbs = []; // Aktuelle Kategorie-Verben
             let isInCategoryMode = false; // Flag, ob wir uns im Kategoriemodus befinden
+            
+            // Diagnose-Variablen
+            const loadingStatus = document.getElementById('loadingStatus');
+            const fileTestResult = document.getElementById('fileTestResult');
+            const testFileButton = document.getElementById('testFileButton');
+            
+            // Diagnose-Funktionen
+            function updateLoadingStatus(message) {
+                console.log(message);
+                loadingStatus.textContent = message;
+            }
+            
+            testFileButton.addEventListener('click', function() {
+                testFileButton.disabled = true;
+                testFileButton.textContent = 'Test läuft...';
+                fileTestResult.style.display = 'block';
+                fileTestResult.textContent = 'Starte Dateitest...\n';
+                
+                // Test verschiedene Dateipfade
+                testPath('./Coded_Verbs.txt')
+                    .then(() => testPath('/Coded_Verbs.txt'))
+                    .then(() => testPath('../Coded_Verbs.txt'))
+                    .then(() => {
+                        fileTestResult.textContent += '\nAlle Tests abgeschlossen.';
+                        testFileButton.disabled = false;
+                        testFileButton.textContent = 'Test erneut ausführen';
+                    });
+            });
+            
+            // Testen eines bestimmten Pfads
+            function testPath(path) {
+                fileTestResult.textContent += `\nTeste Pfad: ${path}\n`;
+                
+                return fetch(path)
+                    .then(response => {
+                        fileTestResult.textContent += `Status: ${response.status} ${response.statusText}\n`;
+                        
+                        if (!response.ok) {
+                            fileTestResult.textContent += `Fehler: Datei nicht gefunden.\n`;
+                            return Promise.resolve(); // Fahre mit dem nächsten Test fort
+                        }
+                        
+                        return response.text().then(text => {
+                            fileTestResult.textContent += `Erfolg! Datei geladen (${text.length} Zeichen).\n`;
+                            fileTestResult.textContent += `Inhalt (Anfang): ${text.substring(0, 100).replace(/\n/g, '\\n')}...\n`;
+                            
+                            // Teste das Format
+                            const blocks = text.split(/\n\s*\n/);
+                            fileTestResult.textContent += `Gefundene Blöcke: ${blocks.length}\n`;
+                            
+                            if (blocks.length > 0) {
+                                fileTestResult.textContent += `Beispielblock: ${blocks[0]}\n`;
+                            }
+                            
+                            return Promise.resolve();
+                        });
+                    })
+                    .catch(error => {
+                        fileTestResult.textContent += `Fehler beim Laden: ${error.message}\n`;
+                        return Promise.resolve(); // Fahre mit dem nächsten Test fort
+                    });
+            }
             
             // Kategorie-Datenbank - Hier können Sie später die vollständigen Daten einfügen
             const categoryVerbs = {
@@ -478,32 +574,74 @@
                 });
             });
             
-            // Lade die Verb-Datei (mit relativer URL)
+            // Lade die Verb-Datei mit verbesserter Diagnose
+            updateLoadingStatus("Versuche Datei zu laden...");
+            
+            // Versuche verschiedene Pfade nacheinander
+            updateLoadingStatus("Versuche relativen Pfad './Coded_Verbs.txt'...");
+            
             fetch('./Coded_Verbs.txt')
                 .then(response => {
                     if (!response.ok) {
-                        // Wenn die Datei nicht mit relativer URL gefunden wird, versuche absolute URL
+                        updateLoadingStatus("Relativer Pfad fehlgeschlagen, versuche '/Coded_Verbs.txt'...");
                         return fetch('/Coded_Verbs.txt');
                     }
+                    updateLoadingStatus("Datei gefunden mit './Coded_Verbs.txt'!");
+                    return response.text();
+                })
+                .then(response => {
+                    if (response.ok === false) {
+                        updateLoadingStatus("Auch '/Coded_Verbs.txt' fehlgeschlagen, versuche absoluten Repository-Pfad...");
+                        // Versuche einen absoluten Pfad (passen Sie dies an Ihre Repository-Struktur an)
+                        return fetch('https://[GITHUB-USERNAME].github.io/[REPOSITORY-NAME]/Coded_Verbs.txt');
+                    }
+                    
+                    if (typeof response === 'string') {
+                        updateLoadingStatus("Datei erfolgreich geladen! Länge: " + response.length + " Zeichen. Verarbeite Inhalt...");
+                        return response; // Text wurde bereits extrahiert
+                    }
+                    
+                    updateLoadingStatus("Datei gefunden, extrahiere Text...");
                     return response.text();
                 })
                 .then(text => {
-                    processVerbFile(text);
-                    displayEntry(0);
-                    updateNavButtons();
+                    if (!text || text.length < 100) {
+                        updateLoadingStatus("Warnung: Datei scheint leer oder zu kurz zu sein: " + text.substring(0, 50) + "...");
+                    } else {
+                        updateLoadingStatus("Verarbeite Datei mit " + text.length + " Zeichen...");
+                    }
+                    
+                    try {
+                        processVerbFile(text);
+                        displayEntry(0);
+                        updateNavButtons();
+                        updateLoadingStatus("Daten erfolgreich verarbeitet! Anwendung bereit.");
+                    } catch (error) {
+                        updateLoadingStatus("Fehler beim Verarbeiten der Daten: " + error.message);
+                        console.error("Verarbeitungsfehler:", error);
+                    }
                 })
                 .catch(error => {
                     console.error("Fehler beim Laden der Datei:", error);
-                    showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte stellen Sie sicher, dass sie im selben Verzeichnis wie diese HTML-Datei liegt.');
+                    updateLoadingStatus("Fehler beim Laden der Datei: " + error.message);
+                    showError('Die Datei "Coded_Verbs.txt" konnte nicht geladen werden. Bitte verwenden Sie den Test-Button für mehr Informationen.');
                 });
                 
             // Verarbeite die Verbdatei und strukturiere die Daten
             function processVerbFile(text) {
                 console.log("Verarbeite Datei...");
+                updateLoadingStatus("Analysiere Dateiinhalt...");
                 
                 // Teile den Text in Blöcke auf (Leerzeilen als Trenner)
                 const blocks = text.split(/\n\s*\n/);
                 console.log(`Gefundene Textblöcke: ${blocks.length}`);
+                updateLoadingStatus(`Gefundene Textblöcke: ${blocks.length}`);
+                
+                if (blocks.length < 2) {
+                    updateLoadingStatus("PROBLEM: Zu wenige Textblöcke gefunden. Dateiformat könnte falsch sein.");
+                    console.log("Dateiinhalt Anfang:", text.substring(0, 200));
+                    throw new Error("Ungültiges Dateiformat - zu wenige Blöcke gefunden");
+                }
                 
                 // Temporäres Array für die Einträge
                 let tempEntries = [];
@@ -551,6 +689,13 @@
                     }
                 }
                 
+                if (tempEntries.length === 0) {
+                    updateLoadingStatus("FEHLER: Keine gültigen Verbeinträge gefunden!");
+                    throw new Error("Keine gültigen Einträge im Dateiformat gefunden");
+                }
+                
+                updateLoadingStatus(`Gefundene Roheinträge: ${tempEntries.length}`);
+                
                 // Gruppiere nach Verb und nummeriere
                 const verbGroups = {};
                 tempEntries.forEach(entry => {
@@ -587,6 +732,7 @@
                 
                 if (verbEntries.length > 0) {
                     console.log("Erster Eintrag:", verbEntries[0]);
+                    updateLoadingStatus(`Verarbeitung abgeschlossen. ${verbEntries.length} Einträge für ${uniqueVerbs.length} Verben gefunden.`);
                 }
             }
             
