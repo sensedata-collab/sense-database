@@ -164,6 +164,18 @@
             border-radius: 4px;
             border-left: 3px solid #ccc;
             font-size: 14px;
+            line-height: 1.5;
+        }
+        
+        .complexity-info {
+            margin-top: 5px;
+            font-size: 14px;
+            color: #333;
+            background-color: #ffe;
+            padding: 8px;
+            border-radius: 4px;
+            border-left: 3px solid #fc0;
+            font-weight: bold;
         }
         
         .alternatives {
@@ -203,15 +215,6 @@
             border-radius: 4px;
             font-size: 13px; /* verkleinert */
             text-align: center;
-        }
-        
-        .complexity-info {
-            margin-top: 12px;
-            font-size: 14px;
-            color: #666;
-            background-color: #f8f9fa;
-            padding: 8px;
-            border-radius: 4px;
         }
         
         /* Responsives Design */
@@ -256,13 +259,24 @@
             <div class="formula-additions">
                 <span class="formula-item">//</span>
                 <span class="formula-item">-</span>
-                <span class="formula-item">+</span>
-                <span class="formula-item">?</span>
-                <span class="formula-item">!</span>
-                <span class="formula-item">⟲</span>
+                <span class="formula-item">ADJ</span>
+                <span class="formula-item">NO/</span>
+                <span class="formula-item">NOT/</span>
+                <span class="formula-item">CP/</span>
+                <span class="formula-item">ANTI/</span>
             </div>
             <div class="formula-explanation" id="formulaExplanation">
-                Mit "-" gekennzeichnet sind Goals die nicht zum Ziel führen oder führen sollen.
+                // ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.<br>
+                - kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.<br>
+                ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).<br>
+                NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.<br>
+                NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.<br>
+                CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.<br>
+                ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt.
+            </div>
+            
+            <div class="complexity-info">
+                Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
             </div>
             
             <div class="alternatives" id="alternativesArea" style="display: none;"></div>
@@ -275,10 +289,6 @@
                 <button id="nextButton">Weiter</button>
                 <button id="lastButton">Letzte Seite</button>
             </div>
-        </div>
-        
-        <div class="complexity-info">
-            Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
         </div>
         
         <div class="project-info">
@@ -322,28 +332,31 @@
                     
                     switch(symbol) {
                         case "//":
-                            explanation = "Kommentar oder alternative Beschreibung";
+                            explanation = "// ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.";
                             break;
                         case "-":
-                            explanation = "Mit \"-\" gekennzeichnet sind Goals die nicht zum Ziel führen oder führen sollen.";
+                            explanation = "- kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.";
                             break;
-                        case "+":
-                            explanation = "Positive Verstärkung oder Hinzufügung einer Eigenschaft";
+                        case "ADJ":
+                            explanation = "ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).";
                             break;
-                        case "?":
-                            explanation = "Unsichere oder optionale Komponente";
+                        case "NO/":
+                            explanation = "NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.";
                             break;
-                        case "!":
-                            explanation = "Wichtige oder zwingende Komponente";
+                        case "NOT/":
+                            explanation = "NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.";
                             break;
-                        case "⟲":
-                            explanation = "Wiederkehrende oder zyklische Komponente";
+                        case "CP/":
+                            explanation = "CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.";
+                            break;
+                        case "ANTI/":
+                            explanation = "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt.";
                             break;
                         default:
                             explanation = "Keine Erklärung verfügbar";
                     }
                     
-                    formulaExplanation.textContent = explanation;
+                    formulaExplanation.innerHTML = explanation;
                 });
             });
             
