@@ -1039,7 +1039,7 @@
                 prevButton.disabled = !hasLocalPrev && !hasPrevFile;
                 firstButton.disabled = currentPosition <= 0 && currentIndex <= 0;
                 nextButton.disabled = !hasLocalNext && !hasNextFile;
-                lastButton.disabled = !hasNextFile && currentIndex >= verbEntries.length - 1;
+                lastButton.disabled = (currentFile === getLastAvailableLetter() && currentIndex >= verbEntries.length - 1);
             }
             
             // Event-Listener registrieren
