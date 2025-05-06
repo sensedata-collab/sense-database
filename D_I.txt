@@ -4,6 +4,7 @@ Begründung: Beim Idealisieren bewegt und strebt der Akteur (3) durch Informatio
 idealisieren: Material/Psychological 3/5/2/Goal 5/aut/ecc
 Begründung: In einem abstrakteren, eher kognitiven Sinne bedeutet idealisieren auch, durch bewusste Informationsverarbeitung (3/5) ein vereinfachtes theoretisches Modell zu erstellen (2), um ein besseres Verständnis von etwas zu erlangen (Goal 5). Diese Bedeutung ist im wissenschaftlichen oder philosophischen Kontext relevant, wo idealisierte Modelle der Konzeptualisierung dienen.. Autonom/Exzentrisch.
 
+
 identifizieren: Material/Analysis 3/5/1/Goal 5/het/ecc
 Begründung: Beim Identifizieren untersucht der Akteur (3) systematisch Merkmale und Informationen (5), um ein Objekt oder eine Person zu erkennen und diese Kenntnis zu bekommen (1/Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach äußeren Gegebenheiten richten muss.. Heteronom/Exzentrisch.
 
@@ -13,11 +14,13 @@ Begründung: Im kriminalistischen Kontext bedeutet Identifizieren, Personen oder
 identifizieren: Interpersonal/Psychology 1/Goal 5/Goal 1/het/ecc
 Begründung: Im psychologischen Kontext bedeutet 'sich mit jemandem identifizieren', eine Übereinstimmung mit einer anderen Person zu erkennen (1/Goal 5) und dadurch eine emotionale Nähe (Goal 1) zu empfinden. Die Ausrichtung ist heteronom/exzentrisch, da man sich nach der Wahrnehmung des Anderen richtet.. Heteronom/Exzentrisch.
 
+
 idolisieren: Interpersonal/Psychological 3/5/Goal 2/Goal 1/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und sucht Kontakt (5) zu einer Person, um über sie zu verfügen (Goal 2) und ihr nahe zu sein (Goal 1). Idolisieren bedeutet, jemanden übermäßig zu bewundern und zu einem Idol zu erheben, was eine autonome, nach außen gerichtete Handlung ist. Die Person wird zu einem Objekt der Verehrung gemacht, wodurch der Akteur eine emotionale Nähe (Goal 1) herstellt und gleichzeitig eine Art Verfügungsgewalt über das mentale Bild dieser Person erlangt (Goal 2).. Autonom/Exzentrisch.
 
 idolisieren: Material/Religious 2/5/Goal 2/Goal 1/aut/ecc
 Begründung: Im religiösen Kontext bedeutet idolisieren, ein Objekt oder eine Figur zum Gegenstand der Verehrung zu machen. Der Akteur bestimmt/verfügt (2) und informiert sich über (5) ein religiöses Objekt, um einen gewünschten Zustand der Verehrung zu erreichen (Goal 2) und eine spirituelle Nähe zu erlangen (Goal 1).. Autonom/Exzentrisch.
+
 
 ignorieren: Interpersonal/Avoidance 2/3//Goal -5/aut/ecc
 Begründung: Ignorieren bedeutet, dass der Akteur bestimmt (2) und durch sein Verhalten (3) aktiv den Kontakt mit einem Antagonisten verhindert (//Goal -5). Der Akteur handelt autonom (aut) und nach außen gerichtet (ecc), indem er bewusst die Kontaktaufnahme des Antagonisten unterbindet.. Autonom/Exzentrisch.
@@ -28,11 +31,13 @@ Begründung: Im informationsbezogenen Kontext bedeutet ignorieren, dass der Akte
 ignorieren: Interpersonal/Psychological 2/3//Goal -5/aut/ecc
 Begründung: Im psychologischen Kontext bedeutet ignorieren, dass der Akteur bestimmt (2) und sich bewusst so verhält (3), dass er die emotionalen oder sozialen Signale eines Antagonisten nicht beachtet (//Goal -5). Dies ist eine psychologische Abwehrstrategie.. Autonom/Exzentrisch.
 
+
 indoktrinieren: Material/Education 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Indoktrinieren bedeutet, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), die den Antagonisten in einen unerwünschten Zustand der einseitigen Beeinflussung bringen (Goal -2), um dadurch einen eigenen gewünschten Zustand zu erreichen (//Goal 2). Der Akteur verfolgt dabei eine kontrollierte, selbstbestimmte Strategie (aut) mit Ausrichtung nach außen (ecc).. Autonom/Exzentrisch.
 
 indoktrinieren: Material/Persuasion 2/3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In einem stärker manipulativen Kontext beinhaltet Indoktrinieren zusätzlich eine aktive Bewegung/Anstreben (3), um den Antagonisten gezielt zu beeinflussen. Der Akteur bestimmt (2) und unternimmt aktive Schritte (3), um eine einseitige Beeinflussung (4/1/5) zu erreichen, die den Antagonisten in einen unerwünschten Zustand der kritiklosen Übernahme von Ideen bringt (Goal -2), um dadurch einen eigenen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
 
 inkraftsetzen: Material/Law 2/4/5/Goal 2/aut/ecc
 Begründung: Beim Inkraftsetzen bestimmt der Akteur (2) durch Geben (4), von Informationen , um einen gewünschten Zustand, dass ein Gesetz wirksam wird (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -40,11 +45,13 @@ Begründung: Beim Inkraftsetzen bestimmt der Akteur (2) durch Geben (4), von Inf
 inkraftsetzen: Material/Legislative 2/4/5/Goal 2/aut/ecc
 Begründung: Im legislativen Kontext bestimmt der Akteur (2) durch Geben (4) einer formalen Information (5), um einen gewünschten Zustand, dass ein Gesetz gültig wird (Goal 2), herzustellen. Dies ist typisch für das formelle Inkraftsetzen von Gesetzen oder Verordnungen.. Autonom/Exzentrisch.
 
+
 innehaben: Material/Possession 2/Goal 2/aut/con
 Begründung: Der Akteur verfügt (2) über etwas und befindet sich im Zustand des Besitzens, wobei er einen gewünschten Zustand erreicht hat (Goal 2). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt über den Besitz im eigenen Bereich verfügt.. Autonom/Konzentrisch.
 
 innehaben: Material/Position 2/Goal 2/aut/con
 Begründung: Eine Position oder ein Amt innehaben bedeutet, dass der Akteur über diese Position verfügt (2) und damit einen gewünschten Zustand erreicht hat (Goal 2). Auch hier ist die Ausrichtung autonom/konzentrisch (aut/con), da er eigenständig über die Position verfügt.. Autonom/Konzentrisch.
+
 
 inserieren: Material/Advertisement 2/4/1/5/Goal 5//Goal 3/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) die Leistung (4) zu erbringen, indem er Informationen (1/5) gibt, damit der Antagonist (potenzielle Leser/Kunden) informiert ist (Goal 5). Nach dem Wechsel zum Akteur zurück (//), zielt dieser auf eine Wirkung (Goal 3) und letztendlich auf geschäftliche Anerkennung/Bezahlung (Goal 4). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
@@ -52,11 +59,13 @@ Begründung: Der Akteur bestimmt (2) die Leistung (4) zu erbringen, indem er Inf
 inserieren: Material/Media 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: Im Kontext von Medienveröffentlichungen bestimmt der Akteur (2) die Leistung (4) zu erbringen, Information (1/5) zur Verfügung zu stellen, damit der Empfänger informiert ist (Goal 5). Der Akteur selbst will einen gewünschten Zustand erreichen (//Goal 2) und geschäftliche Anerkennung/Bezahlung (Goal 4).. Autonom/Exzentrisch.
 
+
 inspirieren: Interpersonal/Influence 3/4/1/5/Goal 3//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bewegt und strebt an (3), eine Leistung zu erbringen (4) indem er etwas gibt (1), nämlich Informationen oder Ideen (5), um beim Antagonisten eine Wirkung zu erzielen (Goal 3). Nach dem Wechsel zurück zum Akteur (//), dient dies dem Akteur, einen gewünschten Zustand zu erreichen (Goal 2) und Anerkennung zu bekommen (Goal 4). Der Akteur bestimmt aktiv den Prozess (aut) und wirkt nach außen auf den Antagonisten (ecc).. Autonom/Exzentrisch.
 
 inspirieren: Material/Creative 3/4/1/5/Goal 5//Goal 3/Goal 4/aut/ecc
 Begründung: Im kreativen Kontext bedeutet inspirieren, dass der Akteur bewegt (3) eine Leistung erbringt (4), indem er Ideen gibt (1/5), die den Antagonisten informieren (Goal 5). Nach dem Wechsel (//), erhält der Akteur die Wirkung seiner Inspiration (Goal 3) und Anerkennung (Goal 4) für seine kreative Leistung.. Autonom/Exzentrisch.
+
 
 installieren: Material/IT 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Software oder Hardware und bewegt/transformiert (3) diese, um einen gewünschten Zustand zu erreichen (Goal 2), nämlich dass die Software oder Hardware einsatzbereit ist. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf die äußere Umgebung einwirkt.. Autonom/Exzentrisch.
@@ -67,6 +76,7 @@ Begründung: Im Bauwesen bedeutet installieren, dass der Akteur über ein Objekt
 installieren: Material/Leadership 2/3/Goal 2/aut/ecc
 Begründung: Im politischen oder organisatorischen Kontext bedeutet installieren, dass der Akteur bestimmt (2) und aktiv einsetzt (3), um eine Person in eine Position zu bringen, wodurch ein gewünschter Zustand (Goal 2) erreicht wird. Beispiel: 'Einen neuen Leiter installieren'.. Autonom/Exzentrisch.
 
+
 irreführen: Material/Deception 3/4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) auf den Antagonisten zu und leistet (4) das Geben (1) falscher Informationen (5), die den Antagonisten in einen Zustand der Fehlinformation (Goal -5) bringen, um damit einen eigenen gewünschten Zustand (//Goal 2) zu erreichen. Der Akteur handelt dabei autonom (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
@@ -75,6 +85,7 @@ Begründung: Im zwischenmenschlichen Bereich bedeutet irreführen, dass der Akte
 
 irreführen: Material/Fight/Deception 3/4/1/5/Goal -5//Goal 3/Goal 2/aut/ecc
 Begründung: In einer strategischen Kampfsituation führt der Akteur den Antagonisten gezielt (3) durch das Geben (4/1) täuschender Informationen (5) in die Irre, wodurch der Gegner falsch informiert wird (Goal -5), um eine Wirkung zu erzielen (//Goal 3) und letztlich einen strategischen Vorteil (//Goal 2) zu erlangen.. Autonom/Exzentrisch.
+
 
 irren: Material/Mistake 3/Goal -3/het/ecc
 Begründung: Beim Irren bewegt sich (3) der Akteur, jedoch nicht zum eigentlich angestrebten Ziel, sondern in die falsche Richtung oder hin zu einem falschen Schluss/Ergebnis (Goal -3). Die Ausrichtung ist heteronom (het), da der Akteur nicht die volle Kontrolle über den Irrweg hat und exzentrisch (ecc), da sich die Bewegung/Suche nach außen richtet. Der Akteur erreicht nicht die gewünschte Destination oder kommt zu einer falschen Schlussfolgerung.. Heteronom/Exzentrisch.
@@ -88,6 +99,7 @@ Begründung: Im kognitiven Sinn bedeutet irren, bei der Informationsaufnahme und
 irren: Interpersonal/Psychological 3/5/Goal -5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet sich über jemanden irren, dass man eine Person falsch einschätzt. Man bewegt sich (3) gedanklich in eine falsche Richtung bei der Kontaktaufnahme/dem Kennenlernen (5), was zu einer falschen Einschätzung führt (Goal -5). Die Ausrichtung ist heteronom (het) und exzentrisch (ecc), da die Fehleinschätzung unbeabsichtigt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
+
 irritieren: Interpersonal/Disturbance 3/5/Goal -5/Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) in Bezug auf einen Antagonisten und wendet sich ihm informativ zu (5), um dessen Aufmerksamkeit/Kontakt zu stören (Goal -5) und dessen gewünschten Zustand zu beeinträchtigen (Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen wirkt.. Autonom/Exzentrisch.
 
@@ -96,6 +108,7 @@ Begründung: In der materiellen Bedeutung bewegt (3) der Akteur etwas, um einen 
 
 irritieren: Interpersonal/Psychological 3/5/Goal -0/aut/ecc
 Begründung: In der psychologischen Bedeutung bewegt sich der Akteur (3) informativ auf den Antagonisten zu (5), um dessen Zuversicht/Vertrauen zu beeinträchtigen (Goal -0). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt die Verunsicherung herbeiführt.. Autonom/Exzentrisch.
+
 
 isolation: Material/Separation 3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt/trennt etwas (3), um einen gewünschten Zustand der Abschirmung zu erreichen (Goal 2), und verhindert gleichzeitig die Bewegung/Verbindung mit der Umgebung (//Goal -3). Die Ausrichtung ist autonom (der Akteur bestimmt den Prozess) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
@@ -108,6 +121,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet Isolation das aktive Trenn
 
 isolation: Material/Medical 2/3/Goal 2//Goal -5/aut/ecc
 Begründung: In der medizinischen Bedeutung bedeutet Isolation das Kontrollieren (2) und räumliche Trennen (3) von Patienten, um einen gewünschten Schutzstatus zu erreichen (Goal 2) und gleichzeitig die Übertragung von Krankheitserregern/Informationen zu verhindern (//Goal -5).. Autonom/Exzentrisch.
+
 
 isolieren: Material/Separation 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Isolieren bedeutet, dass der Akteur bestimmt (2) und durch Bewegung/Anstrebung (3) einen gewünschten Zustand der Trennung/Abgrenzung erreicht (Goal 2), wobei gleichzeitig die Bewegung/Verbindungsmöglichkeit eines Antagonisten verhindert wird (//Goal -3). Diese Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur die Kontrolle über den Isolierungsvorgang hat und die Wirkung nach außen zielt.. Autonom/Exzentrisch.
@@ -123,3 +137,4 @@ Begründung: Im medizinischen Kontext bedeutet isolieren, einen Patienten bestim
 
 isolieren: Material/Chemical/Process 3/1/Goal 2/aut/ecc
 Begründung: In der Chemie bedeutet isolieren, einen Stoff durch Bewegung/Anstrebung (3) zu extrahieren/zu bekommen (1), um einen gewünschten Zustand der Reinheit oder Trennung zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
