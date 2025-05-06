@@ -4,132 +4,70 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sense - Verbanwendung</title>
-    <!-- Das vorhandene CSS bleibt unverändert -->
-    <style>
-        /* Ihr vorhandenes CSS hier */
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            background-color: #f5f5f5;
-        }
-        
-        .container {
-            background-color: white;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
-            padding: 20px;
-        }
-        
-        /* Rest des CSS... */
-    </style>
+    <!-- Ihr CSS wie zuvor -->
 </head>
 <body>
-    <!-- Der HTML-Teil bleibt unverändert -->
-    <div class="container">
-        <header>
-            <h1>Sense - Verbanwendung</h1>
-            <p>Durchsuchen Sie 5000 deutsche Verben und deren SENSE-Kodierungen</p>
-        </header>
-        
-        <!-- Rest des HTML... -->
-    </div>
+    <!-- Ihr HTML wie zuvor -->
     
     <script>
-        // Hier ist der einfache Teil 1 - Teil 2 Ansatz eingebettet
-        
-        // Daten direkt in die Variablen einfügen
-        const verbData1 = `abarbeiten: Material/Professional 4/3/Goal 2//Goal 4/het/ecc
-Begründung: Abarbeiten im beruflichen Kontext bedeutet eine Leistung zu erbringen (4), die eine Bewegung oder Transformation (3) beinhaltet, um einen gewünschten Zustand zu erreichen (Goal 2) und dafür Anerkennung/Vergütung zu bekommen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Tätigkeit nach extern gerichtet ist und in der Regel nach Vorgaben erfolgt.. Heteronom/Exzentrisch.
-
-...
-
-kneten: Material/Professions/Baker 2/3/Goal 2/aut/ecc
-Begründung: Das Verb bezieht sich auf die handwerkliche Tätigkeit des Knetens von Teig. Dabei übt man Kontrolle (2) über die Bewegung (3) aus, um einen gewünschten Zustand des Materials zu erreichen (Goal 2). Der Bäcker handelt selbstbestimmt (autonom), wirkt aber auf ein Objekt außerhalb seiner selbst ein (exzentrisch).. Autonom/Exzentrisch.`;
-
-        const verbData2 = `knicken: Material/Physical 3/2/Goal 3/het/ecc
-Begründung: Knicken beschreibt eine physikalische Bewegung (3), bei der Kontrolle (2) über ein Material ausgeübt wird, um eine bestimmte Wirkung (Goal 3) zu erzielen. Die Ausrichtung ist heteronom (abhängig von den Materialeigenschaften) und exzentrisch (nach außen gerichtet).. Heteronom/Exzentrisch.
-
-...
-
-zweifeln: Mental/Basic 5/Goal 5/aut/con
-Begründung: Zweifeln ist ein rein mentaler Prozess des Hinterfragens und Analysierens (5), der dem Ziel der Informationsgewinnung (Goal 5) dient. Der Prozess ist autonom (selbstbestimmt) und konzentrisch (nach innen gerichtet), da er vollständig im Geist des Akteurs stattfindet.. Autonom/Konzentrisch.`;
-
         document.addEventListener('DOMContentLoaded', function() {
-            // Variablen für die Verarbeitung
-            let verbEntries = [];             // Alle Verben
-            let uniqueVerbs = [];             // Alphabetische Liste der Verben 
-            let currentIndex = 0;             // Index des aktuell angezeigten Verbs
-            let searchTimeout;                // Timeout für die Sucheingabe
-            let lastSearchTerm = '';          // Letzter Suchbegriff
+            // Variablen und DOM-Elemente wie zuvor
             
-            // DOM-Elemente
-            const searchInput = document.getElementById('searchInput');
-            const searchButton = document.getElementById('searchButton');
-            const errorMessage = document.getElementById('errorMessage');
-            const suggestions = document.getElementById('suggestions');
-            const loadingIndicator = document.getElementById('loadingIndicator');
-            const displayArea = document.getElementById('displayArea');
-            const currentVerb = document.getElementById('currentVerb');
-            const codeDisplay = document.getElementById('codeDisplay');
-            const explanationDisplay = document.getElementById('explanationDisplay');
-            const firstButton = document.getElementById('firstButton');
-            const prevButton = document.getElementById('prevButton');
-            const nextButton = document.getElementById('nextButton');
-            const lastButton = document.getElementById('lastButton');
-            const formulaExplanation = document.getElementById('formulaExplanation');
+            // Dateinamen
+            const files = [
+                'Coded_Verb.txt',    // Erste Datei
+                'Coded_Verbs_B.txt'  // Zweite Datei
+            ];
             
-            // Erklärungen für die Zeichen
-            const symbolExplanations = {
-                "//": "// ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.",
-                "-": "- kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.",
-                "ADJ": "ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).",
-                "NO/": "NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.",
-                "NOT/": "NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.",
-                "CP/": "CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.",
-                "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
-            };
-            
-            // Initialisiere das System
+            // Initialisieren
             initSystem();
             
-            // Event-Listeners für Formel-Zusätze
-            document.querySelectorAll('.formula-item').forEach(item => {
-                item.addEventListener('click', function() {
-                    // Entferne aktive Klasse von allen Items
-                    document.querySelectorAll('.formula-item').forEach(i => {
-                        i.classList.remove('active');
-                    });
-                    
-                    // Füge aktive Klasse zum angeklickten Item hinzu
-                    this.classList.add('active');
-                    
-                    // Zeige die passende Erklärung an
-                    const symbol = this.getAttribute('data-symbol');
-                    formulaExplanation.textContent = symbolExplanations[symbol] || "Keine Erklärung verfügbar";
-                });
-            });
+            // Event-Listener für Formelelemente wie zuvor
             
-            function initSystem() {
+            // Laden der Daten aus allen Dateien
+            async function initSystem() {
+                loadingIndicator.style.display = 'block';
+                loadingIndicator.textContent = 'Lade Daten...';
+                
                 try {
-                    loadingIndicator.style.display = 'block';
-                    loadingIndicator.textContent = 'Lade Daten...';
+                    // Sammle alle Daten aus allen Dateien
+                    let allData = '';
                     
-                    // Hier werden die Daten aus den zwei fest eingebetteten Teilen verarbeitet
-                    const combinedData = verbData1 + '\n\n' + verbData2;
+                    // Dateien nacheinander laden
+                    for (let i = 0; i < files.length; i++) {
+                        const fileName = files[i];
+                        loadingIndicator.textContent = `Lade Datei ${i+1} von ${files.length}...`;
+                        
+                        try {
+                            // Datei laden mit Timeout
+                            const data = await fetchWithTimeout(fileName, 10000); // 10 Sekunden Timeout
+                            if (data) {
+                                allData += (allData ? '\n\n' : '') + data;
+                                console.log(`Datei ${fileName} erfolgreich geladen.`);
+                            }
+                        } catch (fileError) {
+                            console.error(`Fehler beim Laden der Datei ${fileName}:`, fileError);
+                            showError(`Fehler beim Laden der Datei ${fileName}: ${fileError.message}`);
+                            // Fahre trotz Fehler mit der nächsten Datei fort
+                        }
+                    }
                     
-                    // Verarbeite die Daten
-                    processVerbFile(combinedData);
+                    if (!allData) {
+                        throw new Error("Keine Daten konnten geladen werden.");
+                    }
+                    
+                    // Verarbeite die gesammelten Daten
+                    loadingIndicator.textContent = 'Verarbeite Daten...';
+                    processVerbFile(allData);
                     
                     // Zeige den ersten Eintrag, wenn verfügbar
                     if (verbEntries.length > 0) {
                         displayEntry(0);
                     }
                     
-                    // Aktiviere die Buttons
+                    // Aktualisiere Navigationselemente
                     updateNavButtons();
+                    
                 } catch (error) {
                     console.error("Fehler beim Initialisieren:", error);
                     showError("Fehler beim Laden der Daten: " + error.message);
@@ -138,127 +76,33 @@ Begründung: Zweifeln ist ein rein mentaler Prozess des Hinterfragens und Analys
                 }
             }
             
-            // Verarbeite die Verbdatei und strukturiere die Daten
-            function processVerbFile(text) {
-                // Zurücksetzen der aktuellen Daten
-                verbEntries = [];
-                uniqueVerbs = [];
+            // Fetch mit Timeout-Funktion
+            async function fetchWithTimeout(resource, timeoutMs) {
+                const controller = new AbortController();
+                const timeoutId = setTimeout(() => controller.abort(), timeoutMs);
                 
-                // Teile den Text in Blöcke auf (Leerzeilen als Trenner)
-                const blocks = text.split(/\n\s*\n/);
-                console.log(`Gefundene Textblöcke: ${blocks.length}`);
-                
-                // Temporäres Array für die Einträge
-                let tempEntries = [];
-                
-                // Verarbeite jeden Block (ein Block = ein Eintrag mit Begründung)
-                for (let blockIndex = 0; blockIndex < blocks.length; blockIndex++) {
-                    const block = blocks[blockIndex].trim();
-                    if (!block) continue; // Leere Blöcke überspringen
-                    
-                    const lines = block.split('\n');
-                    
-                    // Finde die Verb-Zeile (sollte die erste sein)
-                    let verbLine = null;
-                    let explanationLine = null;
-                    
-                    for (let i = 0; i < lines.length; i++) {
-                        const line = lines[i].trim();
-                        if (!line) continue;
-                        
-                        if (line.startsWith('Begründung:')) {
-                            explanationLine = line;
-                        } else if (line.includes(':')) {
-                            verbLine = line;
-                        }
-                    }
-                    
-                    if (verbLine) {
-                        const colonPos = verbLine.indexOf(':');
-                        const verb = verbLine.substring(0, colonPos).trim();
-                        const code = verbLine.substring(colonPos + 1).trim();
-                        
-                        // Extrahiere die Begründung, falls vorhanden
-                        let explanation = "";
-                        if (explanationLine) {
-                            explanation = explanationLine.substring('Begründung:'.length).trim();
-                        }
-                        
-                        // Füge den Eintrag hinzu
-                        tempEntries.push({
-                            verb: verb,
-                            code: code,
-                            explanation: explanation,
-                            blockIndex: blockIndex // Für die Sortierung
-                        });
-                    }
-                }
-                
-                // Der Rest des Codes bleibt unverändert...
-                // Gruppiere nach Verb und nummeriere
-                const verbGroups = {};
-                tempEntries.forEach(entry => {
-                    if (!verbGroups[entry.verb]) {
-                        verbGroups[entry.verb] = [];
-                    }
-                    verbGroups[entry.verb].push(entry);
-                });
-                
-                // Erstelle die finale Liste mit Bedeutungsnummern
-                uniqueVerbs = Object.keys(verbGroups).sort();
-                
-                uniqueVerbs.forEach((verb, verbIndex) => {
-                    // Sortiere nach der ursprünglichen Reihenfolge im Text
-                    const sortedEntries = verbGroups[verb].sort((a, b) => a.blockIndex - b.blockIndex);
-                    
-                    // Füge Bedeutungsnummern hinzu
-                    sortedEntries.forEach((entry, index) => {
-                        verbEntries.push({
-                            verb: entry.verb,
-                            code: entry.code,
-                            explanation: entry.explanation,
-                            meaningNumber: index + 1,
-                            totalMeanings: sortedEntries.length,
-                            verbIndex: verbIndex + 1 // 1-basierter Index des Verbs in der alphabetischen Liste
-                        });
+                try {
+                    const response = await fetch(resource, {
+                        signal: controller.signal
                     });
-                });
-                
-                console.log("Verarbeitung abgeschlossen");
-                console.log(`Gefundene Einträge: ${verbEntries.length}`);
-                console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
+                    
+                    clearTimeout(timeoutId);
+                    
+                    if (!response.ok) {
+                        throw new Error(`HTTP Fehler ${response.status}`);
+                    }
+                    
+                    return await response.text();
+                } catch (error) {
+                    clearTimeout(timeoutId);
+                    if (error.name === 'AbortError') {
+                        throw new Error('Zeitüberschreitung beim Laden der Datei');
+                    }
+                    throw error;
+                }
             }
             
-            // Der Rest Ihres JavaScript-Codes bleibt unverändert
-            
-            // Zeige einen Eintrag an
-            function displayEntry(index) {
-                // ... Ihr vorhandener Code ...
-            }
-            
-            // Navigation
-            function goToFirst() {
-                // ... Ihr vorhandener Code ...
-            }
-            
-            function goToLast() {
-                // ... Ihr vorhandener Code ...
-            }
-            
-            function goToPrevious() {
-                // ... Ihr vorhandener Code ...
-            }
-            
-            function goToNext() {
-                // ... Ihr vorhandener Code ...
-            }
-            
-            // Suche nach einem Verb
-            function searchVerb(term) {
-                // ... Ihr vorhandener Code ...
-            }
-            
-            // ... alle anderen Funktionen bleiben unverändert ...
+            // Rest Ihres Codes wie zuvor (processVerbFile, displayEntry, etc.)
         });
     </script>
 </body>
