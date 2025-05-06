@@ -4,11 +4,13 @@ Begründung: Mit Ultraschall untersuchen (3/5) um diagnostische Informationen zu
 ultraschallen: Material/Technological/Testing 3/5/Goal 5/het/ecc
 Begründung: In technischen Anwendungen: Mit Ultraschall ein Material oder Objekt auf Fehler prüfen (3/5), um Informationen über die innere Struktur zu erhalten (Goal 5). Auch hier bewegt der Akteur das Gerät (3), um sich zu informieren (5).. Heteronom/Exzentrisch.
 
+
 umarmen: Interpersonal/Physical 3/Goal 1/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zum Antagonisten, um Nähe/Verbundenheit zu erreichen (Goal 1). Die Aktivität ist autonom (aut), da der Akteur die Handlung selbst initiiert, und nach außen gerichtet (ecc), da sie auf eine andere Person zielt.. Autonom/Exzentrisch.
 
 umarmen: Interpersonal/Gesture 3/1/Goal 1/aut/ecc
 Begründung: In der erweiterten Bedeutung als Geste der Zuneigung bewegt sich der Akteur (3) zum Antagonisten und bekommt (1) körperlichen Kontakt, um Nähe/Verbundenheit zu erreichen (Goal 1). Die Umarmung ist ein aktiver körperlicher Kontakt, der sowohl Bewegung als auch das Bekommen von Nähe beinhaltet.. Autonom/Exzentrisch.
+
 
 umblicken: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Umblicken bedeutet, dass der Akteur seinen Blick bewegt (3) mit dem Ziel, sich zu informieren (5/Goal 5). Der Vorgang ist heteronom und nach außen gerichtet (het/ecc), da der Akteur seinen Blick der Umgebung anpasst und nach externen Informationen sucht.. Heteronom/Exzentrisch.
@@ -19,17 +21,20 @@ Begründung: Im Sicherheitskontext bedeutet umblicken, dass der Akteur seinen Bl
 umblicken: Interpersonal 3/5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet umblicken, dass der Akteur seinen Blick bewegt (3), um nach Personen zu schauen und Kontakt zu suchen oder zu prüfen (5/Goal 5).. Heteronom/Exzentrisch.
 
+
 umbringen: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Umbringen bedeutet, dass der Akteur gezielt eine Bewegung/Aktion (3) ausführt und dadurch (1) eine Wirkung erzielt (Goal 3), deren Ziel es ist, einen gewünschten Zustand für sich herzustellen (Goal 2), was gleichzeitig dem Antagonisten das Leben nimmt (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt und nach außen auf den Antagonisten gerichtet handelt.. Autonom/Exzentrisch.
 
 umbringen: Material/Criminal/Activities 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im kriminellen Kontext bedeutet umbringen, dass der Akteur durch gezielte Bewegung/Handlung (3) eine tödliche Wirkung bewirkt (1), um ein bestimmtes Ziel zu erreichen (Goal 3) und einen gewünschten Zustand herzustellen (Goal 2), wodurch dem Antagonisten das Leben genommen wird (//Goal -2).. Autonom/Exzentrisch.
 
+
 umgarnen: Interpersonal/Strategy 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt (3) und sucht Kontakt (5), um eine Wirkung auf den Antagonisten zu erzielen (Goal 3) mit dem höheren Ziel, diesen für sich zu gewinnen und Einfluss/Kontrolle zu erlangen (Goal 2). Die Ausrichtung ist autonom (vom Akteur bestimmt) und exzentrisch (auf den Antagonisten im Außen gerichtet).. Autonom/Exzentrisch.
 
 umgarnen: Material/Textile 2/3/Goal 2/aut/ecc
 Begründung: In der ursprünglichen, stofflichen Bedeutung: Der Akteur verfügt/kontrolliert (2) durch Bewegung/Anstreben (3), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich etwas mit Garn umwickeln. Die Ausrichtung ist autonom und exzentrisch.. Autonom/Exzentrisch.
+
 
 umgehen: Material/Movement 3/Goal 2/aut/ecc
 Begründung: Umgehen bedeutet, sich um ein Hindernis herum zu bewegen (3), um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur bewegt sich selbstbestimmt (aut) im Außenbereich (ecc), um ein Objekt zu umrunden oder ein Hindernis zu vermeiden.. Autonom/Exzentrisch.
@@ -43,6 +48,7 @@ Begründung: Als 'mit jemandem umgehen' bedeutet es, sich zu einer Person hin zu
 umgehen: Material/Handling 2/3/Goal 2/aut/ecc
 Begründung: In der Bedeutung 'mit etwas umgehen können' bestimmt der Akteur (2) die Bewegung (3) in Bezug auf ein Objekt, um einen gewünschten Zustand herzustellen (Goal 2). Dies bezieht sich auf die Fähigkeit, etwas geschickt zu handhaben oder zu nutzen.. Autonom/Exzentrisch.
 
+
 umhauen: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich aggressiv (3) und bekommt (1) einen gewünschten Zustand (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten verhindert (//Goal -2), indem er ihn zum Fallen bringt. Der Akteur handelt autonom und exzentrisch (aut/ecc).. Autonom/Exzentrisch.
 
@@ -54,6 +60,14 @@ Begründung: Im übertragenen Sinne: Der Akteur beeindruckt (3) und bekommt (1) 
 
 umhauen: Material/Forestry 3/1/Goal 2/aut/ecc
 Begründung: Im Kontext des Baumfällens: Der Akteur bewegt sich (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er einen Baum fällt. Hier gibt es keinen Antagonisten, daher kein //.. Autonom/Exzentrisch.
+
+
+umkämpfen: Fight/Competition 3/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt sich aggressiv/intensiv (3) um einen gewünschten Zustand zu erreichen (Goal 2), während gleichzeitig die Ziele des Antagonisten bekämpft werden (//Goal -2). Dies ist ein autonom-exzentrischer Prozess (aut/ecc), da der Akteur selbstbestimmt agiert und nach außen auf den Gegner einwirkt. In einem Kampf/Wettbewerb strebt der Akteur aktiv nach Erfolg/Sieg und bekämpft gleichzeitig die Erfolgsbestrebungen des Gegners.. Autonom/Exzentrisch.
+
+umkämpfen: Fight/War 3/Goal 3//Goal -3/aut/ecc
+Begründung: Im militärischen Kontext bedeutet umkämpfen, mit Bewegung/Anstreben (3) eine Wirkung zu erzielen (Goal 3), während die Wirkung des Feindes verhindert wird (//Goal -3). Es geht darum, ein Gebiet zu erobern oder zu verteidigen und dabei die gegnerischen Kräfte zurückzudrängen.. Autonom/Exzentrisch.
+
 
 umklammern: Interpersonal/Physical 3/Goal 1/aut/ecc
 Begründung: Umklammern bedeutet, jemanden fest zu umfassen oder festzuhalten, wobei der Akteur eine Bewegung (3) ausführt, um Nähe zum Antagonisten zu erreichen (Goal 1). Dies geschieht selbstbestimmt (aut) und ist nach außen auf den Antagonisten gerichtet (ecc).. Autonom/Exzentrisch.
@@ -67,11 +81,6 @@ Begründung: Im Verteidigungskontext bedeutet umklammern, etwas zu fixieren oder
 umklammern: Interpersonal/Psychological 2/3/1/Goal 2/Goal 1/aut/ecc
 Begründung: Im psychologischen Sinne bedeutet umklammern, jemanden emotional festzuhalten (2/3), verbunden mit dem Bekommen (1) von Kontrolle (Goal 2) und emotionaler Nähe (Goal 1).. Autonom/Exzentrisch.
 
-umkämpfen: Fight/Competition 3/Goal 2//Goal -2/aut/ecc
-Begründung: Der Akteur bewegt sich aggressiv/intensiv (3) um einen gewünschten Zustand zu erreichen (Goal 2), während gleichzeitig die Ziele des Antagonisten bekämpft werden (//Goal -2). Dies ist ein autonom-exzentrischer Prozess (aut/ecc), da der Akteur selbstbestimmt agiert und nach außen auf den Gegner einwirkt. In einem Kampf/Wettbewerb strebt der Akteur aktiv nach Erfolg/Sieg und bekämpft gleichzeitig die Erfolgsbestrebungen des Gegners.. Autonom/Exzentrisch.
-
-umkämpfen: Fight/War 3/Goal 3//Goal -3/aut/ecc
-Begründung: Im militärischen Kontext bedeutet umkämpfen, mit Bewegung/Anstreben (3) eine Wirkung zu erzielen (Goal 3), während die Wirkung des Feindes verhindert wird (//Goal -3). Es geht darum, ein Gebiet zu erobern oder zu verteidigen und dabei die gegnerischen Kräfte zurückzudrängen.. Autonom/Exzentrisch.
 
 umlernen: Material/Education 3/5/2/Goal 5/het/ecc
 Begründung: Umlernen bedeutet, dass der Akteur eine Bewegung/Anstreben (3) bezüglich Informationen (5) vollzieht, um bestehende Kenntnisse/Fertigkeiten zu verändern und neu zu verfügen (2), mit dem Ziel, über aktualisiertes Wissen zu verfügen (Goal 5). Der Prozess ist heteronom/exzentrisch, da der Akteur sich an externe Informationen anpassen muss.. Heteronom/Exzentrisch.
@@ -79,11 +88,13 @@ Begründung: Umlernen bedeutet, dass der Akteur eine Bewegung/Anstreben (3) bez�
 umlernen: Material/Skills 3/5/2/Goal 2/het/ecc
 Begründung: In einem praktischen Kontext bedeutet umlernen, bestehende Fertigkeiten (2) durch neue Bewegungsabläufe/Methoden (3) und Informationsaufnahme (5) zu ändern, um einen neuen gewünschten Zustand der Befähigung zu erreichen (Goal 2). Der Fokus liegt hier auf der praktischen Fertigkeit als Endzustand, nicht primär auf dem Wissen.. Heteronom/Exzentrisch.
 
+
 umnähen: Material/Tailoring 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt etwas (3), um einen gewünschten Zustand (Goal 2) zu erreichen, indem er mit Nadel und Faden etwas mit Nähten umgibt. Es handelt sich um eine autonome, nach außen gerichtete Tätigkeit (aut/ecc), da der Akteur selbstbestimmt ein Objekt verändert.. Autonom/Exzentrisch.
 
 umnähen: Material/Medical 3/Goal 2/aut/ecc
 Begründung: Im medizinischen Kontext bedeutet umnähen das chirurgische Umgeben von Gewebe mit Nähten, wobei der Arzt etwas bewegt (3), um einen gewünschten Zustand (Goal 2) für den Patienten zu erreichen.. Autonom/Exzentrisch.
+
 
 umpacken: Material/Packaging 2/3/Goal 2/aut/ecc
 Begründung: Umpacken bedeutet, dass der Akteur bestimmt/verfügt (2) über bewegliche Objekte, indem er sie bewegt/anstrebt (3), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich die Neuanordnung oder Umverpackung der Objekte. Diese Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Objekte im Außenbereich manipuliert.. Autonom/Exzentrisch.
@@ -91,11 +102,13 @@ Begründung: Umpacken bedeutet, dass der Akteur bestimmt/verfügt (2) über bewe
 umpacken: Material/Storage 2/3/Goal 2/aut/ecc
 Begründung: In einem Lagerkontext bedeutet umpacken, dass man bestimmt/verfügt (2) über Lagergüter, indem man sie bewegt/anstrebt (3), um sie in eine andere Lagerform oder -position zu bringen, was zu einem gewünschten Zustand (Goal 2) führt. Diese spezifische Bedeutung betont den Aspekt der Neuordnung für Lagerzwecke.. Autonom/Exzentrisch.
 
+
 umpflanzen: Material/Garden 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt (3) eine Pflanze, um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich die Pflanze an einem neuen Standort einzusetzen. Diese Tätigkeit erfordert eine autonome, nach außen gerichtete Handlung (aut/ecc), da der Akteur selbstbestimmt und aktiv die Pflanze in eine neue Umgebung versetzt.. Autonom/Exzentrisch.
 
 umpflanzen: Material/Plants 2/3/Goal 2/aut/ecc
 Begründung: In einem allgemeineren botanischen Kontext bedeutet umpflanzen, dass der Akteur bestimmt (2) und eine Pflanze bewegt (3), um einen neuen gewünschten Zustand zu erreichen (Goal 2), beispielsweise für besseres Wachstum oder zur Umgestaltung einer Bepflanzung.. Autonom/Exzentrisch.
+
 
 umprogrammieren: Material/IT/Programming 2/3/Goal 2/aut/ecc
 Begründung: Das Umprogrammieren bedeutet, dass der Akteur bestimmt (2) und durch aktive Bearbeitung/Transformation (3) eine Software oder ein System verändert, um einen gewünschten neuen Zustand zu erreichen (Goal 2). Der Akteur verfügt über den Code und bewegt/transformiert ihn autonom (aut) mit einer Wirkung nach außen (ecc).. Autonom/Exzentrisch.
@@ -106,11 +119,13 @@ Begründung: Im übertragenen Sinne bedeutet 'jemanden umprogrammieren', dass de
 umprogrammieren: Material/Technological 2/3/Goal 2/aut/ecc
 Begründung: Bei technischen Geräten oder Steuerungssystemen (außerhalb der IT im engeren Sinne) bedeutet umprogrammieren, dass der Akteur bestimmend (2) durch aktive Veränderung (3) die Funktionsweise neu konfiguriert, um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 umräumen: Material/Furniture 2/3/Goal 2/aut/ecc
 Begründung: Umräumen bedeutet, über Möbel und andere Einrichtungsgegenstände zu verfügen (2) und diese zu bewegen (3), um einen gewünschten Zustand der Raumanordnung zu erreichen (Goal 2). Der Akteur handelt dabei selbstbestimmt (aut) und wirkt auf Gegenstände in seiner Umgebung ein (ecc).. Autonom/Exzentrisch.
 
 umräumen: Material/Tidiness 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Im Kontext von Ordnung schaffen bedeutet umräumen, über Gegenstände zu verfügen (2) und diese zu bewegen (3), um sowohl einen gewünschten Ordnungszustand herzustellen (Goal 2) als auch eine bessere Informationsübersicht oder Zugänglichkeit zu ermöglichen (Goal 5).. Autonom/Exzentrisch.
+
 
 umrühren: Material/Food/Cooking 2/3/Goal 2/aut/ecc
 Begründung: Beim Umrühren verfügt der Akteur (2) über ein Kochutensil oder seine Hand und bewegt (3) dieses durch eine Flüssigkeit oder Masse, um einen gewünschten Zustand (Goal 2) zu erreichen, z.B. eine gleichmäßige Konsistenz. Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur die Kontrolle hat und die Bewegung in einem Medium außerhalb seiner selbst stattfindet.. Autonom/Exzentrisch.
@@ -118,11 +133,13 @@ Begründung: Beim Umrühren verfügt der Akteur (2) über ein Kochutensil oder s
 umrühren: Material/Fluids/Process 2/3/Goal 2/aut/ecc
 Begründung: In einem allgemeineren Kontext der Flüssigkeitsbearbeitung ist Umrühren das Verfügen (2) über ein Werkzeug und das Bewegen (3) von Flüssigkeiten zur Erreichung eines gewünschten Zustands (Goal 2), etwa eine Durchmischung oder Auflösung von Substanzen. Auch hier ist die Handlung autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 umrüsten: Material/Technical 2/3/Goal 2/aut/ecc
 Begründung: Umrüsten bedeutet, bestehende Ausrüstung oder technische Einrichtungen zu modifizieren, um sie für einen anderen Zweck oder eine verbesserte Funktion nutzbar zu machen. Der Akteur verfügt (2) über die technische Ausrüstung und führt Veränderungen durch Bewegung/Anstreben (3) aus, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Veränderung an einem externen Objekt vornimmt.. Autonom/Exzentrisch.
 
 umrüsten: Material/Military 2/3/Goal 2/Goal 3/aut/ecc
 Begründung: Im militärischen Kontext bedeutet umrüsten, Waffen, Ausrüstung oder Fahrzeuge für einen anderen Einsatzzweck neu zu konfigurieren. Der Akteur verfügt (2) über die militärische Ausrüstung und führt Veränderungen durch (3), um sowohl einen gewünschten Zustand (Goal 2) als auch eine verbesserte Wirkungsfähigkeit (Goal 3) zu erreichen.. Autonom/Exzentrisch.
+
 
 umschalten: Material/Electrical 2/1/Goal 2/aut/con
 Begründung: Der Akteur verfügt/bestimmt (2) über einen Schalter und bewirkt durch minimale Bewegung ein Bekommen (1) eines neuen Zustands (Goal 2), typischerweise bei einem elektrischen Gerät. Dabei ist der Akteur selbstbestimmt (aut) und agiert in seinem Kontrollbereich (con).. Autonom/Konzentrisch.
@@ -136,6 +153,7 @@ Begründung: Beim Fernsehen bedeutet umschalten das Verfügen (2) über den Fern
 umschalten: Interpersonal/Psychological 2/3/Goal 2/aut/con
 Begründung: Im übertragenen psychologischen Sinne bedeutet umschalten das bewusste Ändern (2) der eigenen Denkweise oder Einstellung (3), um einen neuen mentalen Zustand zu erreichen (Goal 2). Dies geschieht selbstbestimmt (aut) im eigenen Kontrollbereich (con).. Autonom/Konzentrisch.
 
+
 umschauen: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Umschauen bedeutet, dass der Akteur sich bewegend (3) in seiner Umgebung nach Informationen sucht (5), mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Gegebenheiten der Umgebung anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -145,11 +163,13 @@ Begründung: In zwischenmenschlicher Bedeutung kann umschauen bedeuten, dass man
 umschauen: Material/Observation 3/5/Goal 5/Goal 2/het/ecc
 Begründung: In einem sicherheitsorientierten Kontext bedeutet umschauen, dass man sich bewegend (3) nach Informationen umsieht (5), mit dem Ziel informiert zu sein (Goal 5) und einen gewünschten Zustand (Sicherheit, Orientierung) herzustellen (Goal 2).. Heteronom/Exzentrisch.
 
+
 umschichten: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Umschichten bedeutet, dass der Akteur bestimmt (2) über die Bewegung/Anordnung (3) von Objekten, um sie in einen neuen gewünschten Zustand (Goal 2) zu bringen. Der Akteur handelt dabei autonom (aut) und wirkt nach außen (ecc), indem er Objekte in eine neue Anordnung bringt.. Autonom/Exzentrisch.
 
 umschichten: Material/Finance 2/3/Goal 2/aut/ecc
 Begründung: Im finanziellen Kontext bedeutet umschichten, dass der Akteur bestimmt (2) über die Bewegung (3) von Geldanlagen oder Vermögenswerten, um sie in eine neue gewünschte Struktur oder Aufteilung (Goal 2) zu bringen. Der Akteur verfügt dabei autonom (aut) über Finanzmittel und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
 
 umschleichen: Material/Military/Stealth 3/5/Goal 3/het/ecc
 Begründung: Umschleichen bedeutet, sich vorsichtig und heimlich um etwas oder jemanden herum zu bewegen (3), um dabei Informationen zu sammeln (5), mit dem Ziel, eine bestimmte Wirkung zu erzielen oder ein Ziel zu erreichen (Goal 3). Die Aktivität erfordert Anpassung an die Umgebung (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
@@ -160,6 +180,7 @@ Begründung: Im Kontext von Ermittlungen oder Überwachung bedeutet umschleichen
 umschleichen: Interpersonal/Pursuit 3/5/Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext kann umschleichen bedeuten, dass jemand eine andere Person heimlich umkreist (3) und beobachtet (5), um ihr näher zu kommen (Goal 1) - wie bei einer Person, die versucht, Kontakt oder Nähe zu einer anderen herzustellen, ohne direkt auf sie zuzugehen.. Heteronom/Exzentrisch.
 
+
 umschlingen: Material/Entanglement 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) einen Kontakt mit einem Objekt, um einen gewünschten Zustand der Umschlingung (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er aktiv etwas mit seinen Armen/Händen umschlingt.. Autonom/Exzentrisch.
 
@@ -169,11 +190,13 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet umschlingen, dass der Akte
 umschlingen: Material/Rope 2/3/Goal 2/aut/ecc
 Begründung: In handwerklichem Kontext bedeutet umschlingen das bestimmende (2) Bewegen (3) eines Seils oder einer Schnur um ein Objekt, um einen gewünschten Zustand der Befestigung zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 umschmeicheln: Interpersonal/Persuasion 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Umschmeicheln bedeutet, dass der Akteur mit bewegter (3) Zuwendung eine Leistung (4) für den Antagonisten erbringt, indem er ihm (1) Schmeicheleien als Informationen (5) gibt, wodurch der Antagonist in einen nicht rationalen Zustand (Goal -2) versetzt wird. Nach dem Umschalter (//), der zurück zum Akteur führt, wird deutlich, dass das eigentliche Ziel des Akteurs ist, eine Wirkung (Goal 3) zu erzielen, nämlich den Antagonisten zu beeinflussen und für eigene Zwecke gefügig zu machen.. Autonom/Exzentrisch.
 
 umschmeicheln: Interpersonal/Deception 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In dieser Bedeutungsvariante nutzt der Akteur Schmeicheleien strategisch, um den Antagonisten zu manipulieren und einen bestimmten gewünschten Zustand (Goal 2) zu erreichen, etwa eine Zusage oder Einwilligung zu erhalten. Der Schwerpunkt liegt hier auf dem konkreten Ergebnis statt nur auf der Wirkungserzielung.. Autonom/Exzentrisch.
+
 
 umschreiben: Material/Creative/Writing 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) einen Text und bearbeitet ihn durch Bewegung/Anstreben (3), um einen neuen, umformulierten (gewünschten) Zustand zu erreichen (Goal 2). Der Akteur gestaltet den Text um, indem er ihn mit anderen Worten neu formuliert.. Autonom/Exzentrisch.
@@ -183,6 +206,7 @@ Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen durch Geben (4/1
 
 umschreiben: Material/Measurement 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) um einen Gegenstand herum, um Informationen (5) zu gewinnen und dadurch informiert zu sein (Goal 5). Dies bezieht sich auf das buchstäbliche Umschreiben eines Objekts im Sinne von 'herumschreiben', um es zu vermessen oder zu erfassen.. Autonom/Exzentrisch.
+
 
 umsehen: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Beim Umsehen bewegt sich der Akteur (3) mit dem Ziel, Informationen (5) zu erhalten und dadurch informiert zu sein (Goal 5). Der Akteur passt sich dabei an die Umgebung an und ist nach außen gerichtet (het/ecc), da die Informationen aus der Umwelt aufgenommen werden.. Heteronom/Exzentrisch.
@@ -195,6 +219,7 @@ Begründung: Im sozialen Kontext bedeutet 'sich umsehen' das Suchen nach Kontakt
 
 umsehen: Material/Search 3/5/Goal 3/het/ecc
 Begründung: Im Sinne von 'nach etwas Bestimmtem Ausschau halten' bewegt der Akteur seinen Blick (3), nimmt Informationen auf (5), um eine spezifische Destination/ein Objekt zu erreichen (Goal 3).. Heteronom/Exzentrisch.
+
 
 umsetzen: Material/Process 3/Goal 2/aut/ecc
 Begründung: Umsetzen bedeutet, etwas zu bewegen/anzustreben (3), um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur bewegt dabei Objekte, Personen oder Ideen autonom (aut) in die Umwelt (ecc), um eine Veränderung zu bewirken.. Autonom/Exzentrisch.
@@ -211,11 +236,13 @@ Begründung: Im geschäftlichen Kontext bedeutet umsetzen, durch zielgerichtete 
 umsetzen: Material/Plants 3/1/Goal 2/aut/ecc
 Begründung: Im gärtnerischen Kontext bedeutet umsetzen, eine Pflanze zu bewegen (3) und an einem neuen Ort einzupflanzen (1), um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 umsorgen: Interpersonal/Support 4/1/Goal 1//Goal 4/het/ecc
 Begründung: Beim Umsorgen leistet der Akteur (4) für den Antagonisten, indem er ihm etwas gibt (1), damit der Antagonist Nähe und Fürsorge bekommt (Goal 1). Der Akteur tut dies, um selbst Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist heteronom/ekzentrisch, da der Akteur sich den Bedürfnissen des Antagonisten anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
 
 umsorgen: Material/Parenting 4/1/Goal 2//Goal 4/het/ecc
 Begründung: Im Kontext der Eltern-Kind-Beziehung oder Pflege bedeutet umsorgen, dass der Akteur fürsorglich etwas gibt/bereitstellt (4/1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2) wie z.B. Sicherheit oder Wohlbefinden. Der Akteur erhält dafür Anerkennung (//Goal 4).. Heteronom/Exzentrisch.
+
 
 umsteigen: Material/Transportation 2/3/Goal 3/het/ecc
 Begründung: Der Akteur verfügt (2) über die Bewegung zum Wechseln des Verkehrsmittels (3), um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Fahrpläne und Verkehrssysteme anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
@@ -226,6 +253,7 @@ Begründung: Im Sinne des Berufswechsels verfügt der Akteur (2) über seinen Ka
 umsteigen: Material/IT/Process 2/3/Goal 2/het/ecc
 Begründung: Im IT-Kontext bedeutet umsteigen den Wechsel zu einem anderen System oder einer anderen Software. Der Akteur verfügt (2) über den Wechselprozess und bewegt sich (3) zu einer neuen Technologie, um einen gewünschten Zustand zu erreichen (Goal 2). Die heteronome Ausrichtung ergibt sich aus der Anpassung an die Anforderungen des neuen Systems.. Heteronom/Exzentrisch.
 
+
 umstellen: Material/Positioning 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt (3) Objekte, um einen gewünschten Zustand (Goal 2) zu erreichen, typischerweise durch Neuanordnung von Gegenständen. Dies geschieht selbstbestimmt (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
 
@@ -235,17 +263,20 @@ Begründung: In einem taktischen Kontext bedeutet umstellen, dass der Akteur bes
 umstellen: Material/Adaptation 2/3/Goal 2/aut/con
 Begründung: Im Sinne von 'etwas umstellen' auf eine andere Funktionsweise: Der Akteur verfügt (2) über etwas und verändert dessen Konfiguration (3), um einen neuen gewünschten Funktionszustand zu erreichen (Goal 2). Die Änderung findet innerhalb seines Kontrollbereichs statt (aut/con).. Autonom/Konzentrisch.
 
+
 umstimmen: Interpersonal/Persuasion 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bestimmt (2) und beeinflusst durch Bewegung/Anstreben (3) den Antagonisten, um einen gewünschten Zustand zu erreichen (Goal 2), nämlich dass der Antagonist seine ursprüngliche Position/Meinung aufgibt (//Goal -2). Es handelt sich um einen autonomen, nach außen gerichteten Prozess (aut/ecc), bei dem der Akteur aktiv versucht, die Einstellung des Antagonisten zu verändern.. Autonom/Exzentrisch.
 
 umstimmen: Material/Music 2/3/Goal 2/aut/ecc
 Begründung: In der musikalischen Bedeutung: Der Akteur bestimmt (2) und bewegt (3) etwas (z.B. die Stimmschraube eines Instruments), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass das Instrument eine andere Tonhöhe erhält. Hier gibt es keinen Antagonisten, daher kein //, und die Handlung ist autonom nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 umstrukturieren: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Beim Umstrukturieren bestimmt/verfügt der Akteur (2) über eine Bewegung/Transformation (3), um einen gewünschten neuen Zustand (Goal 2) zu erreichen. Der Akteur handelt dabei autonom (aut) und die Aktivität ist nach außen gerichtet (ecc), da bestehende Strukturen verändert werden. Umstrukturieren bedeutet, dass der Akteur selbstbestimmt die Anordnung von Elementen in einem System ändert, um eine bessere oder effizientere Struktur zu schaffen.. Autonom/Exzentrisch.
 
 umstrukturieren: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet Umstrukturieren, dass ein Akteur (z.B. Management) bestimmt/verfügt (2) über die Bewegung/Transformation (3) von Abteilungen oder Prozessen, um einen gewünschten Zustand (Goal 2) zu erreichen und letztendlich die Wirtschaftlichkeit zu verbessern (Goal 4). Der Akteur handelt autonom und die Aktivität ist nach außen gerichtet.. Autonom/Exzentrisch.
+
 
 umstürzen: Material/Physical/Position 3/Goal -2/het/ecc
 Begründung: Eine Bewegung (3), die dazu führt, dass ein Objekt seine aufrechte Position verliert und in einen unerwünschten Zustand (Goal -2) gerät. Dies geschieht durch externe Einflüsse (het) und wirkt nach außen (ecc), da das Objekt seinen Zustand in der Umwelt verändert.. Heteronom/Exzentrisch.
@@ -256,11 +287,13 @@ Begründung: Im politischen Sinne bezeichnet 'umstürzen' eine Bewegung/Anstrebe
 umstürzen: Material/Accident 3/Goal -3/het/ecc
 Begründung: Als unbeabsichtigtes Ereignis bezeichnet 'umstürzen' eine Bewegung (3), die zu einer unerwünschten Wirkung (Goal -3) führt. Der Akteur ist dabei von äußeren Umständen bestimmt (het) und die Wirkung ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 umverteilen: Material/Distribution 2/3/Goal 2/aut/ecc
 Begründung: Umverteilen bedeutet, dass der Akteur bestimmt (2), wie Ressourcen oder Güter neu bewegt/angeordnet werden (3), um einen gewünschten Zustand der Verteilung zu erreichen (Goal 2). Der Akteur hat dabei die Verfügungsgewalt über die zu verteilenden Ressourcen und agiert autonom nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
 umverteilen: Material/Economics 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: In einem wirtschaftlich-politischen Kontext bedeutet umverteilen, dass der Akteur bestimmt (2), wie Ressourcen oder Vermögen neu bewegt werden (3), um einen gewünschten Zustand zu erreichen (Goal 2), wobei dies gleichzeitig gegen die Besitzinteressen bestimmter Antagonisten gerichtet ist (//Goal -2).. Autonom/Exzentrisch.
+
 
 umwandeln: Material/Transformation 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/verändert (3) ein Objekt oder Material, um einen neuen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Aktivität (aut/ecc), bei der etwas in eine andere Form gebracht wird.. Autonom/Exzentrisch.
@@ -271,17 +304,20 @@ Begründung: In einem chemischen Kontext bedeutet umwandeln, dass der Akteur dur
 umwandeln: Material/Financial-Transactions 2/3/Goal 2/aut/ecc
 Begründung: Im finanziellen Kontext bedeutet umwandeln, dass der Akteur verfügt (2) über eine Geldanlage oder Währung und verändert diese (3), um einen anderen gewünschten Zustand (Goal 2) zu erreichen, z.B. eine Währung in eine andere umtauschen.. Autonom/Exzentrisch.
 
+
 umweltschützen: Material/Environmental 2/3/Goal 2/aut/ecc
 Begründung: Umweltschützen bedeutet, dass der Akteur bestimmt/verfügt (2) und Maßnahmen ergreift/bewegt (3), um einen gewünschten Zustand der Umwelt (Goal 2) zu erreichen. Dies geschieht autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf die Umwelt einwirkt.. Autonom/Exzentrisch.
 
 umweltschützen: Material/Environmental/Protection 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: In einem erweiterten Verständnis bedeutet Umweltschützen auch, dass der Akteur bestimmt (2) und Maßnahmen ergreift (3), um einen gewünschten Zustand der Umwelt (Goal 2) herbeizuführen und gleichzeitig schädliche Einwirkungen (//Goal -3) auf die Umwelt zu bekämpfen, die von antagonistischen Kräften wie Umweltverschmutzung oder Ressourcenausbeutung ausgehen.. Autonom/Exzentrisch.
 
+
 umwerben: Interpersonal 3/Goal 3/Goal 1/aut/ecc
 Begründung: Umwerben bedeutet, dass der Akteur durch gezieltes Zugehen/Bewegen (3) auf einen Antagonisten eine Wirkung erzielen will (Goal 3), mit dem höheren Ziel, Nähe zu bekommen (Goal 1). Der Akteur geht dabei selbstbestimmt (aut) und nach außen gerichtet (ecc) vor, um die Person, die umworben wird, für sich zu gewinnen.. Autonom/Exzentrisch.
 
 umwerben: Material/Business/Marketing 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet 'umwerben', dass ein Unternehmen durch Bewegung (3) und Informationsvermittlung (5) eine Wirkung bei potenziellen Kunden erzielt (Goal 3), um den gewünschten Zustand von Kundenbindung/Kundengewinn zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 umwerfen: Material/Physical 3/1/Goal -3/het/ecc
 Begründung: Umwerfen bedeutet, dass der Akteur durch eine Bewegung (3) eine unbeabsichtigte Wirkung (Goal -3) bekommt (1), bei der etwas umfällt oder umkippt. Die Ausrichtung ist heteronom (het), da der Akteur nicht die volle Kontrolle über den Prozess hat, und exzentrisch (ecc), da die Wirkung im Außenbereich stattfindet.. Heteronom/Exzentrisch.
@@ -295,6 +331,7 @@ Begründung: Im übertragenen Sinne bedeutet jemanden umwerfen, dass der Akteur 
 umwerfen: Material/Clothing 3/1/Goal 2/aut/ecc
 Begründung: In Bezug auf Kleidung bedeutet umwerfen, etwas Zusätzliches über die normale Kleidung zu legen. Der Akteur bewegt (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er z.B. einen Mantel oder Umhang umwirft. Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 umziehen: Material/Housing 3/1/Goal 2/het/ecc
 Begründung: Umziehen bedeutet, seine Wohngegenstände zu bewegen (3) und dadurch einen neuen Wohnort zu bekommen (1), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei man sich an externe Gegebenheiten anpassen muss (het/ecc).. Heteronom/Exzentrisch.
 
@@ -304,17 +341,20 @@ Begründung: In der Bedeutung 'Kleidung wechseln' bedeutet umziehen, dass der Ak
 umziehen: Material/Social-Activities 3/Goal 3/aut/ecc
 Begründung: In der Bedeutung 'um etwas herumziehen' (z.B. bei einer Prozession) bedeutet umziehen, dass eine Bewegung (3) durchgeführt wird, um eine bestimmte Wirkung oder ein Ziel zu erreichen (Goal 3).. Autonom/Exzentrisch.
 
+
 umzingeln: Material/Fight/Strategy 3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich oder andere (3) um einen gewünschten Zustand der Kontrolle herzustellen (Goal 2), wodurch die Bewegungsfreiheit des Antagonisten eingeschränkt wird (//Goal -3). Der Akteur handelt selbstbestimmt (aut) mit Ausrichtung nach außen (ecc).. Autonom/Exzentrisch.
 
 umzingeln: Material/Military/Positioning 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im militärischen Kontext bedeutet umzingeln, strategisch bestimmend (2) Truppen zu bewegen (3), um einen Gegner zu kontrollieren (Goal 2) und dessen Bewegungsfreiheit einzuschränken (//Goal -3).. Autonom/Exzentrisch.
 
+
 universalisieren: Material/Standardization 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegen/Anstreben (3) die Transformation von etwas Spezifischem zu etwas Allgemeingültigem, um einen gewünschten Zustand der Vereinheitlichung/Allgemeingültigkeit zu erreichen (Goal 2). Die Ausrichtung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur aktiv und selbstbestimmt Konzepte oder Prinzipien auf breitere Anwendungsbereiche überträgt.. Autonom/Exzentrisch.
 
 universalisieren: Material/Philosophy 3/5/Goal 5/aut/ecc
 Begründung: Im philosophischen Kontext bedeutet universalisieren, Ideen oder Konzepte zu untersuchen (3/5), um sie auf eine allgemeinere Ebene zu heben und ihre universelle Gültigkeit zu bestimmen, mit dem Ziel, allgemeine Erkenntnisse zu gewinnen (Goal 5). Hier steht der informationelle Aspekt im Vordergrund.. Autonom/Exzentrisch.
+
 
 unter Druck setzen: Interpersonal/Psychological 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Jemanden 'unter Druck setzen' bedeutet, dass der Akteur bestimmt (2) und mit Machtausübung/Zwang (3) seinen eigenen Willen durchsetzt (Goal 2), während gleichzeitig die Handlungsfreiheit/das Wohlbefinden des Antagonisten eingeschränkt wird (//Goal -3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), um gezielt Druck auf eine andere Person auszuüben.. Autonom/Exzentrisch.
@@ -325,6 +365,7 @@ Begründung: Im technischen Kontext bedeutet 'unter Druck setzen' das bewusste B
 unter Druck setzen: Material/Fight/Competition 3/Goal 3//Goal -2/aut/ecc
 Begründung: Im Wettbewerbskontext bedeutet 'unter Druck setzen', dass der Akteur durch aggressives Vorgehen (3) eine Wirkung erzielt (Goal 3), die den gewünschten Zustand des Gegners verhindert (//Goal -2), etwa im Sport oder Geschäftsleben.. Autonom/Exzentrisch.
 
+
 unterbinden: Material/Fight/Obstruction 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Unterbinden bedeutet, dass der Akteur bestimmt/kontrolliert (2) durch Bewegung/Eingreifen (3) einen gewünschten Zustand herzustellen (Goal 2), nämlich dass ein Vorgang nicht stattfindet, wobei gleichzeitig ein Ziel/eine Bewegung des Antagonisten verhindert wird (//Goal -3). Die autonome, nach außen gerichtete Ausrichtung (aut/ecc) zeigt, dass der Akteur selbstbestimmt handelt und auf etwas außerhalb seiner selbst einwirkt.. Autonom/Exzentrisch.
 
@@ -333,6 +374,7 @@ Begründung: Im medizinischen Kontext bedeutet unterbinden das Abbinden eines Bl
 
 unterbinden: Interpersonal/Control 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet unterbinden, dass der Akteur bestimmt/kontrolliert (2) durch Eingreifen (3) einen gewünschten Zustand herzustellen (Goal 2), wodurch er die Handlungsfreiheit oder Aktivität eines anderen Menschen (Antagonisten) einschränkt (//Goal -3).. Autonom/Exzentrisch.
+
 
 unterbrechen: Material/Disturbance 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) durch eine Bewegung/Intervention (3) einen gewünschten Zustand (Goal 2), während er die Wirkung des Antagonisten verhindert (//Goal -3). Der Akteur agiert bestimmend (aut) und nach außen gerichtet (ecc), indem er aktiv eingreift, um einen laufenden Prozess zu stoppen oder zu pausieren.. Autonom/Exzentrisch.
@@ -343,11 +385,13 @@ Begründung: In der zwischenmenschlichen Kommunikation: Der Akteur bewegt sich/s
 unterbrechen: Material/IT/Process 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: In der IT: Der Akteur verfügt/kontrolliert (2) über einen laufenden Prozess und führt durch eine Intervention (3) einen gewünschten Zustand herbei (Goal 2), indem er die Ausführung eines Programms oder Prozesses stoppt und dessen Wirkung (//Goal -3) verhindert. Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 unterbreiten: Material/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich Informationen (5), damit der Antagonist informiert ist (Goal 5). Durch diese Leistung strebt der Akteur Anerkennung an (//Goal 4). Der Vorgang ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur die Entscheidungsgewalt über das Unterbreiten hat und die Handlung auf einen Antagonisten gerichtet ist.. Autonom/Exzentrisch.
 
 unterbreiten: Material/Business 2/4/1/5//Goal 2/Goal 4/aut/ecc
 Begründung: In einem geschäftlichen Kontext bedeutet 'unterbreiten' (z.B. ein Angebot): Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich Informationen (5), mit dem Ziel einen gewünschten Geschäftszustand zu erreichen (//Goal 2) und letztlich Geld/Anerkennung zu bekommen (Goal 4). Der Prozess ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 unterbringen: Material/Storage 2/4/1/Goal 2//Goal 4/aut/con
 Begründung: Unterbringen bedeutet, dass der Akteur bestimmt/verfügt über (2) eine Leistung für einen Antagonisten (4), wobei etwas gegeben/übergeben wird (1), um einen gewünschten Zustand (Goal 2) herzustellen, was dem Akteur letztendlich Anerkennung/Vergütung (//Goal 4) einbringt. Der Akteur stellt selbstbestimmt (aut) Raum zur Verfügung, wobei dies im eigenen Kontrollbereich (con) geschieht.. Autonom/Konzentrisch.
@@ -358,6 +402,7 @@ Begründung: Im Kontext von Beherbergung bedeutet 'unterbringen', dass der Akteu
 unterbringen: Material/Housing 2/3/4/1/Goal 2//Goal 4/aut/con
 Begründung: Im Wohnungskontext bedeutet 'unterbringen', dass der Akteur bestimmt (2) und aktiv dafür sorgt (3), eine Leistung zu erbringen (4), indem er jemandem eine Wohnung/Unterkunft übergibt/zur Verfügung stellt (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), was dem Akteur letztendlich Anerkennung/Vergütung einbringt (//Goal 4).. Autonom/Konzentrisch.
 
+
 unterdrücken: Material/Fight/Obstruction 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), nämlich die Kontrolle über etwas, und verhindert damit gleichzeitig die Wirkung/Bewegung des Antagonisten (//Goal -3). Es handelt sich um eine autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
 
@@ -366,6 +411,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet unterdrücken, dass der Ak
 
 unterdrücken: Material/Psychological 2/3/Goal 2/aut/con
 Begründung: Im psychologischen Sinne bedeutet unterdrücken, dass der Akteur bestimmt/kontrolliert (2) mit Anstrengung (3) einen gewünschten Zustand der Selbstkontrolle (Goal 2) erreicht, etwa bei der Unterdrückung von Gefühlen oder Impulsen. Es ist eine autonome, nach innen gerichtete Handlung (aut/con).. Autonom/Konzentrisch.
+
 
 untergehen: Material/Maritime 3/Goal -3/het/ecc
 Begründung: Ein Schiff oder Wasserfahrzeug bewegt sich (3) nach unten ins Wasser und erreicht nicht das Ziel der Fortbewegung, sondern sinkt (Goal -3). Dies geschieht heterogen und exzentrisch (het/ecc), da der Vorgang von äußeren Kräften bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -379,6 +425,7 @@ Begründung: Als astronomisches Phänomen bewegt sich ein Himmelskörper (etwa d
 untergehen: Interpersonal/Competition 1/Goal -2/het/ecc
 Begründung: In übertragener Bedeutung: Jemand bekommt (1) einen unerwünschten Zustand des Scheiterns oder Verlierens (Goal -2) in einem Wettbewerb. Dies geschieht fremdbestimmt (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 untergraben: Material/Fight/Obstruction 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Untergraben bedeutet, bestimmend (2) und mit Bewegung (3) gegen ein Ziel vorzugehen, um einen gewünschten Zustand für den Akteur zu schaffen (Goal 2) und gleichzeitig den Zustand des Antagonisten zu destabilisieren bzw. zu schwächen (//Goal -2). Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc), indem er aktiv die Grundlage oder Position eines Antagonisten schwächt.. Autonom/Exzentrisch.
 
@@ -387,6 +434,7 @@ Begründung: In der wörtlichen Bedeutung: Das Graben unter etwas hindurch, wobe
 
 untergraben: Interpersonal/Influence 3/5/Goal 2//Goal -3/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet untergraben, durch subtile Bewegungen (3) und Informationen (5) Einfluss zu nehmen, um einen gewünschten Zustand für den Akteur herzustellen (Goal 2) und gleichzeitig die Wirkung/Einflussnahme des Antagonisten zu verhindern (//Goal -3). Der Akteur agiert selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 unterhalten: Interpersonal/Entertainment 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) für den Antagonisten durch Geben (1) von Informationen (5), damit der Antagonist informiert wird (Goal 5). Nach dem Wechsel (//Goal 4) erhält der Akteur Anerkennung für diese Unterhaltungsleistung.. Heteronom/Exzentrisch.
@@ -400,17 +448,20 @@ Begründung: Im Sinne von 'instand halten' bedeutet unterhalten, dass der Akteur
 unterhalten: Interpersonal/Communication 5/1/Goal 5/het/ecc
 Begründung: Im Sinne eines Gesprächs bedeutet 'sich unterhalten', dass der Akteur Kontakt sucht (5) und bekommt (1), um im Kontakt zu sein (Goal 5). Hier steht der wechselseitige Informationsaustausch im Vordergrund, ohne dass eine spezifische Unterhaltungsleistung erbracht wird.. Heteronom/Exzentrisch.
 
+
 unterhandeln: Material/Negotiation 3/4/1/5/Goal 2//Goal 2/het/ecc
 Begründung: Unterhandeln bedeutet, dass der Akteur sich in Bewegung setzt (3), um eine Leistung für den Antagonisten zu erbringen (4) durch das Geben (1) von Informationen (5), mit dem Ziel einen gewünschten Zustand für den Antagonisten zu erreichen (Goal 2 vor //), wobei dieser Zustand gleichzeitig den gewünschten Zustand des Akteurs darstellt (//Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Gegebenheiten der Verhandlungssituation anpassen muss und nach außen auf den Verhandlungspartner gerichtet ist.. Heteronom/Exzentrisch.
 
 unterhandeln: Material/Diplomatic 3/4/1/5/Goal 2//Goal 2/het/ecc
 Begründung: Im diplomatischen Kontext bedeutet unterhandeln, dass Vertreter verschiedener Parteien aufeinander zugehen (3), um durch gegenseitiges Geben von Informationen (4/1/5) einen für beide Seiten akzeptablen Zustand (Goal 2//Goal 2) zu erreichen. Hier steht der zwischenstaatliche oder internationale Aspekt der Verhandlungen im Vordergrund.. Heteronom/Exzentrisch.
 
+
 unterjochen: Interpersonal/Power 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch aggressive Bewegung (3) einen gewünschten Zustand der Dominanz (Goal 2), wodurch er gleichzeitig die Selbstbestimmung und Handlungsfreiheit des Antagonisten verhindert (//Goal -3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), da er die Unterwerfung eines Anderen erzwingt.. Autonom/Exzentrisch.
 
 unterjochen: Material/Fight/Politics 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im politischen oder kriegerischen Kontext: Eine Gruppe oder Nation bestimmt (2) durch Machtausübung (3) über eine andere, um Herrschaft zu erlangen (Goal 2) und dabei die Selbstbestimmung der unterjochten Gruppe zu unterdrücken (//Goal -3).. Autonom/Exzentrisch.
+
 
 unterkommen: Material/Lodging 3/1/Goal 2/het/ecc
 Begründung: Unterkommen bedeutet, dass der Akteur sich zu einer Unterkunft bewegt (3) und diese bekommt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich auf externe Bedingungen einstellen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -421,6 +472,7 @@ Begründung: In der Bedeutung 'eine Wohnung/Bleibe finden' betont 'unterkommen' 
 unterkommen: Material/Career 1/4//Goal 2/Goal 4/het/ecc
 Begründung: Im beruflichen Kontext bedeutet 'unterkommen' eine Arbeitsstelle zu bekommen (1) und für einen Arbeitgeber zu leisten (4), um sowohl einen gewünschten Zustand (eigenes Einkommen) zu erreichen (//Goal 2) als auch berufliche Anerkennung zu bekommen (Goal 4).. Heteronom/Exzentrisch.
 
+
 unterlaufen: Material/Process 3/Goal 2//Goal -3/aut/ecc
 Begründung: Unterlaufen bedeutet, sich bewegend/anstrebend (3) einen gewünschten Zustand zu erreichen (Goal 2), indem man die Wirkung des Antagonisten verhindert (//Goal -3). Der Akteur bewegt sich strategisch, um etwas zu umgehen oder zu unterwandern, wobei er selbstbestimmt (aut) nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
 
@@ -429,6 +481,7 @@ Begründung: In der Bedeutung 'ein Fehler unterläuft jemandem' bedeutet unterla
 
 unterlaufen: Material/Sports 3/Goal 3/aut/ecc
 Begründung: Im sportlichen Kontext bedeutet unterlaufen, dass der Akteur sich gezielt unter etwas hindurch bewegt (3), um eine bestimmte Position zu erreichen oder Wirkung zu erzielen (Goal 3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 unterlegen: Interpersonal/Competition CP/3/Goal -3/Goal -2/het/ecc
 Begründung: In einem Wettbewerb oder Konkurrenzkampf unterlegen sein bedeutet, dass der Akteur durch die Bewegung/das Anstreben (3) seines Ziels keine erfolgreiche Wirkung erzielt (Goal -3) und dadurch einen nicht gewünschten Zustand erreicht (Goal -2). Das 'CP/' zeigt an, dass der Akteur die unterlegene Seite ist. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich den äußeren Umständen anpassen muss und keine Kontrolle über das Ergebnis hat.. Heteronom/Exzentrisch.
@@ -439,11 +492,13 @@ Begründung: Etwas unter einen Gegenstand legen bedeutet, dass der Akteur bestim
 unterlegen: Interpersonal/Status CP/2/Goal -2/het/ecc
 Begründung: Im Sinne von jemandem unterlegen sein bezüglich Status, Kompetenz oder Fähigkeit bedeutet, dass der Akteur in seiner Verfügungsgewalt/Kontrolle (2) einen nicht gewünschten Zustand einnimmt (Goal -2). Das 'CP/' zeigt an, dass der Akteur die unterlegene Position innehat. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Faktoren richten muss.. Heteronom/Exzentrisch.
 
+
 untermauern: Material/Construction 3/1/2/Goal 2/aut/ecc
 Begründung: Beim Untermauern bewegt der Akteur (3) Materialien, um etwas zu bekommen (1), womit er verfügen kann (2), um einen gewünschten Zustand zu erreichen (Goal 2). Es handelt sich um eine bauliche Verstärkung, bei der eine Struktur durch das Hinzufügen eines tragenden Elements stabilisiert wird.. Autonom/Exzentrisch.
 
 untermauern: Material/Argument 3/1/5/Goal 5/Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet 'untermauern' das Bewegen (3) und Beschaffen (1) von Informationen/Beweisen (5), um eine Aussage zu bekräftigen. Das Ziel ist, besser informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand (überzeugende Argumentation) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 unterminieren: Material/Fight/Obstruction 3/Goal 2//Goal -2/aut/ecc
 Begründung: Unterminieren bedeutet, durch zielgerichtete Bewegung/Anstreben (3) einen gewünschten Zustand für den Akteur (Goal 2) zu erreichen, wobei die Ziele oder Strukturen eines Antagonisten geschwächt oder zerstört werden (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc), um die Grundlage oder Position des Gegners zu schwächen oder zum Einsturz zu bringen.. Autonom/Exzentrisch.
@@ -454,6 +509,7 @@ Begründung: Im übertragenen Sinne bedeutet unterminieren, durch strategisches 
 unterminieren: Material/Mining 3/Goal 2/aut/ecc
 Begründung: In der ursprünglichen, bergmännischen Bedeutung bedeutet unterminieren das Graben unter etwas (3), um einen gewünschten Zustand zu erreichen (Goal 2), wie bei der Anlage eines Minenschachts oder Tunnels. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
 
+
 unternehmen: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Unternehmen bedeutet, etwas bestimmt/kontrolliert (2) in Angriff zu nehmen und mit Bewegung/Anstreben (3) durchzuführen, um einen gewünschten Zustand zu erreichen (Goal 2) und dabei im geschäftlichen Kontext auch Anerkennung/Geld zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen handelt.. Autonom/Exzentrisch.
 
@@ -463,6 +519,7 @@ Begründung: Im Sinne von 'etwas wagen' oder 'auf Abenteuer gehen' bedeutet unte
 unternehmen: Material/Project 2/3/Goal 2/aut/ecc
 Begründung: In der Bedeutung 'ein privates Vorhaben durchführen' kontrolliert/bestimmt der Akteur (2) und bewegt/strebt an (3), um einen gewünschten Zustand zu erreichen (Goal 2), ohne dass ein geschäftlicher Aspekt vorliegt.. Autonom/Exzentrisch.
 
+
 unterordnen: Interpersonal 4/1/Goal 2//Goal 4/het/ecc
 Begründung: Sich unterordnen bedeutet, eine Leistung für einen Antagonisten zu erbringen (4), indem man dessen Regeln oder Autorität annimmt/bekommt (1), damit der Antagonist einen gewünschten Zustand der Kontrolle erreicht (Goal 2). Nach dem Wechsel (//) folgt das Ziel des Akteurs, nämlich Anerkennung oder eine Position im System zu bekommen (Goal 4). Die Ausrichtung ist heteronom (het), da sich der Akteur an externe Vorgaben anpasst, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
@@ -471,6 +528,7 @@ Begründung: In organisatorischem Kontext bedeutet unterordnen, bestimmend (2) m
 
 unterordnen: Material/Classification 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext der Klassifikation bedeutet unterordnen, bestimmend (2) mit Bewegung (3) eine Kategorie unter eine andere einzuordnen, um einen gewünschten Zustand der Systematisierung zu erreichen (Goal 2). Die Ausrichtung ist autonom (aut), da der Akteur die Kontrolle hat, und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 unterrichten: Material/Education 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für andere zu erbringen (4), indem er Wissen gibt (1) und Informationen vermittelt (5), damit der Antagonist (Schüler/Student) informiert ist (Goal 5). Nach diesem Wechsel zum Antagonisten folgt der Rückwechsel zum Akteur (//), der durch seine Lehrtätigkeit berufliche Anerkennung und Vergütung erhält (Goal 4).. Autonom/Exzentrisch.
@@ -487,11 +545,20 @@ Begründung: In einer weniger autoritären Bedeutung (z.B. als Kollege) leistet 
 unterrichten: Material/Government 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im behördlichen Kontext bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Empfänger (Vorgesetzte/andere Behörde) informiert ist (Goal 5). Der Akteur tut dies in seiner beruflichen Funktion (//Goal 4).. Autonom/Exzentrisch.
 
+
+unterschätzen: Material/Evaluation 3/5/2/Goal -5/het/ecc
+Begründung: Bei 'unterschätzen' analysiert (3/5) der Akteur Informationen über ein Objekt oder eine Person und kommt zu einem Urteil/einer Verfügung (2), aber die gewonnenen Informationen sind fehlerhaft/unzureichend (Goal -5). Der Prozess ist heteronom/exzentrisch, da der Akteur sich nach äußeren Faktoren richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+unterschätzen: Interpersonal/Psychological 3/5/2/Goal -5//Goal -3/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet 'unterschätzen', dass der Akteur die Fähigkeiten oder Qualitäten eines Antagonisten falsch einschätzt (3/5/2/Goal -5), was dazu führt, dass der Akteur die mögliche Wirkung des Antagonisten nicht korrekt antizipiert (//Goal -3). Dies hat negative Konsequenzen für den Akteur selbst.. Heteronom/Exzentrisch.
+
+
 unterscheiden: Material/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Unterscheiden bedeutet, durch aktives Untersuchen (3) von Informationen (5) und die Verfügung über die gewonnenen Erkenntnisse (2) zu einem informierten Zustand (Goal 5) zu gelangen. Es ist ein analytischer Prozess, bei dem Merkmale ermittelt und Kategorien gebildet werden. Die Ausrichtung ist heteronom (het), da der Akteur sich nach den externen Eigenschaften der zu unterscheidenden Dinge richten muss, und exzentrisch (ecc), da der Fokus auf äußeren Objekten liegt.. Heteronom/Exzentrisch.
 
 unterscheiden: Interpersonal/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet unterscheiden, Menschen oder Personengruppen anhand ihrer Merkmale zu analysieren (3/5) und darüber zu verfügen (2), wie man sie einordnet. Das Ziel ist, über diese Unterschiede informiert zu sein (Goal 5). Auch hier muss sich der Akteur nach den tatsächlichen Eigenschaften der Personen richten (het) und richtet seine Aufmerksamkeit nach außen (ecc).. Heteronom/Exzentrisch.
+
 
 unterschlagen: Material/Criminal/Theft 2/3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) das Bekommen (1) eines gewünschten Zustands (Goal 2), wobei er gleichzeitig einen gewünschten Zustand des rechtmäßigen Besitzers verhindert (//Goal -2). Der Akteur handelt autonom und nach außen gerichtet (aut/ecc), indem er etwas, das einem anderen zusteht, für sich selbst behält oder veruntreut.. Autonom/Exzentrisch.
@@ -499,17 +566,13 @@ Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) das B
 unterschlagen: Material/Communication 2/3/Goal -5/het/ecc
 Begründung: In der Bedeutung 'Informationen unterschlagen' verfügt der Akteur (2) durch bewusstes Handeln (3) darüber, dass bestimmte Informationen nicht weitergegeben werden (Goal -5). Der Akteur handelt heterenom und nach außen gerichtet (het/ecc), da er sich an vorhandene Informationen anpassen muss.. Heteronom/Exzentrisch.
 
+
 unterschreiben: Material/Documentation 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er etwas gibt (1), nämlich eine Information/Bestätigung (5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter (//) folgt das Ziel des Akteurs, nämlich Anerkennung/Bezahlung zu bekommen (Goal 4). Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Handlung nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 unterschreiben: Material/Legal 2/4/1/5/Goal 5/Goal 2//Goal 4/het/ecc
 Begründung: Im rechtlichen Kontext bedeutet unterschreiben, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich eine Information/Bestätigung (5), damit der Antagonist informiert ist (Goal 5) und ein Rechtszustand hergestellt wird (Goal 2). Nach dem Umschalter (//) folgt das Ziel des Akteurs, Anerkennung/Erfüllung der Vereinbarung zu bekommen (Goal 4). Die Ausrichtung ist heteronom (het), da der Akteur sich an rechtliche Vorgaben anpassen muss.. Heteronom/Exzentrisch.
 
-unterschätzen: Material/Evaluation 3/5/2/Goal -5/het/ecc
-Begründung: Bei 'unterschätzen' analysiert (3/5) der Akteur Informationen über ein Objekt oder eine Person und kommt zu einem Urteil/einer Verfügung (2), aber die gewonnenen Informationen sind fehlerhaft/unzureichend (Goal -5). Der Prozess ist heteronom/exzentrisch, da der Akteur sich nach äußeren Faktoren richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
-
-unterschätzen: Interpersonal/Psychological 3/5/2/Goal -5//Goal -3/het/ecc
-Begründung: Im zwischenmenschlichen Kontext bedeutet 'unterschätzen', dass der Akteur die Fähigkeiten oder Qualitäten eines Antagonisten falsch einschätzt (3/5/2/Goal -5), was dazu führt, dass der Akteur die mögliche Wirkung des Antagonisten nicht korrekt antizipiert (//Goal -3). Dies hat negative Konsequenzen für den Akteur selbst.. Heteronom/Exzentrisch.
 
 unterstellen: Material/Hierarchy 2/4/1/Goal 2//Goal 2/Goal 4/aut/con
 Begründung: Der Akteur bestimmt/verfügt (2) eine Leistung zu erbringen (4), indem er etwas/jemanden gibt/zuordnet (1), um einen gewünschten Zustand herzustellen, bei dem der Antagonist dem Akteur unterstellt ist (Goal 2). Dieser Zustand dient dem Akteur zur Erreichung seiner eigenen Ziele (//Goal 2) und letztlich dem Ziel, berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Konzentrisch.
@@ -520,11 +583,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er et
 unterstellen: Interpersonal/Accusation 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich auf den Antagonisten zu (3), um ihm eine Leistung zu erbringen (4), indem er eine Anschuldigung/Vorwurf gibt (1), die eine Information enthält (5), die einen unerwünschten Zustand für den Antagonisten bewirkt (Goal -2), um so einen gewünschten Zustand für den Akteur zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 unterstreichen: Material/Marker 2/3/Goal 5/aut/ecc
 Begründung: Unterstreichen bedeutet, dass der Akteur verfügt (2) über ein Schreibwerkzeug und bewegt (3) es unter einem Text, um bestimmte Informationen hervorzuheben und damit besser erkennbar zu machen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf das Objekt einwirkt.. Autonom/Exzentrisch.
 
 unterstreichen: Interpersonal/Communication 3/1/5/Goal 5/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet unterstreichen, eine Aussage zu betonen oder hervorzuheben. Der Akteur bewegt sich (3) verbal auf einen Punkt zu, gibt (1) eine Information und macht sie dadurch besonders erkennbar (5), mit dem Ziel, dass die Information besser wahrgenommen wird (Goal 5).. Autonom/Exzentrisch.
+
 
 unterstützen: Material/Support 2/4/3/Goal 2//Goal 4/aut/ecc
 Begründung: Beim Unterstützen bestimmt der Akteur (2) eine Leistung (4) zu erbringen, bei der er durch Bewegung/Anstreben (3) hilft, damit der Antagonist einen gewünschten Zustand (Goal 2) erreichen kann. Für diese Hilfeleistung erwartet der Akteur Anerkennung (//Goal 4).. Autonom/Exzentrisch.
@@ -538,6 +603,7 @@ Begründung: Im zwischenmenschlichen Kontext kann 'unterstützen' bedeuten, dass
 unterstützen: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im finanziellen Kontext bedeutet 'unterstützen', dass der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1) - meist Geld oder andere Ressourcen, damit der Antagonist einen gewünschten Zustand (Goal 2) erreichen kann. Der Akteur erwartet dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
 
+
 untersuchen: Material/Analysis 3/5/Goal 5/het/ecc
 Begründung: Untersuchen bedeutet, etwas aktiv zu erforschen (3/5), indem man es bewegt, aufteilt oder manipuliert, um Informationen zu gewinnen (Goal 5). Der Akteur passt sich dabei den Eigenschaften des zu untersuchenden Objekts an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
@@ -547,11 +613,13 @@ Begründung: In medizinischem Kontext bedeutet untersuchen, dass ein Arzt einen 
 untersuchen: Material/Criminal/Investigation 3/5/Goal 5/het/ecc
 Begründung: Im kriminalistischen Kontext bedeutet untersuchen, dass Beweise oder Vorfälle aktiv erforscht werden (3/5), um Informationen über einen Sachverhalt zu gewinnen (Goal 5). Der Ermittler passt sich dabei den Eigenschaften des Falls an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 unterteilen: Material/Classification 2/3/Goal 2/aut/ecc
 Begründung: Beim Unterteilen verfügt der Akteur (2) über etwas und bewegt/bearbeitet (3) es, um einen gewünschten Zustand (Goal 2) der systematischen Gliederung zu erreichen. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen auf das Objekt ein (ecc).. Autonom/Exzentrisch.
 
 unterteilen: Material/Organization 2/3/5/Goal 2/Goal 5/aut/ecc
 Begründung: Im Kontext von Organisation bedeutet unterteilen das bestimmende (2) Bewegen/Bearbeiten (3) von Informationen (5), um einen geordneten Zustand (Goal 2) zu erreichen, der bessere Informationsgewinnung ermöglicht (Goal 5).. Autonom/Exzentrisch.
+
 
 unterwandern: Material/Fight/Intelligence-Operations 2/3/5/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch geschickte Bewegung/Anstreben (3) und Informationsbeschaffung (5), seine Position innerhalb einer Organisation zu verstärken (Goal 2), während gleichzeitig die ursprünglichen Ziele und Strukturen des Antagonisten (der Organisation) untergraben werden (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt agiert und nach außen in die Organisation hineinwirkt.. Autonom/Exzentrisch.
@@ -559,11 +627,13 @@ Begründung: Der Akteur bestimmt (2) durch geschickte Bewegung/Anstreben (3) und
 unterwandern: Material/Fight/Strategy 3/5/Goal 2//Goal -2/aut/ecc
 Begründung: In einer allgemeineren strategischen Bedeutung bewegt sich der Akteur (3) und sammelt Informationen (5), um einen gewünschten Zustand für sich herzustellen (Goal 2), während er gleichzeitig die Ziele eines Antagonisten untergräbt (//Goal -2).. Autonom/Exzentrisch.
 
+
 unterweisen: Material/Education 2/4/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen (5) gibt, damit der Antagonist informiert ist (Goal 5). Nach dem Wechsel (//), zielt der Akteur auf Anerkennung für seine Leistung (Goal 4). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), da er sein Wissen auf jemand anderen überträgt.. Autonom/Exzentrisch.
 
 unterweisen: Material/Training 2/4/5/Goal 2//Goal 4/aut/ecc
 Begründung: Im Kontext praktischer Ausbildung bedeutet unterweisen, bestimmend (2) eine Leistung (4) zu erbringen, indem man Informationen vermittelt (5), damit der Antagonist einen gewünschten Zustand (praktische Fähigkeit) erreicht (Goal 2). Der Akteur erhält dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
+
 
 unterwerfen: Interpersonal/Psychological 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung/Anstreben (3) die Unterwerfung eines Antagonisten, um einen gewünschten Zustand der Macht/Kontrolle über diesen zu erreichen (Goal 2). Da der Akteur die aktive, bestimmende Rolle einnimmt und die Handlung nach außen auf einen Antagonisten gerichtet ist, ist die Ausrichtung autonom/exzentrisch (aut/ecc).. Autonom/Exzentrisch.
@@ -574,11 +644,13 @@ Begründung: Im Kontext eines Kampfes bewegt sich der Akteur (3) und bekommt (1)
 unterwerfen: Interpersonal/Leadership 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: In einem Führungskontext bestimmt der Akteur (2) durch zielgerichtetes Vorgehen (3) die Unterwerfung anderer, um einen gewünschten hierarchischen Zustand zu erreichen (Goal 2) und dadurch Anerkennung/Autorität zu erlangen (Goal 4).. Autonom/Exzentrisch.
 
+
 updaten: Material/IT 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Daten, die er durch Bewegen/Anstreben (3) in einen gewünschten Zustand (Goal 2) bringt. Ein Update ist ein Aktualisieren von Daten, Programmen oder Systemen, wobei bestehende Daten durch neue ersetzt werden, um den gewünschten Zustand der Aktualität zu erreichen.. Autonom/Exzentrisch.
 
 updaten: Material/IT/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: In der Kommunikation kann 'updaten' bedeuten, dass der Akteur eine Leistung erbringt (4), indem er jemandem (1) Informationen (5) gibt, damit dieser informiert ist (Goal 5). Nach dem Doppelslash folgt Goal 4, da der Akteur für diese Informationsleistung Anerkennung erhält.. Autonom/Exzentrisch.
+
 
 upgraden: Material/IT 3/2/1/Goal 2/het/ecc
 Begründung: Upgraden bedeutet, durch Bewegung/Anstreben (3) die Verfügung (2) über ein bekommen/empfangenes (1) Update zu erhalten, um einen verbesserten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an vorgegebene Update-Prozesse anpassen muss und nach außen auf IT-Systeme einwirkt.. Heteronom/Exzentrisch.
@@ -586,11 +658,13 @@ Begründung: Upgraden bedeutet, durch Bewegung/Anstreben (3) die Verfügung (2) 
 upgraden: Material/Technology 3/2/1/Goal 2/het/ecc
 Begründung: Im allgemeineren technischen Kontext bedeutet Upgraden, durch Bewegung/Anstreben (3) die Verfügung (2) über neue Komponenten oder Funktionen zu bekommen (1), um einen verbesserten Zustand eines Geräts oder einer Maschine zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 uploaden: Material/IT/Storage 3/1/Goal 5/het/ecc
 Begründung: Der Akteur bewegt/strebt an (3) das Bekommen (1) von Informationen (Goal 5) in einem digitalen Speichersystem. Es ist eine heteronome Aktivität (het) nach außen gerichtet (ecc), da der Akteur sich an die Gegebenheiten des Zielsystems anpassen muss und die Daten in ein externes System bewegt.. Heteronom/Exzentrisch.
 
 uploaden: Material/IT/Communication 3/4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: In einem kommunikativen Kontext bedeutet uploaden das Bewegen (3) und Leisten (4) des Gebens (1) von Informationen (5), damit andere informiert sind (Goal 5), mit dem letztendlichen Ziel der Anerkennung oder Vergütung (//Goal 4) für den Akteur.. Heteronom/Exzentrisch.
+
 
 urteilen: Material/Law/Court 2/4/5/Goal 2//Goal 4/aut/ecc
 Begründung: Urteilen bedeutet, dass der Akteur (z.B. ein Richter) bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (5), damit der Antagonist einen bestimmten Rechtszustand erhält (Goal 2 vor //). Nach dem Perspektivwechsel (durch //) folgt das Ziel des Akteurs, für seine richterliche Leistung Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
@@ -601,8 +675,733 @@ Begründung: Im allgemeinen Sinne bedeutet urteilen, sich eine Meinung über etw
 urteilen: Interpersonal/Evaluation 2/3/5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet urteilen, sich eine Meinung über jemanden zu bilden. Der Akteur bestimmt (2) und analysiert mit mentaler Bewegung (3) Kontaktinformationen (5), um zu einer Einschätzung über eine Person zu gelangen (Goal 5).. Heteronom/Exzentrisch.
 
+
 usurpieren: Material/Fight/Power-Politics 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Usurpieren bedeutet sich unberechtigterweise, oft mit Gewalt, eine Machtposition oder einen Besitz anzueignen. Der Akteur bewegt sich aktiv (3) und bekommt/ergreift (1) einen gewünschten Zustand (Goal 2), was gleichzeitig den rechtmäßigen Anspruch eines Antagonisten bekämpft (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen in die Umwelt wirkt.. Autonom/Exzentrisch.
 
 usurpieren: Material/Criminal 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Im rechtlichen Kontext bedeutet usurpieren das widerrechtliche Aneignen von fremden Rechten oder Besitztümern. Der Akteur bewegt sich (3) und nimmt in Besitz (1), um einen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig die Rechte des rechtmäßigen Besitzers missachtet (//Goal -2).. Autonom/Exzentrisch.
+
+
+üben: Material/Training 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Beim Üben bewegt sich der Akteur (3) und informiert sich (5) über die richtige Ausführung, um Verfügung (2) über Kenntnisse/Fähigkeiten zu bekommen (Goal 5), mit dem Ziel einen gewünschten Zustand (Fertigkeit) zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da sich der Akteur an äußere Vorgaben anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+üben: Material/Music 3/5/2/Goal 5/Goal 2/Goal 4/het/ecc
+Begründung: Beim Üben eines Musikstücks bewegt sich der Akteur (3), informiert sich (5) über die korrekte Ausführung, um Verfügung (2) über Kenntnisse zu bekommen (Goal 5), mit dem Ziel einer gewünschten Fertigkeit (Goal 2) und letztendlich Anerkennung bei Aufführungen zu erhalten (Goal 4).. Heteronom/Exzentrisch.
+
+üben: Material/Sports/Training 3/5/2/Goal 3/Goal 2/het/ecc
+Begründung: Im sportlichen Kontext beinhaltet Üben das Bewegen (3), dabei Informationen aufnehmen (5) und Kontrolle entwickeln (2), um Bewegungsabläufe zu perfektionieren (Goal 3) und dadurch einen gewünschten Leistungszustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
+
+überantworten: Material/Responsibility 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt/übergibt (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), mit dem Ziel für den Akteur, Anerkennung zu bekommen (//Goal 4). Es geht um die Übertragung von Verantwortung für etwas an jemand anderen, wobei der Akteur autonom handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+überantworten: Material/Leadership 2/4/1/5//Goal 2/Goal 4/aut/ecc
+Begründung: In einem Führungskontext bedeutet überantworten, bestimmend (2) eine Aufgabe mit zugehörigen Informationen (4/1/5) an jemanden zu übertragen, damit der Akteur einen gewünschten Zustand erreicht (//Goal 2) und berufliche Anerkennung erhält (Goal 4).. Autonom/Exzentrisch.
+
+
+überarbeiten: Material/Editing 3/5/Goal 2/het/ecc
+Begründung: Überarbeiten bedeutet, Bewegung (3) mit Informationsverarbeitung (5) zu verbinden, um einen gewünschten verbesserten Zustand (Goal 2) zu erreichen. Der Akteur passt sich dabei an die externen Eigenschaften des zu bearbeitenden Materials an (het/ecc). Ein Text, Dokument oder Konzept wird geprüft und durch Umstrukturierung, Hinzufügen oder Entfernen von Inhalten verbessert.. Heteronom/Exzentrisch.
+
+überarbeiten: Material/Physical 3/Goal -3/het/ecc
+Begründung: Sich überarbeiten bedeutet, durch zu viel Bewegung/Anstrengung (3) eine negative Wirkung (Goal -3) auf den eigenen Körper zu erzielen. Der Akteur beeinträchtigt sich selbst durch übermäßige Tätigkeit und erreicht den Zustand der Erschöpfung. Dies ist heteronomisch und nach außen gerichtet (het/ecc), da der Körper auf externe Belastungen reagiert.. Heteronom/Exzentrisch.
+
+
+überbieten: Material/Competition 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Überbieten bedeutet, dass der Akteur durch eine Bewegung/Handlung (3) etwas bekommt (1), um eine Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand herbeizuführen (Goal 2), während gleichzeitig die Ziele des Antagonisten beeinträchtigt werden (//Goal -2). Der Akteur übertrifft das Angebot oder die Leistung eines Konkurrenten, um seine eigenen Ziele zu erreichen und gleichzeitig dem Konkurrenten zu schaden.. Autonom/Exzentrisch.
+
+überbieten: Material/Auction 3/1/Goal 2/het/ecc
+Begründung: Im Auktionskontext bedeutet überbieten, durch eine höhere Gebotsabgabe (3) zu bekommen (1), was zu einem gewünschten Zustand (Goal 2) führt. Hier ist die Ausrichtung heteronom (het), da man sich an externe Regeln anpassen muss, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+überbieten: Material/Fight/Competition 3/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im Sinne von 'übertreffen' oder 'besser sein als jemand anderes' bedeutet überbieten, eine eigene Bewegung/Leistung (3) zu erbringen, um Wirkung zu erzielen (Goal 3) und einen Sieg/gewünschten Zustand zu erreichen (Goal 2), wobei gleichzeitig die Ziele des Gegners verhindert werden (//Goal -2).. Autonom/Exzentrisch.
+
+
+überblicken: Material/Analysis 3/5/2/Goal 5/het/ecc
+Begründung: Überblicken bedeutet, durch visuelle Bewegung (3) Informationen zu sammeln (5), um darüber zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5). Die Aktivität ist heteronom und exzentrisch, da der Akteur sich an externe Gegebenheiten anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+überblicken: Material/Observation 5/3/Goal 5/het/ecc
+Begründung: In der Bedeutung von 'einen höher gelegenen Standpunkt einnehmen, um etwas zu überblicken' steht das Informieren (5) durch Bewegen des Blicks (3) im Vordergrund, mit dem Ziel, einen umfassenden Eindruck zu gewinnen (Goal 5).. Heteronom/Exzentrisch.
+
+
+überbrücken: Material/Construction 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt/bearbeitet Material (3), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich eine Brücke oder brückenähnliche Konstruktion zu schaffen, die eine Lücke oder Kluft überwindet. Der Vorgang ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und die physische Umwelt verändert.. Autonom/Exzentrisch.
+
+überbrücken: Material/Time 3/Goal 2/aut/ecc
+Begründung: In zeitlicher Hinsicht bedeutet überbrücken, eine Zeitspanne zu überwinden (3), um einen gewünschten Zustand (Goal 2) zu erreichen, bei dem eine Wartezeit oder Unterbrechung überstanden wird. Der Akteur handelt selbstbestimmt (aut) mit Wirkung auf die äußere Situation (ecc).. Autonom/Exzentrisch.
+
+überbrücken: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet überbrücken, bestimmend (2) eine Leistung (4) zu erbringen, indem temporär Geld/Mittel bereitgestellt werden (1), damit der Antagonist einen gewünschten Zustand erreicht (Goal 2), während der Akteur letztlich Anerkennung oder Rückzahlung erhält (//Goal 4).. Autonom/Exzentrisch.
+
+überbrücken: Material/Electronics 2/3/Goal 2/aut/ecc
+Begründung: Im elektronischen Bereich bedeutet überbrücken, bestimmend (2) eine Verbindung herzustellen (3), um einen gewünschten Zustand zu erreichen (Goal 2), indem zwei Kontakte direkt verbunden werden. Der Akteur handelt autonom (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
+
+überdecken: Material/Construction 2/3/Goal 2/aut/ecc
+Begründung: Überdecken bedeutet, dass der Akteur bestimmt/verfügt (2) über Material, das er bewegt/anstrebt (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass etwas vollständig bedeckt wird. Die Handlung erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da ein externes Objekt bedeckt wird.. Autonom/Exzentrisch.
+
+überdecken: Material/Protection 2/3/Goal 2/Goal 5/aut/ecc
+Begründung: In einem Schutzkontext bedeutet überdecken, dass der Akteur bestimmt/verfügt (2) über Material, das er bewegt/anstrebt (3), um einen gewünschten Zustand (Goal 2) herzustellen, wobei zusätzlich Informationen (Goal 5) verborgen werden, etwa bei der Überdeckung von vertraulichen Dokumenten oder sensiblen Bereichen.. Autonom/Exzentrisch.
+
+überdecken: Material/Deception 2/3/Goal 5//Goal -5/aut/ecc
+Begründung: Im Kontext der Täuschung bedeutet überdecken, dass der Akteur bestimmt/verfügt (2) über Material, das er bewegt/anstrebt (3), um einen gewünschten Informationszustand für sich zu erreichen (Goal 5), während gleichzeitig die Informationsgewinnung des Antagonisten verhindert wird (//Goal -5).. Autonom/Exzentrisch.
+
+
+überdenken: Material/Cognitive 3/5/2/Goal 5/het/ecc
+Begründung: Überdenken bedeutet, Informationen mental zu bewegen (3) und zu durchsuchen (5), um darüber zu verfügen (2) mit dem Ziel, besser informiert zu sein (Goal 5). Der Akteur bewegt sich gedanklich durch vorhandene Informationen, betrachtet sie aus verschiedenen Perspektiven, um ein besseres Verständnis zu erlangen. Die Ausrichtung ist heteronom/exzentrisch, da der Denkprozess von externen Informationen abhängig ist und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+überdenken: Material/Problem-Solving 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: In einem problembezogenen Kontext bedeutet Überdenken, Informationen mental zu bewegen (3) und zu durchsuchen (5), um darüber zu verfügen (2) mit dem Ziel, informiert zu sein (Goal 5), um letztlich einen besseren Zustand (Goal 2) zu erreichen. Hier dient das Nachdenken nicht nur dem Informationsgewinn, sondern führt zu einer Entscheidung oder Lösung.. Heteronom/Exzentrisch.
+
+
+überdrehen: Material/Mechanical 2/3/Goal -2/het/ecc
+Begründung: Beim Überdrehen bewegt/bearbeitet (3) der Akteur etwas zu stark, wobei er die Verfügungsgewalt (2) darüber hat, was zu einem ungewünschten Zustand (Goal -2) führt. Die Aktivität ist heteronom und exzentrisch (het/ecc), da der Akteur von externen Faktoren abhängig ist und nach außen wirkt. Es handelt sich um eine selbst herbeigeführte Fehlbenutzung, die das Objekt in einen ungewünschten Zustand versetzt.. Heteronom/Exzentrisch.
+
+überdrehen: Material/Machine-System 2/3/Goal -3/het/ecc
+Begründung: Im Maschinenkontext bedeutet Überdrehen, dass ein Motor oder Gerät durch zu starkes Betätigen (2/3) eine nicht gewünschte Wirkung (Goal -3) erzielt, was zu Beschädigung oder Fehlfunktion führen kann. Die Aktivität ist heteronom/exzentrisch (het/ecc), da sie von Maschineneigenschaften abhängig ist und nach außen wirkt.. Heteronom/Exzentrisch.
+
+überdrehen: Interpersonal/Psychological 3/Goal -3/het/ecc
+Begründung: Im psychologischen Kontext bedeutet überdrehen, dass sich jemand zu stark aufregt oder erregt (3), was zu einer unerwünschten Wirkung (Goal -3) führt, wie übermäßige Aufregung oder Überspanntheit. Diese Aktivität ist heteronom/exzentrisch (het/ecc), da sie durch äußere Reize ausgelöst wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+
+übereilen: Material/Time 3/Goal 2//Goal -3/aut/ecc
+Begründung: Übereilen bedeutet, dass der Akteur etwas zu schnell anstrebt/bewegt (3), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er dabei gegen die angemessene Geschwindigkeit oder Sorgfalt handelt (//Goal -3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er die erforderliche Zeit oder Überlegung für eine Handlung nicht berücksichtigt.. Autonom/Exzentrisch.
+
+übereilen: Interpersonal/Psychological 3/Goal 2//Goal -3/aut/ecc
+Begründung: In zwischenmenschlichen Beziehungen bedeutet übereilen, dass der Akteur zu schnell vorgeht (3), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er gegen das angemessene Tempo in einer Beziehung oder Situation handelt (//Goal -3). Dies kann zu Druck auf andere Personen führen.. Autonom/Exzentrisch.
+
+
+übereinkommen: Material/Agreement 2/4/1/5/Goal 2//Goal 2/Goal 4/het/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit ein gewünschter Zustand beim Antagonisten (Goal 2) erreicht wird, der gleichzeitig dem gewünschten Zustand des Akteurs (//Goal 2) entspricht, mit dem höheren Ziel der Anerkennung/Vergütung (Goal 4).. Heteronom/Exzentrisch.
+
+übereinkommen: Material/Contracts 2/4/1/5/Goal 2//Goal 2/het/ecc
+Begründung: Im privaten Kontext: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit ein gewünschter Zustand sowohl beim Antagonisten (Goal 2) als auch beim Akteur (//Goal 2) erreicht wird, ohne das geschäftliche Element (Goal 4).. Heteronom/Exzentrisch.
+
+
+überfahren: Material/Driving 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Beim Überfahren bewegt sich (3) der Akteur mit einem Fahrzeug und bewirkt (1) eine Kollision, mit dem Ziel, sein Fahrtziel zu erreichen (Goal 3) und in der Situation die Kontrolle zu behalten (Goal 2), wobei der Antagonist in seinem gewünschten Zustand beeinträchtigt wird (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+überfahren: Material/Driving 3/Goal 3/aut/ecc
+Begründung: In der Bedeutung 'eine Kreuzung oder einen bestimmten Punkt überqueren' bewegt sich (3) der Akteur mit einem Fahrzeug zum Ziel (Goal 3), wobei er selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt. Es liegt keine Kollision oder Schädigung vor.. Autonom/Exzentrisch.
+
+überfahren: Material/Traffic 3/Goal 2//Goal -3/aut/ecc
+Begründung: In der Bedeutung 'über ein Ampelsignal/Verkehrszeichen hinwegfahren' bewegt sich (3) der Akteur, um seinen gewünschten Zustand des Weiterkommens zu erreichen (Goal 2), wobei er die ordnungsgemäße Verkehrsführung (//Goal -3) missachtet. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+
+überfallen: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Überfallen bedeutet, dass der Akteur sich bewegt/anstrebt (3) und etwas bekommt (1), um einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig einen gewünschten Zustand des Antagonisten verhindert (//Goal -2). Dies geschieht auf eine autonome, nach außen gerichtete Weise (aut/ecc). Der Akteur bewegt sich zu einem Antagonisten und nimmt sich etwas von ihm, wodurch er einen Vorteil erlangt und dem Antagonisten einen Nachteil zufügt.. Autonom/Exzentrisch.
+
+überfallen: Material/Criminal/Activities 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im kriminellen Kontext bedeutet Überfallen, dass der Akteur durch Bewegung/Initiative (3) und Aneignung (1) einen gewünschten Zustand (Goal 2) für sich erreicht, während er einen gewünschten Zustand des Opfers verhindert (//Goal -2). Beispiel: Ein Bankräuber überfällt eine Bank.. Autonom/Exzentrisch.
+
+überfallen: Material/Military/Stealth 3/1/Goal 2//Goal -3/aut/ecc
+Begründung: Im militärischen Kontext bedeutet Überfallen, dass Truppen sich bewegen (3) und die Position des Feindes einnehmen/besetzen (1), um einen taktischen Vorteil zu erlangen (Goal 2), während sie die Bewegungsfreiheit und Wirkungsmöglichkeit des Feindes verhindern (//Goal -3).. Autonom/Exzentrisch.
+
+
+überfluten: Material/Fluids/Process 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Überfluten bedeutet, dass der Akteur durch Bewegung (3) von Flüssigkeit bewirkt, dass ein Ort oder Bereich Wasser bekommt (1) und damit einen gewünschten Zustand erreicht (Goal 2), während gleichzeitig ein unerwünschter Zustand für den Antagonisten (betroffene Objekte/Gebiete) erzeugt wird (//Goal -2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur die Kontrolle über den Prozess hat und nach außen wirkt.. Autonom/Exzentrisch.
+
+überfluten: Material/Catastrophes 3/1/Goal -3/het/ecc
+Begründung: Als Naturkatastrophe bedeutet überfluten, dass durch unkontrollierte Bewegung (3) von Wasser ein unerwünschter Zustand des Bekommens (1) von zu viel Wasser entsteht, was zu einer negativen Wirkung führt (Goal -3). Die Ausrichtung ist heteronom und exzentrisch, da der Prozess nicht kontrolliert wird und von außen wirkt.. Heteronom/Exzentrisch.
+
+überfluten: Material/IT 3/1/Goal 2//Goal -3/aut/ecc
+Begründung: Im IT-Kontext bedeutet überfluten (wie bei einer Denial-of-Service-Attacke), dass der Akteur durch Bewegung (3) eine große Datenmenge an ein System sendet (1), um einen gewünschten Zustand zu erreichen (Goal 2), während gleichzeitig die Wirksamkeit des Systems als Antagonist beeinträchtigt wird (//Goal -3).. Autonom/Exzentrisch.
+
+
+überflügeln: Material/Competition 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Überflügeln bedeutet, dass der Akteur durch Bewegung (3) und Bekommen (1) einer besseren Position einen gewünschten Zustand (Goal 2) für sich erreicht, während gleichzeitig der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2). Der Akteur überholt den Antagonisten und schafft damit ein Zurückbleiben des Antagonisten, was einen Wettbewerbsvorteil darstellt.. Autonom/Exzentrisch.
+
+überflügeln: Material/Military/Positioning 3/Goal 2//Goal -3/aut/ecc
+Begründung: Im militärischen Kontext bedeutet überflügeln, durch Bewegung (3) eine strategisch günstige Position zu erreichen (Goal 2), wodurch die Bewegungsfreiheit oder beabsichtigte Wirkung des Gegners (//Goal -3) eingeschränkt wird. Der Akteur umgeht den Gegner und schneidet dessen Bewegungsmöglichkeiten ab.. Autonom/Exzentrisch.
+
+überflügeln: Material/Business/Competition 3/1/Goal 2/Goal 4//Goal -2/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet überflügeln, dass ein Unternehmen durch seine Aktivitäten (3) und Erreichen (1) einer besseren Marktposition einen gewünschten Zustand (Goal 2) und wirtschaftlichen Erfolg (Goal 4) erzielt, während gleichzeitig der Konkurrent zurückbleibt (//Goal -2).. Autonom/Exzentrisch.
+
+
+überfordern: Material/Burden 3/4/1/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) eine Leistung (4) auf den Antagonisten zu und gibt (1) diesem eine zu hohe Belastung, die einen unerwünschten Zustand beim Antagonisten erzeugt (Goal -2). Dies dient dem Zweck des Akteurs, seinen gewünschten Zustand zu erreichen (//Goal 2) - etwa das Erledigen einer Aufgabe oder das Erreichen eines Ziels durch die Überlastung des Antagonisten.. Autonom/Exzentrisch.
+
+überfordern: Interpersonal/Psychological 3/4/1/Goal -2//Goal 2/aut/ecc
+Begründung: Im psychologischen Kontext bedeutet überfordern, dass der Akteur eine zu hohe emotionale oder psychische Belastung (3/4/1) an den Antagonisten heranträgt, die bei diesem einen unerwünschten Zustand von Überlastung hervorruft (Goal -2). Der Akteur verfolgt dabei sein eigenes Ziel (//Goal 2), etwa Entlastung für sich selbst oder Durchsetzung eigener Interessen.. Autonom/Exzentrisch.
+
+überfordern: Material/Education 2/4/1/Goal -2//Goal 2/aut/ecc
+Begründung: Im Bildungskontext bedeutet überfordern, dass der Akteur (z.B. Lehrer) bestimmt (2), eine Leistung (4) in Form von zu schwierigen Aufgaben zu geben (1), die für den Antagonisten (Schüler) einen unerwünschten Zustand der Überforderung bedeuten (Goal -2). Der Akteur verfolgt dabei das Ziel (//Goal 2), etwa einen bestimmten Lernstand zu erreichen.. Autonom/Exzentrisch.
+
+
+überführen: Material/Criminal/Investigation 3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt/bearbeitet (3) Informationen durch Nachforschung (5), um Kenntnisse zu erlangen (Goal 5) und den gewünschten Zustand der Überführung des Täters zu erreichen (Goal 2). Dies bezieht sich auf das Erbringen eines Beweises, durch den ein Täter einer Straftat überführt wird.. Autonom/Exzentrisch.
+
+überführen: Material/Transportation 3/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt (3) etwas von einem Ort zu einem anderen, um eine Destination zu erreichen (Goal 3). Diese Bedeutung bezieht sich auf den Transport oder die Überführung von Objekten oder Personen von einem Ort zum anderen.. Autonom/Exzentrisch.
+
+überführen: Material/Law/Criminal 2/3/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bestimmt (2) durch Bewegung/Anstreben (3) einen gewünschten Zustand für sich (Goal 2), während er gleichzeitig einen gewünschten Zustand des Antagonisten bekämpft (//Goal -2). Dies bezieht sich auf das rechtliche Überführen im Sinne von 'jemanden einer Straftat überführen' und ihn dadurch in einen für ihn unerwünschten Zustand bringen.. Autonom/Exzentrisch.
+
+
+übergeben: Material/Transfer 4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur leistet (4) durch das Geben/Überreichen (1) eines Objekts, damit der Antagonist darüber verfügen kann (Goal 2). Der Akteur erhält dafür Anerkennung oder Bezahlung (//Goal 4). Diese Handlung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und die Aktion auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
+
+übergeben: Material/Physical 3/1/Goal -3/het/ecc
+Begründung: In einer anderen Bedeutung bedeutet 'übergeben' (sich erbrechen), dass der Akteur eine ungewollte Bewegung (3) erfährt, durch die etwas hervorkommt (1), was zu einer unerwünschten Wirkung führt (Goal -3). Diese Handlung ist heteronom und nach außen gerichtet, da der Körper die Kontrolle übernimmt und die Bewegung nach außen erfolgt.. Heteronom/Exzentrisch.
+
+übergeben: Material/Responsibility 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: In einem organisatorischen Kontext bedeutet 'übergeben', dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Verantwortung, Aufgaben oder ein Amt abgibt (1), damit der Antagonist darüber verfügen kann (Goal 2). Der Akteur erfüllt damit eine berufliche Pflicht und erhält Anerkennung (//Goal 4).. Autonom/Exzentrisch.
+
+übergeben: Material/Leadership 2/4/2/Goal 2//Goal 4/aut/ecc
+Begründung: Als Führungshandlung bedeutet 'übergeben', dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Befugnisse oder Kontrolle überträgt (2), damit der Antagonist einen gewünschten Zustand der Verantwortung hat (Goal 2). Der Akteur erfüllt damit eine berufliche Pflicht (//Goal 4).. Autonom/Exzentrisch.
+
+
+übergehen: Material/Process 3/1/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt sich (3) zu einem anderen Zustand/einer anderen Phase und bekommt (1) diesen Zielzustand, mit dem Ziel eine Wirkung zu erzielen oder eine Destination zu erreichen (Goal 3). Dies beschreibt den Prozess, bei dem eine Sache in eine andere übergeht oder umgewandelt wird, z.B. Wasser geht in Dampf über.. Autonom/Exzentrisch.
+
+übergehen: Interpersonal/Disturbance 2/3//Goal -5/aut/ecc
+Begründung: Der Akteur bestimmt (2) und bewegt sich (3) an jemandem vorbei, mit dem Ziel die Kontaktaufnahme des Antagonisten zu verhindern (//Goal -5). Dies beschreibt das bewusste Ignorieren einer Person oder das Nicht-Berücksichtigen ihrer Anliegen.. Autonom/Exzentrisch.
+
+übergehen: Material/Physical 3/Goal -3/het/ecc
+Begründung: Der Akteur bewegt sich (3) mit einer unerwünschten Wirkung (Goal -3). Diese Bedeutung beschreibt eine körperliche Reaktion, bei der etwas in einen nicht beabsichtigten Zustand wechselt, z.B. wenn Nahrung nicht gut bekommt oder der Magen übergeht.. Heteronom/Exzentrisch.
+
+
+überholen: Material/Transportation 3/Goal 3/aut/ecc
+Begründung: Überholen beim Fahren bedeutet, dass der Akteur sich bewegt/voranstrebt (3), um ein anderes Fahrzeug zu passieren und eine Position vor diesem zu erreichen (Goal 3). Der Akteur handelt dabei selbstbestimmt (aut) und nach außen gerichtet (ecc), da die Bewegung im Verhältnis zu einem externen Objekt (dem zu überholenden Fahrzeug) erfolgt.. Autonom/Exzentrisch.
+
+überholen: Material/Competition 3/Goal 3/Goal 2/aut/ecc
+Begründung: Im Wettbewerbskontext bedeutet überholen, dass der Akteur durch Bewegung/Anstreben (3) eine bessere Position erreicht (Goal 3) und dadurch einen gewünschten Zustand der Überlegenheit herstellt (Goal 2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+überholen: Material/Maintenance 2/3/Goal 2/aut/ecc
+Begründung: Im technischen Kontext bedeutet ein Gerät überholen, dass der Akteur bestimmt/verfügt (2) über das Objekt und es bearbeitet/bewegt (3), um einen gewünschten Zustand der Funktionsfähigkeit herzustellen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+
+überhöhen: Material/Exaggeration 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) und bewegt/transformiert (3) etwas, um einen gewünschten Zustand (Goal 2) zu erreichen, bei dem ein Sachverhalt oder ein Wert über sein normales Maß hinaus dargestellt wird. Die Ausrichtung ist autonom (selbstbestimmt) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+überhöhen: Material/Financial-Transactions 2/3/Goal 2/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet überhöhen, dass der Akteur bestimmt (2) und bewegt (3) einen Preis oder Wert, um einen gewünschten Zustand (Goal 2) zu erreichen, bei dem ein Preis höher angesetzt wird als angemessen wäre.. Autonom/Exzentrisch.
+
+überhöhen: Material/Engineering 2/3/Goal 2/aut/ecc
+Begründung: Im technischen Kontext bedeutet überhöhen, dass der Akteur bestimmt (2) und bewegt/gestaltet (3) ein Element wie eine Kurve oder einen Bogen, um einen gewünschten Zustand (Goal 2) zu erreichen, bei dem eine bestimmte Neigung oder Wölbung über das normale Maß hinaus erhöht wird.. Autonom/Exzentrisch.
+
+überhöhen: Interpersonal/Reputation 2/4/1/5/Goal 2//Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet überhöhen, dass der Akteur bestimmt (2), für einen Antagonisten (4) etwas zu geben (1), nämlich eine Information/Darstellung (5), um einen gewünschten Zustand (Goal 2) des Antagonisten zu erreichen (übermäßig positive Darstellung), was wiederum dem eigenen Ziel des Akteurs dient (//Goal 2).. Autonom/Exzentrisch.
+
+
+überhören: Material/Sound 5/Goal -5/het/ecc
+Begründung: Der Akteur nimmt Informationen/Klänge wahr (5), verfehlt jedoch das Ziel, richtig informiert zu sein (Goal -5). Es handelt sich um ein heteronomes Geschehen (het), da der Akteur sich den äußeren Umständen anpassen muss, und es ist nach außen gerichtet (ecc), da die Information von außen kommt.. Heteronom/Exzentrisch.
+
+überhören: Interpersonal/Communication 5/Goal -5/aut/ecc
+Begründung: In zwischenmenschlicher Kommunikation bedeutet überhören, dass der Akteur bewusst (aut) eine Äußerung eines Antagonisten ignoriert/nicht beachtet (5). Das Ziel, die Information aufzunehmen, wird nicht erreicht (Goal -5), was eine aktive Entscheidung des Akteurs ist.. Autonom/Exzentrisch.
+
+überhören: Material/Disturbance 3/5/Goal -5/het/ecc
+Begründung: Bei Störungen bedeutet überhören, dass der Akteur trotz Bewegung zur Informationsquelle (3) und Wahrnehmungsversuch (5) die Information nicht richtig aufnehmen kann (Goal -5), z.B. wegen Lärm. Dies ist ein heteronomer Prozess (het), da äußere Umstände die Informationsaufnahme verhindern.. Heteronom/Exzentrisch.
+
+
+überkleben: Material/Adhesive 2/3/Goal 2/aut/ecc
+Begründung: Überkleben bedeutet, etwas mit einem Klebematerial zu bedecken, wobei der Akteur verfügt (2) über Klebematerial und bewegt (3) es über eine Oberfläche, um einen gewünschten Zustand (Goal 2) der Bedeckung zu erreichen. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), da er die Umgebung verändert.. Autonom/Exzentrisch.
+
+überkleben: Material/Correction 2/3/Goal 2//Goal -5/aut/ecc
+Begründung: Im Kontext von Korrekturen bedeutet überkleben, dass der Akteur bestimmt (2) und bewegt (3) Klebematerial, um einen gewünschten Zustand (Goal 2) herzustellen, wobei gleichzeitig verhindert wird, dass zuvor sichtbare Informationen weiterhin wahrgenommen werden können (//Goal -5).. Autonom/Exzentrisch.
+
+
+überladen: Material/Transportation 2/3/1/Goal -2/het/ecc
+Begründung: Ein Fahrzeug oder Container überladen bedeutet, dass der Akteur bestimmt (2) durch Bewegung (3) mehr Ladung oder Gewicht zu bekommen (1), als angemessen ist, was zu einem ungewünschten Zustand führt (Goal -2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Gegebenheiten anpassen muss und nach außen wirkt.. Heteronom/Exzentrisch.
+
+überladen: Material/Electrical 2/3/Goal -2/het/ecc
+Begründung: Im elektrischen Kontext bedeutet überladen, dass der Akteur bestimmt (2) durch Ansteuerung (3) eines Akkus oder einer Batterie einen unerwünschten Zustand der Überladung herbeizuführen (Goal -2), was zur Beschädigung führen kann. Die Ausrichtung ist heteronom/exzentrisch, da die Reaktion des Akkus extern bestimmt wird.. Heteronom/Exzentrisch.
+
+überladen: Material/Presentation 2/3/5/Goal -5/het/ecc
+Begründung: Im Kontext einer Präsentation oder eines Textes bedeutet überladen, dass zu viele Informationen (5) durch Hinzufügen (3) in bestimmter Weise (2) eingefügt werden, was zu einem informationell überladenen, schwer verständlichen Ergebnis führt (Goal -5).. Heteronom/Exzentrisch.
+
+
+überlassen: Material/Responsibility 4/2/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur leistet für den Antagonisten (4) und überträgt ihm die Verfügungsgewalt (2) über etwas, damit der Antagonist einen gewünschten Zustand erreichen kann (Goal 2). Nach dem Umschalter (//) folgt das Ziel des Akteurs, Anerkennung zu bekommen (Goal 4). Der Akteur ist autonom (bestimmt selbst) und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+überlassen: Material/Transfer 4/1/Goal 2//Goal 4/aut/ecc
+Begründung: In der Bedeutung von 'etwas abgeben/aushändigen' leistet der Akteur für den Antagonisten (4), indem er ihm etwas gibt (1), damit der Antagonist darüber verfügen kann (Goal 2). Der Akteur erwartet dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
+
+überlassen: Material/Duty 2/4/3//Goal 2/aut/ecc
+Begründung: In der Bedeutung von 'jemandem eine Aufgabe übertragen' bestimmt der Akteur (2) eine Leistung (4) und eine Aktivität (3) für den Antagonisten, um einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+
+überlasten: Material/Burden 3/1/Goal -2/het/ecc
+Begründung: Überlasten bedeutet, durch Bewegung/Anstreben (3) bekommen (1) eines unerwünschten Zustands (Goal -2), wobei der Akteur dies heteronomen Bedingungen unterliegt und nach außen gerichtet handelt (het/ecc). Es beschreibt eine Aktivität, bei der zu viel Last auf ein Objekt oder System aufgebracht wird, was zu einem unerwünschten Zustand führt.. Heteronom/Exzentrisch.
+
+überlasten: Material/Technical 3/1/Goal -3/Goal -2/het/ecc
+Begründung: Im technischen Kontext bedeutet überlasten, durch Bewegung/Anstreben (3) das Bekommen (1) einer negativen Wirkung (Goal -3), die zu einem unerwünschten Zustand (Goal -2) führt. Dies tritt auf, wenn ein Gerät, eine Maschine oder ein System über seine Kapazitätsgrenze hinaus belastet wird.. Heteronom/Exzentrisch.
+
+überlasten: Interpersonal/Burden 2/3/Goal -2//Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet überlasten, bestimmend (2) mit Bewegung (3) einen unerwünschten Zustand für den Antagonisten herbeizuführen (Goal -2), während der Akteur einen gewünschten Zustand für sich erreicht (//Goal 2). Dies bezieht sich auf Situationen, in denen jemand einer anderen Person zu viele Aufgaben, Verantwortung oder emotionale Last aufbürdet.. Autonom/Exzentrisch.
+
+
+überleben: Material/Endurance 0/1/Goal 1/het/ecc
+Begründung: Überleben bedeutet, dass der Akteur durch Warten (0) auf das Bekommen (1) von lebensnotwendigen Ressourcen (Nahrung, Schutz, etc.) letztendlich das Ziel erreicht, befriedigt zu sein bzw. am Leben zu bleiben (Goal 1). Der Prozess ist heteronom und exzentrisch ausgerichtet, da er von äußeren Bedingungen abhängig ist und nach außen gerichtet erfolgt.. Heteronom/Exzentrisch.
+
+überleben: Material/Catastrophes 0/3/1/Goal 2/het/ecc
+Begründung: Im Kontext von Katastrophen bedeutet überleben, dass der Akteur durch Warten (0) und Bewegen/Anstreben (3) das Bekommen (1) eines gewünschten Zustandes (Goal 2), nämlich der Rettung aus der lebensbedrohlichen Situation, erreicht. Der Prozess ist heteronom und exzentrisch, da er von äußeren Umständen abhängig ist.. Heteronom/Exzentrisch.
+
+überleben: Material/Fight/War 3/Goal 2//Goal -3/het/ecc
+Begründung: Im Kriegskontext bedeutet überleben, dass der Akteur durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) für sich erreicht, während er gleichzeitig die Wirkung des Antagonisten (//Goal -3), nämlich getötet zu werden, verhindert. Der Prozess ist heteronom und exzentrisch, da er in einer feindlichen Umgebung stattfindet.. Heteronom/Exzentrisch.
+
+
+überlegen: Material/Cognitive 3/5/2/Goal 5/het/ecc
+Begründung: Der Akteur bewegt (3) Informationen, informiert sich (5) und verfügt (2) über Kenntnisse, um informiert zu sein (Goal 5). Es handelt sich um einen mentalen Prozess des Abwägens und Durchdenkens, bei dem der Akteur verschiedene Informationen zusammenbringt und analysiert.. Heteronom/Exzentrisch.
+
+überlegen: Interpersonal/Strategy 3/5/2/Goal 2/aut/ecc
+Begründung: In einem strategischen Kontext bedeutet überlegen, Informationen zu bewegen (3) und zu analysieren (5), um eine Entscheidung zu treffen (2) mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+überlegen: Material/Superiority ADJ 2/3/Goal 3/aut/ecc
+Begründung: Als Adjektiv bedeutet 'überlegen' jemandem überlegen sein, also eine überlegene Position (2) mit stärkerer Wirkung (3) zu haben, die zu einem besseren Ergebnis führt (Goal 3).. Autonom/Exzentrisch.
+
+
+überliefern: Material/Information 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Überliefern bedeutet, als Akteur eine Leistung zu erbringen (4), indem man Informationen (5) an einen Antagonisten gibt (1), damit dieser informiert ist (Goal 5). Nach dieser Leistung erwartet der Akteur Anerkennung oder Bezahlung (//Goal 4). Es handelt sich um eine selbstbestimmte (aut) nach außen gerichtete (ecc) Handlung der Informationsübermittlung.. Autonom/Exzentrisch.
+
+überliefern: Material/Historical 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im historischen Kontext bedeutet überliefern, dass Wissen, Traditionen oder kulturelle Praktiken von einer Generation an die nächste weitergegeben werden (4/1/5), damit diese informiert ist (Goal 5). Der Akteur erwartet dafür gesellschaftliche Anerkennung (//Goal 4).. Autonom/Exzentrisch.
+
+überliefern: Material/Law 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: In einem rechtlichen Kontext bedeutet überliefern, dass eine Person (z.B. ein Verdächtiger) bestimmend (2) an Behörden übergeben wird (4/1), um einen gewünschten rechtlichen Zustand herzustellen (Goal 2). Anschließend erwartet der Akteur Anerkennung für seine Pflichterfüllung (//Goal 4).. Autonom/Exzentrisch.
+
+
+überlisten: Material/Fight/Deception 3/5/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt/strebt (3) unter Einsatz von Informationen (5), um einen gewünschten Zustand für sich zu erreichen (Goal 2), während gleichzeitig die Ziele des Antagonisten verhindert werden (//Goal -2). Der Akteur handelt dabei autonom und exzentrisch (aut/ecc), da er aktiv und nach außen gerichtet agiert.. Autonom/Exzentrisch.
+
+überlisten: Interpersonal/Deception 3/5/Goal 2//Goal -2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet überlisten, mit gezieltem Vorgehen (3) und Informationsmanipulation (5) einen Vorteil zu erlangen (Goal 2), während man die Absichten des Anderen durchkreuzt (//Goal -2).. Autonom/Exzentrisch.
+
+
+übermannen: Material/Fight/Aggression 2/3/1/Goal 2//Goal -3/aut/ecc
+Begründung: Der Akteur bestimmt (2) durch Bewegung/Anstreben (3) und Bekommen (1) einen gewünschten Zustand (Goal 2), nämlich die Kontrolle über den Antagonisten, wodurch gleichzeitig die Bewegungsfreiheit des Antagonisten eingeschränkt wird (//Goal -3). Die Ausrichtung ist autonom/eccentric, da der Akteur selbstbestimmt agiert und auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+übermannen: Interpersonal/Psychological 3/1/Goal 2//Goal -3/het/ecc
+Begründung: In der psychologischen Bedeutung wird jemand von Gefühlen übermannt: Die Gefühle bewegen sich (3) auf den Akteur zu und überwältigen ihn (1), wodurch ein ungewollter Zustand (Goal 2) entsteht und der Akteur seine Handlungsfreiheit verliert (//Goal -3). Die Ausrichtung ist heteronom/eccentric, da der Akteur von außen bestimmt wird.. Heteronom/Exzentrisch.
+
+
+übermitteln: Material/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) für einen Antagonisten zu erbringen, indem er diesem Informationen gibt (1/5), damit dieser informiert ist (Goal 5). Durch diese Dienstleistung strebt der Akteur letztlich selbst Anerkennung an (//Goal 4). Die Tätigkeit ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+übermitteln: Material/IT/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im digitalen Kontext: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Daten an einen Empfänger schickt (1/5), damit dieser über die Informationen verfügt (Goal 5). Der Akteur strebt dabei berufliche Anerkennung an (//Goal 4).. Autonom/Exzentrisch.
+
+übermitteln: Material/Diplomatic 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: Im diplomatischen Kontext: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er eine Botschaft übergibt (1/5), damit der Empfänger informiert ist (Goal 5). Dies dient dem gewünschten Zustand des Akteurs (//Goal 2) und seiner beruflichen Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+
+übernachten: Material/Lodging 0/Goal 0/het/ecc
+Begründung: Übernachten bedeutet, an einem Ort zu verweilen/zu warten (0), um sich zu erholen (Goal 0). Der Akteur passt sich dabei den gegebenen Umständen an (het) und ist nach außen gerichtet (ecc), da er in einer fremden Umgebung übernachtet.. Heteronom/Exzentrisch.
+
+
+übernehmen: Material/Responsibility 3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt/beansprucht (3) und bekommt (1) Kontrolle/Verantwortung, um einen gewünschten Zustand zu erreichen (Goal 2). Bei der Übernahme von Verantwortung oder Aufgaben macht der Akteur sie zu seinen eigenen, was einem Bekommen (1) entspricht. Das Ziel ist ein gewünschter Zustand (Goal 2), in dem der Akteur über die übernommene Sache verfügt.. Autonom/Exzentrisch.
+
+übernehmen: Material/Business 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext (Firmenübernahme) bestimmt der Akteur (2) mit Bewegung/Anstreben (3) das Bekommen (1) einer Firma oder eines Unternehmens, um einen gewünschten Zustand (Goal 2) zu erreichen und letztlich Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+übernehmen: Material/Transportation 4/1/Goal 2//Goal 4/het/ecc
+Begründung: Als Transportdienstleistung bedeutet übernehmen, dass der Akteur eine Leistung (4) für einen Antagonisten erbringt, indem er etwas in Empfang nimmt/bekommt (1), damit der Antagonist über die Transportleistung verfügen kann (Goal 2), während der Akteur dafür Anerkennung/Bezahlung erhält (//Goal 4).. Heteronom/Exzentrisch.
+
+übernehmen: Interpersonal/Leadership 3/1/2/Goal 2/Goal 4/aut/ecc
+Begründung: In der Führungsrolle bedeutet übernehmen, dass der Akteur mit Einsatz/Bewegung (3) die Kontrolle bekommt (1) und darüber verfügt (2), um einen gewünschten Zustand (Goal 2) zu erreichen und Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+
+überorganisieren: Material/Organization 2/3/Goal 2/aut/ecc
+Begründung: Überorganisieren bedeutet, dass der Akteur zu viel Kontrolle (2) ausübt und mit zu viel Aufwand/Bewegung (3) einen gewünschten Zustand (Goal 2) erreichen will. Der Akteur bestimmt selbstständig (aut) und wirkt nach außen (ecc) auf die organisatorischen Strukturen ein. Es ist ein übertriebenes Ordnen und Strukturieren, das über das notwendige Maß hinausgeht.. Autonom/Exzentrisch.
+
+überorganisieren: Material/Management +2/+3/Goal 2/Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext bedeutet überorganisieren, dass ein Manager übermäßig (daher +2/+3) bestimmt und strukturiert, um einen gewünschten Zustand (Goal 2) zu erreichen, letztlich um berufliche Anerkennung zu bekommen (Goal 4). Die übermäßige Organisation überschreitet das zweckmäßige Maß und kann kontraproduktiv sein.. Autonom/Exzentrisch.
+
+
+überprüfen: Material/Testing 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Überprüfen bedeutet, dass der Akteur eine Bewegung/Suche (3) durchführt, um Informationen zu erlangen (5), über die er dann verfügen kann (2), mit dem Ziel, informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Vorgaben oder Standards richtet und nach außen auf das Prüfobjekt gerichtet ist.. Heteronom/Exzentrisch.
+
+überprüfen: Material/Quality 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Im Kontext der Qualitätskontrolle bedeutet überprüfen, dass der Akteur Untersuchungen anstellt (3/5), um Kontrolle über die Qualität zu erlangen (2), mit dem Ziel, Informationen zu haben (Goal 5) und einen gewünschten Qualitätszustand zu gewährleisten (Goal 2).. Heteronom/Exzentrisch.
+
+überprüfen: Material/Security 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Im Sicherheitskontext bedeutet überprüfen, dass der Akteur Untersuchungen durchführt (3/5), um Kontrolle über den Sicherheitsstatus zu erlangen (2), mit dem Ziel, informiert zu sein (Goal 5) und dadurch einen sicheren Zustand zu gewährleisten (Goal 2).. Heteronom/Exzentrisch.
+
+
+überqueren: Material/Transportation 3/Goal 3/aut/ecc
+Begründung: Beim Überqueren bewegt sich (3) der Akteur mit dem Ziel, auf die andere Seite zu gelangen und damit eine Destination zu erreichen (Goal 3). Die Aktion ist autonom (der Akteur entscheidet selbst) und exzentrisch (nach außen gerichtet) ausgeführt.. Autonom/Exzentrisch.
+
+
+überragen: Material/Superiority 3/Goal 3/Goal 2/aut/ecc
+Begründung: Überragen bedeutet, dass der Akteur durch seine Bewegung/Position (3) eine Wirkung erzielt (Goal 3), um einen gewünschten überlegenen Zustand zu erreichen (Goal 2). Mit seiner Höhe, Größe oder Fähigkeit ragt er über andere hinaus und erreicht dadurch eine übergeordnete Position oder Überlegenheit.. Autonom/Exzentrisch.
+
+überragen: Interpersonal/Status 3/Goal 3/Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet überragen, dass der Akteur durch seine Fähigkeiten oder Eigenschaften (3) andere übertrifft, was eine Wirkung auf die soziale Umgebung erzielt (Goal 3) und einen gewünschten übergeordneten Status schafft (Goal 2).. Autonom/Exzentrisch.
+
+überragen: Material/Physical/Position 3/Goal 3/aut/ecc
+Begründung: In rein physischer Hinsicht bedeutet überragen, dass ein Objekt durch seine räumliche Position (3) über andere hinausragt und dadurch eine Wirkung (Goal 3) erzielt. Hier steht die reine Positionsbeschreibung im Vordergrund, nicht der Statusaspekt.. Autonom/Exzentrisch.
+
+
+überraschen: Interpersonal 3/5/1/Goal 5/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt sich (3) mit einer neuen, unerwarteten Information (5) zum Antagonisten, der diese bekommt (1), wodurch Kontakt stattfindet (Goal 5) und eine Wirkung beim Antagonisten erzielt wird (Goal 3). Die Ausrichtung ist autonom (der Akteur handelt selbstbestimmt) und nach außen gerichtet (richtet sich an den Antagonisten).. Autonom/Exzentrisch.
+
+überraschen: Material/Gift 3/1/5/Goal 5/Goal 2/aut/ecc
+Begründung: Im Kontext von Geschenken bedeutet überraschen, dass der Akteur mit einer unerwarteten Gabe (3/1) und Information (5) auf den Antagonisten zugeht, wodurch dieser informiert wird (Goal 5) und ein gewünschter Zustand der Freude erreicht wird (Goal 2).. Autonom/Exzentrisch.
+
+überraschen: Material/Military/Stealth 3/5/Goal 3//Goal -2/aut/ecc
+Begründung: Im militärischen Kontext bedeutet überraschen, dass der Akteur eine unerwartete Bewegung (3) mit verdeckter Information (5) ausführt, um eine Wirkung zu erzielen (Goal 3) und gleichzeitig den gewünschten Zustand des Gegners zu verhindern (//Goal -2).. Autonom/Exzentrisch.
+
+
+überreden: Interpersonal/Persuasion 3/5/1/Goal 2//Goal 2/aut/ecc
+Begründung: Der Akteur bewegt sich aktiv (3) auf den Antagonisten zu, sucht Kontakt (5) und gibt ihm Informationen (1), um einen gewünschten Zustand beim Antagonisten zu erreichen (//Goal 2), was wiederum dem eigenen Ziel (Goal 2) dient. Die Tätigkeit ist autonom (der Akteur entscheidet) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+überreden: Material/Persuasion 3/5/1/Goal 2//Goal 2/aut/ecc
+Begründung: In einem sachlichen Kontext: Der Akteur bewegt sich aktiv (3) mit Informationen (5) auf den Antagonisten zu und gibt Argumente (1), um den gewünschten sachlichen Zustand zu erreichen (//Goal 2), was dem eigenen Ziel dient (Goal 2).. Autonom/Exzentrisch.
+
+
+überreichen: Material/Transfer 4/1/Goal 2/aut/ecc
+Begründung: Überreichen bedeutet, dass der Akteur eine Leistung (4) für den Antagonisten erbringt, indem er etwas gibt/übergibt (1), damit der Empfänger über dieses Objekt verfügen kann (Goal 2). Die Ausrichtung ist autonom (der Akteur entscheidet selbst) und nach außen gerichtet (ecc), da die Handlung auf einen anderen gerichtet ist. Es handelt sich um eine formelle oder feierliche Übergabe.. Autonom/Exzentrisch.
+
+überreichen: Material/Ceremony 4/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im zeremoniellen Kontext bedeutet überreichen, dass der Akteur eine offizielle Leistung (4) erbringt, indem er etwas formal übergibt (1), damit der Empfänger darüber verfügen kann (Goal 2), wobei der Akteur dafür Anerkennung erhält (Goal 4). Dies gilt besonders bei Preisverleihungen, Ehrungen oder offiziellen Anlässen.. Autonom/Exzentrisch.
+
+
+überrollen: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Überrollen bedeutet, mit einer überwältigenden Bewegung (3) über jemanden oder etwas hinwegzurollen und dadurch die Kontrolle zu erlangen (1/Goal 2), während gleichzeitig der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2). Der Akteur bewegt sich mit Kraft, um seinen Willen durchzusetzen.. Autonom/Exzentrisch.
+
+überrollen: Material/Vehicle 2/3/Goal 3//Goal -2/aut/ecc
+Begründung: Mit einem Fahrzeug über etwas hinwegrollen, wobei der Akteur das Fahrzeug steuert (2) und eine Bewegung ausführt (3), um ein Ziel zu erreichen (Goal 3), während gleichzeitig der Zustand des Überrollten negativ beeinflusst wird (//Goal -2).. Autonom/Exzentrisch.
+
+überrollen: Material/Military 3/Goal 2//Goal -3/aut/ecc
+Begründung: Im militärischen Kontext bedeutet überrollen eine schnelle, überwältigende Bewegung (3), um Kontrolle über ein Gebiet zu erlangen (Goal 2) und gleichzeitig die Bewegungsfreiheit und Wirkungsmöglichkeit des Gegners zu verhindern (//Goal -3).. Autonom/Exzentrisch.
+
+
+überrumpeln: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Überrumpeln bedeutet, dass der Akteur durch überraschende, schnelle Bewegung (3) einen Vorteil bekommt (1), um seinen gewünschten Zustand zu erreichen (Goal 2), während gleichzeitig der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+überrumpeln: Interpersonal/Psychological 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet überrumpeln, jemanden durch unerwartetes Vorgehen (3) in eine Situation zu bringen (1), in der man einen eigenen gewünschten Zustand erreicht (Goal 2), während die Handlungs- oder Entscheidungsfreiheit des Antagonisten eingeschränkt wird (//Goal -2).. Autonom/Exzentrisch.
+
+überrumpeln: Material/Persuasion 3/1/5/Goal 2//Goal -2/aut/ecc
+Begründung: Im Kontext von Überzeugungsarbeit bedeutet überrumpeln, durch schnelles Vorgehen (3) Fakten zu präsentieren (1/5), um den eigenen gewünschten Zustand durchzusetzen (Goal 2), während dem Antagonisten keine Zeit für Gegenargumente bleibt (//Goal -2).. Autonom/Exzentrisch.
+
+
+überrunden: Material/Fight/Competition 3/Goal 3//Goal -3/aut/ecc
+Begründung: Überrunden bedeutet, einen Konkurrenten in einem Wettlauf oder Rennen um eine volle Runde zu überholen. Der Akteur bewegt sich (3) mit dem Ziel, eine Wirkung zu erzielen/ein Ziel zu erreichen (Goal 3), während er gleichzeitig das Ziel des Antagonisten behindert (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf einen Wettbewerber einwirkt.. Autonom/Exzentrisch.
+
+überrunden: Material/Sports 3/1/Goal 3/Goal 2//Goal -3/aut/ecc
+Begründung: Im sportlichen Kontext bedeutet überrunden, einen langsameren Teilnehmer einzuholen (3) und an ihm vorbeizuziehen (1), um eine Wirkung zu erzielen (Goal 3) und einen besseren Platz zu erreichen (Goal 2), während man gleichzeitig die Position des Gegners verschlechtert (//Goal -3).. Autonom/Exzentrisch.
+
+
+überschatten: Interpersonal/Superiority 3/Goal 3//Goal -3/aut/ecc
+Begründung: Überschatten bedeutet, dass der Akteur autonome Bewegung/Anstreben (3) ausübt, um eine Wirkung zu erzielen (Goal 3), wodurch gleichzeitig die Wirkung eines Antagonisten verhindert wird (//Goal -3). Im übertragenen Sinne stellt sich der Akteur über einen anderen, sorgt dafür, dass er selbst mehr Aufmerksamkeit/Beachtung bekommt und der andere in den Hintergrund gerät.. Autonom/Exzentrisch.
+
+überschatten: Material/Light 3/Goal 2//Goal -5/aut/ecc
+Begründung: Im wörtlichen Sinne bedeutet überschatten, dass der Akteur durch seine Position oder Bewegung (3) einen gewünschten Zustand (Goal 2) erreicht, wodurch die Informationsaufnahme (Sichtbarkeit/Licht) des Antagonisten verhindert wird (//Goal -5). Dies geschieht durch das Werfen eines Schattens auf etwas/jemanden.. Autonom/Exzentrisch.
+
+überschatten: Interpersonal/Psychological 3/Goal 3//Goal -2/aut/ecc
+Begründung: Im psychologischen Sinne bedeutet überschatten, dass der Akteur durch sein Handeln/Auftreten (3) eine so starke Wirkung erzielt (Goal 3), dass positive Zustände oder Erlebnisse des Antagonisten in ihrer Bedeutung gemindert werden (//Goal -2), z.B. 'Die schlechte Nachricht überschattete die Feier'.. Autonom/Exzentrisch.
+
+
+überschauen: Material/Observation 3/5/Goal 5/het/ecc
+Begründung: Überschauen bedeutet, mit dem Blick einen Bereich zu erfassen (3/5), um informiert zu sein über den Gesamtzusammenhang (Goal 5). Der Akteur bewegt seinen Blick (3) und nimmt Informationen auf (5), mit dem Ziel, einen Überblick zu haben (Goal 5). Die Ausrichtung ist heteronom (het), da der Akteur sich nach den äußeren Gegebenheiten richtet, und exzentrisch (ecc), da die Aktivität nach außen in die Umwelt gerichtet ist.. Heteronom/Exzentrisch.
+
+überschauen: Material/Supervision 2/5/Goal 5/Goal 2/aut/ecc
+Begründung: In einem Führungs- oder Aufsichtskontext bedeutet überschauen, den Überblick zu behalten (2/5), um informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand der Kontrolle zu erreichen (Goal 2). Hier steht die Verfügungsgewalt (2) über die Informationen im Vordergrund.. Autonom/Exzentrisch.
+
+überschauen: Material/Measurement 3/5/Goal 5/Goal 3/het/ecc
+Begründung: Im messtechnischen Sinne bedeutet überschauen, durch Bewegen des Blicks (3) und Informationsaufnahme (5) einen Überblick zu gewinnen (Goal 5), um eine bestimmte Wirkung oder ein Ergebnis zu erzielen (Goal 3), etwa bei der Planung oder Vermessung.. Heteronom/Exzentrisch.
+
+
+überschätzen: Material/Exaggeration 3/5/Goal -5/aut/ecc
+Begründung: Der Akteur bewegt/strebt (3) beim Informieren (5) eine Wirkung an, die jedoch zu einer ungenauen/falschen Information führt (Goal -5), da etwas als wertvoller/bedeutender/größer eingeschätzt wird, als es tatsächlich ist. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf ein Objekt einwirkt.. Autonom/Exzentrisch.
+
+überschätzen: Interpersonal/Evaluation 3/5/Goal -5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet überschätzen, die Fähigkeiten oder Eigenschaften einer Person zu hoch einzuschätzen (3/5), was zu einer fehlerhaften Einschätzung führt (Goal -5). Der Akteur bewertet einen Antagonisten zu positiv.. Autonom/Exzentrisch.
+
+
+überschlagen: Material/Calculation 3/5/Goal 5/het/ecc
+Begründung: Im rechnerischen Sinne bedeutet 'überschlagen' eine grobe Berechnung durchzuführen. Der Akteur bewegt (3) sich durch Informationen, um sich zu informieren (5), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Fakten anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+überschlagen: Material/Physical/Movement 3/Goal -3/het/ecc
+Begründung: Im Sinne von 'sich überschlagen' (z.B. bei einem Fahrzeug) bezeichnet es eine unkontrollierte Bewegung (3), die zu einer unerwünschten Wirkung führt (Goal -3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur die Kontrolle über die Bewegung verliert und von äußeren Kräften bestimmt wird.. Heteronom/Exzentrisch.
+
+überschlagen: Material/Physical 3/Goal 3/aut/ecc
+Begründung: Im Sinne einer bewussten körperlichen Bewegung (wie beim Turnen, eine Rolle vorwärts/rückwärts machen) ist es eine gezielte Bewegung (3), um eine bestimmte Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Bewegung selbstbestimmt ausführt und sie nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+überschlagen: Material/Clothing 2/3/Goal 2/aut/con
+Begründung: Im Sinne von 'einen Kragen überschlagen' bedeutet es, bestimmend (2) einen Teil des Kleidungsstücks zu bewegen/falten (3), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt mit einem Objekt in seinem Verfügungsbereich hantiert.. Autonom/Konzentrisch.
+
+
+überschreiben: Material/IT 2/3/1/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt/bestimmt (2) über Daten, bewegt/verändert diese (3) und bekommt (1) dadurch einen neuen gewünschten Zustand (Goal 2) - nämlich dass die alten Daten durch neue ersetzt wurden. Der Akteur handelt selbstbestimmt (aut) und nach außen auf die Daten einwirkend (ecc).. Autonom/Exzentrisch.
+
+überschreiben: Material/Creative/Writing 3/2/Goal 2/aut/ecc
+Begründung: Im Sinne von 'einen Text neu/anders schreiben': Der Akteur bewegt sich (3) und verfügt (2) über einen Text, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich dass der Text in überarbeiteter Form vorliegt. Der Akteur handelt selbstbestimmt (aut) und nach außen auf den Text einwirkend (ecc).. Autonom/Exzentrisch.
+
+überschreiben: Material/Legal 2/3/Goal 2//Goal -2/aut/ecc
+Begründung: Im rechtlichen Sinne: Der Akteur bestimmt (2) und bewegt sich (3), um einen gewünschten Zustand zu erreichen (Goal 2), wobei gleichzeitig die bisherige Geltung einer Regelung aufgehoben wird (//Goal -2). Der Prozess ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+
+überschreiten: Material/Limitation 3/Goal 2//Goal -2/aut/ecc
+Begründung: Überschreiten bedeutet, dass der Akteur eine Grenze, einen Wert oder eine Norm durch Bewegung (3) überwindet, um einen gewünschten Zustand zu erreichen (Goal 2), wobei gleichzeitig die durch die Grenze vorgegebene Einschränkung bekämpft wird (//Goal -2). Die autonome, exzentrische Ausrichtung (aut/ecc) zeigt an, dass der Akteur selbstbestimmt nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+überschreiten: Material/Navigation 3/Goal 3/aut/ecc
+Begründung: In der räumlichen Bedeutung bedeutet überschreiten das physische Bewegen (3) über eine Grenze, einen Fluss oder einen Weg, um an ein bestimmtes Ziel zu gelangen (Goal 3). Die Handlung ist selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+überschreiten: Material/Time 3/Goal -2/het/ecc
+Begründung: Im zeitlichen Sinne bedeutet überschreiten, dass ein Zeitlimit durch eine Bewegung (3) nicht eingehalten wird, was zu einem unerwünschten Zustand führt (Goal -2). Die heteronome Ausrichtung (het) zeigt, dass der Akteur von externen Faktoren (der Zeit) abhängig ist.. Heteronom/Exzentrisch.
+
+überschreiten: Interpersonal/Compliance 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet überschreiten, dass der Akteur durch sein Verhalten (3) bewusst Regeln oder Grenzen anderer Menschen missachtet, um einen eigenen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig gegen die Einschränkungen des Antagonisten vorgeht (//Goal -2).. Autonom/Exzentrisch.
+
+
+übersehen: Material/Psychological ADJ 3/-1/Goal -5/het/ecc
+Begründung: Übersehen bedeutet, dass der Akteur etwas nicht wahrnimmt, obwohl er es hätte wahrnehmen können. Die Bewegungskomponente (3) ist vorhanden, aber das Bekommen der Information (-1) wird nicht realisiert, wodurch der informierte Zustand nicht erreicht wird (Goal -5). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur von äußeren Faktoren abhängig ist und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
+
+übersehen: Material/Observation 3/-1/Goal -5/het/ecc
+Begründung: Im Beobachtungskontext bedeutet übersehen, dass trotz des Blickens (3) eine relevante Information nicht aufgenommen wird (-1), wodurch der Akteur nicht informiert wird (Goal -5). Der Fehler geschieht ungewollt und unter Einfluss externer Faktoren (het/ecc).. Heteronom/Exzentrisch.
+
+übersehen: Material/Supervision 2/3/5/Goal 5/aut/con
+Begründung: In einer zweiten Bedeutung kann 'übersehen' auch die aufsichtliche Beobachtung bezeichnen: Der Akteur verfügt (2) über einen Beobachtungsprozess mit Bewegung (3), um Informationen zu gewinnen (5), mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist autonom und konzentrisch (aut/con), da der Akteur die Kontrolle hat und von seinem Standpunkt aus beobachtet.. Autonom/Konzentrisch.
+
+
+übersetzen: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Beim Übersetzen leistet der Akteur (4) für den Antagonisten eine Tätigkeit, indem er Informationen gibt (1/5), damit der Antagonist diese Informationen erhält und versteht (Goal 5). Nach der Leistungserbringung (durch //) erhält der Akteur als Übersetzer Anerkennung und/oder Bezahlung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den vorgegebenen Ausgangstext anpassen muss und nach außen auf den Empfänger gerichtet ist.. Heteronom/Exzentrisch.
+
+übersetzen: Material/Transportation 4/3/1/Goal 3//Goal 4/het/ecc
+Begründung: In der Bedeutung 'mit einem Boot oder einer Fähre übersetzen' leistet der Akteur (4) einen Transport/eine Bewegung (3) für den Antagonisten, damit dieser etwas bekommt (1), nämlich das Erreichen einer Destination (Goal 3). Nach der Leistungserbringung (durch //) erhält der Akteur Anerkennung und/oder Bezahlung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Gegebenheiten anpassen muss und die Handlung nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+
+überspannen: Material/Electrical 2/3/Goal 2/het/ecc
+Begründung: Der Akteur verfügt über (2) und bewegt/manipuliert (3) elektrische Energie, um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich eine zu hohe Spannung zu erzeugen. Die heteronome, exzentrische Ausrichtung (het/ecc) zeigt, dass der Akteur sich an externe Gegebenheiten anpassen muss und nach außen wirkt.. Heteronom/Exzentrisch.
+
+überspannen: Material/Physics 3/1/Goal 2/het/ecc
+Begründung: Im physikalischen Kontext bedeutet überspannen, durch Bewegung/Anstreben (3) ein Objekt in einen Zustand zu bekommen (1), wobei der gewünschte Zustand (Goal 2) eine Überstreckung oder zu starke Dehnung ist. Die heteronome, exzentrische Ausrichtung (het/ecc) zeigt die Anpassung an die physikalischen Eigenschaften des Materials.. Heteronom/Exzentrisch.
+
+überspannen: Material/Construction 2/3/Goal 2/aut/ecc
+Begründung: Im konstruktiven Sinne bedeutet überspannen, bestimmend (2) durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) herzustellen, indem ein Raum oder eine Öffnung überbrückt wird. Die autonome, exzentrische Ausrichtung (aut/ecc) zeigt die selbstbestimmte Natur dieser Tätigkeit mit Wirkung nach außen.. Autonom/Exzentrisch.
+
+überspannen: Interpersonal/Psychological 3/Goal -3/het/ecc
+Begründung: Im übertragenen Sinne bedeutet überspannen, durch zu starke Bewegung/Anstreben (3) eine unerwünschte Wirkung (Goal -3) zu erzielen, was zu Überforderung oder Überreizung führt. Die heteronome, exzentrische Ausrichtung (het/ecc) deutet auf die Anpassung an externe Faktoren und die nach außen gerichtete Wirkung hin.. Heteronom/Exzentrisch.
+
+
+überspringen: Material/Movement 3/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt sich (3) über ein Hindernis hinweg, um eine Destination zu erreichen (Goal 3). Es handelt sich um eine autonome, nach außen gerichtete Handlung, bei der der Akteur durch eigene Kraft über etwas springt.. Autonom/Exzentrisch.
+
+überspringen: Material/Process 2/3/Goal 2//Goal -3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'überspringen' das bewusste Auslassen eines Schrittes oder Abschnitts in einem Prozess. Der Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand (Goal 2), indem er die Bewegung eines Prozesselements verhindert (//Goal -3).. Autonom/Exzentrisch.
+
+überspringen: Material/IT/Process 2/3/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet 'überspringen' das Verfügen (2) über einen Prozess durch Steuerung der Bewegung (3), um einen gewünschten Zustand zu erreichen (Goal 2), etwa beim Überspringen von Teilen einer Präsentation oder eines Videos.. Autonom/Exzentrisch.
+
+
+überstehen: Material/Endurance 3/Goal 2/het/ecc
+Begründung: Überstehen bedeutet, durch das eigene aktive Anstreben (3) einen schwierigen Zustand zu bewältigen und dadurch einen gewünschten Endzustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom (het), da der Akteur sich an externe Gegebenheiten anpassen muss, und exzentrisch (ecc), da der Prozess nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+überstehen: Material/Psychological 3/Goal 2/het/ecc
+Begründung: Im psychologischen Kontext bedeutet überstehen, durch mentale Anstrengung und Durchhaltevermögen (3) eine belastende Situation zu bewältigen, um einen gewünschten Zustand der Erleichterung zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
+überstehen: Material/Medical 3/Goal 2/het/ecc
+Begründung: Im medizinischen Kontext bedeutet überstehen, eine Krankheit oder Behandlung durch den eigenen Körper (3) durchzumachen und zu bewältigen, um wieder einen gesunden Zustand (Goal 2) zu erreichen.. Heteronom/Exzentrisch.
+
+
+übersteigen: Material/Superiority 3/Goal 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) über etwas hinweg, um eine Destination/Wirkung zu erreichen (Goal 3), mit dem Endziel, einen gewünschten Zustand zu erreichen (Goal 2), nämlich höher/darüber zu sein. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
+
+übersteigen: Material/Measurement 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im Sinne von 'übertreffen/überragen': Der Akteur bewegt sich (3) nach oben, um einen gewünschten Zustand zu erreichen (Goal 2), womit er den gewünschten Zustand des Antagonisten durchkreuzt (//Goal -2). Im Wettbewerbskontext bedeutet dies, besser zu sein als der Antagonist.. Autonom/Exzentrisch.
+
+übersteigen: Material/Obstacle 3/1/Goal 3/aut/ecc
+Begründung: Im Sinne von 'hinübersteigen/überwinden': Der Akteur bewegt sich (3) über ein Hindernis und bekommt (1) das Erreichen eines Ziels/einer Destination (Goal 3). Dies wird verwendet, wenn jemand physisch über ein Hindernis steigt.. Autonom/Exzentrisch.
+
+übersteigen: Material/Capacity 3/Goal 3//Goal -2/het/ecc
+Begründung: Im Sinne von 'die Kapazität übersteigen': Eine Bewegung/Entwicklung (3) erreicht ein Ziel/eine Wirkung (Goal 3), die gegen den gewünschten Zustand des Antagonisten gerichtet ist (//Goal -2). Beispiel: 'Die Kosten übersteigen das Budget.'. Heteronom/Exzentrisch.
+
+
+übersteuern: Material/Electronics 2/3/Goal -2/aut/con
+Begründung: Beim Übersteuern verliert der Akteur die Kontrolle über einen elektronischen Verstärkungsprozess, indem er zu viel Verstärkung (2/3) anwendet, was zu einem unerwünschten Ergebnis (Goal -2) führt. Die Übersteuerung ist ein technischer Fehler, bei dem ein Signal über den zulässigen Bereich hinaus verstärkt wird, was zu Verzerrungen führt.. Autonom/Konzentrisch.
+
+übersteuern: Material/Driving 2/3/Goal -3/het/ecc
+Begründung: Im Kontext des Autofahrens bedeutet Übersteuern, dass ein Fahrzeug in Kurven zu stark einlenkt, wobei der Fahrer die Kontrolle (2) über die Bewegung (3) verliert, was zu einer nicht gewünschten Fahrzeugreaktion führt (Goal -3). Dies ist ein Fall, in dem der Akteur sich selbst beeinträchtigt.. Heteronom/Exzentrisch.
+
+übersteuern: Material/Control 2/3/Goal -2/aut/con
+Begründung: In der Regelungstechnik bedeutet Übersteuern, dass ein System durch zu starke Steuerimpulse (2/3) über den Sollwert hinausschießt, was zu einem unerwünschten Zustand (Goal -2) führt. Der Akteur verfügt über die Steuerung, aber die zu intensive Anwendung der Steuerung führt zum unerwünschten Ergebnis.. Autonom/Konzentrisch.
+
+
+überstimmen: Material/Voting 2/3/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur verfügt über (2) eine Stimmmehrheit und setzt mit Bewegung/Anstreben (3) seinen gewünschten Zustand durch (Goal 2), wobei er den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt agiert und seine Wirkung nach außen richtet.. Autonom/Exzentrisch.
+
+überstimmen: Material/Fight/Election 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: In einem politischen Kontext bedeutet überstimmen, durch Bewegung (3) eines Abstimmungsprozesses und Bekommen (1) einer Mehrheit den gewünschten Zustand (Goal 2) zu erreichen, wobei der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2).. Autonom/Exzentrisch.
+
+
+überstrahlen: Material/Light 3/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt/strahlt Licht (3) in die Umgebung, um eine Wirkung zu erzielen, nämlich etwas anderes durch stärkeres Licht in den Hintergrund zu drängen (Goal 3). Die autonome und exzentrische Ausrichtung (aut/ecc) zeigt, dass der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
+
+überstrahlen: Interpersonal/Superiority 3/Goal 3//Goal -3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'überstrahlen', dass der Akteur durch seine Präsenz oder Leistung (3) eine Wirkung erzielt (Goal 3), die die Wirkung anderer Personen in den Hintergrund drängt (//Goal -3). Der Akteur stellt jemand anderen in den Schatten oder macht ihn weniger sichtbar/beachtet.. Autonom/Exzentrisch.
+
+
+überstrapazieren: Material/Endurance 3/1/Goal -2/het/ecc
+Begründung: Etwas überstrapazieren bedeutet, durch übermäßige Bewegung/Anstrengung (3) einen Zustand zu bekommen (1), der über die normale Belastungsgrenze hinausgeht und zu einem ungewünschten Ergebnis (Goal -2) führt. Der Akteur ist heteronym ausgerichtet, da er sich an die Eigenschaften des belasteten Objekts anpassen muss, und exzentrisch, da die Wirkung nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+überstrapazieren: Material/Physical 3/1/Goal -3/het/ecc
+Begründung: Im körperlichen Kontext bedeutet überstrapazieren, durch übermäßige Bewegung/Anstrengung (3) einen Zustand zu bekommen (1), der zu einer negativen körperlichen Wirkung führt (Goal -3). Dies bezieht sich auf die Überanstrengung des eigenen Körpers, wobei die unerwünschte Wirkung im Vordergrund steht.. Heteronom/Exzentrisch.
+
+überstrapazieren: Interpersonal/Psychological 2/3/Goal -2/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet überstrapazieren, durch übermäßiges Bestimmen/Kontrollieren (2) und Bewegen/Anstreben (3) einen unerwünschten Zustand (Goal -2) für eine Beziehung oder Person zu verursachen. Hier geht es um das Überfordern der Geduld oder Belastbarkeit einer anderen Person.. Heteronom/Exzentrisch.
+
+
+überstreichen: Material/Surface/Treatment 2/3/Goal 2/aut/ecc
+Begründung: Beim Überstreichen verfügt der Akteur (2) über ein Werkzeug und Farbe und bewegt/führt dieses (3) über eine Oberfläche, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die Oberfläche mit einer neuen Farbschicht zu versehen. Die Ausrichtung ist autonom (der Akteur bestimmt die Handlung) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+überstreichen: Material/Aircraft 3/Goal 3/aut/ecc
+Begründung: Im Kontext der Luftfahrt bedeutet 'überstreichen' ein Gebiet mit einem Flugzeug zu überfliegen. Der Akteur bewegt sich/strebt an (3), um eine bestimmte Strecke/Destination zu erreichen oder zu überqueren (Goal 3). Die Ausrichtung ist autonom und exzentrisch.. Autonom/Exzentrisch.
+
+überstreichen: Material/Editing 2/3/5/Goal 2/aut/ecc
+Begründung: Im Kontext der Textbearbeitung bedeutet 'überstreichen' einen Textbereich markieren. Der Akteur verfügt (2) über ein Dokument, bewegt sich (3) über den Text, um Information (5) zu markieren und erreicht damit einen gewünschten Zustand der Hervorhebung (Goal 2).. Autonom/Exzentrisch.
+
+
+überstürzen: Material/Process 3/Goal -2/het/ecc
+Begründung: Überstürzen bedeutet, etwas zu hastig und ohne ausreichende Überlegung zu tun. Der Akteur bewegt sich (3) zu schnell vorwärts, was zu einem unerwünschten Ergebnis führt (Goal -2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von äußeren Umständen getrieben wird und die Kontrolle über den Prozess verliert.. Heteronom/Exzentrisch.
+
+überstürzen: Material/Accident 3/Goal -3/het/ecc
+Begründung: Im physischen Sinne kann 'überstürzen' bedeuten, dass etwas kopfüber fällt oder sich zu schnell bewegt (3) und dadurch eine unerwünschte Bewegung/Wirkung eintritt (Goal -3). Die Ausrichtung ist heteronom/exzentrisch, da die Bewegung unkontrolliert erfolgt.. Heteronom/Exzentrisch.
+
+überstürzen: Interpersonal/Psychological 3/Goal -2/het/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet 'sich überstürzen', dass man voreilig handelt und Entscheidungen zu schnell trifft. Der Akteur bewegt sich vorwärts (3), erreicht aber nicht den gewünschten Zustand (Goal -2), weil die Handlung zu hastig erfolgt. Die Ausrichtung ist heteronom/exzentrisch, da man von Emotionen oder äußerem Druck getrieben wird.. Heteronom/Exzentrisch.
+
+
+übertakten: Material/IT/Optimization 2/3/Goal 2/aut/ecc
+Begründung: Übertakten bedeutet, dass der Akteur verfügt (2) über ein elektronisches Gerät (meist CPU, GPU) und verändert dessen Eigenschaften durch Anpassung der Taktfrequenz (3), um einen gewünschten, leistungsstärkeren Zustand zu erreichen (Goal 2). Die Tätigkeit ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt an einem externen System arbeitet.. Autonom/Exzentrisch.
+
+übertakten: Material/Electronics 2/3/Goal 3/aut/ecc
+Begründung: Im Kontext der Elektronik kann Übertakten auch bedeuten, dass der Akteur verfügt (2) über ein Gerät und bewegt/verändert (3) dessen Taktzyklus, um eine bessere Wirkung/Leistung zu erzielen (Goal 3). Die Betonung liegt hier auf dem Ergebnis der verbesserten Performance.. Autonom/Exzentrisch.
+
+
+übertölpeln: Interpersonal/Deception 3/5/2/Goal 2//Goal -2/aut/ecc
+Begründung: Übertölpeln bedeutet, durch ein geschicktes Vorgehen (3) und unter Verwendung von Täuschung/List (5) die Kontrolle (2) zu erlangen, um einen gewünschten Zustand für den Akteur zu erreichen (Goal 2), während man gleichzeitig den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), um den Antagonisten zu überlisten.. Autonom/Exzentrisch.
+
+übertölpeln: Material/Fight/Deception 3/5/2/Goal 2//Goal -2/aut/ecc
+Begründung: In einem materiellen Kontext bedeutet übertölpeln, durch geschickte Bewegung (3) und Täuschung (5) die Kontrolle über eine Situation zu erlangen (2), um einen gewünschten Zustand für den Akteur zu erreichen (Goal 2), während man gleichzeitig den Erfolg des Antagonisten verhindert (//Goal -2).. Autonom/Exzentrisch.
+
+
+übertönen: Material/Sound 3/Goal 2//Goal -5/aut/ecc
+Begründung: Der Akteur bewegt/strebt an (3) einen gewünschten Zustand zu erreichen (Goal 2), nämlich lauter zu sein als etwas anderes, und verhindert dabei, dass der Antagonist (das zu übertönende Geräusch/die Person) informiert/gehört wird (//Goal -5). Die Ausrichtung ist autonom (der Akteur bestimmt den Vorgang) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+übertönen: Material/Fight/Dispute 3/Goal 2//Goal -5/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet übertönen, dass der Akteur durch eigene Ausführungen (3) einen gewünschten Zustand erreicht (Goal 2), wobei er verhindert, dass die Äußerungen des Antagonisten wahrgenommen werden (//Goal -5), z.B. bei einer Diskussion oder Auseinandersetzung.. Autonom/Exzentrisch.
+
+
+übertragen: Material/Transfer 4/3/1/Goal 2//Goal 4/het/ecc
+Begründung: Der Akteur leistet für den Antagonisten (4) durch Bewegung (3) das Geben (1) von etwas, damit der Antagonist über etwas verfügen kann (Goal 2), mit dem Ziel für den Akteur, Anerkennung/Bezahlung zu erhalten (//Goal 4). Die Aktivität ist heteronomisch nach außen gerichtet, da der Akteur sich an die Bedingungen des Transfers anpassen muss und auf einen externen Empfänger ausgerichtet ist.. Heteronom/Exzentrisch.
+
+übertragen: Material/IT 3/1/5/Goal 5/het/ecc
+Begründung: Im IT-Kontext bedeutet übertragen das Bewegen (3) und Bekommen (1) von Informationen (5) mit dem Ziel des Informiertseins (Goal 5). Die Aktivität ist heteronomisch nach außen gerichtet, da der Akteur sich an die technischen Gegebenheiten der Datenübertragung anpassen muss.. Heteronom/Exzentrisch.
+
+übertragen: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Im kommunikativen Kontext bedeutet übertragen das Leisten (4) durch Geben (1) von Informationen (5) damit der Empfänger informiert ist (Goal 5), mit dem Ziel für den Akteur, Anerkennung zu erhalten (//Goal 4). Dies bezieht sich auf das Übermitteln von Botschaften oder Inhalten.. Heteronom/Exzentrisch.
+
+übertragen: Interpersonal/Responsibility 2/4/2/Goal 2//Goal 4/aut/ecc
+Begründung: Im Sinne von 'Verantwortung übertragen' bedeutet es das Bestimmen (2) eine Leistung (4) zu erbringen, indem man Verfügungsgewalt (2) überlässt, damit der Antagonist einen gewünschten Zustand erreicht (Goal 2), mit dem Ziel für den Akteur, Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
+
+
+übertreffen: Material/Superiority 3/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Eine Aktivität, bei der der Akteur durch Bewegung/Anstreben (3) eine Wirkung erzielt (Goal 3), um einen gewünschten Zustand der Überlegenheit für sich zu erreichen (Goal 2), während gleichzeitig der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur aktiv einen Vergleichsstandard überschreitet.. Autonom/Exzentrisch.
+
+übertreffen: Fight/Competition 3/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im Kontext von Wettkämpfen bedeutet übertreffen, dass der Akteur durch Bewegung/Anstreben (3) eine bessere Wirkung/Leistung erzielt (Goal 3), um einen Siegeszustand zu erreichen (Goal 2), während der Antagonist am Sieg gehindert wird (//Goal -2).. Autonom/Exzentrisch.
+
+übertreffen: Interpersonal/Superiority 3/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet übertreffen, dass der Akteur durch seine Handlungen (3) eine überlegene Wirkung erzielt (Goal 3), um einen Status der Überlegenheit zu erreichen (Goal 2), während der Status des Antagonisten relativ gemindert wird (//Goal -2).. Autonom/Exzentrisch.
+
+
+übertreiben: Material/Exaggeration 3/Goal 3/Goal -2/aut/ecc
+Begründung: Der Akteur bewegt/überschreitet (3) die normalen Grenzen, um eine über das angemessene Maß hinausgehende Wirkung zu erzielen (Goal 3), was zu einem unerwünschten Zustand führt (Goal -2), da die Übertreibung die Realität verzerrt oder übermäßig darstellt. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und seine Wirkung nach außen richtet.. Autonom/Exzentrisch.
+
+übertreiben: Interpersonal/Communication 3/1/5/Goal 3//Goal -5/aut/ecc
+Begründung: Im sozialen Kontext bedeutet übertreiben, dass der Akteur gezielt eine Bewegung/Anstreben (3) mit einer Informationsgabe (1/5) für eine bestimmte Wirkung (Goal 3) ausführt, die jedoch zum Nachteil für das Informiertsein des Antagonisten ist (//Goal -5), da die Fakten verzerrt werden. Die Handlung ist selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
+
+
+übertrumpfen: Fight/Competition 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er selbst einen Erfolg erzielt, während er gleichzeitig das Ziel des Antagonisten, erfolgreich zu sein, behindert (//Goal -2). Die Ausrichtung ist autonom (der Akteur handelt selbstbestimmt) und exzentrisch (nach außen gerichtet). Dies drückt das Wesen des Übertrumpfens aus: eine bessere Leistung zu erbringen als der Gegner und dadurch den eigenen Erfolg zu sichern, während der Erfolg des Gegners verhindert wird.. Autonom/Exzentrisch.
+
+übertrumpfen: Material/Superiority 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: In einem allgemeineren Kontext bedeutet übertrumpfen, durch eigene Anstrengung (3) und Erfolg (1) eine Wirkung (Goal 3) zu erzielen, die zu einem gewünschten Zustand der Überlegenheit (Goal 2) führt und gleichzeitig den Erfolg des Antagonisten verhindert (//Goal -2). Die zusätzliche Komponente Goal 3 betont hier die beabsichtigte Wirkung auf die Umgebung oder Wahrnehmung der Überlegenheit.. Autonom/Exzentrisch.
+
+
+übervorteilen: Material/Business/Competition 2/3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Übervorteilen bedeutet, dass der Akteur bestimmt und kontrolliert (2), mit gezielter Bewegung/Anstreben (3) etwas für sich zu bekommen (1), um einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig die Interessen des Antagonisten beeinträchtigt (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), da er bewusst und aktiv auf Kosten eines anderen handelt.. Autonom/Exzentrisch.
+
+übervorteilen: Material/Criminal/Procurement 2/3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im stärker kriminellen Kontext bedeutet übervorteilen, dass der Akteur gezielt und betrügerisch (2/3) etwas für sich bekommt (1), um einen Vorteil zu erlangen (Goal 2), während er bewusst den Antagonisten schädigt (//Goal -2), wobei er selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
+
+
+überwachen: Material/Surveillance 2/5/Goal 2/Goal 5/aut/ecc
+Begründung: Überwachen bedeutet, dass der Akteur bestimmt/kontrolliert (2) und sich informiert (5), um einen gewünschten Zustand der Kontrolle zu erreichen (Goal 2) und informiert zu sein (Goal 5). Der Akteur bestimmt selbst über diesen Vorgang (aut) und richtet seine Aufmerksamkeit nach außen (ecc).. Autonom/Exzentrisch.
+
+überwachen: Material/Security 2/5/Goal 2/aut/ecc
+Begründung: Im Sicherheitskontext bedeutet überwachen, dass der Akteur bestimmt/kontrolliert (2) und sich informiert (5), primär um einen sicheren Zustand aufrechtzuerhalten (Goal 2). Der Schwerpunkt liegt hier auf der Sicherheit, nicht auf dem Informationsgewinn.. Autonom/Exzentrisch.
+
+überwachen: Material/Supervision 2/4/5/Goal 2//Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext bedeutet überwachen, dass der Akteur bestimmt (2) und eine Leistung für den Antagonisten erbringt (4), indem er ihn beobachtet/kontrolliert (5), damit der Antagonist einen gewünschten Zustand erreicht (Goal 2), was letztlich zur Anerkennung für den Akteur führt (//Goal 4).. Autonom/Exzentrisch.
+
+
+überwältigen: Material/Fight/Aggression 3/1/Goal 2//Goal -3/aut/ecc
+Begründung: Überwältigen bedeutet, dass der Akteur mit einer starken Bewegung (3) gegen einen Antagonisten vorgeht und dadurch (1) einen Zustand erreicht (Goal 2), bei dem der Antagonist in seiner Bewegungs- oder Handlungsfreiheit gehindert wird (//Goal -3). Der Akteur handelt selbstbestimmt (aut) und richtet seine Handlung nach außen (ecc).. Autonom/Exzentrisch.
+
+überwältigen: Interpersonal/Psychological 3/1/Goal 2//Goal -3/aut/ecc
+Begründung: Im psychologischen Sinne bedeutet überwältigen, dass starke Emotionen oder Eindrücke einen Menschen so stark beeinflussen (3/1), dass er einen übermächtigen Eindruck bekommt (Goal 2) und die Handlungsfähigkeit des Betroffenen eingeschränkt wird (//Goal -3).. Autonom/Exzentrisch.
+
+überwältigen: Interpersonal/Emotions 3/1/Goal 3/het/ecc
+Begründung: In emotionaler Hinsicht kann überwältigen bedeuten, dass intensive Gefühle auf einen Menschen einwirken (3) und er diese empfängt (1), was eine starke Wirkung (Goal 3) hat. Der Betroffene ist dabei passiv (het) und die Wirkung kommt von außen (ecc).. Heteronom/Exzentrisch.
+
+
+überweisen: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Geld/Werte gibt (1), damit der Empfänger über das Geld verfügen kann (Goal 2), mit dem Ziel für sich selbst Anerkennung/Pflichterfüllung zu erlangen (//Goal 4).. Autonom/Exzentrisch.
+
+überweisen: Material/Medical 2/4/5/Goal 5//Goal 4/aut/ecc
+Begründung: Ein Arzt bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen/eine Empfehlung gibt (5), damit der Patient informiert ist, wo er weiterbehandelt werden kann (Goal 5), mit dem Ziel für sich selbst berufliche Anerkennung zu erlangen (//Goal 4).. Autonom/Exzentrisch.
+
+
+überwinden: Material/Obstacle 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) autonom (aut) und nach außen gerichtet (ecc), um ein Hindernis zu beseitigen und damit einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um die Überwindung materieller Hindernisse oder Schwierigkeiten.. Autonom/Exzentrisch.
+
+überwinden: Interpersonal/Psychological 3/Goal 2//Goal -3/aut/ecc
+Begründung: Im psychologischen Kontext bedeutet überwinden, dass der Akteur durch eigene Anstrengung (3) einen gewünschten Zustand (Goal 2) erreicht und dabei einen Widerstand oder eine Hemmung des Antagonisten (//Goal -3) überwindet. Hier geht es um die Überwindung eigener Ängste, Schwächen oder psychologischer Barrieren.. Autonom/Exzentrisch.
+
+überwinden: Material/Fight/Obstacle 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im Kampfkontext bedeutet überwinden, dass der Akteur durch aktives Vorgehen (3) einen Sieg oder gewünschten Zustand (Goal 2) erreicht und dabei den gewünschten Zustand des Gegners verhindert (//Goal -2). Dies bezieht sich auf das Besiegen eines Gegners oder einer gegnerischen Kraft.. Autonom/Exzentrisch.
+
+
+überwintern: Material/Weather 0/Goal 2/het/ecc
+Begründung: Überwintern bedeutet, die Winterzeit abzuwarten (0) mit dem Ziel, einen gewünschten Zustand (Überleben des Winters/Erhaltung) zu erreichen (Goal 2). Dies geschieht in Anpassung an externe Gegebenheiten (het) und ist nach außen gerichtet (ecc), da man sich den Winterbedingungen der Umwelt anpassen muss.. Heteronom/Exzentrisch.
+
+überwintern: Material/Animals/Behavior 0/Goal 2/het/ecc
+Begründung: Im Kontext von Tieren bedeutet überwintern, dass ein Tier die Winterzeit in einem speziellen Zustand (z.B. Winterschlaf) verbringt (0), um den Winter zu überleben (Goal 2), wobei es sich den natürlichen Gegebenheiten anpasst (het/ecc).. Heteronom/Exzentrisch.
+
+überwintern: Material/Plants 0/Goal 2/het/ecc
+Begründung: Bei Pflanzen bedeutet überwintern, dass Pflanzen in einem Ruhezustand verharren (0), um den Winter zu überstehen und ihren Zustand zu erhalten (Goal 2), wobei sie sich den winterlichen Umweltbedingungen anpassen müssen (het/ecc).. Heteronom/Exzentrisch.
+
+
+überzeichnen: Material/Exaggeration 2/3/Goal 2/Goal 5/aut/ecc
+Begründung: Der Akteur verfügt/bestimmt (2) über eine gezielte Übertreibung durch Bewegung/Transformation (3), um einen gewünschten Zustand der Verdeutlichung zu erreichen (Goal 2) und dadurch eine informative Wirkung zu erzielen (Goal 5). Es handelt sich um eine autonome, nach außen gerichtete Aktivität, bei der der Akteur eine Darstellung bewusst übertreibt, um einen Punkt stärker hervorzuheben.. Autonom/Exzentrisch.
+
+überzeichnen: Material/Financial-Transactions 2/3/1/Goal 2/het/ecc
+Begründung: Im finanziellen Kontext bedeutet überzeichnen, dass der Akteur über sein verfügbares Konto hinaus (2) bewegt/anstrebt (3) und bekommt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur überzieht sein Konto oder nimmt mehr Anteile/Aktien, als ursprünglich vorgesehen. Diese Handlung ist heteronom und nach außen gerichtet, da sie von externen finanziellen Bedingungen abhängig ist.. Heteronom/Exzentrisch.
+
+überzeichnen: Material/Drawing 3/2/Goal 2/Goal 5/aut/ecc
+Begründung: Im künstlerischen Kontext bedeutet überzeichnen, dass der Akteur durch bewusste Bewegung/Anstreben (3) bestimmte Merkmale (2) überbetont darstellt, um einen gewünschten darstellerischen Zustand (Goal 2) zu erreichen und eine informative Wirkung (Goal 5) zu erzielen. Diese Tätigkeit ist autonom und nach außen gerichtet, da der Künstler selbstbestimmt Charakteristika verstärkt, um eine bestimmte Wirkung zu erzielen.. Autonom/Exzentrisch.
+
+
+überzeugen: Material/Persuasion 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) eine Leistung (4) durch Geben (1) von Informationen (5), um den ursprünglichen Standpunkt des Antagonisten zu ändern (Goal -2), mit dem Ziel, einen für den Akteur gewünschten Zustand zu erreichen (//Goal 2). Bei diesem Vorgang setzt der Akteur Argumente oder Beweise ein, um den Antagonisten zum Umdenken zu bewegen.. Autonom/Exzentrisch.
+
+überzeugen: Interpersonal/Persuasion 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bewegt (3) der Akteur eine Leistung (4) durch Geben (1) von Informationen (5), um die Meinung des Antagonisten zu ändern (Goal -2), mit dem Ziel, eine gemeinsame Übereinstimmung zu erreichen (//Goal 2). Die Überzeugung erfolgt hier auf persönlicher Ebene, wobei emotionale und soziale Aspekte eine größere Rolle spielen können.. Autonom/Exzentrisch.
+
+
+überziehen: Material/Financial-Transactions 2/3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet 'überziehen', dass der Akteur bestimmt (2) und mit einer Bewegung (3) mehr Geld bekommt (1), als ihm zusteht, um einen gewünschten Zustand zu erreichen (Goal 2), wobei dies einen unerwünschten Zustand für den Antagonisten (Bank/Kreditgeber) darstellt (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+überziehen: Material/Clothing 3/1/Goal 2/aut/ecc
+Begründung: Im Kontext von Kleidung bedeutet 'überziehen', dass der Akteur mit einer Bewegung (3) etwas bekommt/anlegt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Bewegung nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+überziehen: Material/Coating 3/1/Goal 2/aut/ecc
+Begründung: Im Sinne von Beschichten oder mit einer Schicht bedecken bedeutet 'überziehen', dass der Akteur mit einer Bewegung (3) ein Material auf etwas aufbringt/anlegt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch.. Autonom/Exzentrisch.
+
+überziehen: Material/Time 3/Goal -3/het/ecc
+Begründung: Im zeitlichen Kontext bedeutet 'überziehen', dass der Akteur mit seiner Bewegung/Aktivität (3) länger fortfährt als vorgesehen, was zu einer nicht gewollten Wirkung führt (Goal -3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von äußeren Zeitvorgaben abhängig ist.. Heteronom/Exzentrisch.
+
