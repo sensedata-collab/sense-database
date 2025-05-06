@@ -16,6 +16,30 @@ Begründung: Kalibrieren bedeutet, ein Mess- oder Prüfgerät zu justieren, inde
 kalibrieren: Material/IT 2/3/Goal 2/aut/ecc
 Begründung: Im IT-Kontext bedeutet Kalibrieren das Anpassen von digitalen Geräten oder Sensoren, wobei der Akteur bestimmt (2) und durch Einstellungsänderungen (3) einen gewünschten Zustand (Goal 2) erreicht, etwa die korrekte Funktionsweise eines Bildschirms, einer Kamera oder eines anderen digitalen Systems.. Autonom/Exzentrisch.
 
+kalkulieren: Material/Calculation 3/5/2/Goal 5/Goal 2/het/ecc
+Begründung: Kalkulieren bedeutet, Informationen zu bewegen/untersuchen (3/5), um über diese zu verfügen (2), mit dem Ziel informiert zu sein (Goal 5) und einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur passt sich dabei externen Faktoren an (het) und ist nach außen gerichtet (ecc), da er mit Zahlen und Fakten aus der Umwelt arbeitet.. Heteronom/Exzentrisch.
+
+kalkulieren: Material/Business 3/5/2/Goal 5/Goal 2/Goal 4/het/ecc
+Begründung: Im geschäftlichen Kontext bedeutet kalkulieren, Informationen zu bewegen/untersuchen (3/5), um über diese zu verfügen (2), mit dem Ziel informiert zu sein (Goal 5) und einen gewünschten Zustand zu erreichen (Goal 2), letztendlich um Anerkennung/Geld zu bekommen (Goal 4).. Heteronom/Exzentrisch.
+
+kandieren: Material/Food/Cooking 2/3/Goal 2/aut/ecc
+Begründung: Kandieren bedeutet, Früchte oder andere Lebensmittel mit Zuckerlösung zu überziehen oder zu durchtränken, um sie haltbarer zu machen oder geschmacklich zu verfeinern. Der Akteur verfügt (2) über die Lebensmittel und bearbeitet sie durch Bewegung/Anstreben (3), um einen gewünschten Zustand (Goal 2) - nämlich die Konservierung oder Veredelung - zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf externe Objekte einwirkt.. Autonom/Exzentrisch.
+
+kapern: Material/Maritime 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Kapern bedeutet, sich ein Schiff oder anderes Verkehrsmittel gewaltsam anzueignen. Der Akteur bewegt sich (3) zum Schiff, bekommt (1) es in seine Gewalt, um einen gewünschten Zustand (Kontrolle über das Schiff) zu erreichen (Goal 2), während er gleichzeitig die Kontrolle des Antagonisten über das Schiff verhindert (//Goal -2). Die Ausrichtung ist autonom (der Akteur entscheidet sich aktiv für die Übernahme) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+kapern: Material/Criminal 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet kapern die widerrechtliche Übernahme/Entwendung von Eigentum (z.B. ein Fahrzeug, ein Unternehmen). Der Akteur bewegt sich zu (3) und nimmt (1) das Objekt in Besitz, um seinen gewünschten Zustand (Goal 2) zu erreichen, während er die Kontrolle des Eigentümers (Antagonist) verhindert (//Goal -2).. Autonom/Exzentrisch.
+
+kapern: Material/IT/Security 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Im IT-Kontext bedeutet kapern die unbefugte Übernahme der Kontrolle über ein System, eine Website oder einen Account. Der Akteur dringt ein (3), übernimmt (1) die Kontrolle über das System, um seinen gewünschten Zustand (Goal 2) zu erreichen, während er dem rechtmäßigen Besitzer (Antagonist) die Kontrolle entzieht (//Goal -2).. Autonom/Exzentrisch.
+
+kapieren: Material/Cognitive 3/5/1/Goal 5/het/ecc
+Begründung: Kapieren bedeutet, dass der Akteur durch bewusste Anstrengung (3) Informationen (5) aufnimmt/bekommt (1), um informiert zu sein (Goal 5). Es ist ein kognitiver Prozess des Verstehens, bei dem der Akteur sich heteronym (het) nach äußeren Informationen richtet, mit exzentrischer Ausrichtung (ecc), da die Information von außen aufgenommen wird.. Heteronom/Exzentrisch.
+
+kapieren: Material/Education 3/5/1/Goal 5/Goal 4/het/ecc
+Begründung: Im Bildungskontext bedeutet kapieren, dass der Akteur eine mentale Anstrengung unternimmt (3), um Informationen (5) zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5) und schließlich Anerkennung für diese Lernleistung zu bekommen (Goal 4).. Heteronom/Exzentrisch.
+
 kaschieren: Material/Deception 3/4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich aktiv (3) und leistet (4) durch Geben (1) falscher oder modifizierter Informationen (5), um den Wahrheitsgrad beim Antagonisten zu verringern (Goal -5), mit dem Ziel, einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Der Vorgang ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da er darauf abzielt, die Wahrnehmung anderer zu manipulieren.. Autonom/Exzentrisch.
 
@@ -274,6 +298,48 @@ Begründung: Im Druck- oder Bastelkontext bedeutet kleben das Bestimmen (2) und 
 kleben: Material/Physical 1/3/Goal -3/het/ecc
 Begründung: Im übertragenen Sinn kann 'kleben' auch bedeuten, dass etwas ungewollt haftet oder festsitzt - man bekommt (1) eine unerwünschte Bewegungsbehinderung (Goal -3). Die Situation ist fremdbestimmt (het) und wirkt auf den Akteur von außen ein (ecc).. Heteronom/Exzentrisch.
 
+klettern: Material/Physical/Movement 3/Goal 3/aut/ecc
+Begründung: Klettern bedeutet, dass der Akteur sich aktiv und selbstbestimmt (aut) durch eigene körperliche Bewegung (3) nach oben oder an etwas entlang bewegt, mit dem Ziel, eine bestimmte Position oder Höhe zu erreichen (Goal 3). Die Bewegung ist nach außen gerichtet (ecc), da der Akteur sich durch den äußeren Raum bewegt.. Autonom/Exzentrisch.
+
+klettern: Material/Sports 3/Goal 3/aut/ecc
+Begründung: Im sportlichen Kontext bedeutet Klettern eine gezielte Bewegung (3) an einer Kletterwand oder im Gelände nach oben, um eine bestimmte Höhe oder einen Zielpunkt zu erreichen (Goal 3). Die Aktivität wird autonom vom Akteur ausgeführt (aut) und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+klingeln: Material/Sound 2/3/Goal 5/aut/ecc
+Begründung: Der Akteur bestimmt (2) die Bewegung (3) einer Klingel, um jemanden zu informieren (Goal 5). Durch die Betätigung einer Klingel wird gezielt eine akustische Information generiert, um die Aufmerksamkeit eines Anderen zu erlangen.. Autonom/Exzentrisch.
+
+klingeln: Material/Communication 3/5/Goal 5/het/ecc
+Begründung: Im Sinne von 'es klingelt' (z.B. Telefon): Eine Bewegung (3) erzeugt eine Information (5), um jemanden zu informieren (Goal 5). Hier ist der Akteur heteronomisch, da er nicht selbst klingelt, sondern ein Gerät den Ton erzeugt.. Heteronom/Exzentrisch.
+
+klingeln: Interpersonal/Communication 3/5/Goal 5/aut/ecc
+Begründung: Im übertragenen Sinne: Bei jemandem 'klingeln' im Sinne von Kontakt aufnehmen. Der Akteur bewegt sich (3) zu jemandem, um Kontakt (5) herzustellen (Goal 5).. Autonom/Exzentrisch.
+
+klingeln: Material/Psychological 3/5/Goal 5/het/ecc
+Begründung: Im übertragenen Sinne: 'Es klingelt bei jemandem' bedeutet, dass eine Information (5) eine Erkenntnis auslöst (3), die zum Verstehen führt (Goal 5).. Heteronom/Exzentrisch.
+
+klopfen: Material/Surface/Treatment 3/Goal 2/aut/ecc
+Begründung: Klopfen bedeutet, mit Bewegung (3) auf eine Oberfläche einzuwirken, um einen gewünschten Zustand (Goal 2) zu erreichen. Dabei bewegt der Akteur autonom (aut) etwas gegen eine Oberfläche, wobei die Bewegung nach außen gerichtet ist (ecc).. Autonom/Exzentrisch.
+
+klopfen: Material/Communication 3/5/Goal 5/aut/ecc
+Begründung: Als Kommunikationssignal bedeutet Klopfen, durch Bewegung (3) ein Signal zu erzeugen (5), um eine Information zu übermitteln (Goal 5). Typisch für das Anklopfen an einer Tür, um Einlass zu begehren oder Aufmerksamkeit zu erlangen.. Autonom/Exzentrisch.
+
+klopfen: Material/Physical 3/Goal -3/het/con
+Begründung: Als körperlicher Vorgang bezeichnet Klopfen ein rhythmisches, ungewolltes Pochen (z.B. des Herzens), bei dem eine Bewegung (3) stattfindet, die zu einer unerwünschten Wirkung führt (Goal -3). Die Bewegung ist heterogen bestimmt (het) und nach innen gerichtet (con).. Heteronom/Konzentrisch.
+
+klopfen: Material/Mechanical 3/Goal 3/het/ecc
+Begründung: Im mechanischen Kontext bezeichnet Klopfen ein ungewolltes Geräusch einer Maschine, bei dem eine Bewegung (3) zu einer bestimmten Wirkung führt (Goal 3). Die Bewegung ist fremdbestimmt (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+klären: Material/Analysis 3/5/2/Goal 5/aut/ecc
+Begründung: Etwas klären bedeutet, durch Bewegung/Anstreben (3) bezüglich Informationen (5) und Verfügen über diese (2), zum Ziel des Informiertseins (Goal 5) zu gelangen. Der Akteur untersucht aktiv einen Sachverhalt, um Klarheit zu gewinnen und Informationen zu erschließen.. Autonom/Exzentrisch.
+
+klären: Material/Fluids/Process 3/Goal 2/aut/ecc
+Begründung: Im Sinne von 'eine Flüssigkeit klären' bedeutet es, durch Bewegung/Anstreben (3) einen gewünschten Zustand der Reinheit/Klarheit (Goal 2) zu erreichen. Der Akteur bewirkt eine Veränderung der Flüssigkeit, um Trübstoffe zu entfernen.. Autonom/Exzentrisch.
+
+klären: Interpersonal/Dispute 3/5/Goal 5//Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet klären, durch Bewegung/Anstreben (3) und Informationsaustausch (5) zu einem Verständnis (Goal 5) zu gelangen, was letztlich zu einem besseren Zustand zwischen den Beteiligten führt (//Goal 2). Der Akteur strebt die Klärung eines Konflikts oder Missverständnisses an.. Autonom/Exzentrisch.
+
+klönen: Interpersonal/Communication 5/1/Goal 5/het/ecc
+Begründung: Klönen bedeutet ungezwungen plaudern oder sich unterhalten. Der Akteur sucht und nimmt Kontakt auf (5), bekommt dabei Informationen und Aufmerksamkeit (1), mit dem Ziel, dass Kontakt stattfindet und aufrechterhalten wird (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Gesprächspartner anpasst und nach außen gerichtet kommuniziert.. Heteronom/Exzentrisch.
+
 knebeln: Material/Restraint 2/3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Beim Knebeln bestimmt der Akteur (2) durch Bewegung (3) und Bekommen (1) einen gewünschten Zustand der Fesselung (Goal 2), wodurch die Bewegungsfähigkeit des Antagonisten eingeschränkt wird (//Goal -3). Der Akteur handelt autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
@@ -357,6 +423,13 @@ Begründung: In beruflicher Funktion bedeutet Kochen, dass der Akteur verfügt/k
 
 kochen: Material/Fluids 2/3/Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet kochen (z.B. von Wasser), dass der Akteur verfügt/kontrolliert (2) über Flüssigkeit und durch Bewegung/Transformation (3) einen gewünschten Zustand (Siedetemperatur) erreicht (Goal 2). Hier fehlt der Aspekt des Essens/Trinkens, weshalb Goal 1 nicht enthalten ist.. Autonom/Exzentrisch.
+
+kochen: Material/Food/Cooking 2/3/1/Goal 2/Goal 1/aut/ecc
+Begründung: Beim Kochen verfügt der Akteur (2) über Lebensmittel und bewegt/transformiert diese durch Hitzeeinwirkung (3), um sie genießbar zu machen und zu bekommen (1). Dies führt zu einem gewünschten Zustand der Speisen (Goal 2) mit dem Endziel der Nahrungsaufnahme und Sättigung (Goal 1).. Autonom/Exzentrisch.
+kochen: Material/Fluids 3/Goal 2/aut/ecc
+Begründung: In Bezug auf Flüssigkeiten bedeutet Kochen, dass der Akteur eine Bewegung/Transformation (3) durch Erhitzen bewirkt, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich den Siedepunkt.. Autonom/Exzentrisch.
+kochen: Interpersonal/Emotional 3/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'vor Wut kochen', dass der Akteur eine intensive innere Bewegung/Erregung (3) erlebt, die auf eine emotionale Wirkung (Goal 3) abzielt.. Autonom/Exzentrisch.
 
 kodieren: Material/Information 2/3/5/Goal 5/aut/ecc
 Begründung: Beim Kodieren bestimmt der Akteur (2) durch Bearbeitung/Transformation (3) von Informationen (5), wie diese dargestellt werden, um einen informierten Zustand (Goal 5) zu erreichen. Der Prozess ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur die Kontrolle über den Vorgang hat und das Ergebnis in die Umwelt übertragen wird.. Autonom/Exzentrisch.
@@ -501,6 +574,11 @@ Begründung: Der Akteur bestimmt/verfügt (2) über musikalische Elemente, beweg
 
 komponieren: Material/Musical 2/3/Goal 2/aut/ecc
 Begründung: In einer vereinfachten Betrachtung bestimmt der Akteur (2) und bewegt musikalische Elemente (3), um einen gewünschten Zustand (ein fertiges Musikstück) zu erreichen (Goal 2). Diese Kodierung betont mehr den handwerklichen Aspekt des Komponierens.. Autonom/Exzentrisch.
+
+komponieren: Material/Music 2/3/Goal 5/Goal 3/aut/ecc
+Begründung: Komponieren bedeutet, über musikalische Elemente zu verfügen/entscheiden (2) und diese kreativ zu bewegen/anzuordnen (3), um Informationen in Form von Musik zu erschaffen (Goal 5) mit dem Ziel, eine bestimmte Wirkung beim Zuhörer zu erzielen (Goal 3). Die Tätigkeit erfolgt autonom und ist nach außen gerichtet.. Autonom/Exzentrisch.
+komponieren: Material/Creative 2/3/Goal 2/aut/ecc
+Begründung: In einem allgemeineren künstlerischen Kontext bedeutet komponieren, Elemente anzuordnen und zu gestalten (2/3), um einen gewünschten ästhetischen Zustand zu erreichen (Goal 2). Dies kann sich auf die visuelle Gestaltung in Kunst, Fotografie oder Design beziehen.. Autonom/Exzentrisch.
 
 kompostieren: Material/Agricultural/Waste-Disposal 2/3/Goal 2/aut/ecc
 Begründung: Beim Kompostieren verfügt/kontrolliert der Akteur (2) organische Abfälle und bewegt/bearbeitet sie (3), um einen gewünschten Zustand (Goal 2) - nämlich die Umwandlung in verwertbaren Kompost - zu erreichen. Der Prozess ist autonom und nach außen gerichtet (aut/ecc), da der Akteur den Vorgang selbstbestimmt durchführt und auf biologische Abbauprozesse in der Umwelt einwirkt.. Autonom/Exzentrisch.

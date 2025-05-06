@@ -898,6 +898,11 @@ Begründung: Beim Forschen bewegt/strebt der Akteur (3) nach Informationen (5) u
 forschen: Material/Criminal/Investigation 3/5/2/Goal 5/het/ecc
 Begründung: Im Kontext einer Ermittlung bedeutet forschen das Suchen und Sammeln von Beweisen und Informationen (3/5) und das Verarbeiten dieser Daten (2), um zu einem Erkenntnisstand zu gelangen (Goal 5).. Heteronom/Exzentrisch.
 
+forschen: Material/Research 3/5/2/Goal 5/het/ecc
+Begründung: Forschen bedeutet, dass der Akteur durch aktives Bewegen/Anstreben (3) nach Informationen sucht (5) und darüber verfügen will (2), um letztendlich informiert zu sein (Goal 5). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur sich an externen Gegebenheiten orientiert und nach außen gerichtet ist, um neue Erkenntnisse zu gewinnen.. Heteronom/Exzentrisch.
+forschen: Material/Scientific 2/3/5/Goal 5/Goal 4/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet forschen, dass ein Wissenschaftler bestimmend (2) mit aktiver Bewegung (3) Informationen untersucht (5), um Erkenntnisse zu gewinnen (Goal 5) mit dem höheren Ziel der beruflichen Anerkennung (Goal 4). Die Ausrichtung ist heteronom und exzentrisch, da die Forschung von externen Faktoren abhängig ist und nach außen gerichtet.. Heteronom/Exzentrisch.
+
 fortbestehen: Material/Persistence 2/Goal 2/aut/con
 Begründung: Das Verb 'fortbestehen' bedeutet, dass ein bestimmter Zustand oder eine Entität weiterhin existiert und erhalten bleibt. Der Akteur verfügt/kontrolliert (2) über einen bestehenden Zustand und erhält diesen aufrecht, um einen gewünschten Zustand der Kontinuität zu realisieren (Goal 2). Die Ausrichtung ist autonom (aut), da es um das aktive Aufrechterhalten geht, und konzentrisch (con), da der Fokus auf dem Innenbereich des Akteurs liegt.. Autonom/Konzentrisch.
 
@@ -1120,6 +1125,11 @@ Begründung: Fräsen ist ein Bearbeitungsvorgang, bei dem der Akteur mit einem F
 fräsen: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Im Kontext der Holzbearbeitung bedeutet Fräsen das Formen oder Abtragen von Holzmaterial durch Bewegung (3) eines Fräswerkzeugs, um einen gewünschten Zustand des Werkstücks (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+Begründung: Beim Fräsen bewegt (3) der Akteur durch eine Fräsmaschine Material ab, um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um einen autonomen Prozess (aut), der auf ein außenliegendes Objekt (ecc) einwirkt. Mit einer Fräse werden Materialien wie Metall, Holz oder Kunststoff durch rotierende Werkzeuge bearbeitet, um eine bestimmte Form zu erzielen.. Autonom/Exzentrisch.
+Begründung: Im Kontext der Holzbearbeitung bezeichnet das Fräsen einen Vorgang, bei dem durch Bewegung (3) des Werkzeugs Holzmaterial abgetragen wird, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Bewegung des Fräswerkzeugs ist autonom gesteuert (aut) und wirkt auf ein externes Objekt (ecc).. Autonom/Exzentrisch.
+fräsen: Material/Agriculture 3/Goal 2/aut/ecc
+Begründung: In der Landwirtschaft bedeutet Fräsen das Bearbeiten des Bodens durch Bewegung (3) einer Bodenfräse, um einen gewünschten Zustand des Bodens (Goal 2) für die Aussaat zu erreichen. Der Akteur steuert den Prozess autonom (aut) und wirkt auf ein externes Objekt, den Boden (ecc).. Autonom/Exzentrisch.
+
 frösteln: Material/Physical/Condition 1/Goal -2/het/con
 Begründung: Der Akteur bekommt (1) einen unerwünschten körperlichen Zustand (Goal -2), nämlich ein leichtes Kältegefühl. Dies geschieht heteronom (het), da der Akteur diesen Zustand nicht selbst kontrolliert, und konzentrisch (con), da es sich um einen inneren körperlichen Zustand handelt.. Heteronom/Konzentrisch.
 
@@ -1254,6 +1264,12 @@ Begründung: Der Akteur verfügt (2) über ein Material und bewegt (3) es, damit
 
 füllen: Material/Form 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Material, bewegt (3) es in ein Formular oder eine Lücke hinein, die es bekommen (1) soll, um einen gewünschten Zustand (Goal 2) zu erreichen, wie z.B. beim Ausfüllen eines Formulars.. Autonom/Exzentrisch.
+
+für jemanden schwärmen: Interpersonal/Attraction 3/1/Goal 1/het/ecc
+Begründung: Der Akteur bewegt sich emotional (3) auf den Antagonisten zu und strebt an (1), Nähe/emotionale Verbindung zu bekommen (Goal 1). Die Ausrichtung ist heternom/exzentrisch (het/ecc), da der Akteur sich an der Person orientiert, für die er schwärmt, und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+für jemanden schwärmen: Interpersonal/Psychological 5/3/Goal 1/het/ecc
+Begründung: In der psychologischen Dimension bedeutet Schwärmen, dass der Akteur Kontakt sucht (5) und sich emotional bewegt (3), um Nähe zu empfinden (Goal 1). Die Ausrichtung ist heternom/exzentrisch (het/ecc), da der Akteur sich an der idealisierten Person orientiert.. Heteronom/Exzentrisch.
 
 fürchten: Interpersonal/Psychological 1/Goal -0/het/con
 Begründung: Fürchten bedeutet, ein negatives Gefühl zu bekommen (1) in Bezug auf eine Vorausannahme (Goal -0), dass etwas Unangenehmes oder Bedrohliches eintreten könnte. Es ist heteronomer Natur (het), da man sich der Situation ausgeliefert fühlt, und nach innen gerichtet (con), da es sich um ein inneres Gefühl handelt.. Heteronom/Konzentrisch.

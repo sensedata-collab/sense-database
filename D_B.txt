@@ -426,6 +426,7 @@ Begründung: In einem zwischenmenschlichen Kontext bedeutet befingern, den Körp
 
 befingern: Material/Medical 3/5/Goal 5/aut/ecc
 Begründung: Im medizinischen Kontext kann befingern eine Untersuchungsmethode sein, bei der der Akteur (z.B. ein Arzt) mit den Fingern tastet, um diagnostische Informationen zu gewinnen. Der Arzt bewegt (3) seine Finger, um sich zu informieren (5) mit dem Ziel des Informiertseins (Goal 5).. Autonom/Exzentrisch.
+
 beflügeln: Interpersonal/Psychological 4/3/Goal 3//Goal 3/Goal 4/het/ecc
 Begründung: Ein Akteur leistet (4) für einen Antagonisten etwas, das dessen Bewegung/Anstreben (3) unterstützt, damit der Antagonist eine bessere Wirkung (Goal 3) erzielen kann. Nach dem Wechsel zurück zum Akteur (//), führt dies auch zu einer Wirkung für den Akteur selbst (Goal 3) und Anerkennung (Goal 4). Die Ausrichtung ist heteronomisch und exzentrisch (het/ecc), weil der Akteur sich an den Bedürfnissen des Anderen orientiert und nach außen wirkt.. Heteronom/Exzentrisch.
 
@@ -830,6 +831,7 @@ Begründung: Als Fähigkeit bedeutet beherrschen, dass der Akteur über etwas ve
 
 beherrschen: Material/Emotions 2/Goal 2/aut/con
 Begründung: Bei der Selbstbeherrschung kontrolliert der Akteur (2) seine eigenen Gefühle oder Reaktionen, um einen gewünschten Zustand der Kontrolle zu erreichen (Goal 2). Die Ausrichtung ist autonom/konzentrisch (aut/con).. Autonom/Konzentrisch.
+
 behindern: Material/Limitation 3/Goal 2//Goal -3/aut/ecc
 Begründung: Eine Aktivität, bei der der Akteur eine Bewegung ausführt (3), um einen gewünschten Zustand für sich zu erreichen (Goal 2), wobei diese Bewegung gleichzeitig die Wirkungserreichung eines Antagonisten einschränkt (//Goal -3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), um einen anderen in seiner Zielerreichung zu beeinträchtigen.. Autonom/Exzentrisch.
 
@@ -1433,6 +1435,12 @@ Begründung: In einer zwischenmenschlichen Beziehung leistet der Akteur (4) für
 beraten: Material/Decision 2/5/3/Goal 2/het/con
 Begründung: Eine Gruppe/Person verfügt (2) über Informationen (5) und bewegt sich gedanklich damit (3), um einen gewünschten Zustand (Entscheidung) zu erreichen (Goal 2).. Heteronom/Konzentrisch.
 
+Begründung: Beraten bedeutet, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach der Leistungserbringung (//), erwartet der Akteur Anerkennung oder Bezahlung für seine Beratungsleistung (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Berater selbstbestimmt agiert und nach außen auf den Ratsuchenden gerichtet ist.. Autonom/Exzentrisch.
+beraten: Material/Business 2/4/1/5/Goal 5/Goal 2//Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext bedeutet Beraten, dass der Akteur bestimmt (2), eine professionelle Beratungsleistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5) und einen gewünschten Zustand erreicht (Goal 2). Nach der Leistungserbringung (//), erwartet der Akteur eine Bezahlung für seine Beratungsdienstleistung (Goal 4).. Autonom/Exzentrisch.
+beraten: Interpersonal/Support 4/1/5/Goal 5/Goal 2//Goal 4/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet Beraten, dass der Akteur eine Unterstützungsleistung für den Antagonisten erbringt (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5) und eine bessere Entscheidung treffen kann (Goal 2). Nach der Leistungserbringung (//), erhofft sich der Akteur Dankbarkeit oder Anerkennung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da sich der Akteur auf die Bedürfnisse des Ratsuchenden einstellt.. Heteronom/Exzentrisch.
+
 beratschlagen: Material/Advice 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Der Akteur bewegt/untersucht (3) Informationen (5), um Verfügungsgewalt/Entscheidungen (2) zu erlangen, mit dem Ziel, informiert zu sein (Goal 5) und einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Faktoren richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
@@ -1990,6 +1998,12 @@ Begründung: In der übertragenen Bedeutung 'jemanden durch Eindruck, Charme ode
 
 bestechen: Material/Fight/Power-Politics 2/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1), das einen unmoralischen Zustand beim Antagonisten erzeugt (Goal -2), nämlich eine korrupte Handlung zu begehen. Dies dient dem eigenen Ziel des Akteurs (//Goal 2), einen gewünschten Zustand zu erreichen. Der Akteur handelt autonom (aut) und nach außen gerichtet (ecc), indem er aktiv auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+bestechten: Material/Criminal 2/4/1/Goal 2//Goal -2/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas (meist Geld) gibt (1), um einen gewünschten Zustand zu erreichen (Goal 2), was für den Antagonisten einen moralisch/rechtlich verwerflichen Zustand bewirkt (//Goal -2), während der Akteur schlussendlich eine Gegenleistung/Vorteil erhält (Goal 4). 'Bestechen' bedeutet, jemanden durch Geschenke oder Geld für unlautere Zwecke gefügig zu machen.. Autonom/Exzentrisch.
+
+bestechten: Material/Fight/Dispute 2/4/1/Goal -2//Goal 2/aut/ecc
+Begründung: In einem Streit-/Konfliktkontext kann 'bestechen' bedeuten, den Antagonisten durch Gaben (4/1) in einen moralisch fragwürdigen Zustand zu bringen (Goal -2), um einen eigenen gewünschten Zustand (//Goal 2) zu erreichen, etwa in Verhandlungen oder bei der Einflussnahme.. Autonom/Exzentrisch.
 
 bestehen: Material/Endurance 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich/strengt sich an (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich einer Herausforderung standzuhalten. Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Handlung nach außen gerichtet ist.. Autonom/Exzentrisch.

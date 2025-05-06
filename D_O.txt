@@ -79,6 +79,13 @@ Begründung: Im geschäftlichen Kontext bedeutet operieren (als Unternehmen tät
 operieren: Material/Mathematics 2/3/Goal 2/aut/ecc
 Begründung: Im mathematischen Kontext bedeutet operieren, dass der Akteur bestimmt/verfügt über (2) und bewegt/verändert (3) mathematische Elemente, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+operieren: Material/Medical 2/3/4/Goal 2//Goal 4/aut/ecc
+Begründung: Operieren bedeutet, dass der Akteur (Arzt/Chirurg) bestimmt (2) und durch Bewegung/Eingriff (3) eine Leistung (4) für den Antagonisten (Patienten) erbringt, mit dem Ziel, dessen gewünschten Gesundheitszustand zu realisieren (Goal 2). Nach dem Wechsel (//) folgt das eigene Ziel des Akteurs, berufliche Anerkennung und Vergütung zu erhalten (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur bestimmend und nach außen auf den Patienten einwirkend handelt.. Autonom/Exzentrisch.
+operieren: Material/Military 2/3/Goal 3/Goal 2/aut/ecc
+Begründung: Im militärischen Kontext bedeutet operieren, dass Streitkräfte planvoll (2) und mit Bewegung (3) eine bestimmte Wirkung/Destination erreichen (Goal 3) mit dem übergeordneten Ziel, einen gewünschten strategischen Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da die Streitkräfte selbstbestimmt und nach außen gerichtet agieren.. Autonom/Exzentrisch.
+operieren: Material/Machine-System 2/Goal 3/aut/con
+Begründung: Im technischen Sinne bedeutet operieren, eine Maschine zu steuern/bedienen. Der Akteur bestimmt/verfügt (2) über die Maschine, mit dem Ziel eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt über Bedienelemente im eigenen Kontrollbereich verfügt.. Autonom/Konzentrisch.
+
 opfern: Material/Religious 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Opfern bedeutet, dass der Akteur bestimmt (2) etwas Wertvolles als Leistung für eine höhere Macht/Gottheit (4) zu geben (1), um einen gewünschten Zustand zu erreichen (Goal 2), wobei der Akteur letztlich Anerkennung/Wohlwollen von der höheren Macht erhofft (//Goal 4). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 

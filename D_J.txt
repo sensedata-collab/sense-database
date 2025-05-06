@@ -1,3 +1,15 @@
+jagen: Material/Hunting 3/Goal 3/Goal 2/aut/ecc
+Begründung: Jagen bedeutet, dass der Akteur sich aktiv bewegt (3) mit dem Ziel, Beute zu erreichen/zu erlegen (Goal 3), um letztendlich einen gewünschten Zustand (Nahrung/Trophäe) zu haben (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Jäger selbstbestimmt handelt und nach außen in die Umwelt gerichtet agiert.. Autonom/Exzentrisch.
+
+jagen: Material/Pursuit 3/Goal 3/aut/ecc
+Begründung: Im Sinne von 'verfolgen' bedeutet jagen, dass sich der Akteur bewegt (3), um ein Ziel zu erreichen (Goal 3). Hier steht die reine Verfolgungsbewegung im Vordergrund, nicht unbedingt das Erlangen eines Besitzobjekts.. Autonom/Exzentrisch.
+
+jagen: Material/Sports 3/Goal 3/Goal 4/aut/ecc
+Begründung: Als sportliche Aktivität bedeutet jagen, dass der Akteur sich bewegt (3), um ein Ziel zu erreichen (Goal 3), mit dem übergeordneten Ziel der Anerkennung/des sportlichen Erfolgs (Goal 4).. Autonom/Exzentrisch.
+
+jagen: Interpersonal/Pursuit 3/Goal 3/Goal 5/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext kann jagen bedeuten, dass der Akteur jemanden verfolgt/nachjagt (3), um Kontakt zu erreichen (Goal 3/Goal 5), beispielsweise bei der romantischen Verfolgung.. Autonom/Exzentrisch.
+
 joint venturen: Material/Business/Cooperation 2/3/Goal 2/Goal 4/het/ecc
 Begründung: Joint Venturen bedeutet, dass zwei oder mehr Unternehmen gemeinsam verfügen (2) und Ressourcen bewegen/einsetzen (3), um einen gewünschten wirtschaftlichen Zustand zu erreichen (Goal 2) mit dem übergeordneten Ziel, geschäftlich Anerkennung und finanziellen Erfolg zu erlangen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Partner sich aufeinander einstellen müssen und nach außen in den Markt wirken.. Heteronom/Exzentrisch.
 

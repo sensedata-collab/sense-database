@@ -301,6 +301,11 @@ Begründung: Der Akteur bewegt sich aktiv (3) im Informationsraum, um bestimmte 
 recherchieren: Material/Criminal/Investigation 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Im Kontext einer Ermittlung bedeutet recherchieren, Informationen aktiv zu suchen (3/5) und zu ordnen (2), mit dem Ziel informiert zu sein (Goal 5) und letztlich einen gewünschten Zustand herzustellen (Goal 2), wie beispielsweise einen Fall zu lösen.. Heteronom/Exzentrisch.
 
+Begründung: Recherchieren bedeutet, aktiv nach Informationen zu suchen (3) und diese aufzunehmen (5), um sie verfügbar zu machen (2), mit dem Ziel, umfassend informiert zu sein (Goal 5). Der Akteur passt sich dabei an externe Informationsquellen an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+Begründung: Im Kontext von Ermittlungen bedeutet recherchieren, systematisch Informationen zu suchen (3/5) und zu organisieren (2), um Kenntnis zu erlangen (Goal 5) mit dem übergeordneten Ziel, einen gewünschten Zustand herzustellen (Goal 2), wie etwa einen Fall zu lösen.. Heteronom/Exzentrisch.
+recherchieren: Material/IT/Search 3/5/2/Goal 5/het/ecc
+Begründung: Im digitalen Kontext bedeutet recherchieren, durch elektronische Systeme zu navigieren (3), Informationen zu finden (5) und zu sichern (2), um einen informierten Zustand zu erreichen (Goal 5).. Heteronom/Exzentrisch.
+
 rechnen: Material/Mathematics 3/5/Goal 5/het/ecc
 Begründung: Rechnen bedeutet, durch mentale Bewegung (3) und Informationsverarbeitung (5) Informationen zu erlangen (Goal 5). Es ist heteronym (het), da die mathematischen Regeln vorgegeben sind und der Akteur sich anpassen muss, und nach außen gerichtet (ecc), da die Informationen aus der externen Welt verarbeitet werden.. Heteronom/Exzentrisch.
 
@@ -348,6 +353,11 @@ Begründung: Beim Redigieren verfügt der Akteur (2) über einen Text, bearbeite
 
 redigieren: Material/Correction 2/3/5/Goal 5/Goal 2/aut/ecc
 Begründung: In der spezifischen Bedeutung des Korrigierens verfügt der Akteur (2) über einen Text, bearbeitet ihn (3) und verbessert die Informationen (5), um informativ korrekter zu sein (Goal 5) und einen gewünschten Endzustand des Textes zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+redigieren: Material/Editing 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Redigieren bedeutet, einen Text zu bearbeiten, indem man Kontrolle über das Material ausübt (2), Änderungen vornimmt (3) und mit Informationen (5) arbeitet, um einen informativen (Goal 5) und verbesserten Zustand des Textes (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) bei einer Tätigkeit, die nach außen gerichtet ist (ecc).. Autonom/Exzentrisch.
+redigieren: Material/Creative/Writing 2/3/5/Goal 5/Goal 4/aut/ecc
+Begründung: Im beruflichen Kontext bedeutet redigieren, als Redakteur oder Lektor einen Text zu kontrollieren (2), zu bearbeiten (3) und zu verbessern (5), um eine informative Qualität (Goal 5) zu gewährleisten und berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
 reduzieren: Material/Limitation 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) eine Verringerung, um einen gewünschten Zustand (Goal 2) zu erreichen. Beim Reduzieren wird kontrolliert eine Verringerung vorgenommen, mit dem Ziel einen gewünschten niedrigeren Zustand zu realisieren.. Autonom/Exzentrisch.
@@ -801,6 +811,13 @@ Begründung: Im Kontext von Möbeln bedeutet restaurieren, ein altes Möbelstüc
 
 restaurieren: Material/Food/Cooking 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Als gastronomischer Begriff bedeutet restaurieren, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Speisen gibt (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2 vor //), mit dem Ziel Anerkennung/Bezahlung zu erhalten (Goal 4 nach //).. Autonom/Exzentrisch.
+
+restaurieren: Material/Historical/Preservation 3/Goal 2/aut/ecc
+Begründung: Restaurieren bedeutet, durch Bewegung und Bearbeitung (3) einen gewünschten ursprünglichen Zustand (Goal 2) wiederherzustellen. Der Akteur ist selbstbestimmt (aut) und nach außen auf das Objekt gerichtet (ecc). Es handelt sich um eine spezialisierte Form der Wiederherstellung mit Fokus auf historische/kulturelle Objekte.. Autonom/Exzentrisch.
+restaurieren: Material/Furniture 3/Goal 2/aut/ecc
+Begründung: In Bezug auf Möbel bedeutet restaurieren das handwerkliche Bearbeiten (3) von Möbelstücken, um ihren ursprünglichen oder gewünschten Zustand (Goal 2) wiederherzustellen. Der Fokus liegt auf der Erhaltung oder Wiederherstellung alter Möbelstücke.. Autonom/Exzentrisch.
+restaurieren: Material/Business/Hospitality 4/3/Goal 2//Goal 4/het/ecc
+Begründung: Als Betreiber eines Restaurants: Leistung erbringen (4) durch Bewegung/Anstreben (3), um einen gewünschten Zustand für den Kunden herzustellen (Goal 2), mit dem Ziel, Geld und Anerkennung zu erhalten (//Goal 4). Diese Bedeutung bezieht sich auf den Betrieb eines Restaurants.. Heteronom/Exzentrisch.
 
 restoren: Material/Preservation 2/3/Goal 2/aut/ecc
 Begründung: Restoren (restaurieren) bedeutet, einen Gegenstand in seinen ursprünglichen Zustand zurückzuversetzen. Der Akteur verfügt (2) über die Ressourcen und bewegt/bearbeitet (3) das Objekt, um einen gewünschten Zustand (Goal 2) wiederherzustellen. Die Tätigkeit erfordert autonomes Handeln mit Fokus auf ein externes Objekt (aut/ecc).. Autonom/Exzentrisch.

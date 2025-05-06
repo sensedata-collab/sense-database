@@ -196,6 +196,13 @@ Begründung: Im übertragenen Sinne bedeutet 'mauern' auch, sich abzuschotten od
 mauern: Fight/Sport 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im Sport (besonders Fußball) bedeutet 'mauern', eine defensive Spielweise zu zeigen, bei der der Akteur bestimmt/kontrolliert (2) die Bewegungen (3) zur Verteidigung organisiert, um einen gewünschten Verteidigungszustand (Goal 2) zu erreichen und das Vordringen des Gegners zu verhindern (//Goal -3). Die Ausrichtung ist selbstbestimmt (aut) und im eigenen Kontrollbereich (con).. Autonom/Konzentrisch.
 
+mauern: Material/Construction 3/Goal 2/aut/ecc
+Begründung: Mauern bedeutet, durch Bewegung/Anstreben (3) einer Reihe von Steinen oder Ziegeln einen gewünschten baulichen Zustand (Goal 2) zu erreichen. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), da er die Steine/Ziegel bewusst und selbstbestimmt zu einer Mauer formt.. Autonom/Exzentrisch.
+mauern: Interpersonal/Fight/Dispute 2/3/Goal 2//Goal -5/aut/con
+Begründung: Im übertragenen Sinne bedeutet 'mauern', Informationen bewusst zurückzuhalten. Der Akteur bestimmt (2) durch absichtliche Bewegungsbarrieren (3) einen gewünschten Zustand der Abschottung (Goal 2), um den Informationsfluss zum Antagonisten zu verhindern (//Goal -5). Die Ausrichtung ist autonom und nach innen gerichtet (aut/con), da der Akteur bewusst eine Barriere für die eigenen Informationen aufrechterhält.. Autonom/Konzentrisch.
+mauern: Material/Sports/Ball-Game 2/3/Goal 2//Goal -3/aut/con
+Begründung: Im Sportkontext (besonders Fußball) bedeutet 'mauern', eine defensive Formation zu bilden. Die Spieler bestimmen (2) durch Positionierung (3) einen gewünschten Verteidigungszustand (Goal 2), um die Bewegung des Gegners zum Tor zu verhindern (//Goal -3). Die Ausrichtung ist autonom und nach innen gerichtet (aut/con), da die Spieler bewusst eine geschlossene Formation in ihrem Bereich bilden.. Autonom/Konzentrisch.
+
 mauscheln: Material/Deception 3/2/4/1/5/Goal 5//Goal 2/het/ecc
 Begründung: Mauscheln bedeutet, heimlich zu agieren (3) und zu bestimmen (2), welche Informationen (5) man gibt/leistet (4/1), damit der Antagonist informiert ist (Goal 5), mit dem Ziel für den Akteur, einen eigenen vorteilhaften Zustand zu erreichen (//Goal 2). Dies geschieht heterogen und nach außen gerichtet (het/ecc), da der Akteur sich an vorgegebene Umstände anpassen muss und nach außen wirkt.. Heteronom/Exzentrisch.
 
@@ -643,6 +650,13 @@ Begründung: Der Akteur bestimmt (2) als Leistung (4) Informationen zu vermittel
 moderieren: Material/Dispute 2/4/1/5/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur bestimmt (2) durch eine Leistung (4), Informationen zu geben (1/5), um einen gewünschten Zustand (z.B. Mäßigung, Ausgleich) bei Streitenden herzustellen (Goal 2), was dem Akteur schließlich Anerkennung bringt (//Goal 4). In dieser Bedeutung geht es um das Abschwächen oder Dämpfen von Konflikten.. Heteronom/Exzentrisch.
 
+moderieren: Material/Media 2/4/5/Goal 5//Goal 4/aut/ecc
+Begründung: Moderieren bedeutet, eine Veranstaltung, Diskussion oder Sendung zu leiten (2), wobei der Akteur eine Leistung für die Teilnehmer/Zuschauer erbringt (4), indem er Informationen strukturiert und vermittelt (5), damit die Teilnehmer/Zuschauer informiert sind (Goal 5). Der Akteur selbst strebt dabei berufliche Anerkennung und Vergütung an (//Goal 4).. Autonom/Exzentrisch.
+moderieren: Interpersonal/Discussion 2/4/5/Goal 5//Goal 4/aut/ecc
+Begründung: In zwischenmenschlichen Diskussionen bedeutet moderieren, als vermittelnde Person eine Diskussion zu leiten (2) und eine ausgleichende Leistung für die Gesprächsteilnehmer zu erbringen (4), indem man den Informationsfluss steuert (5), sodass alle Beteiligten zu Wort kommen und informiert sind (Goal 5). Das eigene Ziel des Moderators ist die Anerkennung für diese vermittelnde Rolle (//Goal 4).. Autonom/Exzentrisch.
+moderieren: Material/Fight/Dispute 2/4/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im Konfliktkontext bedeutet moderieren, bestimmend (2) eine Leistung für die Konfliktparteien zu erbringen (4), indem man durch Informationsvermittlung (5) einen unerwünschten Zustand (Konflikt) für die Antagonisten (Goal -2) reduziert. Das eigene Ziel des Moderators ist die Herstellung eines gewünschten friedlichen Zustands (//Goal 2).. Autonom/Exzentrisch.
+
 modernisieren: Material/Technological 2/3/Goal 2/aut/ecc
 Begründung: Modernisieren bedeutet, bestehende Objekte, Systeme oder Einrichtungen durch gezielte Veränderungen (2/3) auf einen neueren, zeitgemäßeren Stand zu bringen, um einen besseren, aktuelleren Zustand zu erreichen (Goal 2). Der Akteur verfügt über die Kontrolle (2) und trifft autonome Entscheidungen darüber, wie die Transformation durch Veränderung/Bewegung (3) erfolgen soll, wobei die Aktivität nach außen auf das zu modernisierende Objekt gerichtet ist (aut/ecc).. Autonom/Exzentrisch.
 
@@ -678,3 +692,42 @@ Begründung: Im Kontext von Spielen bedeutet Mogeln, dass der Akteur durch Beweg
 
 mogeln: Interpersonal/Deception 3/5/Goal 5//Goal -2/aut/ecc
 Begründung: In zwischenmenschlichen Beziehungen kann Mogeln bedeuten, dass der Akteur durch Manipulation (3) von Informationen (5) eine Täuschung herbeiführt (Goal 5), um einen nachteiligen Zustand für den Antagonisten zu bewirken (//Goal -2).. Autonom/Exzentrisch.
+
+montieren: Material/Construction 3/Goal 2/aut/ecc
+Begründung: Beim Montieren bewegt (3) der Akteur Einzelteile zu einem funktionsfähigen Ganzen zusammen, um einen gewünschten Zustand zu erreichen (Goal 2). Die Tätigkeit erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da das zu bearbeitende Objekt als im Außenbereich befindlich betrachtet wird.. Autonom/Exzentrisch.
+
+montieren: Material/Manufacturing 3/Goal 2/Goal 4/aut/ecc
+Begründung: In der Fertigungsindustrie bedeutet Montieren das Bewegen (3) und Zusammenfügen von Teilen zu einem fertigen Produkt, um einen gewünschten Zustand zu erreichen (Goal 2) mit dem übergeordneten Ziel, im beruflichen Kontext Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+moralisieren: Interpersonal/Religious 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Moralisieren bedeutet, dass der Akteur bestimmt (2), eine Leistung (4) für den Antagonisten zu erbringen, indem er ihm Informationen gibt (1/5), die einen unerwünschten moralischen Zustand beim Antagonisten aufzeigen sollen (Goal -2), mit dem eigenen Ziel, einen gewünschten Zustand der moralischen Überlegenheit zu erreichen (//Goal 2). Der Akteur belehrt den Antagonisten über moralisches Verhalten, oft ungefragt und von einer Position vermeintlicher moralischer Überlegenheit aus.. Autonom/Exzentrisch.
+
+moralisieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einem weltlichen Kontext bedeutet moralisieren, dass der Akteur bestimmt (2), eine Leistung (4) für den Antagonisten zu erbringen, indem er ihm kritische Informationen gibt (1/5), die auf moralische Verfehlungen hinweisen (Goal -2), um selbst einen Zustand moralischer Überlegenheit zu erreichen (//Goal 2). Hier steht der Aspekt der moralischen Kritik im Vordergrund, nicht der religiöse Kontext.. Autonom/Exzentrisch.
+
+morden: Material/Criminal/Activities 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) und bekommt (1) eine Wirkung (Goal 3), die zum gewünschten Zustand des Tötens führt (Goal 2) und gleichzeitig den gewünschten Lebenszustand des Antagonisten verhindert (//Goal -2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+morden: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: In einem Kampfkontext bedeutet morden, aggressiv (3) eine tödliche Wirkung herbeizuführen (1/Goal 3), um einen gewünschten Zustand zu erreichen (Goal 2), wobei gezielt das Leben des Antagonisten beendet wird (//Goal -2).. Autonom/Exzentrisch.
+
+murren: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 2/het/ecc
+Begründung: Murren bedeutet, dass der Akteur seinen Unmut oder seine Unzufriedenheit auf zurückhaltende Weise äußert (3/4/1/5). Der Akteur bewegt sich auf den Antagonisten zu (3), leistet durch diese Äußerung etwas für ihn (4), indem er ihm (1) Informationen über seinen Unmut gibt (5), mit dem Ziel, dem Antagonisten einen unerwünschten Zustand zu vermitteln (Goal -2). Nach dem Umschalter (//) folgt das eigentliche Ziel des Akteurs: einen gewünschten Zustand für sich selbst zu erreichen (Goal 2), nämlich seinen Unmut loszuwerden. Die Ausrichtung ist heteronym/exzentrisch (het/ecc), da der Akteur sich an die Situation anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+murren: Material/Emotions 4/1/5/Goal -2//Goal 2/het/ecc
+Begründung: In einem emotionalen Kontext bedeutet murren das leise, oft undeutliche Äußern von Unzufriedenheit ohne direkten Adressaten. Der Akteur leistet (4) durch das Geben (1) einer emotionalen Information (5), die einen negativen Zustand ausdrückt (Goal -2), um für sich selbst einen gewünschten Zustand (//Goal 2) zu erreichen, nämlich die Entlastung durch das Ausdrücken der Emotion.. Heteronom/Exzentrisch.
+
+musizieren: Interpersonal/Art-Action 3/4/Goal 3//Goal 4/aut/ecc
+Begründung: Musizieren bedeutet, dass der Akteur autonom eine Bewegung ausführt (3), die eine Leistung für andere darstellt (4), um eine künstlerische Wirkung zu erzielen (Goal 3), wobei der Akteur letztendlich Anerkennung und Wertschätzung erhält (//Goal 4). Der Übergang von der Leistung für andere zurück zu den Zielen des Akteurs wird durch // markiert.. Autonom/Exzentrisch.
+
+musizieren: Material/Music 2/3/Goal 3/Goal 5/aut/ecc
+Begründung: In einem materiellen Kontext bedeutet musizieren, dass der Akteur ein Instrument kontrolliert/bedient (2) und durch Bewegung (3) eine akustische Wirkung erzielt (Goal 3), die gleichzeitig Informationen in Form von Klängen/Musik vermittelt (Goal 5).. Autonom/Exzentrisch.
+
+mühen: Material/Struggle 3/Goal 2/het/ecc
+Begründung: Mühen bedeutet, mit Anstrengung und Bewegung/Aktivität (3) auf einen gewünschten Zustand (Goal 2) hinzuarbeiten. Man muss sich dabei an äußere Gegebenheiten anpassen (het) und ist nach außen gerichtet (ecc), um trotz Widerständen ein Ziel zu erreichen.. Heteronom/Exzentrisch.
+
+mühen: Material/Endurance 3/Goal 3/het/ecc
+Begründung: Im Sinne von 'sich abmühen' bedeutet es, eine Bewegung/Anstrengung fortzusetzen (3), um trotz Widerständen eine Wirkung oder ein Ziel zu erreichen (Goal 3), wobei man sich an äußere Umstände anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+mühen: Interpersonal/Struggle 3/Goal 2//Goal -3/het/ecc
+Begründung: Im zwischenmenschlichen Kontext kann 'mühen' bedeuten, dass man sich anstrengt (3), um einen gewünschten Zustand (Goal 2) zu erreichen, während man gegen den Widerstand oder die Einflussnahme anderer Personen (//Goal -3) ankämpft.. Heteronom/Exzentrisch.

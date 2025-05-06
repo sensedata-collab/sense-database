@@ -331,6 +331,15 @@ Begründung: In der medizinischen Bedeutung bestimmt der Akteur (2) eine Leistun
 pflegen: Interpersonal/Relationship 2/3/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet pflegen, dass der Akteur bestimmt (2) und aktiv gestaltet (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Dies bezieht sich auf das Pflegen von Beziehungen, Freundschaften oder Kontakten.. Autonom/Exzentrisch.
 
+pflegen: Material/Care 4/3/1/Goal 2//Goal 4/het/ecc
+Begründung: Pflegen bedeutet, dass der Akteur eine Leistung (4) für einen Antagonisten erbringt, indem er Bewegungen/Handlungen (3) ausführt und dem Antagonisten etwas gibt (1), um einen gewünschten Zustand (Goal 2) für den Antagonisten herzustellen. Nach dem Umschalter (//) steht das eigene Ziel des Akteurs, nämlich Anerkennung oder Bezahlung für diese Leistung zu bekommen (Goal 4). Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt, dass der Akteur sich an die Bedürfnisse des Antagonisten anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+pflegen: Material/Plants 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext der Pflanzenpflege bedeutet pflegen, dass der Akteur über Pflanzen verfügt/bestimmt (2) und Bewegungen/Handlungen ausführt (3), um einen gewünschten Zustand der Pflanzen (Goal 2) zu erreichen. Hier gibt es keinen Antagonisten, der eine Leistung empfängt, sondern der Akteur handelt autonom und nach außen gerichtet (aut/ecc) an seinen eigenen Pflanzen.. Autonom/Exzentrisch.
+pflegen: Interpersonal/Relationship 4/3/Goal 2//Goal 1/het/ecc
+Begründung: Im zwischenmenschlichen Bereich kann pflegen auch bedeuten, eine Beziehung zu pflegen. Der Akteur leistet etwas (4) durch seine Bemühungen (3), um einen gewünschten Zustand der Beziehung (Goal 2) herzustellen. Nach dem Umschalter steht hier Goal 1, da das eigentliche Ziel des Akteurs Nähe und emotionale Verbundenheit ist.. Heteronom/Exzentrisch.
+pflegen: Material/Habit 2/3/Goal 2/aut/con
+Begründung: Im Sinne von 'eine Gewohnheit pflegen' bedeutet pflegen, dass der Akteur bestimmt/verfügt (2) und regelmäßige Handlungen ausführt (3), um einen gewünschten Zustand (Goal 2) aufrechtzuerhalten. Die Ausrichtung ist autonom und konzentrisch (aut/con), da der Akteur selbstbestimmt für sich selbst handelt.. Autonom/Konzentrisch.
+
 pflücken: Material/Agriculture 3/1/Goal 2/aut/ecc
 Begründung: Bei 'pflücken' bewegt der Akteur (3) seine Hand zu Früchten, Blumen oder Pflanzenteilen, um sie zu ergreifen und abzutrennen (1/bekommen), mit dem Ziel, einen gewünschten Zustand herzustellen (Goal 2) - nämlich die gepflückten Objekte in Besitz zu nehmen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen in die Umwelt gerichtet ist.. Autonom/Exzentrisch.
 
@@ -543,6 +552,11 @@ Begründung: Plädieren bedeutet, dass ein Anwalt vor Gericht bestimmt (2) eine 
 
 plädieren: Material/Argument 3/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Im allgemeineren Sinne bedeutet plädieren, dass jemand mit Nachdruck (3) eine Leistung (4) erbringt, indem er Informationen gibt (1/5), um einen bestimmten Standpunkt oder eine Sache zu unterstützen (Goal 2). Nach der Argumentationsleistung (//), strebt der Akteur Anerkennung für seine Überzeugungsarbeit an (Goal 4).. Autonom/Exzentrisch.
+
+plädieren: Material/Law/Court 3/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Plädieren bedeutet, dass ein Anwalt vor Gericht aktiv (3) eine rechtliche Leistung (4) für seinen Mandanten erbringt, indem er Argumente gibt (1) und Informationen übermittelt (5), um einen gewünschten Rechtszustand für den Mandanten zu erreichen (Goal 2). Letztendlich erhält der Akteur (Anwalt) dafür Anerkennung und Bezahlung (//Goal 4). Die Tätigkeit erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+plädieren: Material/Advocacy 3/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Im allgemeineren Sinne bedeutet plädieren, engagiert (3) eine Leistung (4) für einen anderen zu erbringen, indem man Argumente gibt (1) und Informationen präsentiert (5), um einen gewünschten Zustand für denjenigen zu erreichen, für den man plädiert (Goal 2). Der Akteur tut dies mit dem Ziel, Anerkennung für seine Bemühungen zu erhalten (//Goal 4).. Autonom/Exzentrisch.
 
 plätten: Material/Professions/Tailoring 2/3/Goal 2/aut/ecc
 Begründung: Beim Plätten bestimmt und verfügt der Akteur (2) über Kleidungsstücke und bewegt/bearbeitet diese (3), um einen gewünschten Zustand (Goal 2) zu erreichen - glatte, faltenfreie Textilien. Es handelt sich um eine autonome, nach außen gerichtete Tätigkeit (aut/ecc), bei der der Akteur aktiv auf Stoffe einwirkt.. Autonom/Exzentrisch.
@@ -919,6 +933,11 @@ Begründung: Programmieren bedeutet, dass der Akteur verfügt/bestimmt (2) über
 programmieren: Material/IT/Process 2/3/5/Goal 2/Goal 5/aut/ecc
 Begründung: In einem erweiterten IT-Prozess-Kontext bedeutet Programmieren, dass der Akteur verfügt/bestimmt (2) über den Code, den er durch Bewegung/Anstreben (3) und unter Berücksichtigung von Informationen (5) so gestaltet, dass ein gewünschter Zustand (Goal 2) erreicht wird, der letztendlich der Informationsbereitstellung dient (Goal 5).. Autonom/Exzentrisch.
 
+programmieren: Material/IT/Programming 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Programmieren bedeutet, dass der Akteur bestimmt/kontrolliert (2) und mit Bewegung/aktiver Manipulation (3) Informationen strukturiert (5), um informiert zu sein/Informationen zu erzeugen (Goal 5) mit dem höheren Ziel, einen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist autonom (aut), da der Programmierer selbstbestimmt handelt, und exzentrisch (ecc), da die Aktivität nach außen auf den Computer gerichtet ist.. Autonom/Exzentrisch.
+programmieren: Material/Process 2/3/5/Goal 2/aut/ecc
+Begründung: In einem allgemeineren Kontext bedeutet programmieren, dass der Akteur bestimmt/kontrolliert (2) und mit aktiver Planung (3) Informationen strukturiert (5), um einen gewünschten Ablauf/Zustand (Goal 2) zu realisieren. Dies bezieht sich auf die Planung und Festlegung von Abläufen außerhalb des IT-Kontextes, wie bei der Programmierung von Maschinen oder Veranstaltungen.. Autonom/Exzentrisch.
+
 projektieren: Material/Planning 2/3/5/Goal 2/Goal 5/aut/ecc
 Begründung: Projektieren bedeutet, einen Plan für ein größeres Vorhaben zu entwerfen. Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) und Informationsverarbeitung (5) über die Gestaltung des Projekts, um einen gewünschten Zustand zu erreichen (Goal 2) und dabei vollständig informiert zu sein (Goal 5). Die Tätigkeit ist autonom und nach außen gerichtet (aut/ecc), da der Akteur eigenständig handelt und das Projekt auf die Umsetzung in der Außenwelt abzielt.. Autonom/Exzentrisch.
 
@@ -1000,6 +1019,10 @@ Begründung: Protokollieren bedeutet, dass der Akteur bestimmt/verfügt (2) übe
 protokollieren: Material/Business/Documentation 2/5/Goal 5/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet protokollieren, dass der Akteur bestimmt/verfügt (2) über Informationen (5), um diese zu dokumentieren und dauerhaft verfügbar zu machen (Goal 5), mit dem übergeordneten Ziel, berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+protokollieren: Material/Documentation 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt/überträgt (1/5), damit diese dokumentiert sind (Goal 5). Nach dem Wechsel zurück zum Akteur (//), dient dies seinem beruflichen Ziel, Anerkennung/Vergütung zu erhalten (Goal 4). Die Ausrichtung ist autonom (der Akteur entscheidet selbst über die Dokumentation) und exzentrisch (nach außen gerichtet auf die festzuhaltenden Informationen).. Autonom/Exzentrisch.
+Begründung: In einem geschäftlichen Kontext kann 'protokollieren' auch das systematische Erfassen und Verfügen über Informationen bedeuten (2/5), um informiert zu sein (Goal 5) mit dem beruflichen Ziel der Anerkennung (Goal 4), ohne dass dabei notwendigerweise eine Dienstleistung für andere erbracht wird.. Autonom/Exzentrisch.
+
 prototypen: Material/Manufacturing 3/Goal 2/Goal 5/aut/ecc
 Begründung: Prototypen herstellen bedeutet, durch aktives Bewegen und Bearbeiten von Material (3) einen gewünschten Zustand zu erreichen (Goal 2), der zugleich einen Informationszweck erfüllt (Goal 5), da Prototypen als Test- und Anschauungsobjekte dienen. Die Tätigkeit ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und auf externe Objekte einwirkt.. Autonom/Exzentrisch.
 
@@ -1080,6 +1103,11 @@ Begründung: Im Marketingkontext bestimmt der Akteur (2) eine Leistung (4) zu er
 
 präsentieren: Material/Gift 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im Kontext des Schenkens bestimmt der Akteur (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1), damit der Antagonist darüber verfügen kann (Goal 2). Der Akteur tut dies, um soziale Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen, indem er (4) etwas gibt (1) - nämlich Informationen (5) - damit der Antagonist informiert wird (Goal 5). Nach dem Leistungswechsel (//): Der Akteur selbst erhält dafür Anerkennung (Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+präsentieren: Material/Business/Marketing 2/4/1/5/Goal 5/Goal 3//Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext beinhaltet Präsentieren nicht nur das Informieren (Goal 5), sondern auch das Erzielen einer Wirkung (Goal 3) - etwa um Kunden zu überzeugen oder zu beeindrucken. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), um den Antagonisten zu informieren und zu beeinflussen (Goal 5/Goal 3), mit dem Ziel, geschäftliche Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+Begründung: Im Sinne von 'ein Geschenk präsentieren/überreichen' bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), damit der Antagonist darüber verfügen kann (Goal 2). Das Überreichen erfolgt auf eine besonders förmliche, feierliche Weise. Nach dem Leistungswechsel (//): Der Akteur selbst erhält dafür Anerkennung (Goal 4).. Autonom/Exzentrisch.
 
 präzisieren: Material/Correction 2/3/Goal 2/aut/ecc
 Begründung: Präzisieren bedeutet, bestimmend (2) durch Bearbeitung/Bewegung (3) einen gewünschten, genaueren Zustand (Goal 2) herzustellen. Der Akteur verfügt (2) über etwas (z.B. Information, Text, Aussage) und bearbeitet/verändert es (3), um einen präziseren Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.

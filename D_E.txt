@@ -943,6 +943,48 @@ Begründung: Im zwischenmenschlichen Kontext versucht der Akteur bestimmend (2) 
 einreden: Material/Psychological 3/1/5/Goal 2/aut/ecc
 Begründung: Im psychologischen Sinne kann 'sich etwas einreden' bedeuten, dass der Akteur durch wiederholtes Nachdenken (3/5) und Aufnehmen (1) von eigenen Gedanken einen gewünschten Zustand (Goal 2) für sich selbst erreicht, etwa eine Selbstüberzeugung oder Selbsttäuschung.. Autonom/Exzentrisch.
 
+einreiben: Material/Cleaning/Personal 2/3/Goal 2/aut/ecc
+Begründung: Beim Einreiben verfügt (2) der Akteur über eine Substanz und bewegt (3) diese auf einer Oberfläche, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
+
+einreiben: Material/Medical/Process 2/3/Goal 2/Goal 1/aut/ecc
+Begründung: Im medizinischen Kontext bedeutet Einreiben, dass der Akteur über eine Salbe/Medikament verfügt (2) und diese mit Bewegung (3) auf die Haut aufträgt, um einen gewünschten Zustand der Behandlung (Goal 2) zu erreichen und die Wirkstoffe aufnehmen zu lassen (Goal 1).. Autonom/Exzentrisch.
+
+einreiben: Material/Surface/Treatment 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext der Oberflächenbehandlung bedeutet Einreiben, dass der Akteur über ein Mittel verfügt (2) und mit Bewegung (3) dieses in eine Oberfläche einarbeitet, um einen gewünschten Zustand (Goal 2) wie Glanz, Schutz oder Imprägnierung zu erreichen.. Autonom/Exzentrisch.
+
+einreichen: Material/Document 4/1/5/Goal 5//Goal 4/het/ecc
+Begründung: Der Akteur leistet für einen Antagonisten (4) durch Geben (1) von Information/Dokumenten (5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter folgt das eigene Ziel des Akteurs: Anerkennung bzw. Bearbeitung des Antrags zu erhalten (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Vorgaben anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+einreichen: Material/Law/Compliance 4/1/5/Goal 5/Goal 2//Goal 4/het/ecc
+Begründung: Im rechtlichen Kontext bedeutet einreichen, dass der Akteur eine Leistung für einen Antagonisten (4) durch das Geben (1) von Informationen/Dokumenten (5) erbringt, damit der Antagonist informiert ist (Goal 5) und einen spezifischen Zustand herstellen kann (Goal 2). Das eigene Ziel des Akteurs ist die formelle Anerkennung oder Bearbeitung (//Goal 4).. Heteronom/Exzentrisch.
+
+einreichen: Material/Business/Documentation 4/1/5/Goal 5//Goal 2/Goal 4/het/ecc
+Begründung: Im geschäftlichen Kontext bedeutet einreichen, dass der Akteur eine Leistung für den Antagonisten (4) durch das Geben (1) von Dokumenten/Informationen (5) erbringt, damit der Antagonist informiert ist (Goal 5). Das eigene Ziel des Akteurs ist sowohl die Realisierung eines gewünschten Zustands (//Goal 2) als auch die berufliche Anerkennung (Goal 4).. Heteronom/Exzentrisch.
+
+einreißen: Material/Destruction 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt/zerstört (3) etwas, um einen gewünschten Zustand (Goal 2) herbeizuführen, z.B. ein Gebäude abreißen oder eine Struktur niederreißen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf Objekte im Außenbereich einwirkt.. Autonom/Exzentrisch.
+
+einreißen: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im Baukontext bedeutet einreißen das gezielte Abreißen/Niederreißen einer Struktur (3) als Teil eines Bauprozesses, um einen gewünschten Zustand (Goal 2) zu erreichen, typischerweise als Vorbereitung für einen Neubau.. Autonom/Exzentrisch.
+
+einreißen: Material/Fabric 3/Goal -2/het/ecc
+Begründung: Bei Textilien/Stoffen bedeutet einreißen eine ungewollte Beschädigung durch Bewegung/Krafteinwirkung (3), die zu einem unerwünschten Zustand (Goal -2) führt. Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang nicht beabsichtigt ist und von äußeren Faktoren abhängt.. Heteronom/Exzentrisch.
+
+einreißen: Interpersonal/Behavior 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'einreißen', dass sich eine negative Gewohnheit (3) entwickelt, die der Akteur für sich selbst als akzeptabel ansieht (Goal 2), die aber gegen etablierte Ordnungen gerichtet ist (//Goal -2), z.B. 'es reißt ein schlechter Brauch ein'.. Autonom/Exzentrisch.
+
+einrichten: Material/Interior-Design 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt (2) über Objekte und bewegt (3) diese, um einen gewünschten Zustand (Goal 2) - nämlich eine funktionsfähige und ästhetische Raumgestaltung - zu erreichen. Dies geschieht selbstbestimmt (aut) und bezieht sich auf die Gestaltung der äußeren Umgebung (ecc).. Autonom/Exzentrisch.
+
+einrichten: Material/IT 2/3/Goal 2/aut/ecc
+Begründung: Im IT-Kontext bedeutet einrichten, ein System, Programm oder Konto zu konfigurieren. Der Akteur verfügt (2) über die notwendigen Komponenten und nimmt Anpassungen vor (3), um einen gewünschten funktionalen Zustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
+
+einrichten: Material/Organization 2/3/Goal 2/aut/ecc
+Begründung: Im organisatorischen Kontext bedeutet einrichten, eine Institution oder Abteilung zu etablieren. Der Akteur trifft Entscheidungen (2) und implementiert Strukturen (3), um einen gewünschten organisatorischen Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+einrichten: Material/Medical 2/3/1/Goal 2/het/ecc
+Begründung: Im medizinischen Kontext bedeutet einrichten, einen gebrochenen Knochen in die richtige Position zu bringen. Der Arzt verfügt (2) über eine Bewegung (3), durch die der Patient den korrekten anatomischen Zustand zurückbekommt (1/Goal 2).. Heteronom/Exzentrisch.
+
 einrollen: Material/Form 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über ein Objekt und bewegt (3) es durch gezieltes Biegen oder Falten, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich eine eingerollte Form. Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Kontrolle über den Prozess hat und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
 
@@ -1327,6 +1369,228 @@ Begründung: Der Akteur bewegt (3) ein Werkzeug oder Material mit Kraft, um eine
 einstemmen: Material/Sports/Training 3/Goal 2/aut/ecc
 Begründung: Im sportlichen Kontext bedeutet 'einstemmen' das kräftige Bewegen (3) eines Gewichts oder des eigenen Körpers, um einen gewünschten Trainingseffekt (Goal 2) zu erzielen. Der Akteur führt diese Bewegung selbstbestimmt und nach außen gerichtet durch (aut/ecc).. Autonom/Exzentrisch.
 
+einstimmen: Material/Music 2/3/Goal 2/aut/ecc
+Begründung: Bei der musikalischen Bedeutung von 'einstimmen' bestimmt der Akteur (2) durch bewegende Handlungen (3), einen gewünschten Zustand (Goal 2) bei einem Instrument oder einer Stimme zu erreichen. Es geht um die Justierung oder Anpassung der Tonhöhe auf einen bestimmten Standard oder eine bestimmte Tonart.. Autonom/Exzentrisch.
+
+einstimmen: Interpersonal/Group 4/1/5/Goal 2//Goal 4/het/ecc
+Begründung: Im sozialen Kontext bedeutet 'einstimmen' jemanden auf ein gemeinsames Thema, eine Aktivität oder Stimmung vorzubereiten. Der Akteur leistet (4) durch Geben (1) von Informationen (5) einen Beitrag, damit der Antagonist einen gewünschten mentalen Zustand (Goal 2) erreicht, was wiederum Anerkennung für den Akteur (//Goal 4) zur Folge hat.. Heteronom/Exzentrisch.
+
+einstimmen: Material/Agreement 3/5/Goal 2/Goal 4/het/ecc
+Begründung: Im Sinne von 'zustimmen' oder 'beipflichten' bedeutet 'einstimmen', dass der Akteur durch Bewegen (3) im Informationskontext (5) einen gewünschten Zustand (Goal 2) des Konsenses erreicht, was letztlich auch Anerkennung (Goal 4) einbringt.. Heteronom/Exzentrisch.
+
+einstreichen: Material/Surface/Treatment 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) die Bewegung einer Substanz (3) auf eine Oberfläche, um einen gewünschten Zustand (Goal 2) zu erreichen. Beim Einstreichen verfügt der Akteur über eine Substanz (z.B. Salbe, Farbe, Creme) und streicht sie mit einer gezielten Bewegung auf eine Oberfläche, wodurch der gewünschte Zustand des Beschichtens erreicht wird.. Autonom/Exzentrisch.
+
+einstreichen: Material/Coating 2/3/Goal 2/Goal 3/aut/ecc
+Begründung: Der Akteur bestimmt (2) die Bewegung einer Substanz (3) auf eine Oberfläche, um einen gewünschten Zustand (Goal 2) und eine spezifische Wirkung (Goal 3) zu erreichen. In dieser Bedeutung wird besonders die beabsichtigte Wirkung des Einstreichens betont, wie z.B. bei medizinischen Salben oder schützenden Beschichtungen.. Autonom/Exzentrisch.
+
+einstreuen: Material/Agriculture 3/1/Goal 2/aut/ecc
+Begründung: Beim Einstreuen bewegt (3) der Akteur Material (wie Stroh oder Einstreu) und platziert es (1) an einen bestimmten Ort, um einen gewünschten Zustand (Goal 2) zu erreichen, typischerweise um Tieren ein sauberes, trockenes Lager zu schaffen. Die Handlung erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da sie auf die Umgebung einwirkt.. Autonom/Exzentrisch.
+
+einstreuen: Material/Cooking 3/1/Goal 2/aut/ecc
+Begründung: In der Küche bedeutet einstreuen das Verteilen/Bewegen (3) von Zutaten wie Mehl, Gewürzen oder anderen Streuzutaten, die man hinzufügt/platziert (1), um einen gewünschten Zustand eines Gerichts zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+einstreuen: Material/Communication 2/4/1/5/Goal 5//Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet einstreuen, bestimmte (2) Informationen gezielt als Leistung (4) in ein Gespräch oder einen Text zu geben (1), um Kenntnisse zu vermitteln (5/Goal 5), mit dem Ziel, einen gewünschten Zustand (//Goal 2) für den Akteur zu erreichen, wie etwa eine bestimmte Reaktion oder Überzeugung beim Empfänger.. Autonom/Exzentrisch.
+
+einstufen: Material/Classification 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt über (2) die Bewegung/Bearbeitung (3) eines Objekts oder einer Information, um einen gewünschten Zustand zu erreichen (Goal 2), nämlich die korrekte Kategorie oder Hierarchiestufe zuzuweisen. Die Handlung ist autonom (der Akteur trifft die Einstufungsentscheidung) und nach außen gerichtet (ecc), da die Kategorisierung eine Wirkung auf externe Elemente oder Personen hat.. Autonom/Exzentrisch.
+
+einstufen: Material/Hierarchy 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: In einem organisatorischen Kontext bedeutet einstufen, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er einem Antagonisten (Person/Mitarbeiter) eine Position gibt/zuweist (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Nach dem Wechsel (//) folgt das Ziel des Akteurs, dafür Anerkennung zu bekommen (Goal 4). Dies gilt im beruflichen Kontext, wenn jemand in eine Hierarchie oder Gehaltsgruppe eingestuft wird.. Autonom/Exzentrisch.
+
+einstufen: Material/Evaluation 2/5/3/Goal 5/Goal 2/aut/ecc
+Begründung: Im Kontext einer Bewertung bedeutet einstufen, dass der Akteur bestimmt (2), sich zu informieren (5) und zu analysieren (3), um informiert zu sein (Goal 5) und dadurch einen gewünschten Zustand (Goal 2) - die korrekte Bewertung - zu erreichen. Dies bezieht sich auf Fälle, wo eine Bewertung nach Kriterien oder Standards erfolgt.. Autonom/Exzentrisch.
+
+eintakten: Material/Process 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) über Bewegung/Anstreben (3), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich einen regelmäßigen Rhythmus/Takt für einen Prozess festzulegen. Dies ist autonom (aut) und nach außen gerichtet (ecc), weil der Akteur selbstbestimmt handelt und etwas in der Umwelt beeinflusst.. Autonom/Exzentrisch.
+
+eintakten: Material/Project 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: In der Projektplanung bedeutet eintakten, dass der Akteur bestimmt/verfügt (2) über Bewegung/Anstreben (3), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich Aktivitäten in einem bestimmten Rhythmus anzuordnen, mit dem übergeordneten Ziel, berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+eintakten: Material/Manufacturing 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: In der Fertigung bedeutet eintakten, dass der Akteur bestimmt/verfügt (2) über Bewegung/Anstreben (3), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich Prozesse oder Produktionsschritte in einem definierten zeitlichen Rhythmus anzuordnen, mit dem übergeordneten Ziel, eine effiziente Produktion zu gewährleisten und damit berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
+eintauchen: Material/Fluids 3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) ein Objekt, um es in eine Flüssigkeit zu bringen und damit einen gewünschten Zustand (Goal 2) zu erreichen. Das Objekt bekommt (1) die Eigenschaft, von Flüssigkeit umgeben zu sein. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf ein Objekt einwirkt.. Autonom/Exzentrisch.
+
+eintauchen: Material/Psychological 3/5/Goal 5/het/ecc
+Begründung: Im übertragenen Sinne bedeutet 'eintauchen' das intensive Beschäftigen mit einem Thema. Der Akteur bewegt sich geistig (3) und informiert sich (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den externen Informationsgehalt anpassen muss.. Heteronom/Exzentrisch.
+
+eintauchen: Material/Swimming 3/Goal 3/aut/ecc
+Begründung: Als Schwimmbewegung bedeutet 'eintauchen' das Hineinbewegen (3) des eigenen Körpers ins Wasser mit dem Ziel, eine bestimmte Position oder Wirkung zu erreichen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt diese Bewegung nach außen ausführt.. Autonom/Exzentrisch.
+
+einteilen: Material/Organization 2/3/Goal 2/aut/ecc
+Begründung: Einteilen bedeutet, dass der Akteur bestimmend (2) Objekte oder Ressourcen durch Bewegung (3) ordnet und strukturiert, um einen gewünschten Zustand der Organisation zu erreichen (Goal 2). Der Akteur hat dabei die Kontrolle (aut) und wirkt nach außen (ecc), indem er eine Struktur schafft.. Autonom/Exzentrisch.
+
+einteilen: Material/Time 2/3/Goal 2/aut/con
+Begründung: Im Sinne von Zeitplanung bedeutet einteilen, dass der Akteur bestimmend (2) Zeitabschnitte durch konzeptuelle Bewegung (3) strukturiert, um einen gewünschten Zustand der Zeiteinteilung zu erreichen (Goal 2). Hier wirkt der Akteur autonomer (aut) und nach innen gerichtet (con), da es um die Strukturierung des eigenen Lebensbereichs geht.. Autonom/Konzentrisch.
+
+einteilen: Material/Leadership 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im Führungskontext bedeutet einteilen, dass der Akteur bestimmend (2) eine Leistung für einen Antagonisten erbringt (4), indem er etwas zuteilt (1), um einen gewünschten Zustand (Goal 2) für den Antagonisten herzustellen. Nach dem Umschalter folgt das Ziel des Akteurs selbst (//Goal 4), nämlich seine Führungsaufgabe zu erfüllen.. Autonom/Exzentrisch.
+
+eintragen: Material/Registration 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen, indem er Information gibt (4/1/5), damit der Antagonist informiert ist (Goal 5), was schlussendlich dem Ziel des Akteurs dient, Anerkennung zu bekommen (//Goal 4). Es handelt sich um das offizielle Vermerken von Daten in einem Register, Formular oder einer Datenbank.. Autonom/Exzentrisch.
+
+eintragen: Material/Documentation 2/3/1/5/Goal 5/het/ecc
+Begründung: Bei dieser Bedeutung bestimmt der Akteur (2) Informationen zu bewegen (3) und zu bekommen (1), um sich zu informieren (5), damit er selbst informiert ist (Goal 5). Dies bezieht sich auf das private Notieren von Informationen für den eigenen Gebrauch.. Heteronom/Exzentrisch.
+
+eintragen: Material/Clothing 3/1/Goal 2/aut/ecc
+Begründung: In dieser Bedeutung bewegt der Akteur (3) Kleidung und bekommt diese (1), um einen gewünschten Zustand zu erreichen (Goal 2). Dies bezieht sich auf das Hineintragen/Hineinbringen von Kleidung in einen Raum oder das Anziehen von Kleidung.. Autonom/Exzentrisch.
+
+eintreten: Material/Door 3/1/Goal 3/het/ecc
+Begründung: In der primären Bedeutung beschreibt 'eintreten' das Betreten eines Raumes oder Gebäudes durch eine Tür. Der Akteur bewegt sich (3) und bekommt (1) sein Ziel, eine Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Gegebenheiten des Raumes anpassen muss und nach außen in die Umwelt gerichtet ist.. Heteronom/Exzentrisch.
+
+eintreten: Material/Event 1/Goal 3/het/ecc
+Begründung: In der Bedeutung 'etwas tritt ein' (z.B. ein Ereignis) beschreibt es das Eintreten eines Geschehens. Die Kodierung enthält das passive Bekommen (1) einer Wirkung oder Destination (Goal 3) mit heteronomer/exzentrischer Ausrichtung, da es sich um ein von außen kommendes Geschehen handelt.. Heteronom/Exzentrisch.
+
+eintreten: Material/Advocacy 3/4/Goal 2//Goal 4/aut/ecc
+Begründung: Im Sinne von 'für jemanden eintreten' (sich für jemanden einsetzen) bewegt sich der Akteur (3) und leistet etwas für einen Antagonisten (4), um dessen gewünschten Zustand zu erreichen (Goal 2), mit dem höheren Ziel, selbst Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
+
+eintreten: Material/Physical 3/Goal -3/het/ecc
+Begründung: Im Sinne von 'etwas eintreten/zertreten' (z.B. eine Tür) bewegt sich der Akteur (3) mit dem Ziel, durch Krafteinwirkung eine zerstörerische Wirkung zu erzielen (Goal -3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur auf ein externes Objekt einwirkt.. Heteronom/Exzentrisch.
+
+eintüten: Material/Packaging 2/3/1/Goal 2/aut/ecc
+Begründung: Eintüten bedeutet, bestimmend (2) etwas mit Bewegung (3) in eine Tüte zu bekommen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur verfügt über die Situation und handelt nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+eintüten: Material/Storage 2/3/1/Goal 2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet eintüten auch, etwas einzupacken oder zu verstauen, wobei der Akteur bestimmt (2), etwas mit Bewegung (3) in einen Behälter zu bekommen (1), um einen gewünschten Aufbewahrungszustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+eintüten: Material/Slang 3/1/Goal 2/het/ecc
+Begründung: Im umgangssprachlichen Sinne bedeutet eintüten auch, etwas erfolgreich abzuschließen oder zu sichern, wobei der Akteur durch sein Handeln (3) etwas bekommt (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom und nach außen gerichtet, da der Akteur sich an externe Gegebenheiten anpassen muss.. Heteronom/Exzentrisch.
+
+einverleiben: Material/Food 2/1/Goal 1/aut/ecc
+Begründung: Einverleiben im Sinne von Essen bedeutet, dass der Akteur verfügt (2) über Nahrung und sie bekommt/aufnimmt (1), um seinen Ernährungstrieb zu befriedigen (Goal 1). Die Handlung wird selbstbestimmt (aut) nach außen gerichtet (ecc) ausgeführt, da der Akteur aktiv etwas von außen aufnimmt.. Autonom/Exzentrisch.
+
+einverleiben: Material/Possession 2/3/1/Goal 2/aut/ecc
+Begründung: In der Bedeutung des Eingliederns oder der Aneignung bedeutet einverleiben, dass der Akteur bestimmt (2), durch eine Bewegung/Handlung (3) etwas zu bekommen (1), um einen gewünschten Zustand des Besitzes herzustellen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er etwas zu seinem Eigentum/Bereich hinzufügt.. Autonom/Exzentrisch.
+
+einverleiben: Material/Organization 2/3/1/Goal 2/aut/ecc
+Begründung: Im organisatorischen Kontext bedeutet einverleiben, dass eine Organisation oder ein System bestimmt (2), durch eine strukturelle Änderung (3) etwas aufzunehmen/zu bekommen (1), um einen gewünschten Zustand der Integration herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+einwalzen: Material/Professions/Construction 3/1/Goal 2/aut/ecc
+Begründung: Einwalzen bedeutet, mit einer Walze etwas (z.B. Asphalt, Kies) durch Bewegung (3) festdrücken, wobei dieser Prozess zum Bekommen (1) eines gewünschten Zustands (Goal 2) führt. Der Akteur bewegt die Walze autonom und wirkt damit nach außen auf das Material ein (aut/ecc).. Autonom/Exzentrisch.
+
+einwalzen: Material/Printing 3/1/Goal 2/aut/ecc
+Begründung: Im Druckbereich bedeutet einwalzen, Farbe mit einer Walze auf eine Druckplatte oder einen Stempel aufzutragen. Durch die Bewegung (3) der Walze wird ein gewünschter Zustand (Goal 2) der Farbverteilung erreicht, wobei die Walze und das Material etwas bekommen (1).. Autonom/Exzentrisch.
+
+einweichen: Material/Fluids/Process 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) über etwas, bewegt es in eine Flüssigkeit (3), um einen gewünschten Zustand (Goal 2) der Durchfeuchtung zu erreichen. Der Akteur handelt autonom und die Handlung wirkt nach außen auf das einzuweichende Material.. Autonom/Exzentrisch.
+
+einweichen: Material/Cleaning 2/3/Goal 2/aut/ecc
+Begründung: Im Reinigungskontext weicht der Akteur bestimmend (2) etwas ein, bewegt es in Wasser/Reinigungsmittel (3), um einen gewünschten Zustand (Goal 2) zu erreichen, bei dem Verschmutzungen gelöst werden.. Autonom/Exzentrisch.
+
+einweihen: Material/Information 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
+Begründung: Einweihen bedeutet, dass der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach dem Perspektivwechsel (//) dient dies dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (Goal 2), typischerweise im beruflichen Kontext auch mit Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
+einweihen: Material/Ceremony 2/4/3/5/Goal 5//Goal 2/aut/ecc
+Begründung: In einem zeremoniellen Kontext bedeutet einweihen, dass der Akteur bestimmt (2) eine feierliche Handlung zu vollziehen (4), mit entsprechenden Bewegungen (3) und Informationen (5), damit die Anwesenden informiert sind (Goal 5), was dem gewünschten Zustand der offiziellen Eröffnung oder Segnung dient (//Goal 2).. Autonom/Exzentrisch.
+
+einweisen: Material/Medical 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) die Leistung (4) zu erbringen, den Antagonisten (Patienten) aufzunehmen (1) und zu informieren (5), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), wobei der Akteur selbst Anerkennung/Bezahlung erhält (//Goal 4). Es handelt sich um eine Leistung zur Sicherstellung angemessener medizinischer Versorgung, typischerweise in einem Krankenhaus oder einer Klinik.. Autonom/Exzentrisch.
+
+einweisen: Material/Education/Training 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er den Antagonisten aufnimmt (1) und ihm Informationen vermittelt (5), damit dieser informiert ist (Goal 5), wobei der Akteur selbst Anerkennung/Bezahlung erhält (//Goal 4). Es handelt sich um die Einführung/Einarbeitung einer Person in ein neues Tätigkeitsfeld, System oder eine Aufgabe.. Autonom/Exzentrisch.
+
+einweisen: Material/Housing 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er den Antagonisten unterbringt/aufnimmt (1), um für ihn einen gewünschten Zustand herzustellen (Goal 2), wobei der Akteur selbst Anerkennung/Bezahlung erhält (//Goal 4). Dies bezieht sich auf die Zuweisung einer Unterkunft oder Wohnung an eine Person.. Autonom/Exzentrisch.
+
+einwenden: Material/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Einwenden bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2), um damit einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Der Akteur bringt einen Einwand vor, um die Position des Antagonisten zu schwächen und seine eigene zu stärken.. Autonom/Exzentrisch.
+
+einwenden: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einem stärker konfrontativen Kontext bedeutet einwenden, dass der Akteur mit Nachdruck (3) eine Leistung erbringt (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2), um einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Hier steht der kämpferische Aspekt des Einwands im Vordergrund.. Autonom/Exzentrisch.
+
+einwenden: Material/Argument 2/4/1/5/Goal 5//Goal 2/het/ecc
+Begründung: Im Kontext einer sachlichen Diskussion kann einwenden auch bedeuten, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die den Informationsstand des Antagonisten verbessern sollen (Goal 5), um einen gewünschten Sachverhalt zu klären (//Goal 2). Diese konstruktivere Form des Einwands zielt mehr auf Klärung als auf Widerspruch ab.. Heteronom/Exzentrisch.
+
+einwerfen: Material 3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) etwas und bringt es an einen bestimmten Ort/in einen Behälter, wodurch er es bekommen lässt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Beispiel: einen Brief in den Briefkasten einwerfen.. Autonom/Exzentrisch.
+
+einwerfen: Material/Sports 3/1/Goal 3/aut/ecc
+Begründung: Im sportlichen Kontext bewegt der Akteur (3) einen Ball o.ä. und lässt ihn in ein Ziel gelangen (1), um eine Wirkung (Tor, Punkt, etc.) zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+einwerfen: Material/Waste-Disposal 3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) Müll/Abfall und lässt diesen in einen Behälter gelangen (1), um einen gewünschten Zustand der Entsorgung zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+einwickeln: Material/Packaging 2/3/Goal 2/aut/ecc
+Begründung: Ein Objekt einwickeln bedeutet, dass der Akteur bestimmt/verfügt (2) über ein Material und dieses mit Bewegung (3) um einen Gegenstand herumlegt, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+einwickeln: Material/Tailoring 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext der Schneiderei bedeutet einwickeln, dass der Akteur bestimmt/verfügt (2) über Stoff und diesen mit Bewegung (3) um einen Körper oder Körperteil herumlegt, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+einwickeln: Interpersonal/Deception 2/3/5/Goal 2//Goal -2/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet jemanden einwickeln, dass der Akteur bestimmt (2) mit geschickter Manipulation (3) und Informationen (5) einen für sich gewünschten Zustand (Goal 2) erreicht, während er gegen die Interessen des Antagonisten handelt (//Goal -2), indem er diesen täuscht.. Autonom/Exzentrisch.
+
+einwickeln: Material/Care 2/4/3/Goal 2//Goal 4/aut/ecc
+Begründung: Im Kontext der Fürsorge (z.B. ein Kind in eine Decke einwickeln) bedeutet einwickeln, dass der Akteur bestimmt (2) und als Leistung für den Anderen (4) mit Bewegung (3) ein Material um diesen legt, um einen gewünschten Zustand (Goal 2) für den Antagonisten zu erreichen, mit dem Ziel, Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
+
+einwilligen: Material/Agreement 2/4/1/Goal 2//Goal 2/het/ecc
+Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er etwas gibt (1) - nämlich seine Zustimmung, um einen gewünschten Zustand (Goal 2) für den Antagonisten zu ermöglichen, was gleichzeitig seinem eigenen gewünschten Zustand (//Goal 2) entspricht. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Bedingungen anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+einwilligen: Interpersonal/Agreement 2/4/1/Goal 2//Goal 2/het/ecc
+Begründung: In zwischenmenschlichen Beziehungen bedeutet einwilligen, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er seine Zustimmung gibt (1), damit ein gewünschter Zustand (Goal 2) für den Antagonisten hergestellt wird, was gleichzeitig dem gewünschten Zustand des Akteurs entspricht (//Goal 2).. Heteronom/Exzentrisch.
+
+einwirken: Material/Influence 3/Goal 3/aut/ecc
+Begründung: Einwirken bedeutet, eine Bewegung/Aktivität (3) auszuführen, die gezielt auf ein Objekt oder eine Person ausgerichtet ist, um eine Wirkung oder Veränderung (Goal 3) zu erzielen. Der Akteur handelt dabei selbstbestimmt (aut) und nach außen gerichtet (ecc). Ein Akteur bewegt (3) etwas, um eine Wirkung (Goal 3) zu erzielen.. Autonom/Exzentrisch.
+
+einwirken: Interpersonal/Influence 3/Goal 3/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet einwirken, gezielt auf einen Menschen (3) Einfluss zu nehmen, um eine bestimmte Reaktion oder Verhaltensänderung (Goal 3) zu bewirken. Der Akteur handelt dabei selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+einwirken: Material/Chemical/Process 3/Goal 3/het/ecc
+Begründung: Im chemischen Kontext bedeutet einwirken, dass eine Substanz auf eine andere einwirkt (3), um eine chemische Reaktion oder Veränderung (Goal 3) hervorzurufen. Die Einwirkung folgt dabei naturgesetzlichen Prinzipien (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+einzahlen: Material/Finance 2/4/1/Goal 2//Goal 2/Goal 4/het/ecc
+Begründung: Einzahlen bedeutet, dass der Akteur bestimmt (2), eine Leistung (4) zu erbringen, indem er Geld gibt (1), damit ein gewünschter Zustand für den Antagonisten (z.B. Bank/Konto) eintritt (Goal 2), was wiederum nach dem Wechsel (//) dem gewünschten Zustand des Akteurs (Goal 2) dient, etwa der Sicherung seines Eigentums oder der Erfüllung einer finanziellen Verpflichtung, und im geschäftlichen Kontext zur Anerkennung/Bezahlung führt (Goal 4).. Heteronom/Exzentrisch.
+
+einzahlen: Material/Business 2/4/1/Goal 2//Goal 2/Goal 4/het/ecc
+Begründung: Im geschäftlichen Kontext bedeutet einzahlen, dass der Akteur bestimmt (2), eine Leistung für ein Unternehmen zu erbringen (4), indem er Geld gibt (1), damit das Unternehmen darüber verfügen kann (Goal 2), was wiederum dem Zweck des Akteurs dient (//Goal 2), etwa um Geschäftsanteile zu erwerben oder eine Mitgliedschaft zu bezahlen, mit dem Endziel einer geschäftlichen Anerkennung oder eines Gegenwertes (Goal 4).. Heteronom/Exzentrisch.
+
+einölen: Material/Maintenance 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt über (2) und bewegt (3) Öl, um einen gewünschten Zustand (Goal 2) eines Objekts zu erreichen, nämlich die reibungsarme Funktion durch Schmierung. Dies ist eine Wartungs- und Pflegehandlung, bei der der Akteur autonom handelt (aut) und auf ein externes Objekt einwirkt (ecc).. Autonom/Exzentrisch.
+
+einölen: Material/Coating 2/3/1/Goal 2/aut/ecc
+Begründung: Als Oberflächenbehandlung bedeutet einölen, dass der Akteur verfügt über (2) und bewegt (3) Öl, das vom Objekt aufgenommen wird (1), um einen gewünschten Zustand (Goal 2) zu erreichen, wie z.B. bei der Pflege von Holz oder Leder. Hier steht der Schutz und das Erscheinungsbild im Vordergrund, nicht die mechanische Funktion.. Autonom/Exzentrisch.
+
+einüben: Material/Training 3/1/Goal 2/Goal 5/het/ecc
+Begründung: Einüben bedeutet, durch wiederholte Bewegung (3) eine Fähigkeit zu bekommen (1), um einen gewünschten Zustand der Beherrschung (Goal 2) und des Informiertseins über die korrekte Ausführung (Goal 5) zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da man sich an vorgegebene Abläufe und Standards anpassen muss.. Heteronom/Exzentrisch.
+
+einüben: Material/Education/Training 4/3/1/Goal 2/Goal 5//Goal 4/het/ecc
+Begründung: In einem Lehr-/Lernkontext bedeutet einüben, dass der Akteur eine Leistung für den Lernenden (4) erbringt, indem er durch Anleitung zur Bewegung (3) und Vermittlung (1) den gewünschten Zustand der Beherrschung (Goal 2) und des Informiertseins (Goal 5) beim Lernenden fördert, letztendlich um Anerkennung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
+
+ekeln: Interpersonal/Emotions 1/Goal -1/het/ecc
+Begründung: Ekeln bedeutet, dass der Akteur eine starke Abneigung (Gegenteil von Nähe, daher Goal -1) gegenüber etwas oder jemandem empfindet (bekommen/1). Diese Empfindung ist heterogen bestimmt (het) und nach außen gerichtet (ecc), da sie durch äußere Eindrücke ausgelöst wird.. Heteronom/Exzentrisch.
+
+ekeln: Material/Biological 1/Goal -1/het/ecc
+Begründung: Im physischen Sinne bezeichnet ekeln eine körperliche Abwehrreaktion (bekommen/1 einer unangenehmen Empfindung/Goal -1), die durch äußere Faktoren ausgelöst wird, etwa bei Übelkeit oder Konfrontation mit unhygienischen Substanzen.. Heteronom/Exzentrisch.
+
+elaborieren: Material/Analysis 3/5/2/Goal 5/aut/ecc
+Begründung: Elaborieren bedeutet, etwas detailliert auszuarbeiten, zu vertiefen oder zu verfeinern. Der Akteur bewegt (3) Informationen, informiert sich (5) und verfügt (2) über dieses Wissen, um informiert zu sein (Goal 5). Es ist eine autonome, nach außen gerichtete Tätigkeit, bei der vorhandene Informationen durchdacht, ergänzt und ausgearbeitet werden.. Autonom/Exzentrisch.
+
+elaborieren: Material/Scientific 3/5/2/Goal 5/Goal 2/aut/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet elaborieren, eine Theorie oder ein Konzept methodisch auszuarbeiten und zu vertiefen. Der Akteur bewegt (3) Informationen, informiert sich (5) und verfügt (2) über dieses Wissen, um informiert zu sein (Goal 5) und einen gewünschten Zustand (einer ausgereiften Theorie) zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+elektrifizieren: Material/Electrical 3/Goal 2/aut/ecc
+Begründung: Elektrifizieren bedeutet, etwas mit elektrischer Energie auszustatten oder zu versehen. Der Akteur bewegt/strebt an (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass ein Objekt mit Elektrizität versorgt wird. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und seine Aktivität nach außen auf ein Objekt gerichtet ist.. Autonom/Exzentrisch.
+
+elektrifizieren: Material/Infrastructure 3/Goal 2/Goal 3/aut/ecc
+Begründung: Im Kontext der Infrastruktur bedeutet Elektrifizieren das Ausstatten eines Gebiets oder einer Strecke (z.B. Bahnstrecke) mit elektrischen Anlagen. Der Akteur bewegt/strebt an (3), um einen gewünschten Zustand (Goal 2) zu erreichen, der gleichzeitig eine Wirkung ermöglicht (Goal 3), nämlich dass in dem Gebiet elektrische Energie genutzt werden kann.. Autonom/Exzentrisch.
+
+elektrisieren: Material/Electrical 3/Goal 3/aut/ecc
+Begründung: Elektrisieren bedeutet, eine elektrische Ladung auf einen Körper übertragen (3), um eine Wirkung zu erzielen (Goal 3). Der Akteur bewegt (3) elektrische Energie zu einem Objekt, wodurch eine Wirkung im Sinne einer elektrischen Aufladung oder eines Stromflusses erreicht wird (Goal 3).. Autonom/Exzentrisch.
+
+elektrisieren: Interpersonal/Stimulation 3/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet elektrisieren, jemanden in einen Zustand großer Erregung oder Begeisterung zu versetzen. Der Akteur bewegt/richtet (3) seine Energie/Aufmerksamkeit auf den Antagonisten, um eine starke Wirkung (Goal 3) in Form von Aufregung, Spannung oder Begeisterung zu erzielen.. Autonom/Exzentrisch.
+
+eliminieren: Material/Fight 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt sich (3) und erreicht (1) einen gewünschten Zustand (Goal 2), indem er den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), um etwas oder jemanden zu beseitigen oder auszuschalten.. Autonom/Exzentrisch.
+
+eliminieren: Material/Mathematics 3/Goal 2/aut/ecc
+Begründung: In der Mathematik bedeutet eliminieren das Entfernen oder Ausschließen einer Variablen aus einer Gleichung durch Umformung. Der Akteur bewegt/transformiert (3) die Gleichung, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+eliminieren: Material/Competition 3/1/Goal 2//Goal -3/aut/ecc
+Begründung: Im Wettkampfkontext bedeutet eliminieren das Ausscheiden eines Gegners. Der Akteur bewegt sich (3) und erreicht (1) sein Ziel (Goal 2), indem er den Gegner daran hindert, weiterzukommen (//Goal -3).. Autonom/Exzentrisch.
+
 emailen: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Der Akteur erbringt eine Leistung (4) durch das Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter folgt das eigene Ziel des Akteurs, nämlich Anerkennung/berufliche Vergütung zu erhalten (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Kommunikationsstandards anpassen muss und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
@@ -1560,6 +1824,51 @@ Begründung: Der Akteur strebt an (3) durch Abbau oder Vereinfachung bürokratis
 
 entbürokratisieren: Material/Government 3/Goal 2//Goal -2/aut/ecc
 Begründung: In einem politischen oder Verwaltungskontext bedeutet entbürokratisieren, dass der Akteur aktiv (3) gegen bestehende bürokratische Hürden vorgeht, um einen gewünschten Zustand zu erreichen (Goal 2) und gleichzeitig gegen die bestehende bürokratische Ordnung (//Goal -2) anzukämpfen. Es wird gegen die Aufrechterhaltung eines komplexen Regelwerks vorgegangen.. Autonom/Exzentrisch.
+
+entdecken: Material/Discovery 3/5/Goal 5/het/ecc
+Begründung: Der Akteur bewegt sich (3) und informiert sich (5), um informiert zu sein (Goal 5). Das Entdecken beinhaltet ein aktives Suchen oder Finden von etwas bisher Unbekanntem, wobei der Akteur sich an externe Gegebenheiten anpassen muss (het) und nach außen gerichtet ist (ecc).. Heteronom/Exzentrisch.
+
+entdecken: Material/Scientific 3/5/1/Goal 5/Goal 2/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet entdecken, durch Bewegung (3) und Informationssuche (5) etwas zu bekommen (1), um informiert zu sein (Goal 5) und einen gewünschten Zustand herzustellen (Goal 2), nämlich eine neue Erkenntnis gewonnen zu haben.. Heteronom/Exzentrisch.
+
+entdecken: Material/Criminal/Investigation 3/5/Goal 5/het/ecc
+Begründung: Im Kontext von Ermittlungen bedeutet entdecken, durch gezielte Suche (3) und Informationsgewinnung (5) wichtige Beweise oder Hinweise zu finden, um informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
+
+entehren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Jemanden entehren bedeutet, bestimmend (2) eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), die den Ruf oder die Ehre des Antagonisten beschädigen und einen unerwünschten Zustand für diesen herbeiführen (Goal -2). Damit verfolgt der Akteur sein eigenes Ziel, einen gewünschten Zustand zu erreichen (//Goal 2), typischerweise die Herabsetzung des Antagonisten in der öffentlichen Wahrnehmung.. Autonom/Exzentrisch.
+
+entehren: Interpersonal/Status 2/3/Goal 2//Goal -2/aut/ecc
+Begründung: In einem sozialen Kontext kann entehren auch bedeuten, dass der Akteur bestimmt (2) durch sein Handeln (3) einen gewünschten Zustand für sich erreicht (Goal 2), indem er aktiv den sozialen Status des Antagonisten angreift und dessen Ansehen zerstört (//Goal -2).. Autonom/Exzentrisch.
+
+enteignen: Material/Law 2/3/Goal 2//Goal -2/aut/ecc
+Begründung: Beim Enteignen verfügt (2) und handelt (3) der Akteur (meist eine staatliche Behörde), um einen gewünschten Zustand (Goal 2) herzustellen, während gleichzeitig die Eigentumsrechte des Antagonisten bekämpft werden (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf den Besitz des Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+enteignen: Material/Property 2/3/Goal 2//Goal -2/aut/ecc
+Begründung: Im eigentumsrechtlichen Kontext bedeutet enteignen, dass der Akteur bestimmt (2) und handelt (3), um einen gewünschten Zustand zu erreichen (Goal 2), wobei er gezielt gegen die Besitzansprüche des Antagonisten vorgeht (//Goal -2), etwa bei Zwangsenteignungen für öffentliche Projekte.. Autonom/Exzentrisch.
+
+entertainen: Interpersonal/Entertainment 4/3/5/Goal 5//Goal 4/aut/ecc
+Begründung: Der Akteur leistet für den Antagonisten (4) eine Aktivität mit Bewegung/Anstreben (3) und Informationen (5), damit der Antagonist informiert ist/Unterhaltung erlebt (Goal 5). Nach dem Umschalter // folgt das Ziel des Akteurs: Anerkennung/Bezahlung für die Unterhaltungsleistung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt die Unterhaltung nach außen gestaltet.. Autonom/Exzentrisch.
+
+entertainen: Material/Entertainment 2/4/3/5/Goal 5//Goal 4/aut/ecc
+Begründung: In dieser Bedeutung bestimmt/kontrolliert der Akteur (2) die Leistung (4) mit Bewegung/Anstreben (3) und Informationen (5), um den Antagonisten zu unterhalten (Goal 5). Nach dem Umschalter // folgt das Ziel des Akteurs: Anerkennung/Bezahlung zu bekommen (Goal 4). Diese Variante betont stärker den organisatorischen Aspekt des Unterhaltens, z.B. als Veranstalter.. Autonom/Exzentrisch.
+
+entfachen: Material/Stimulation 3/Goal 3/aut/ecc
+Begründung: Entfachen bedeutet, etwas (z.B. Feuer, Emotionen, Begeisterung) durch aktives Bewegen/Anstreben (3) in Gang zu setzen oder zu verstärken, um eine Wirkung zu erzielen (Goal 3). Es handelt sich um einen autonomen, nach außen gerichteten Prozess (aut/ecc).. Autonom/Exzentrisch.
+
+entfachen: Material/Catastrophes/Fire 3/Goal 3/aut/ecc
+Begründung: Im Kontext von Feuer bedeutet entfachen, durch aktives Bewegen und Anstreben (3) einen Brand zu initiieren oder zu verstärken, mit dem Ziel eine Wirkung (die Verbrennung) zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+entfachen: Interpersonal/Emotions 3/Goal 3/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet entfachen, durch gezielte Handlungen (3) Gefühle oder Leidenschaften in anderen zu wecken oder zu verstärken, mit dem Ziel, eine emotionale Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+entfalten: Material/Process 3/Goal 2/aut/ecc
+Begründung: Etwas entfalten bedeutet, ein Objekt durch Bewegung (3) aus einem zusammengefalteten in einen ausgebreiteten Zustand zu bringen, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+entfalten: Material/Development 2/3/Goal 2/aut/ecc
+Begründung: Im Sinne von 'Potenzial entfalten' bedeutet es, bestimmend (2) die Bewegung/Entwicklung (3) voranzutreiben, um einen gewünschten Zustand (Goal 2) zu erreichen. Dies betrifft die umfassendere Entwicklung von Eigenschaften oder Fähigkeiten.. Autonom/Exzentrisch.
+
+entfalten: Interpersonal/Development 2/3/Goal 2/aut/con
+Begründung: Im Sinne von 'sich persönlich entfalten' bedeutet es, über die eigene Entwicklung zu bestimmen (2) und diese voranzutreiben (3), um einen gewünschten Zustand der Selbstverwirklichung (Goal 2) zu erreichen. Dies erfolgt autonom und nach innen gerichtet (aut/con).. Autonom/Konzentrisch.
 
 entfernen: Material/Cleanliness 3/1/Goal 2/aut/ecc
 Begründung: Beim Entfernen bewegt (3) der Akteur etwas und bekommt (1) dadurch einen gewünschten Zustand (Goal 2), indem ein unerwünschtes Objekt von seinem Platz wegbewegt wird. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt die Bewegung nach außen ausführt.. Autonom/Exzentrisch.
@@ -2055,6 +2364,13 @@ Begründung: Im architektonischen Kontext bedeutet Entwerfen, durch kreative Bew
 
 entwerfen: Material/Engineering 3/5/2/Goal 2/Goal 3/aut/ecc
 Begründung: Im Ingenieurwesen beinhaltet Entwerfen das Entwickeln (3) und konzeptuelle Durchdenken (5) eines technischen Systems, um darüber zu verfügen (2), mit dem Ziel einen gewünschten Zustand zu erreichen (Goal 2) und die beabsichtigte Wirkung/Funktion zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+entwerfen: Material/Creative 3/5/2/Goal 5/Goal 2/aut/ecc
+Begründung: Entwerfen bedeutet, dass der Akteur durch Bewegen/Anstreben (3) mit Informationen (5) ein Verfügen (2) über diese Informationen anstrebt, um informiert zu sein (Goal 5) und letztendlich einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur entwickelt eigenständig (autonom) eine Konzeption oder einen Plan für etwas noch nicht Existierendes mit Blick auf die Außenwelt (exzentrisch).. Autonom/Exzentrisch.
+entwerfen: Material/Architecture 3/5/2/Goal 5/Goal 2/aut/ecc
+Begründung: Im architektonischen Kontext bedeutet Entwerfen, dass ein Architekt durch kreative Bewegung (3) und Informationsverarbeitung (5) Verfügungsgewalt über ein Konzept (2) erlangt, um einen Plan (Goal 5) zu erstellen und letztendlich einen gewünschten baulichen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+entwerfen: Material/Fashion 3/5/2/Goal 5/Goal 2/aut/ecc
+Begründung: Im Modedesign bedeutet Entwerfen, dass der Designer durch kreatives Bewegen (3) mit Informationen (5) über Stoffe, Schnitte etc. verfügt (2), um einen Modeentwurf zu erstellen (Goal 5) und letztendlich die gewünschte Kleidung zu konzipieren (Goal 2).. Autonom/Exzentrisch.
 
 entwerten: Material/Finance 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1) oder eine Information vermittelt (5), die den Wert eines Objekts oder einer Position für den Antagonisten mindert (Goal -2), um dadurch einen für sich gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur eine selbstbestimmte Handlung durchführt, die auf etwas Externes einwirkt.. Autonom/Exzentrisch.

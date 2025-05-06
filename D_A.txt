@@ -3493,6 +3493,15 @@ Begründung: Beim Aromatisieren werden Lebensmittel oder Getränke gezielt bearb
 aromatisieren: Material/Chemical 3/2/Goal 3/aut/ecc
 Begründung: In der chemischen Industrie bezeichnet Aromatisieren den Prozess, bei dem Substanzen mit bestimmten Duftstoffen oder Geschmacksstoffen (3) versetzt werden, um deren Eigenschaften (2) zu verändern. Das Ziel ist eine spezifische Wirkung (Goal 3) zu erzielen, etwa bei der Herstellung von Parfüms oder chemischen Produkten.. Autonom/Exzentrisch.
 
+arrangieren: Material/Organization 2/3/Goal 2/aut/ecc
+Begründung: Arrangieren bedeutet, dass der Akteur bestimmt (2), wie Objekte bewegt/angeordnet werden (3), um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf die Umgebung einwirkt.. Autonom/Exzentrisch.
+
+arrangieren: Material/Music 2/3/Goal 2/aut/ecc
+Begründung: Im musikalischen Kontext bedeutet arrangieren, dass der Akteur bestimmt (2), wie musikalische Elemente bewegt/angeordnet werden (3), um eine gewünschte musikalische Struktur zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+arrangieren: Interpersonal/Event 2/4/3/Goal 2//Goal 4/aut/ecc
+Begründung: Im sozialen Kontext bedeutet arrangieren, dass der Akteur bestimmt (2), eine Leistung für andere zu erbringen (4), indem er Dinge oder Personen anordnet/bewegt (3), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), mit dem Ziel, Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
 arretieren: Material/Law/Criminal 2/3/1/Goal 2/aut/ecc
 Begründung: Arretieren bedeutet, jemanden festzunehmen oder zu verhaften. Der Code zeigt das Bestimmen (2) über eine Bewegung (3), um einen Menschen in Gewahrsam zu bekommen (1), mit dem Ziel, einen gewünschten Zustand (Festnahme) herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da die Handlung selbstbestimmt vom Akteur ausgeht und nach außen auf eine andere Person gerichtet ist.. Autonom/Exzentrisch.
 
@@ -3789,6 +3798,12 @@ Begründung: Aufeinander eingehen beinhaltet, dass zwei Personen aktiv (3) in Ko
 
 aufeinander eingehen: Material/Argument 3/5/Goal 5/het/ecc
 Begründung: In einem sachlichen, argumentativen Kontext bedeutet 'aufeinander eingehen', dass man zu einem bestimmten Aspekt oder Argument aktiv (3) Bezug nimmt und es analysiert (5), um ein Verständnis zu erreichen (Goal 5). Die Ausrichtung ist heternom und exzentrisch, da man sich an externen Informationen orientiert.. Heteronom/Exzentrisch.
+
+aufeinandereingehen: Interpersonal/Approach 3/5/Goal 5/Goal 2/het/ecc
+Begründung: Aufeinandereingehen bedeutet, dass zwei Personen sich aufeinander zubewegen (3), um Kontakt herzustellen (5), mit dem Ziel, eine Verständigung zu erreichen (Goal 5) und einen gemeinsamen gewünschten Zustand herzustellen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da man auf die Bedürfnisse des Anderen eingeht und sich nach außen orientiert.. Heteronom/Exzentrisch.
+
+aufeinandereingehen: Interpersonal/Compromise 4/3/Goal 2//Goal 2/het/ecc
+Begründung: In der Bedeutung des Kompromisse-Schließens leistet der Akteur (4) durch Bewegung/Anstreben (3) etwas für den Antagonisten, um für diesen einen gewünschten Zustand zu erreichen (Goal 2), was gleichzeitig auch dem eigenen gewünschten Zustand (//Goal 2) entspricht. Die Ausrichtung ist heteronom/exzentrisch, da man sich den Positionen des Anderen anpasst.. Heteronom/Exzentrisch.
 
 auferlegen: Material/Authorities 2/3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Auferlegen bedeutet, bestimmend (2) mit Nachdruck (3) eine Leistung/Verpflichtung (4) jemandem zu geben (1), die für den Antagonisten eine unerwünschte Wirkung (Goal -3) hat, mit dem Ziel des Akteurs, einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -4134,6 +4149,12 @@ Begründung: Sich auflehnen bedeutet, dass der Akteur aktiv (3) dafür kämpft e
 
 auflehnen: Interpersonal/Psychological 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im psychologischen Kontext bedeutet auflehnen den Widerstand gegen Autoritäten oder soziale Normen. Der Akteur bewegt sich aktiv (3) gegen eine Person oder Institution und nimmt eine Gegenposition ein  (Goal 2)  um sich gegen einen unerwünschten Zustand (//Goal -2) durchzusetzen.. Autonom/Exzentrisch.
+
+auflehnten: Material/Fight/Protest 3/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt sich/strebt an (3) einen gewünschten Zustand für sich zu erreichen (Goal 2), wobei er sich gleichzeitig gegen den gewünschten Zustand des Antagonisten (//Goal -2) wendet. Es handelt sich um eine Form des Widerstands gegen eine Autorität oder bestehende Ordnung, wobei der Akteur autonom handelt (aut) und nach außen gerichtet ist (ecc), um die bestehende Ordnung oder Autorität des Antagonisten zu bekämpfen.. Autonom/Exzentrisch.
+
+auflehnten: Interpersonal/Resistance 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet sich auflehnen, dass der Akteur aktiv (3) Widerstand gegen eine Person oder Gruppe leistet, um seinen eigenen gewünschten Zustand (Goal 2) zu erreichen und gleichzeitig den gewünschten Zustand des Antagonisten zu verhindern (//Goal -2). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 auflesen: Material/Collection 3/1/Goal 2/aut/ecc
 Begründung: Auflesen bedeutet das aktive Bewegen (3) und Bekommen/Aufnehmen (1) von Gegenständen vom Boden oder einer Oberfläche, um einen gewünschten Zustand der Verfügbarkeit herzustellen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und seine Aktivität nach außen auf die Umgebung gerichtet ist.. Autonom/Exzentrisch.

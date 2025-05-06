@@ -88,6 +88,27 @@ Begründung: Der Akteur bewegt sich (3) in eine laufende Kommunikation, leistet 
 dazwischenreden: Interpersonal/Communication 3/4/1/5/Goal 5//Goal 3/aut/ecc
 Begründung: Als konstruktiver Beitrag zu einem Gespräch: Der Akteur bewegt sich (3) in eine Konversation, leistet (4) durch Geben (1) von Informationen (5) einen Beitrag, der den Informationsfluss für den Antagonisten ergänzt (Goal 5), um selbst eine Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
 
+deaktivieren: Material/IT 2/Goal 2/aut/con
+Begründung: Der Akteur verfügt/kontrolliert (2) über ein System, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass das System nicht mehr aktiv ist. Dies ist autonom und nach innen gerichtet (aut/con), da der Akteur selbstbestimmt über Funktionen in seinem Kontrollbereich verfügt.. Autonom/Konzentrisch.
+
+deaktivieren: Material/Electrical 2/Goal 2/aut/con
+Begründung: In elektrotechnischem Kontext bedeutet deaktivieren, dass der Akteur bestimmt/verfügt (2) über ein elektrisches Gerät oder eine Anlage, um den gewünschten Zustand des Ausgeschaltetseins (Goal 2) zu erreichen. Die Kontrolle erfolgt eigenständig im eigenen Verfügungsbereich (aut/con).. Autonom/Konzentrisch.
+
+deaktivieren: Material/Security 2/Goal 2/aut/con
+Begründung: Im Sicherheitskontext bedeutet deaktivieren, dass der Akteur bestimmt/verfügt (2) über ein Sicherheitssystem (z.B. Alarm), um den gewünschten Zustand (Goal 2) zu erreichen, dass es nicht mehr funktioniert. Dies geschieht im eigenen Kontrollbereich (aut/con).. Autonom/Konzentrisch.
+
+deaktivieren: Material/Military 2/3/Goal 2/aut/ecc
+Begründung: Im militärischen Kontext bedeutet deaktivieren, dass der Akteur bestimmt (2) und eine Bewegung durchführt (3), um eine Waffe, Mine oder Bombe in einen Zustand zu versetzen (Goal 2), in dem sie nicht mehr funktionsfähig ist. Dies ist autonom und nach außen gerichtet (aut/ecc), da der Akteur auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
+dealen: Material/Criminal/Activities 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) über illegale Waren und leistet dem Käufer einen Dienst (4) durch das Geben/Übergeben (1) dieser Waren, damit der Käufer einen gewünschten Zustand erhält (Goal 2), während der Dealer selbst Geld/Anerkennung bekommt (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Dealer selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
+
+dealen: Material/Business 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Im umgangssprachlichen Kontext kann 'dealen' auch legitimen Handel bezeichnen. Der Akteur bestimmt/verfügt (2) über Waren und leistet dem Käufer einen Dienst (4) durch das Geben/Übergeben (1) der Waren, damit der Käufer einen gewünschten Zustand erhält (Goal 2), während der Händler selbst Geld/Anerkennung bekommt (//Goal 4).. Autonom/Exzentrisch.
+
+dealen: Material/Negotiation 3/5/2/Goal 2/Goal 4/aut/ecc
+Begründung: In der Bedeutung von 'verhandeln' bewegt sich der Akteur (3) auf sein Gegenüber zu, tauscht Informationen aus (5) und versucht eine Einigung zu bestimmen/kontrollieren (2), um einen gewünschten Zustand (Goal 2) und letztlich Geld/Anerkennung (Goal 4) zu erreichen.. Autonom/Exzentrisch.
+
 debattieren: Interpersonal/Dispute 3/4/1/5/Goal 3/Goal 5//Goal 3/Goal 5/aut/ecc
 Begründung: Bei einer Debatte bewegt sich der Akteur (3) in Richtung eines Antagonisten, leistet (4) durch das Geben (1) von Informationen (5), um eine Wirkung zu erzielen (Goal 3) und Informiertheit zu erreichen (Goal 5). Nach dem Wechsel (//) ist das Ziel des Akteurs selbst, eine Wirkung beim Publikum/Gegner zu erzielen (Goal 3) und selbst informiert zu sein (Goal 5).. Autonom/Exzentrisch.
 
@@ -282,6 +303,21 @@ Begründung: Der Akteur bewegt sich (3) mit dem Ziel, Informationen zu gewinnen 
 
 demaskieren: Interpersonal/Deception 3/5/Goal 5//Goal -2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet demaskieren, die wahre Identität oder Absicht einer Person aufzudecken. Der Akteur bewegt sich aktiv (3), um Informationen zu suchen und aufzudecken (5/Goal 5), was gegen den gewünschten Zustand des Antagonisten gerichtet ist, verborgen zu bleiben (//Goal -2).. Autonom/Exzentrisch.
+
+dementieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Dementieren bedeutet, dass der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2), nämlich dass dessen Behauptung als unwahr gilt. Dies dient dem eigenen Ziel des Akteurs (//Goal 2), einen gewünschten Zustand herzustellen, in dem die Behauptung als falsch angesehen wird. Der Akteur handelt autonom und nach außen gerichtet.. Autonom/Exzentrisch.
+
+demodulieren: Material/Signal/Processing 3/5/Goal 5/aut/ecc
+Begründung: Demodulieren bezeichnet das Rückgewinnen/Extrahieren der ursprünglichen Information aus einem modulierten Signal. Der Akteur bewegt/bearbeitet (3) das Signal, um sich die enthaltenen Informationen (5) zugänglich zu machen, mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf externe Signale einwirkt.. Autonom/Exzentrisch.
+
+demodulieren: Material/Telecommunications 3/5/2/Goal 5/aut/ecc
+Begründung: Im spezifischeren Telekommunikationskontext bezeichnet Demodulieren den technischen Prozess, bei dem ein Signal bearbeitet wird (3), um die darin enthaltenen Informationen (5) zu extrahieren und über diese zu verfügen (2), mit dem Ziel, die ursprüngliche Information wiederherzustellen (Goal 5).. Autonom/Exzentrisch.
+
+demolieren: Material/Destruction 3/Goal 2//Goal -2/aut/ecc
+Begründung: Demolieren bedeutet, etwas durch bewusste Bewegungen/Handlungen (3) zu zerstören, um einen gewünschten Zustand (Goal 2) zu erreichen, wodurch gleichzeitig der Zustand des Antagonisten (das zu zerstörende Objekt) negativ beeinflusst wird (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf ein Objekt einwirkt.. Autonom/Exzentrisch.
+
+demolieren: Material/Fight/Aggression 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im Kontext eines Kampfes bedeutet demolieren, dass der Akteur mit aggressiven Bewegungen (3) einen gewünschten Zustand (Goal 2) erreicht, indem er den Zustand des Antagonisten (Person, Gebäude, Anlage) im feindlichen Kontext massiv beschädigt oder zerstört (//Goal -2).. Autonom/Exzentrisch.
 
 demonstrieren: Material/Fight/Protest 3/5/Goal 3/aut/ecc
 Begründung: Beim Demonstrieren bewegt sich der Akteur (3) mit dem Ziel, Informationen zu verbreiten (5), um eine Wirkung zu erzielen (Goal 3), typischerweise um auf ein Problem aufmerksam zu machen oder Veränderungen zu bewirken. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf die Umwelt einwirken will.. Autonom/Exzentrisch.
@@ -555,6 +591,12 @@ Begründung: Im musikalischen Kontext bestimmt der Dirigent (2) die Leistung der
 
 dirigieren: Material/Transportation 2/4/5/3//Goal 3/Goal 4/aut/con
 Begründung: Im Verkehrskontext bestimmt der Akteur (2) die Leistung anderer Verkehrsteilnehmer (4) durch Anweisungen/Signale (5) für Bewegungen (3), damit eine bestimmte Destination/Wirkung erreicht wird (//Goal 3) und letztendlich für diese Koordinationsleistung Anerkennung erlangt wird (Goal 4).. Autonom/Konzentrisch.
+
+Begründung: Der Akteur bestimmt/verfügt (2) über eine Leistung (4), die darin besteht, Informationen zu geben (5), mit dem Ziel, dass ein gewünschter Zustand realisiert wird (//Goal 2), und letztendlich, um Anerkennung zu bekommen (Goal 4). Als Führungstätigkeit ist es eine autonome (aut) nach innen gerichtete (con) Aktivität, bei der der Akteur Anweisungen gibt und das Handeln anderer koordiniert.. Autonom/Konzentrisch.
+dirigieren: Material/Music 2/3/Goal 2/Goal 4/aut/con
+Begründung: Im musikalischen Kontext bedeutet dirigieren, dass der Akteur als Dirigent bestimmt/verfügt (2) und durch seine Bewegungen (3) eine Musikaufführung steuert, um einen gewünschten Zustand (Goal 2) zu erreichen und berufliche Anerkennung zu erhalten (Goal 4). Es ist eine autonome (aut) nach innen gerichtete (con) Aktivität, bei der der Akteur das Tempo, die Dynamik und den Einsatz der Musiker kontrolliert.. Autonom/Konzentrisch.
+dirigieren: Material/Transportation 2/4/1/5/3//Goal 3/aut/ecc
+Begründung: Im Verkehrskontext bedeutet dirigieren, dass der Akteur bestimmt (2) und eine Leistung erbringt (4), indem er Informationen gibt (1/5) für Bewegungen (3), damit ein Ziel erreicht wird (//Goal 3). Dies bezieht sich auf die Tätigkeit, Verkehrsteilnehmer oder Fahrzeuge zu leiten, etwa als Verkehrspolizist. Es ist eine autonome (aut) nach außen gerichtete (ecc) Aktivität.. Autonom/Exzentrisch.
 
 diskreditieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), nämlich das Ansehen oder die Glaubwürdigkeit einer Person zu schädigen.. Autonom/Exzentrisch.
