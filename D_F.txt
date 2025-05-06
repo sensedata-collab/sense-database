@@ -4,11 +4,13 @@ Begründung: Beim Fabulieren bewegt/strebt (3) der Akteur nach Informationen (5)
 fabulieren: Interpersonal/Deception 3/5/Goal 5//Goal 3/aut/ecc
 Begründung: In der Bedeutung des Flunkerns oder Lügens bewegt/strebt (3) der Akteur nach Informationen (5), um informiert zu sein (Goal 5), aber mit dem zusätzlichen Ziel, eine bestimmte Wirkung (Goal 3) auf andere zu erzielen. Hier ist die Täuschungsabsicht im Vordergrund.. Autonom/Exzentrisch.
 
+
 facebooken: Material/IT/Social 5/1/2/Goal 5/Goal 2/het/ecc
 Begründung: Der Akteur informiert sich (5) und bekommt (1) Verfügung (2) über soziale Informationen und Kontakte, um informiert zu sein (Goal 5) und einen gewünschten Zustand des sozialen Austauschs zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Nutzer sich an die Plattformvorgaben anpassen muss und nach außen auf andere Nutzer gerichtet ist.. Heteronom/Exzentrisch.
 
 facebooken: Material/IT/Communication 4/1/5/Goal 5//Goal 2/Goal 5/het/ecc
 Begründung: Der Akteur leistet (4) durch Geben (1) von Informationen (5) für andere Nutzer, damit diese informiert sind (Goal 5), was nach dem Wechsel (//), dem eigenen Ziel dient, einen gewünschten Zustand der Verbundenheit herzustellen (Goal 2) und selbst informiert zu bleiben (Goal 5).. Heteronom/Exzentrisch.
+
 
 fachsimpeln: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Beim Fachsimpeln leistet der Akteur (4) einen Informationsaustausch, indem er Fachwissen gibt (1) und Informationen mitteilt (5), damit der Antagonist informiert ist (Goal 5). Der Akteur erhält dafür typischerweise Anerkennung als Experte (//Goal 4). Die Ausrichtung ist heteronom und exzentrisch, da der Informationsaustausch sich nach den Interessen des Gesprächspartners richtet und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -16,17 +18,20 @@ Begründung: Beim Fachsimpeln leistet der Akteur (4) einen Informationsaustausch
 fachsimpeln: Interpersonal/Communication 3/5/Goal 5/Goal 3/aut/ecc
 Begründung: In einem interpersonalen Kontext kann Fachsimpeln auch bedeuten, dass der Akteur aktiv (3) Kontakt sucht (5), um Aufmerksamkeit zu bekommen (Goal 5) und eine Wirkung beim Gesprächspartner zu erzielen (Goal 3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt agiert und nach außen auf einen Gesprächspartner gerichtet ist.. Autonom/Exzentrisch.
 
+
 facilitieren: Material/Assistance 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4) durch Geben (1) von Informationen und Unterstützung (5), um einen gewünschten Zustand für den Antagonisten zu ermöglichen (Goal 2), mit dem Ziel, berufliche Anerkennung zu bekommen (//Goal 4). Der Akteur erleichtert aktiv und autonom (aut) mit nach außen gerichteter Wirkung (ecc) einen Prozess für andere.. Autonom/Exzentrisch.
 
 facilitieren: Material/Process 2/4/3/Goal 2//Goal 4/aut/ecc
 Begründung: Im Kontext von Prozessoptimierung bedeutet facilitieren, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4) durch Förderung/Bewegung (3) von Ressourcen und Hindernissen, um einen gewünschten Zustand für den Antagonisten zu ermöglichen (Goal 2), mit dem Ziel, berufliche Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
 
+
 fahnden: Material/Criminal/Investigation 3/5/Goal 5/Goal 3/aut/ecc
 Begründung: Fahnden bedeutet ein aktives Suchen (3/5) nach Informationen oder Personen, um Kenntnis über deren Aufenthaltsort zu erlangen (Goal 5) und letztendlich ein Ziel zu erreichen (Goal 3), wie z.B. die Ergreifung oder Festnahme. Der Akteur bewegt sich aktiv (3) und sucht nach Informationen (5), wobei die Aktivität selbstbestimmt (aut) und nach außen gerichtet (ecc) ist.. Autonom/Exzentrisch.
 
 fahnden: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Im allgemeineren Kontext kann 'fahnden' auch einfach das intensive Suchen nach etwas bedeuten, wobei man sich bewegt (3) und nach Informationen sucht (5), um informiert zu sein (Goal 5). Diese Bedeutung ist weniger auf Strafverfolgung ausgerichtet und bezieht sich auf allgemeinere Suchaktivitäten.. Heteronom/Exzentrisch.
+
 
 fahren: Material/Transportation 2/Goal 3/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) ein Fahrzeug, um eine Destination zu erreichen (Goal 3). Das Steuern umfasst das Verfügen über ein Fahrzeug und kleine Bewegungen im eigenen Bereich. Die Ausrichtung ist autonom (der Akteur bestimmt) und exzentrisch (nach außen gerichtet auf das Erreichen eines Ziels).. Autonom/Exzentrisch.
@@ -40,11 +45,13 @@ Begründung: Diese Variante bezieht sich auf das Steuern eines Wasserfahrzeugs (
 fahren: Material/Machine-System 2/3/Goal 2/aut/ecc
 Begründung: In diesem technischen Kontext bedeutet 'fahren', einen Mechanismus in Bewegung zu setzen. Der Akteur verfügt (2) und bewegt (3) eine Maschine, um einen gewünschten Betriebszustand herzustellen (Goal 2).. Autonom/Exzentrisch.
 
+
 failen: Material/IT 3/Goal -3/het/ecc
 Begründung: Der Begriff 'failen' stammt aus der IT-Fachsprache (entlehnt aus dem Englischen 'to fail') und bedeutet, dass ein System, Prozess oder eine Anwendung nicht wie vorgesehen funktioniert oder abstürzt. Der Akteur (System) bewegt sich (3) in Richtung eines Ziels, erreicht dieses jedoch nicht (Goal -3). Die Ausrichtung ist heterenom/exzentrisch (het/ecc), da der Akteur nicht die volle Kontrolle über den Prozess hat und das Versagen durch externe Faktoren beeinflusst wird.. Heteronom/Exzentrisch.
 
 failen: Material/Test 3/Goal -3/het/ecc
 Begründung: Im Kontext von Tests oder Prüfungen bedeutet 'failen' das Nichtbestehen oder Scheitern an einer Aufgabe. Der Akteur strebt (3) ein Ziel an, erreicht dieses jedoch nicht (Goal -3). Die Ausrichtung ist heterenom/exzentrisch (het/ecc), weil das Ergebnis von externen Kriterien oder Bewertungsmaßstäben abhängt.. Heteronom/Exzentrisch.
+
 
 faken: Interpersonal/Deception 3/4/1/5/Goal -5//Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und leistet (4) durch Abgeben (1) von manipulierten Informationen (5) eine Täuschung, die beim Antagonisten zu einem falschen Informiertsein führt (Goal -5), um für sich selbst eine Wirkung zu erzielen (//Goal 3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -55,11 +62,13 @@ Begründung: Im Unterhaltungskontext bedeutet 'faken' oft ein vortäuschen ohne 
 faken: Material/Fight/Sports 3/5/Goal 3//Goal -3/aut/ecc
 Begründung: Im Sportkontext bedeutet 'faken' eine Bewegung (3) mit Informationscharakter (5) vortäuschen, um eine eigene Wirkung zu erzielen (Goal 3) und gleichzeitig die beabsichtigte Wirkung des Gegners zu verhindern (//Goal -3).. Autonom/Exzentrisch.
 
+
 fakturieren: Material/Finance 2/4/1/5/Goal 5/Goal 2//Goal 4/aut/ecc
 Begründung: Beim Fakturieren bestimmt (2) der Akteur, eine Leistung (4) zu erbringen, indem er eine Information (1/5) in Form einer Rechnung gibt, damit der Antagonist informiert ist (Goal 5) über einen zu zahlenden Betrag und damit ein gewünschter Zustand (Goal 2) für den Antagonisten entsteht (die Zahlungsverpflichtung ist dokumentiert). Nach dem Wechsel (//) folgt das Ziel des Akteurs, geschäftlich Geld/Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf einen Antagonisten gerichtet ist.. Autonom/Exzentrisch.
 
 fakturieren: Material/Business/Documentation 2/4/1/5/Goal 5/Goal 2//Goal 4/aut/ecc
 Begründung: Im Kontext der Geschäftsdokumentation bedeutet Fakturieren das bestimmende (2) Erstellen und Übermitteln (4/1) von Rechnungsinformationen (5) mit dem Ziel, den Zahlungsvorgang zu dokumentieren (Goal 5) und einen rechtsgültigen Zahlungsanspruch herzustellen (Goal 2). Letztendlich dient dies dem Ziel des Akteurs, eine Gegenleistung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
 
 fallen: Material/Accident 3/1/Goal -3/Goal -2/het/ecc
 Begründung: Beim 'fallen' bewegt sich ein Akteur (3) und bekommt (1) eine ungewollte Bewegungsrichtung (Goal -3), die zu einem unerwünschten Zustand (Goal -2) führt. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur nicht die volle Kontrolle über den Vorgang hat und die Bewegung nach unten durch äußere Kräfte bestimmt wird.. Heteronom/Exzentrisch.
@@ -73,6 +82,7 @@ Begründung: Im übertragenen Sinne kann 'fallen' eine Statusveränderung bedeut
 fallen: Material/Fight/Competition 1/Goal -3/Goal -2/het/ecc
 Begründung: Im Kampf- oder Wettbewerbskontext bedeutet 'fallen', dass der Akteur eine Niederlage (Goal -3) bekommt (1), was zu einem ungewünschten Zustand (Goal -2) führt. Dies gilt z.B. für 'im Kampf fallen' oder 'eine Festung fällt'. Die heteronome Ausrichtung zeigt, dass der Akteur dem Geschehen ausgeliefert ist.. Heteronom/Exzentrisch.
 
+
 falsch verstehen: Material/Communication 5/3/Goal -5/het/ecc
 Begründung: Der Akteur nimmt Informationen auf (5), analysiert sie (3), erreicht aber ein fehlerhaftes Verständnis (Goal -5). Die Ausrichtung ist heteronom/eccentric, da der Akteur von externen Informationen abhängig ist und seine Informationsverarbeitung nach außen gerichtet ist, aber das Ziel des korrekten Verstehens nicht erreicht wird.. Heteronom/Exzentrisch.
 
@@ -82,11 +92,13 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet 'falsch verstehen', dass d
 falsch verstehen: Material/Interpretation 5/3/Goal -5/het/ecc
 Begründung: Bei der Interpretation von Texten, Kunstwerken oder anderen Inhalten nimmt der Akteur die Informationen auf (5), interpretiert sie aktiv (3), erreicht aber ein falsches Verständnis des Inhalts (Goal -5).. Heteronom/Exzentrisch.
 
+
 falsifizieren: Material/Scientific 3/5/2/Goal -2//Goal 5/het/ecc
 Begründung: Der Akteur bewegt/untersucht (3) Informationen (5), um zu verfügen (2) über einen Nachweis, dass eine Theorie oder Annahme nicht korrekt ist (Goal -2 für den Antagonisten, dessen Theorie widerlegt wird). Dies dient dem Ziel des Akteurs, informiert zu sein bzw. wissenschaftliche Erkenntnis zu erlangen (//Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Fakten anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
 
 falsifizieren: Material/Logic 3/5/2/Goal -2//Goal 5/het/ecc
 Begründung: In der Logik bedeutet falsifizieren, durch kritische Prüfung (3/5) nachzuweisen (2), dass eine Hypothese falsch ist (Goal -2 für den Antagonisten/die Hypothese). Dies führt zur Erkenntnis und Information (//Goal 5) für den Akteur.. Heteronom/Exzentrisch.
+
 
 falten: Material/Form 2/3/Goal 2/aut/con
 Begründung: Der Akteur verfügt über (2) und bewegt (3) ein Material, um einen gewünschten gefalteten Zustand zu erreichen (Goal 2). Dies geschieht selbstbestimmt (aut) im eigenen Kontrollbereich (con), da der Akteur das Material nach seinen Vorstellungen formt.. Autonom/Konzentrisch.
@@ -97,6 +109,7 @@ Begründung: Im Kontext von Textilien bedeutet 'falten' das Zusammenlegen von St
 falten: Material/Biological/Process 3/Goal 2/het/con
 Begründung: Im biologischen Kontext beschreibt 'falten' einen Prozess, bei dem sich Proteine oder Molekülketten durch Bewegung (3) in eine bestimmte dreidimensionale Struktur einordnen (Goal 2), was heteronomen Naturgesetzen folgt (het) im Innenbereich des Organismus (con).. Heteronom/Konzentrisch.
 
+
 falzen: Material/Manufacturing 3/Goal 2/aut/ecc
 Begründung: Beim Falzen bewegt/bearbeitet (3) der Akteur Material, um einen gewünschten Zustand (Goal 2) herzustellen - nämlich eine Falz oder Falte in Papier, Blech oder anderem Material. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein äußeres Material einwirkt.. Autonom/Exzentrisch.
 
@@ -106,11 +119,13 @@ Begründung: Im Druckgewerbe bedeutet Falzen das präzise Falten von Druckbögen
 falzen: Material/Construction 3/Goal 2/aut/ecc
 Begründung: In der Baubranche bezeichnet Falzen das Erzeugen von Verbindungsstellen bei Blecharbeiten, wobei Material bewegt/bearbeitet wird (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch.. Autonom/Exzentrisch.
 
+
 fanatisieren: Material/Persuasion 2/3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit intensiver Anstrengung (3) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die zu einem ungesunden Überzeugungszustand beim Antagonisten führen sollen (Goal -2), mit dem Ziel, eine radikalisierende Wirkung für den Akteur zu erzielen (//Goal 3).. Autonom/Exzentrisch.
 
 fanatisieren: Material/Fight/Propaganda 2/3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Im politischen oder ideologischen Kontext: Der Akteur bestimmt (2) mit intensiver Anstrengung (3) eine Leistung zu erbringen (4), indem er extreme Überzeugungen verbreitet (1/5), die zur unkritischen Übersteigerung beim Antagonisten führen (Goal -2), um eine bestimmte Wirkung für seine eigenen Ziele zu erzielen (//Goal 3).. Autonom/Exzentrisch.
+
 
 fangen: Material/Fight/Defense 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) um etwas zu bekommen/ergreifen (1), mit dem Ziel einen gewünschten Zustand zu erreichen (Goal 2), wobei gleichzeitig die Bewegungsfreiheit des Antagonisten verhindert wird (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf den Antagonisten zugeht.. Autonom/Exzentrisch.
@@ -124,20 +139,24 @@ Begründung: Beim Fischen bedeutet 'fangen' das gezielte Bewegen (3) und Bekomme
 fangen: Material/Animal/Training 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Bei der Tierhaltung bedeutet 'fangen' das Bewegen (3) und Bekommen/Ergreifen (1) eines Tieres, um es unter Kontrolle zu bringen (Goal 2), wobei die freie Bewegung des Tieres als Antagonist eingeschränkt wird (//Goal -3).. Autonom/Exzentrisch.
 
+
 fantasieren: Material/Cognitive 3/5/2/Goal 5/het/ecc
 Begründung: Beim Fantasieren bewegt (3) der Akteur Informationen (5) im Geiste und verfügt (2) über diese, um informiert zu sein bzw. gedankliche Vorstellungen zu erzeugen (Goal 5). Die Ausrichtung ist heteronym und exzentrisch (het/ecc), da der Akteur sich auf äußere Eindrücke oder imaginäre Szenarien einlässt.. Heteronom/Exzentrisch.
 
 fantasieren: Material/Creative 3/5/2/Goal 5/Goal 3/aut/ecc
 Begründung: Im kreativen Kontext beinhaltet Fantasieren das Bewegen (3) von Informationen (5), über die man verfügt (2), um informiert zu sein (Goal 5) mit dem höherwertigen Ziel, eine bestimmte Wirkung zu erzielen (Goal 3), etwa in künstlerischer Hinsicht. Hier ist die Ausrichtung autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt kreative Inhalte schafft.. Autonom/Exzentrisch.
 
+
 faseln: Material/Communication 4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Der Akteur leistet (4) für einen Antagonisten indem er (unzusammenhängende/unlogische) Informationen gibt (1/5), die den Antagonisten in einen Zustand der Fehlinformation oder Verwirrung versetzen (Goal -5), während der Akteur einen gewünschten Zustand erreicht (//Goal 2), nämlich sich mitzuteilen, ohne gezwungen zu sein, logisch strukturierte Information zu liefern.. Autonom/Exzentrisch.
+
 
 fasen: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Fasen bedeutet das Abschrägen einer Kante an einem Material, typischerweise Holz oder Metall. Der Akteur bewegt (3) Werkzeug, um eine spezifische Form (abgeschrägte Kante) als gewünschten Zustand (Goal 2) zu erreichen. Dies geschieht autonom und ist nach außen in die Umwelt gerichtet (aut/ecc), da Material bearbeitet wird.. Autonom/Exzentrisch.
 
 fasen: Material/Metalworking 3/Goal 2/aut/ecc
 Begründung: In der Metallbearbeitung bedeutet Fasen das Anschrägen von Kanten an Metallstücken, oft als Vorbereitung für Schweißarbeiten. Der Akteur bewegt (3) Werkzeug, um eine spezifische Formänderung (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
 
 fassen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) etwas in seine Verfügung (Goal 2). 'Fassen' bedeutet, etwas durch eine Bewegung der Hand zu ergreifen und in Besitz zu nehmen, um darüber verfügen zu können.. Autonom/Exzentrisch.
@@ -154,11 +173,13 @@ Begründung: Im Sinne von 'einen Entschluss fassen': Der Akteur bewegt sich ment
 fassen: Material/Measurement 3/5/Goal 2/aut/ecc
 Begründung: Im Sinne von 'zusammenfassen': Der Akteur bewegt (3) Informationen und ordnet sie (5), um einen gewünschten Zustand der Kompaktheit (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 faszinieren: Interpersonal/Influence 3/5/1/Goal 3/Goal 5/aut/ecc
 Begründung: Faszinieren bedeutet, dass der Akteur durch seine Wirkung (3) Aufmerksamkeit auf sich zieht (5) und beim Antagonisten ein Gefühl des Angezogenseins bewirkt (1), um eine starke Wirkung (Goal 3) und intensive Aufmerksamkeit/Fokussierung (Goal 5) zu erzielen. Der Akteur strahlt etwas aus, das den Antagonisten in seinen Bann zieht und dessen Aufmerksamkeit bindet.. Autonom/Exzentrisch.
 
 faszinieren: Material/Persuasion 3/5/1/Goal 3/Goal 5/aut/ecc
 Begründung: Im Kontext von Überzeugungsarbeit bedeutet faszinieren, durch besondere Eigenschaften oder Darstellungen (3) Interesse zu wecken (5) und eine positive Aufnahme zu bewirken (1), um eine nachhaltige Wirkung (Goal 3) und anhaltende Aufmerksamkeit (Goal 5) zu erzielen, etwa bei einer Präsentation oder einem Verkaufsgespräch.. Autonom/Exzentrisch.
+
 
 faxen: Material/Telecommunications 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) das Geben (1) einer Information (5), damit der Antagonist informiert ist (Goal 5), mit dem eigenen Ziel, Anerkennung/Vergütung zu erhalten (//Goal 4). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt eine Aktion nach außen ausführt. Es handelt sich um die elektronische Übertragung von Dokumenten mittels eines Faxgeräts.. Autonom/Exzentrisch.
@@ -166,11 +187,33 @@ Begründung: Der Akteur leistet (4) das Geben (1) einer Information (5), damit d
 faxen: Interpersonal 3/Goal 3/aut/ecc
 Begründung: In der umgangssprachlichen Bedeutung bezeichnet 'faxen' alberne Bewegungen oder Gesten zu machen (3), um eine Wirkung bei anderen zu erzielen (Goal 3). Hier strebt der Akteur an, andere zum Lachen zu bringen oder Aufmerksamkeit zu erregen.. Autonom/Exzentrisch.
 
+
+fälschen: Material/Deception 3/2/Goal 2//Goal -2/aut/ecc
+Begründung: Der Akteur bewegt/bearbeitet aktiv (3) und kontrolliert/verändert (2) etwas, um einen gewünschten Zustand (Goal 2) zu erreichen, während er gleichzeitig die Ziele des Antagonisten beeinträchtigt (//Goal -2), indem er ihn täuscht. Die Ausrichtung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und auf die Außenwelt einwirkt.. Autonom/Exzentrisch.
+
+fälschen: Material/Criminal/Documentation 3/2/5/Goal 5/Goal 2//Goal -2/aut/ecc
+Begründung: Im Kontext von Dokumentenfälschung bearbeitet der Akteur (3) ein Objekt, verfügt/kontrolliert (2) über dessen Informationsgehalt (5), um Informationen zu manipulieren (Goal 5) und einen gewünschten Zustand (Goal 2) zu erreichen, während er die Ziele des Antagonisten beeinträchtigt (//Goal -2).. Autonom/Exzentrisch.
+
+fälschen: Material/Art 3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Im Kontext der Kunst, etwa beim Erstellen von Kopien bekannter Werke, bewegt/bearbeitet (3) der Akteur Materialien, um Informationen/visuelle Erscheinung (5) zu reproduzieren (Goal 5) und einen gewünschten Zustand (Goal 2) zu erreichen, ohne notwendigerweise betrügerische Absichten zu haben.. Autonom/Exzentrisch.
+
+
+färben: Material/Chemical/Process 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt über (2) und bewegt/transformiert (3) Farbsubstanzen, um einen gewünschten Zustand (Goal 2) eines Objekts zu erreichen, nämlich dessen Farbveränderung. Die Handlung erfolgt autonom und ist nach außen auf das zu färbende Objekt gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+färben: Material/Textile 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im textilen Bereich verfügt der Akteur über (2) und bewegt/transformiert (3) Farbstoffe, um einen gewünschten Zustand bei Textilien zu erreichen (Goal 2), wobei dies im beruflichen Kontext zusätzlich auf Anerkennung/Bezahlung abzielt (Goal 4).. Autonom/Exzentrisch.
+
+färben: Material/Hair 2/3/Goal 2/aut/ecc
+Begründung: Beim Haarefärben verfügt der Akteur über (2) und transformiert (3) die Haarfarbe, um einen gewünschten Zustand (Goal 2) zu erreichen. Die autonome Handlung ist nach außen auf das Haar gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+
 featuren: Material/IT 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt/verarbeitet (3) IT-Funktionen, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei Informationen (Goal 5) vermittelt werden. Es handelt sich um das Hervorheben oder Hinzufügen besonderer Funktionen in Softwareanwendungen oder IT-Systemen.. Autonom/Exzentrisch.
 
 featuren: Material/Marketing 2/4/1/5/Goal 5//Goal 3/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Empfänger informiert ist (Goal 5), mit dem eigenen Ziel, eine Wirkung zu erzielen (//Goal 3) und letztlich geschäftlich Anerkennung/Geld zu bekommen (Goal 4). Hier geht es um das besondere Hervorheben eines Produkts oder einer Eigenschaft in der Vermarktung.. Autonom/Exzentrisch.
+
 
 fechten: Fight/Sport/Fencing 3/Goal 3/Goal 2/aut/ecc
 Begründung: Fechten bezeichnet einen Kampfsport, bei dem der Akteur sich bewegt (3) und eine Waffe führt, um eine Wirkung zu erzielen (Goal 3) mit dem übergeordneten Ziel, einen Kampferfolg zu haben (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Fechter selbstbestimmt agiert und nach außen auf den Gegner gerichtet ist.. Autonom/Exzentrisch.
@@ -181,11 +224,13 @@ Begründung: In der historischen Bedeutung als Berufstätigkeit bedeutet 'fechte
 fechten: Material/Fight/Defense 3/Goal 2//Goal -3/aut/ecc
 Begründung: Als Kampftechnik zur Selbstverteidigung bewegt sich der Akteur (3), um seinen gewünschten Zustand (Unversehrtheit) zu erreichen (Goal 2) und gleichzeitig die Wirkung des Angriffs des Antagonisten zu verhindern (//Goal -3).. Autonom/Exzentrisch.
 
+
 feedback geben: Material/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Dies dient letztendlich dem Ziel des Akteurs, Anerkennung zu erhalten (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Handlung nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 feedback geben: Material/Evaluation 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: In einem Bewertungskontext bedeutet Feedback geben, dass der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand herzustellen (//Goal 2), beispielsweise eine Verbesserung zu bewirken.. Autonom/Exzentrisch.
+
 
 feedbacken: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Der Akteur leistet für den Antagonisten (4) durch das Geben (1) von Informationen (5), damit dieser informiert ist (Goal 5). Nach der Leistungserbringung (durch //) folgt das eigene Ziel des Akteurs, nämlich Anerkennung zu bekommen (Goal 4). Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt, dass sich der Akteur an den Antagonisten anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -193,17 +238,20 @@ Begründung: Der Akteur leistet für den Antagonisten (4) durch das Geben (1) vo
 feedbacken: Material/Evaluation 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: In einem evaluierenden Kontext bestimmt der Akteur (2) die Leistung für den Antagonisten (4) durch das Geben (1) von Informationen (5), damit dieser informiert ist (Goal 5). Der Akteur hat hier eine aktivere, bewertende Rolle (aut/ecc) und verfolgt das Ziel, Anerkennung für seine Bewertung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 fegen: Material/Cleaning 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) einen Besen über eine Oberfläche, um einen gewünschten sauberen Zustand zu erreichen (Goal 2). Diese Bewegung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf die Umgebung einwirkt.. Autonom/Exzentrisch.
 
 fegen: Material/Weather 3/Goal 3/het/ecc
 Begründung: In der Bedeutung 'Der Wind fegt über das Land' bewegt sich (3) etwas mit Kraft, um eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Vorgang von äußeren Kräften bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
+
 fehlinformieren: Material/Information 2/4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er falsche Informationen gibt (1/5), die zu einem unerwünschten Informationszustand des Antagonisten führen (Goal -5), um einen eigenen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur bewusst und aktiv nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
 fehlinformieren: Material/Deception 2/4/1/5/Goal -5//Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er falsche Informationen gibt (1/5), die zu einem unerwünschten Informationszustand des Antagonisten führen (Goal -5), mit dem höheren Ziel, eine bestimmte Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
+
 
 feiern: Material/Social-Activities 2/5/3/Goal 5/Goal 1/aut/ecc
 Begründung: Feiern bedeutet, dass der Akteur über einen besonderen Anlass verfügt (2) und Kontakt zu Anderen sucht (5), mit Aktivitäten (3), um gemeinsam informiert zu sein (Goal 5) über den Anlass und um Freude/Befriedigung zu bekommen (Goal 1). Die Ausrichtung ist autonom (der Akteur entscheidet zu feiern) und exzentrisch (nach außen gerichtet mit gemeinsamen Aktivitäten).. Autonom/Exzentrisch.
@@ -214,11 +262,13 @@ Begründung: In zwischenmenschlicher Hinsicht bedeutet feiern, dass der Akteur s
 feiern: Material/Religious 2/5/3/Goal 5/Goal 2/aut/ecc
 Begründung: Im religiösen Kontext bedeutet feiern, dass der Akteur über einen besonderen Anlass verfügt (2), Kontakt zu Anderen und/oder höheren Mächten sucht (5), mit zeremoniellen Aktivitäten (3), um gemeinsam informiert zu sein (Goal 5) und einen gewünschten spirituellen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 feilbieten: Material/Market 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Waren gibt (1) und Informationen darüber bereitstellt (5), um einen gewünschten Verkaufszustand zu erreichen (Goal 2). Nach dem Umschalter folgt das eigene Ziel des Akteurs: Geld und Anerkennung bekommen (Goal 4). Die Ausrichtung ist autonom (aut), da der Verkäufer selbst entscheidet, und exzentrisch (ecc), da die Aktivität nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 feilbieten: Material/Advertisement 2/4/1/5/Goal 3//Goal 4/aut/ecc
 Begründung: In einer Werbungs- oder Marketingperspektive bedeutet feilbieten, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Waren präsentiert (1) und Informationen dazu bereitstellt (5), mit dem unmittelbaren Ziel, eine Wirkung bei potenziellen Kunden zu erzielen (Goal 3), um letztendlich Verkäufe zu generieren und Anerkennung/Bezahlung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
 
 feilen: Material/Metalworking 3/Goal 2/aut/ecc
 Begründung: Bei 'feilen' bewegt (3) der Akteur ein Werkzeug (Feile) an einem Material entlang, um einen gewünschten Zustand (Goal 2) herzustellen, indem die Oberfläche eines Materials bearbeitet und abgetragen wird. Dies ist ein autonomer Prozess mit Außenorientierung (aut/ecc), da der Akteur selbstbestimmt ein außenliegendes Objekt bearbeitet.. Autonom/Exzentrisch.
@@ -226,11 +276,13 @@ Begründung: Bei 'feilen' bewegt (3) der Akteur ein Werkzeug (Feile) an einem Ma
 feilen: Material/Creative/Writing 3/Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet 'feilen' auch, einen Text zu überarbeiten bzw. zu verbessern, indem der Akteur kleine Änderungen vornimmt (3), um einen verbesserten Zustand (Goal 2) zu erreichen. Auch hier ist der Prozess autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 feilschen: Material/Negotiation 3/4/1/5/Goal 2//Goal 2/het/ecc
 Begründung: Beim Feilschen bewegt sich der Akteur (3) auf den Antagonisten zu mit einer Leistung (4), indem er Preisvorschläge gibt (1) und Informationen austauscht (5), um einen für beide Seiten akzeptablen Preis/Zustand zu erreichen (Goal 2 auf beiden Seiten des //). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Gegebenheiten des Marktes und den Reaktionen des Verhandlungspartners orientieren muss.. Heteronom/Exzentrisch.
 
 feilschen: Material/Business/Competition 3/4/1/5/Goal 2//Goal 2/het/ecc
 Begründung: Im geschäftlichen Kontext bedeutet Feilschen das strategische Verhandeln von Preisen, wobei beide Parteien durch Bewegung aufeinander zu (3), Leistungsbereitschaft (4), Preisvorschläge geben (1) und Informationsaustausch (5) versuchen, einen für beide vorteilhaften Zustand zu erreichen (Goal 2 für beide).. Heteronom/Exzentrisch.
+
 
 feinjustieren: Material/Technical 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über ein technisches Objekt und bewegt/manipuliert (3) dessen Einstellung präzise, um einen gewünschten optimalen Zustand (Goal 2) zu erreichen. Die Handlung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt (aut) auf ein Objekt im Außenbereich (ecc) einwirkt.. Autonom/Exzentrisch.
@@ -238,17 +290,20 @@ Begründung: Der Akteur verfügt (2) über ein technisches Objekt und bewegt/man
 feinjustieren: Material/Measurement 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Im Kontext von Messgeräten oder Präzisionsinstrumenten bedeutet feinjustieren, dass der Akteur verfügt (2) über das Gerät und bewegt (3) dessen Einstellelemente, um einen gewünschten Zustand (Goal 2) zu erreichen, der zusätzlich eine präzise Informationserfassung (Goal 5) ermöglicht.. Autonom/Exzentrisch.
 
+
 feixen: Interpersonal/Gesture 3/5/Goal 3/aut/ecc
 Begründung: Feixen bedeutet, ein schadenfrohes oder spöttisches Grinsen zu zeigen, wodurch der Akteur bewusst eine bestimmte Wirkung (Goal 3) auf den Antagonisten durch eine Bewegung des Gesichts (3) mit kommunikativem Charakter (5) erzielen möchte. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf andere wirkt.. Autonom/Exzentrisch.
 
 feixen: Material/Fight/Gesture 3/5/Goal 3//Goal -2/aut/ecc
 Begründung: Als spöttische Kampfgeste bedeutet feixen, dass der Akteur durch eine Gesichtsbewegung (3) mit kommunikativem Charakter (5) eine Wirkung erzielt (Goal 3), die darauf abzielt, den gewünschten Zustand des Antagonisten zu beeinträchtigen (//Goal -2).. Autonom/Exzentrisch.
 
+
 fernbleiben: Material/Distance 3/Goal 2//Goal -5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) für einen gewünschten Zustand (Goal 2), nämlich Abstand zu halten, und wirkt dabei gegen das Kontaktziel des Antagonisten (//Goal -5). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er bewusst Abstand hält bzw. fernbleibt.. Autonom/Exzentrisch.
 
 fernbleiben: Interpersonal/Avoidance 3/Goal 2//Goal -5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet fernbleiben, dass der Akteur bewusst Abstand zu einer Person hält (3/Goal 2), um Kontakt zu vermeiden und damit gegen das potenzielle Kontaktziel des Antagonisten (//Goal -5) handelt.. Autonom/Exzentrisch.
+
 
 fernhalten: Material/Distance 3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt/handelt (3) für einen gewünschten Zustand der Distanz (Goal 2), während er gleichzeitig die Annäherung/Bewegung des Antagonisten verhindert (//Goal -3). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur aktiv und selbstbestimmt handelt, um etwas auf Distanz zu halten.. Autonom/Exzentrisch.
@@ -259,11 +314,13 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet 'fernhalten' das aktive Be
 fernhalten: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im Verteidigungskontext bedeutet 'fernhalten' das bestimmende (2) Bewegen/Handeln (3), um eine Schutzzone aufrechtzuerhalten (Goal 2) und das Eindringen eines Gegners zu verhindern (//Goal -3). Die Ausrichtung ist autonom und nach innen gerichtet (aut/con), da die Handlung dem Schutz des eigenen Bereichs dient.. Autonom/Konzentrisch.
 
+
 fertigen: Material/Manufacturing 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur verfügt (2) über Materialien und bewegt/verarbeitet (3) diese, um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem übergeordneten Ziel, im beruflichen Kontext Anerkennung/Vergütung zu bekommen (Goal 4). Die Ausrichtung ist autonom (der Akteur bestimmt den Herstellungsprozess) und exzentrisch (die Tätigkeit wirkt nach außen auf Materialien).. Autonom/Exzentrisch.
 
 fertigen: Material/Processing 2/3/Goal 2/aut/ecc
 Begründung: Im nicht-beruflichen Kontext: Der Akteur verfügt (2) über Materialien und bewegt/verarbeitet (3) diese, um einen gewünschten Zustand (Goal 2) zu erreichen. Hier fehlt das berufliche End-Goal 4, da es sich um private Fertigung handelt.. Autonom/Exzentrisch.
+
 
 fertigmachen: Material/Completion 3/Goal 2/aut/ecc
 Begründung: Etwas fertigmachen bedeutet, etwas durch Bewegen/Bearbeiten (3) zu einem gewünschten, abgeschlossenen Zustand zu bringen (Goal 2). Der Akteur bewegt und bearbeitet selbstbestimmt (aut) ein Objekt im Außenbereich (ecc), um es zu vollenden.. Autonom/Exzentrisch.
@@ -274,6 +331,7 @@ Begründung: Im Sinne von 'jemanden fertigmachen' bedeutet es, aggressiv (3) ein
 fertigmachen: Material/Preparation 2/3/Goal 3/aut/ecc
 Begründung: Im Sinne von 'sich fertigmachen' (für ein Ereignis) bedeutet es, über den eigenen Zustand zu verfügen (2) und sich zu bewegen/vorzubereiten (3), um eine Zieldestination oder Aktivität zu erreichen (Goal 3).. Autonom/Exzentrisch.
 
+
 fesseln: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand (Goal 2), wodurch das Ziel des Antagonisten, sich zu bewegen (//Goal -3), verhindert wird. Der Akteur ist autonom und nach außen gerichtet (aut/ecc), da er aktiv und selbstbestimmt die Bewegungsfreiheit einer anderen Person einschränkt.. Autonom/Exzentrisch.
 
@@ -282,6 +340,7 @@ Begründung: Im übertragenen Sinne bedeutet 'fesseln' auch, jemanden durch Char
 
 fesseln: Material/Criminal 3/1/Goal 2/aut/ecc
 Begründung: Im kriminellen Kontext bedeutet 'fesseln' das Festbinden eines Opfers. Der Akteur bewegt sich (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er das Opfer handlungsunfähig macht. Der Akteur handelt autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 festbeißen: Material/Animal/Aggression 3/1/Goal 3/Goal 2/aut/ecc
 Begründung: Das aggressive Festbeißen eines Tieres beinhaltet eine gezielte Bewegung (3) zum Bekommen (1) eines Bisses mit dem Ziel, eine Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand zu erreichen (Goal 2), nämlich das Festhalten der Beute oder die Verteidigung. Diese Handlung ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
@@ -292,11 +351,13 @@ Begründung: Im übertragenen Sinne bedeutet 'sich festbeißen' das hartnäckige
 festbeißen: Material/Fight/Defense 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Im Kontext einer Verteidigung bedeutet Festbeißen eine Bewegung (3) zum Bekommen (1) eines festen Halts, um einen gewünschten Zustand zu erreichen (Goal 2) und gleichzeitig die Bewegungsfreiheit des Gegners einzuschränken (//Goal -3). Diese Aktion ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
 
+
 festdrehen: Material/Mechanical 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) durch gezielte Bewegung (3) einen Gegenstand, um einen gewünschten Zustand der Befestigung zu erreichen (Goal 2). Beispielsweise wird eine Schraube oder ein anderes Befestigungselement durch Drehen so fixiert, dass der gewünschte Endzustand (fest verbunden) erreicht wird. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf ein Objekt außerhalb seines unmittelbaren Bereichs einwirkt.. Autonom/Exzentrisch.
 
 festdrehen: Material/Construction 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext des Baugewerbes bezeichnet 'festdrehen' das gezielte Befestigen von Bauelementen durch Drehbewegungen. Der Akteur kontrolliert/verfügt (2) über Werkzeuge und führt Bewegungen aus (3), um eine sichere Verbindung herzustellen (Goal 2).. Autonom/Exzentrisch.
+
 
 festfahren: Material/Transportation 3/Goal -3/het/ecc
 Begründung: Ein Fahrzeug bewegt sich (3) in eine Situation, in der es nicht mehr zum gewünschten Ziel gelangen kann (Goal -3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von äußeren Umständen abhängig ist und keine volle Kontrolle über die Situation hat.. Heteronom/Exzentrisch.
@@ -306,6 +367,7 @@ Begründung: Bei einem Unfall bewegt sich ein Fahrzeug (3) und bekommt (1) eine 
 
 festfahren: Interpersonal/Problem-Solving 3/Goal -3/het/ecc
 Begründung: Im übertragenen Sinne: Eine Diskussion oder ein Prozess bewegt sich (3) in eine Situation, in der keine Lösung oder kein Fortschritt mehr möglich ist (Goal -3). Der Akteur ist von der Situation abhängig (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 festhalten: Material/Control 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) mit einer Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Bei 'festhalten' bestimmt der Akteur autonom (aut) über ein Objekt, indem er es mit einer Bewegung in Position hält, wodurch es nicht wegrutschen oder fallen kann. Die Handlung ist nach außen gerichtet (ecc), da sie auf ein Objekt im Außenbereich einwirkt.. Autonom/Exzentrisch.
@@ -319,6 +381,7 @@ Begründung: Im Kontext einer Auseinandersetzung bedeutet 'festhalten' das Verf�
 festhalten: Interpersonal/Persistence 2/Goal 2/aut/con
 Begründung: Im zwischenmenschlichen Kontext kann 'festhalten' auch bedeuten, an einer Meinung, Überzeugung oder Vereinbarung zu bestehen. Der Akteur verfügt/kontrolliert (2) über seine Einstellung, um einen gewünschten Zustand (Goal 2) beizubehalten. Dies geschieht autonom (aut) und ist nach innen gerichtet (con), da es sich um die innere Haltung des Akteurs handelt.. Autonom/Konzentrisch.
 
+
 festigen: Material/Construction 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über einen Bearbeitungsprozess mit Bewegung/Transformation (3), um einen stabileren, dauerhaften Zustand zu erreichen (Goal 2). Dabei handelt er selbstbestimmt (aut) mit Wirkung nach außen auf das zu festigende Material (ecc).. Autonom/Exzentrisch.
 
@@ -328,11 +391,13 @@ Begründung: Der Akteur unternimmt Aktivitäten/Handlungen (3), um eine Beziehun
 festigen: Material/Knowledge 2/3/Goal 5/aut/con
 Begründung: Der Akteur bestimmt/verfügt (2) über einen kognitiven Prozess mit mentaler Bewegung/Verarbeitung (3), um Informationen/Wissen dauerhaft zu verankern (Goal 5). Er handelt dabei selbstbestimmt (aut) im eigenen inneren Bereich des Wissens (con).. Autonom/Konzentrisch.
 
+
 festkleben: Material/Construction 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung/Bearbeitung (3) einen gewünschten Zustand (Goal 2), indem er etwas dauerhaft an einer Oberfläche befestigt. Die Aktivität ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur die volle Kontrolle über den Prozess hat und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
 
 festkleben: Material/Adhesive 3/1/Goal 2/aut/ecc
 Begründung: In einem Klebstoff-Kontext kann 'festkleben' auch bedeuten, dass etwas durch Bewegung (3) in Kontakt gebracht wird und dadurch haftet/klebt (1), um einen gewünschten dauerhaften Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
 
 festklemmen: Material/Mechanical 2/3/Goal 2/aut/ecc
 Begründung: Bei 'festklemmen' bestimmt der Akteur (2) durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), bei dem ein Objekt an einer bestimmten Position fixiert wird, sodass es nicht mehr beweglich ist. Dies erfordert eine autonome, nach außen gerichtete Handlung (aut/ecc), da der Akteur aktiv auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
@@ -343,6 +408,7 @@ Begründung: In der Bedeutung 'sich festklemmen' oder 'eingeklemmt werden' besch
 festklemmen: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Kontext einer Verteidigungssituation bedeutet 'festklemmen', dass der Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand herzustellen (Goal 2), bei dem die Bewegungsfreiheit eines Antagonisten eingeschränkt wird (//Goal -3), um diesen zu immobilisieren.. Autonom/Exzentrisch.
 
+
 festklopfen: Material/Construction 3/Goal 2/aut/ecc
 Begründung: Festklopfen bedeutet, durch Bewegung/Anstreben (3) ein Material fest zu machen, um einen gewünschten Zustand (Goal 2) zu erreichen. Es ist eine autonome, nach außen gerichtete Tätigkeit (aut/ecc), bei der ein Objekt durch Klopfbewegungen in eine feste Position gebracht wird.. Autonom/Exzentrisch.
 
@@ -351,6 +417,7 @@ Begründung: Im Kontext der Holzbearbeitung bedeutet festklopfen das Fixieren ei
 
 festklopfen: Material/Process 3/2/Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne kann festklopfen auch bedeuten, etwas verbindlich zu machen oder endgültig zu bestimmen. Hier bewegt der Akteur (3) etwas, über das er verfügt (2), um einen gewünschten Zustand (Goal 2) zu erreichen, beispielsweise bei der Festlegung einer Vereinbarung.. Autonom/Exzentrisch.
+
 
 festlegen: Material/Decision 2/Goal 2/aut/con
 Begründung: Der Akteur bestimmt/verfügt (2) über etwas, um einen gewünschten Zustand zu erreichen (Goal 2). Beim Festlegen wird autonom (aut) im eigenen Kontrollbereich (con) eine verbindliche Entscheidung getroffen, die einen bestimmten Zustand etabliert. Die Aktivität ist konzentrisch und selbstbestimmt.. Autonom/Konzentrisch.
@@ -361,6 +428,7 @@ Begründung: In rechtlichen oder regulatorischen Kontexten bedeutet festlegen, d
 festlegen: Material/Planning 2/3/Goal 2/aut/con
 Begründung: Im Planungskontext bedeutet festlegen, dass der Akteur bestimmt (2) und etwas so anordnet/platziert (3), dass ein gewünschter Zustand (Goal 2) erreicht wird. Dies bezieht sich auf die konkrete Festlegung von Terminen, Abläufen oder Positionen.. Autonom/Konzentrisch.
 
+
 festmachen: Material/Maritime 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass etwas fest und sicher befestigt ist. Dies geschieht autonom (aut) und nach außen gerichtet (ecc), da der Akteur einen Gegenstand im Außenbereich bearbeitet. In der maritimen Bedeutung bezieht sich dies auf das Anbinden eines Schiffs am Anlegeplatz.. Autonom/Exzentrisch.
 
@@ -370,17 +438,20 @@ Begründung: Der Akteur bestimmt (2) durch Bewegung (3), um einen gewünschten Z
 festmachen: Material/Security 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3), um einen gewünschten Zustand (Goal 2) der Sicherheit zu erreichen, was auch Informationen (Goal 5) über den gesicherten Status liefert. Es geht hier um das Absichern oder Bestätigen einer Position, Entscheidung oder eines Zustands.. Autonom/Exzentrisch.
 
+
 festnehmen: Material/Law/Criminal 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) den Antagonisten in seine Kontrolle, um einen gewünschten Zustand der Inhaftierung zu erreichen (Goal 2), während gleichzeitig die Bewegungsfreiheit des Antagonisten verhindert wird (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf den Außenbereich einwirkt.. Autonom/Exzentrisch.
 
 festnehmen: Material/Fight/Defense 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: In einem allgemeineren Kontext kann 'festnehmen' auch bedeuten, jemanden physisch festzuhalten oder zu ergreifen, ohne rechtliche Implikationen. Der Akteur bewegt sich (3) und bekommt (1) den Antagonisten in seinen Griff, um einen gewünschten Zustand des Festhaltens zu erreichen (Goal 2), während die Bewegungsfreiheit des Antagonisten eingeschränkt wird (//Goal -3).. Autonom/Exzentrisch.
 
+
 festschrauben: Material/Construction 2/3/Goal 2/aut/ecc
 Begründung: Beim Festschrauben verfügt der Akteur (2) über Werkzeuge/Schrauben und bewegt diese (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass ein Objekt fest mit einem anderen verbunden ist. Der Vorgang ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf Objekte in seiner Umgebung einwirkt.. Autonom/Exzentrisch.
 
 festschrauben: Material/Mechanical 2/3/Goal 2/aut/ecc
 Begründung: Im mechanischen Kontext bedeutet Festschrauben das Verfügen (2) über und Bewegen (3) von Schrauben und Werkzeugen, um zwei oder mehr Komponenten in einen dauerhaft verbundenen Zustand (Goal 2) zu bringen. Der Prozess erfordert präzise Bewegungen und Kraftanwendung.. Autonom/Exzentrisch.
+
 
 festsetzen: Material/Law 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt (3) den Antagonisten, um diesen in seine Verfügung zu bekommen (1), damit ein gewünschter Zustand des Festhaltens erreicht wird (Goal 2). Die Aktivität bezieht sich auf das rechtliche Inhaftieren oder Festnehmen einer Person.. Autonom/Exzentrisch.
@@ -394,6 +465,7 @@ Begründung: Der Akteur bewegt (3) etwas, um es an einer Position zu verankern u
 festsetzen: Material/Criminal 2/3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung (3), den Antagonisten in Gewahrsam zu nehmen (1), um einen gewünschten Zustand der Kontrolle zu erreichen (Goal 2) und gleichzeitig die Bewegungsfreiheit des Antagonisten einzuschränken (//Goal -3).. Autonom/Exzentrisch.
 
+
 feststellen: Material/Measurement 3/5/2/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) zur Information hin, informiert sich (5) und verfügt (2) dann über die Information, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom und exzentrisch, da der Akteur sich an externe Informationen anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -402,6 +474,7 @@ Begründung: In der Bedeutung des offiziellen Bestätigens bestimmt der Akteur (
 
 feststellen: Material/Mechanical 2/3/Goal 2/aut/ecc
 Begründung: In der mechanischen Bedeutung (z.B. etwas fixieren oder arretieren) bestimmt der Akteur (2) durch Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
 
 festziehen: Material/Mechanical 2/3/Goal 2/aut/con
 Begründung: Der Akteur verfügt über (2) und bewegt (3) ein Objekt (z.B. Schraube, Mutter, Verschluss), um einen gewünschten Zustand der Festigkeit zu erreichen (Goal 2). Die Ausrichtung ist autonom und konzentrisch (aut/con), da der Akteur selbstbestimmt handelt und die Aktivität im eigenen Kontrollbereich stattfindet.. Autonom/Konzentrisch.
@@ -412,17 +485,20 @@ Begründung: Der Akteur verfügt über (2) und bewegt (3) ein Kleidungsstück od
 festziehen: Material/Construction 2/3/Goal 2/aut/con
 Begründung: Der Akteur verfügt über (2) und bewegt (3) Bauteile oder Verbindungselemente, um einen gewünschten stabilen Zustand bei einer Konstruktion zu erreichen (Goal 2).. Autonom/Konzentrisch.
 
+
 fetchen: Material/IT 3/1/Goal 5/het/ecc
 Begründung: Fetchen bezeichnet im IT-Kontext das Abrufen (3) und Bekommen (1) von Daten oder Informationen von einem Server oder einer Datenbank, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Systeme anpassen muss und die Aktion nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 fetchen: Material/Slang 3/1/Goal 2/het/ecc
 Begründung: In der Jugendsprache/Slang kann 'fetchen' auch bedeuten, etwas zu holen (3) und zu bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2), wobei man sich nach den Umständen richten muss (het) und nach außen orientiert ist (ecc).. Heteronom/Exzentrisch.
 
+
 fetten: Material/Fluids/Process 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt (3) ein Schmiermittel, um es hinzuzufügen (1), mit dem Ziel einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass etwas geschmiert/gefettet ist. Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 fetten: Material/Food/Cooking 2/3/1/Goal 2/Goal 1/aut/ecc
 Begründung: Im Kontext des Kochens bedeutet 'fetten' das selbstbestimmte (aut) Hinzufügen von Fett zu Speisen. Der Akteur verfügt über (2) und bewegt (3) Fett, um es hinzuzufügen (1), mit dem Ziel einen gewünschten Zustand zu erreichen (Goal 2) und letztendlich besser schmeckende, sättigende Nahrung zu erhalten (Goal 1).. Autonom/Exzentrisch.
+
 
 fetzen: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Das Wort 'fetzen' bedeutet in seiner primären Bedeutung, etwas mit einer schnellen, kraftvollen Bewegung (3) zu zerreißen, wobei man eine Wirkung bekommt (1), um einen gewünschten Zustand zu erreichen (Goal 2), und gleichzeitig einen unerwünschten Zustand für den Antagonisten (ein Objekt) bewirkt (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv und bewusst nach außen auf ein Objekt einwirkt.. Autonom/Exzentrisch.
@@ -433,6 +509,7 @@ Begründung: In einer übertragenen Bedeutung kann 'fetzen' auch bedeuten, sich 
 fetzen: Interpersonal/Fight/Dispute 3/1/5/Goal 3//Goal -2/aut/ecc
 Begründung: In einem sozialen Kontext kann 'fetzen' bedeuten, sich verbal aggressiv auszutauschen (3/1/5), um eine Wirkung zu erzielen (Goal 3) und gleichzeitig den Gesprächspartner zu beeinträchtigen (//Goal -2). Beispiel: 'Sie haben sich heftig gefetzt'.. Autonom/Exzentrisch.
 
+
 feuchtmachen: Material/Fluids/Process 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt (3) Flüssigkeit, die auf ein Objekt aufgebracht wird (1), um einen gewünschten Zustand der Feuchtigkeit herzustellen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur eine selbstbestimmte Handlung nach außen durchführt.. Autonom/Exzentrisch.
 
@@ -441,6 +518,7 @@ Begründung: Im Reinigungskontext bedeutet 'feuchtmachen' das Bestimmen über (2
 
 feuchtmachen: Interpersonal/Slang 3/4/1/Goal 3//Goal 3/aut/ecc
 Begründung: In der umgangssprachlichen Bedeutung kann 'feuchtmachen' bedeuten, dass der Akteur durch eine Handlung (3) bei einem Antagonisten (4) eine emotionale Reaktion (1) hervorruft (Goal 3), was wiederum dem eigenen Ziel des Akteurs dient, eine Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
+
 
 feuern: Material/Leadership 2/4//Goal 2/Goal 4/aut/con
 Begründung: Der Akteur bestimmt (2) eine Leistungsbeziehung zu beenden (4), um einen gewünschten Zustand in der Organisation herzustellen (Goal 2) und letztlich geschäftlich erfolgreich zu sein (Goal 4). Der Akteur übt Verfügungsgewalt im eigenen Bereich aus (aut/con).. Autonom/Konzentrisch.
@@ -454,11 +532,13 @@ Begründung: Der Akteur verfügt über (2) und aktiviert ein Heizsystem, das Bew
 feuern: Material/Sports/Training 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) mit hoher Intensität, um eine bestimmte Wirkung (Goal 3) zu erzielen. Im übertragenen Sinne: mit voller Kraft arbeiten. Der Akteur handelt selbstbestimmt mit Auswirkung nach außen (aut/ecc).. Autonom/Exzentrisch.
 
+
 filesharen: Material/IT/Sharing-Economy 2/4/1/5/Goal 5//Goal 2/het/ecc
 Begründung: Beim 'Filesharen' stellt der Akteur Dateien/Inhalte zur Verfügung (2), leistet damit für andere (4) durch Geben (1) von Informationen (5), damit diese informiert sind (Goal 5). Nach dem Wechsel zum Akteur zurück (//), ist dessen Ziel ein gewünschter Zustand - nämlich die Datei zu teilen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die technischen Gegebenheiten des Filesharing-Netzwerks anpassen muss und nach außen auf andere Nutzer gerichtet ist.. Heteronom/Exzentrisch.
 
 filesharen: Material/IT/Communication 2/4/1/5/Goal 5//Goal 5/het/ecc
 Begründung: Im Kontext der Kommunikation bedeutet 'Filesharen' das Verfügbar machen (2) einer Leistung (4) durch Geben (1) von Informationen (5), damit andere informiert sind (Goal 5), mit dem Ziel für den Akteur, Teil eines Informationsaustauschs zu sein (//Goal 5).. Heteronom/Exzentrisch.
+
 
 filmen: Material/Recording 2/3/5/Goal 5/aut/ecc
 Begründung: Filmen bedeutet, mit einer Kamera Bewegtbilder aufzunehmen. Der Akteur verfügt (2) über eine Kamera und bewegt/richtet diese (3), um visuelle Informationen (5) zu erfassen und festzuhalten, mit dem Ziel, informiert zu sein bzw. Informationen zu dokumentieren (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf die zu filmenden Objekte/Situationen gerichtet ist.. Autonom/Exzentrisch.
@@ -466,11 +546,13 @@ Begründung: Filmen bedeutet, mit einer Kamera Bewegtbilder aufzunehmen. Der Akt
 filmen: Material/Film 2/3/5/Goal 5/Goal 4/aut/ecc
 Begründung: Im professionellen Kontext bedeutet filmen, als Kameramann/Kamerafrau im Rahmen einer Filmproduktion tätig zu sein. Der Akteur verfügt (2) über Filmausrüstung, bewegt/positioniert diese (3), um visuelle Informationen zu erfassen (5), mit dem Ziel Informationen zu dokumentieren (Goal 5) und letztlich berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 filtern: Material/Fluids/Process 3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) und untersucht (5) Flüssigkeiten oder andere Materialien, um Informationen oder bestimmte Bestandteile zu gewinnen (Goal 5) und einen gewünschten Zustand herzustellen (Goal 2). Bei diesem Vorgang werden unerwünschte Bestandteile zurückgehalten und nur gewünschte durchgelassen.. Autonom/Exzentrisch.
 
 filtern: Material/IT/Process 3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Im IT-Kontext bedeutet filtern das Bewegen (3) und Untersuchen (5) von Daten, um bestimmte Informationen zu identifizieren (Goal 5) und einen gewünschten Zustand der Daten herzustellen (Goal 2), indem unerwünschte Elemente aussortiert werden.. Autonom/Exzentrisch.
+
 
 filtrieren: Material/Fluids/Process 3/Goal 2/aut/ecc
 Begründung: Durch Bewegen/Anstreben (3) wird ein gewünschter Zustand (Goal 2) erreicht, wobei feste Bestandteile von Flüssigkeiten getrennt werden. Der Akteur bewegt aktiv (autonome Ausrichtung) die Flüssigkeit durch ein Filtermedium, um Verunreinigungen zu entfernen. Das Ergebnis ist ein gereinigter Zustand der Flüssigkeit.. Autonom/Exzentrisch.
@@ -481,11 +563,13 @@ Begründung: Im IT-Kontext bedeutet filtrieren das Bewegen/Anstreben (3) von Inf
 filtrieren: Material/Information 3/5/Goal 5/aut/ecc
 Begründung: Im informationellen Kontext bedeutet filtrieren das Bewegen/Anstreben (3) von Informationen (5), um einen informativen Zustand (Goal 5) zu erreichen. Es werden wichtige von unwichtigen Informationen getrennt.. Autonom/Exzentrisch.
 
+
 filzen: Material/Security 3/5/Goal 5/aut/ecc
 Begründung: Beim 'Filzen' (im Sinne einer Durchsuchung) bewegt/strebt (3) der Akteur nach Informationen (5), um informiert zu sein (Goal 5), ob verbotene/gefährliche Gegenstände vorhanden sind. Der Akteur handelt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da er einen anderen Menschen oder dessen Besitztümer durchsucht.. Autonom/Exzentrisch.
 
 filzen: Material/Textile 3/Goal 2/aut/ecc
 Begründung: In der handwerklichen Bedeutung bedeutet 'filzen' das Bewegen/Bearbeiten (3) von Wolle oder ähnlichen Materialien, um einen gewünschten Zustand (Goal 2) - nämlich Filz - herzustellen. Der Akteur handelt dabei selbstbestimmt (aut) und ist nach außen auf das Material gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 finalisieren: Material/Completion 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit anstrebender Bewegung (3) den Abschluss eines Prozesses oder Projekts, um einen gewünschten Endzustand (Goal 2) zu erreichen. Die Tätigkeit ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt den Prozess zu einem Ende bringt. Finalisieren bedeutet, die letzten Schritte eines Prozesses durchzuführen und ihn damit abzuschließen.. Autonom/Exzentrisch.
@@ -496,11 +580,13 @@ Begründung: Im Kontext von Dokumenten bedeutet finalisieren, ein Dokument in se
 finalisieren: Material/Project 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext bedeutet finalisieren, ein Projekt zum Abschluss zu bringen. Der Akteur bestimmt (2) mit zielgerichteten Handlungen (3) den Abschluss eines Projekts, um einen gewünschten Zustand (Goal 2) zu erreichen und letztendlich berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 finanzieren: Material/Finance 2/4/1/2/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Geld gibt (1), um dem Antagonisten Verfügung über finanzielle Mittel zu ermöglichen (2), damit dieser einen gewünschten Zustand erreichen kann (Goal 2). Durch diese Finanzierung strebt der Akteur auch ein geschäftliches Ziel für sich selbst an, wie Rendite oder Zinsen (//Goal 4).. Autonom/Exzentrisch.
 
 finanzieren: Material/Business 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im allgemeineren geschäftlichen Kontext kann finanzieren auch bedeuten, dass der Akteur bestimmt (2) eine Leistung (4) durch Geben von Geld (1) zu erbringen, damit der Antagonist einen gewünschten Zustand erreicht (Goal 2), während der Akteur selbst einen geschäftlichen Vorteil erzielen will (//Goal 4).. Autonom/Exzentrisch.
+
 
 finden: Material/Search 3/5/1/Goal 5/aut/ecc
 Begründung: Unter 'finden' versteht man das Bewegen/Anstreben (3) nach Informationen (5), um diese in Besitz zu nehmen/zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Suchende selbstbestimmt agiert und sich auf etwas außerhalb seines unmittelbaren Verfügungsbereichs konzentriert.. Autonom/Exzentrisch.
@@ -514,17 +600,20 @@ Begründung: Im zwischenmenschlichen Kontext kann 'finden' (z.B. 'jemanden finde
 finden: Material/Evaluation 3/5/Goal 5/het/ecc
 Begründung: Im Sinne von 'etwas für gut/schlecht befinden' bedeutet 'finden' das geistige Anstreben (3) einer Information (5), um zu einer Einschätzung zu gelangen (Goal 5). Die Handlung ist heteronom, da sie sich nach externen Faktoren richtet.. Heteronom/Exzentrisch.
 
+
 fingern: Interpersonal/Sex 3/1/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) seine Finger und bekommt (1) eine sexuelle Stimulation/Erregung des Empfängers, mit dem Ziel eine Wirkung (Goal 3) beim Partner zu erzielen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
 
 fingern: Material/Music 2/3/Goal 3/aut/con
 Begründung: Im musikalischen Kontext bedeutet 'fingern' die Verfügung (2) über ein Instrument, das durch Fingerbewegungen (3) gespielt wird, um eine bestimmte klangliche Wirkung (Goal 3) zu erzielen. Die Ausrichtung ist autonom/konzentrisch, da der Musiker selbstbestimmt im eigenen Kontrollbereich arbeitet.. Autonom/Konzentrisch.
 
+
 fingieren: Material/Deception 2/3/5/Goal 5/aut/ecc
 Begründung: Beim Fingieren verfügt der Akteur (2) über die Gestaltung von Informationen, bewegt und transformiert sie (3), um Informationen zu vermitteln (5), mit dem Ziel, dass diese als wahr angesehen werden (Goal 5). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur bewusst falsche Informationen für Andere erzeugt.. Autonom/Exzentrisch.
 
 fingieren: Interpersonal/Deception 2/3/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet fingieren, dass der Akteur bestimmt (2), wie er durch Bewegung/Handlung (3) falsche Informationen vermittelt (5), um andere zu täuschen (Goal 5), mit dem ultimativen Ziel, einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
 
 finieren: Material/Professions/Construction 3/Goal 2/aut/ecc
 Begründung: Beim Finieren bewegt/bearbeitet der Akteur (3) ein Objekt durch Feinschliff oder Veredelung, um einen gewünschten Endzustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Aktivität (aut/ecc), da der Akteur aktiv ein außerhalb liegendes Objekt bearbeitet.. Autonom/Exzentrisch.
@@ -535,14 +624,17 @@ Begründung: Im Metallhandwerk bedeutet finieren das abschließende Bearbeiten (
 finieren: Material/Cooking 3/Goal 2/Goal 1/aut/ecc
 Begründung: In der Kochkunst bedeutet finieren die letzte Verfeinerung (3) eines Gerichts durch Zugabe bestimmter Zutaten oder Techniken, um den gewünschten Geschmack (Goal 2) zu erreichen und das Gericht genießbar zu machen (Goal 1).. Autonom/Exzentrisch.
 
+
 fintenchen: Material/Fight/Sports/Training 3/Goal 3/aut/ecc
 Begründung: Eine Finte im Sport ist eine täuschende Bewegung (3), die darauf abzielt, eine bestimmte Wirkung beim Gegner zu erzielen (Goal 3), nämlich ihn in die Irre zu führen. Die Verkleinerungsform 'Fintenchen' bezeichnet eine kleine, spielerische Finte, wie sie besonders im Training eingesetzt wird. Der Akteur führt diese Bewegung selbstbestimmt aus (aut) und richtet sie nach außen auf den Gegner (ecc).. Autonom/Exzentrisch.
 
 fintenchen: Fight/Sport/Fencing 3/Goal 3/aut/ecc
 Begründung: In der Fechtkunst ist ein 'Fintenchen' eine kleine, geschickte Täuschungsbewegung (3), die darauf abzielt, den Gegner zu einer falschen Reaktion zu verleiten (Goal 3). Diese Täuschungsbewegung wird vom Fechter autonom ausgeführt (aut) und ist nach außen auf den Gegner gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 firewallen: Material/IT/Security 2/3/Goal 2//Goal -3/aut/con
 Begründung: Der Akteur verfügt über (2) und steuert die Bewegung (3) von Datenströmen, um einen gewünschten Sicherheitszustand zu erreichen (Goal 2) und gleichzeitig unerwünschte Zugriffe oder Angriffe zu blockieren (//Goal -3). Die Ausrichtung ist autonom und konzentrisch (aut/con), da der Akteur innerhalb seines Kontrollbereichs selbstbestimmt handelt.. Autonom/Konzentrisch.
+
 
 firnen: Material/Weather 3/Goal 2/het/ecc
 Begründung: Der Prozess, bei dem Schnee durch Schmelzen und Wiedergefrieren an der Oberfläche eine harte Kruste bildet. Der Akteur (Schnee) bewegt sich (3) infolge äußerer Temperatureinflüsse, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Prozess von äußeren Faktoren (Temperatur, Sonneneinstrahlung) abhängig ist und an der Außenfläche des Schnees stattfindet.. Heteronom/Exzentrisch.
@@ -550,17 +642,20 @@ Begründung: Der Prozess, bei dem Schnee durch Schmelzen und Wiedergefrieren an 
 firnen: Material/Sports 3/Goal 3/het/ecc
 Begründung: Im Skisport bezeichnet 'firnen' das Fahren auf Firnschnee (körniger, leicht angetauter Schnee). Der Akteur bewegt sich (3) durch den Firnschnee, um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Skifahrer sich an die Beschaffenheit des Schnees anpassen muss und sich nach außen bewegt.. Heteronom/Exzentrisch.
 
+
 fithalten: Material/Sports/Training 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/trainiert (3) seinen Körper, um einen gewünschten Zustand der Fitness zu erreichen und zu erhalten (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf seinen Körper aktiv einwirkt.. Autonom/Exzentrisch.
 
 fithalten: Material/Health 3/Goal 2/aut/ecc
 Begründung: Im Gesundheitskontext bedeutet 'fithalten' das aktive Bewegen und Trainieren (3), um einen gewünschten Gesundheitszustand zu erhalten (Goal 2). Die Aktivität wird selbstbestimmt durchgeführt (aut) und hat eine Wirkung auf den eigenen Körper (ecc).. Autonom/Exzentrisch.
 
+
 fitnessen: Material/Sports/Training 3/Goal 2/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich/trainiert (3) für einen gewünschten körperlichen Zustand (Goal 2) wie Muskelaufbau oder Gewichtsreduktion und um bestimmte körperliche Leistungsfähigkeit zu erreichen (Goal 3). Die Ausrichtung ist autonom (der Akteur entscheidet selbst) und exzentrisch (nach außen gerichtet mit körperlicher Bewegung).. Autonom/Exzentrisch.
 
 fitnessen: Material/Physical/Condition 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich/trainiert (3) gezielt für einen gewünschten körperlichen Gesundheitszustand (Goal 2). Die Ausrichtung ist autonom und exzentrisch.. Autonom/Exzentrisch.
+
 
 fixen: Material/Maintenance 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3), um einen gewünschten Zustand bei einem Objekt zu erreichen (Goal 2). Fixen bedeutet, etwas zu reparieren oder in Ordnung zu bringen, wobei der Akteur selbstbestimmt handelt (aut) und nach außen auf ein Objekt einwirkt (ecc).. Autonom/Exzentrisch.
@@ -570,6 +665,7 @@ Begründung: Im IT-Kontext bedeutet fixen, einen Fehler oder Bug zu beheben. Der
 
 fixen: Material/Dependency 1/3/Goal 1/het/ecc
 Begründung: In der Drogenszene bedeutet fixen, sich eine Droge zu injizieren. Der Akteur bekommt (1) durch eine Bewegung/Anstreben (3) eine Befriedigung (Goal 1), wobei er von der Substanz abhängig ist (het) und nach außen auf seinen Körper einwirkt (ecc).. Heteronom/Exzentrisch.
+
 
 fixieren: Material/Measurement 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit einer Bewegung (3), um einen gewünschten Zustand der Befestigung oder Festlegung zu erreichen (Goal 2). Dabei verfügt der Akteur über das zu fixierende Objekt und führt eine gezielte Bewegung aus, um es in einer bestimmten Position zu befestigen/festzulegen.. Autonom/Exzentrisch.
@@ -583,17 +679,20 @@ Begründung: In der Fotografie bedeutet fixieren das Stabilisieren eines chemisc
 fixieren: Interpersonal/Psychological 3/5/Goal 5/aut/ecc
 Begründung: Im psychologischen Kontext bedeutet fixieren das intensiv und anhaltend Betrachten/Fokussieren auf etwas oder jemanden. Der Akteur bewegt (3) seinen Blick und informiert sich (5), um Kontakt/Information zu gewinnen (Goal 5).. Autonom/Exzentrisch.
 
+
 flackern: Material/Lighting 3/Goal 5/het/ecc
 Begründung: Flackern beschreibt eine unregelmäßige, schwankende Bewegung (3) von Licht, die primär dazu dient, Sichtbarkeit und damit Informationen (Goal 5) zu ermöglichen. Die Bewegung ist heteronome (het), da sie meist von äußeren Faktoren wie Wind oder elektrischen Schwankungen abhängt, und nach außen gerichtet (ecc), da das Licht in die Umgebung strahlt. Der Unterschied zu konstantem Leuchten ist die Unregelmäßigkeit der Bewegung.. Heteronom/Exzentrisch.
 
 flackern: Material/Emotions 3/Goal -3/het/ecc
 Begründung: In übertragener Bedeutung kann 'flackern' einen unsicheren, instabilen Zustand beschreiben, wie 'sein Mut flackerte'. Hier zeigt die Bewegung (3) eine unerwünschte, nicht zielführende Wirkung (Goal -3), die von äußeren Faktoren beeinflusst wird (het) und nach außen sichtbar ist (ecc).. Heteronom/Exzentrisch.
 
+
 flanieren: Material/Leisure/Recreation 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Flanieren bedeutet, gemächlich spazieren zu gehen, meist in der Stadt oder auf Promenaden, wobei man sich bewegt (3) und gleichzeitig die Umgebung betrachtet/wahrnimmt (5), um ein Ziel zu erreichen (Goal 3) und dabei Eindrücke/Informationen aufzunehmen (Goal 5). Die Aktivität ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 flanieren: Material/Social-Activities 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: In seiner sozialen Bedeutung beinhaltet flanieren das zielgerichtete Bewegen (3) und Wahrnehmen (5) in öffentlichen Räumen, um gesehen zu werden und gleichzeitig andere zu sehen. Der Akteur strebt sowohl eine Destination (Goal 3) als auch das Informiertsein über seine Umgebung und soziale Kontexte an (Goal 5).. Autonom/Exzentrisch.
+
 
 flanken: Material/Fight/Strategy 3/Goal 3//Goal -2/aut/ecc
 Begründung: In der militärischen/strategischen Bedeutung bedeutet 'flanken' das Bewegen (3) entlang der Seite eines Gegners, um eine bestimmte Wirkung zu erzielen (Goal 3) und gleichzeitig die Verteidigung oder Position des Gegners zu schwächen (//Goal -2). Die Bewegung erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur aktiv die Flanke des Gegners angreift oder umgeht.. Autonom/Exzentrisch.
@@ -604,6 +703,7 @@ Begründung: Im Fußball bedeutet 'flanken' einen Ball seitlich (von der Flanke)
 flanken: Material/Architecture 2/3/Goal 2/aut/ecc
 Begründung: In der Architektur bedeutet 'flanken', dass ein Element an der Seite eines anderen angebracht wird. Der Akteur bestimmt (2) und bewegt (3) das flankenbildende Element, um einen gewünschten Zustand (Goal 2) zu erreichen. Diese Aktivität ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 flankieren: Material/Military 3/Goal 3//Goal -3/aut/ecc
 Begründung: Flankieren bedeutet, sich (3) um die Seite einer gegnerischen Stellung zu bewegen, um eine bestimmte Wirkung zu erzielen (Goal 3), während man gleichzeitig die Ziele des Gegners bekämpft (//Goal -3). Der Akteur bewegt sich autonom (aut) in Relation zur äußeren Umwelt (ecc), um die gegnerische Flanke anzugreifen oder zu umgehen und damit ihre strategische Position zu schwächen.. Autonom/Exzentrisch.
 
@@ -613,11 +713,13 @@ Begründung: In einer strategischen Bedeutung bedeutet flankieren, zu bestimmen 
 flankieren: Material/Position 3/Goal 2/aut/ecc
 Begründung: Im architektonischen oder räumlichen Sinne bedeutet flankieren, sich an der Seite eines Objekts oder Gebäudes zu bewegen/positionieren (3), um eine bestimmte räumliche Anordnung oder Zustand zu erreichen (Goal 2), ohne antagonistische Komponente.. Autonom/Exzentrisch.
 
+
 flanschen: Material/Construction 3/2/Goal 2/aut/ecc
 Begründung: Beim Flanschen werden Bauteile (Rohre, Platten) durch Bewegung (3) miteinander verbunden, damit der Akteur über einen gewünschten Zustand (2/Goal 2) verfügen kann. Der Akteur bewegt die Teile und verbindet sie eigenständig (aut) mit einer Ausrichtung nach außen auf diese Objekte (ecc).. Autonom/Exzentrisch.
 
 flanschen: Material/Metalworking 3/2/Goal 2/aut/ecc
 Begründung: In der Metallverarbeitung bedeutet Flanschen das Verbinden von Teilen mittels einer speziellen Metalleinfassung (Flansch). Der Akteur führt die Bewegung (3) aus, um über die beiden verbundenen Teile als Einheit verfügen zu können (2/Goal 2).. Autonom/Exzentrisch.
+
 
 flashen: Material/IT 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über die Steuerungsmöglichkeit und führt eine Bewegung/Transformation durch (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine neue Software/Firmware auf ein elektronisches Gerät zu übertragen. Die Ausrichtung ist autonom (selbstbestimmt) und exzentrisch (nach außen auf das Gerät gerichtet).. Autonom/Exzentrisch.
@@ -631,6 +733,7 @@ Begründung: Der Akteur verfügt (2) über eine Lichtquelle, bewegt/aktiviert si
 flashen: Interpersonal/Slang 3/1/Goal 3/het/ecc
 Begründung: Im Slang-Kontext: Der Akteur ist bewegt/beeindruckt (3) und bekommt (1) eine starke Wirkung (Goal 3), etwa durch Drogen oder ein intensives Erlebnis. Die Ausrichtung ist heteronom (von außen bestimmt) und exzentrisch (auf die Umwelt bezogen).. Heteronom/Exzentrisch.
 
+
 flattern: Material/Physical 3/Goal 3/aut/ecc
 Begründung: Beim Flattern bewegt sich (3) etwas wiederholt und unregelmäßig hin und her, um eine bestimmte Wirkung zu erzielen oder ein Ziel zu erreichen (Goal 3). Dies ist eine autonome Bewegung nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
@@ -643,6 +746,7 @@ Begründung: Im Kontext von Tieren, insbesondere Vögeln, beschreibt 'flattern' 
 flattern: Interpersonal/Psychological 3/Goal -3/het/ecc
 Begründung: In psychologischer Hinsicht kann 'flattern' auch nervöses, unentschlossenes Verhalten beschreiben, bei dem eine Person hastige, unkoordinierte Bewegungen macht (3), die zu einer Beeinträchtigung der eigenen Wirksamkeit führen (Goal -3), ohne dies kontrollieren zu können (het/ecc).. Heteronom/Exzentrisch.
 
+
 flechten: Material/Textile 3/Goal 2/aut/ecc
 Begründung: Beim Flechten bewegt/bearbeitet (3) der Akteur verschiedene Fäden, Streifen oder andere flexible Materialien in einer bestimmten Weise, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich ein geflochtenes Muster oder Objekt wie einen Korb, Zopf oder eine Matte. Es ist eine autonome, nach außen gerichtete Aktivität (aut/ecc), da der Akteur aktiv Material bearbeitet, das sich außerhalb seines Kontrollbereichs befindet.. Autonom/Exzentrisch.
 
@@ -652,11 +756,13 @@ Begründung: Im Kontext der Haarpflege bedeutet Flechten das Bewegen und Anordne
 flechten: Material/Crafts 3/Goal 2/Goal 4/aut/ecc
 Begründung: Als handwerkliche Berufstätigkeit beinhaltet Flechten das Bewegen/Bearbeiten (3) von Materialien zur Herstellung (Goal 2) von Korbwaren oder anderen geflochtenen Produkten mit dem Endziel, dafür Anerkennung oder Bezahlung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 flehen: Interpersonal/Request 3/1/Goal 2/het/ecc
 Begründung: Flehen ist ein intensives, dringendes Bitten, bei dem der Akteur mit einer bewegenden (3) Anfrage auf den Antagonisten zugeht und etwas bekommen (1) möchte, um einen gewünschten Zustand zu erreichen (Goal 2). Es ist heteronom (het), da der Akteur sich in einer abhängigen Position befindet und sich den Bedingungen des Antagonisten anpasst, und exzentrisch (ecc), da es auf den Antagonisten ausgerichtet ist.. Heteronom/Exzentrisch.
 
 flehen: Interpersonal/Religious 3/1/Goal 2/het/ecc
 Begründung: Im religiösen Kontext bedeutet flehen ein intensives Beten oder Bitten zu einer höheren Macht. Der Akteur wendet sich (3) mit einem Gesuch an Gott oder eine andere spirituelle Instanz und bittet um etwas zu bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2). Es ist heteronom (het), da sich der Bittende der höheren Macht unterordnet, und exzentrisch (ecc), da es nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
 
 flexen: Material/Metalworking 3/Goal 2/aut/ecc
 Begründung: Beim Flexen bewegt der Akteur (3) ein Werkzeug (Winkelschleifer/Flex), um einen bestimmten Zustand des Materials herzustellen (Goal 2), wie Durchtrennen, Schleifen oder Bearbeiten von Metall. Es handelt sich um eine autonome (aut) und nach außen gerichtete (ecc) Aktivität.. Autonom/Exzentrisch.
@@ -667,6 +773,7 @@ Begründung: Im Slang bedeutet 'flexen' das Zur-Schau-Stellen (3/5) von Besitzt�
 flexen: Material/Physical 2/3/Goal 2/aut/con
 Begründung: In Bezug auf Muskeln bedeutet 'flexen' das kontrollierte (2) Anspannen und Bewegen (3) der Muskulatur, um einen gewünschten Spannungszustand (Goal 2) zu erreichen. Es ist autonom (aut) und konzentrisch (con), da es im eigenen Körperbereich stattfindet.. Autonom/Konzentrisch.
 
+
 flexibilisieren: Material/Adaptation 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) mit Bewegung/Veränderung (3), um einen gewünschten anpassungsfähigeren Zustand zu erreichen (Goal 2). Es geht darum, etwas weniger starr zu gestalten, damit es sich besser an veränderte Anforderungen anpassen kann. Die Ausrichtung ist autonom/exzentrisch, da der Akteur eigenständig (aut) die Veränderung an einem äußeren Objekt vornimmt (ecc).. Autonom/Exzentrisch.
 
@@ -676,11 +783,13 @@ Begründung: Im geschäftlichen Kontext bestimmt der Akteur (2) eine Veränderun
 flexibilisieren: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Im organisatorischen Kontext bestimmt der Akteur (2) eine Veränderung von Strukturen oder Prozessen (3), um einen gewünschten anpassungsfähigeren Zustand (Goal 2) zu erreichen. Beispiel: Organisationsstrukturen flexibilisieren, um schneller auf Marktveränderungen reagieren zu können.. Autonom/Exzentrisch.
 
+
 flicken: Material/Maintenance 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/transformiert (3) ein defektes Objekt, um einen gewünschten Zustand (Goal 2) wiederherzustellen. Beim Flicken wird ein schadhafter Gegenstand durch eigene Handarbeit (autonom) repariert, wobei die Tätigkeit nach außen (eccentric) auf das zu reparierende Objekt gerichtet ist.. Autonom/Exzentrisch.
 
 flicken: Material/Professions/Tailoring 3/Goal 2/aut/ecc
 Begründung: Im speziellen Kontext der Schneiderei/Textilarbeit bedeutet flicken das Ausbessern von Kleidungsstücken durch Annähen von Stoffstücken. Der Akteur bewegt/transformiert (3) ein beschädigtes Textil, um einen gewünschten Zustand (Goal 2) wiederherzustellen.. Autonom/Exzentrisch.
+
 
 fliegen: Material/Aviation 2/3/Goal 3/aut/ecc
 Begründung: Der Akteur verfügt über (2) ein Flugzeug oder ähnliches Fluggerät und bewegt es (3), um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom, da der Akteur die Kontrolle ausübt, und exzentrisch, da die Bewegung nach außen in die Umwelt gerichtet ist.. Autonom/Exzentrisch.
@@ -694,6 +803,7 @@ Begründung: Im Sinne von 'durch die Luft fliegen' als nicht-selbstgesteuerter P
 fliegen: Material/Fight/Aggression 2/1/Goal -2/het/ecc
 Begründung: Im Sinne von 'rausgeworfen werden/fliegen'. Der Akteur bekommt (1) einen unerwünschten Zustand (Goal -2), nämlich den Verlust des Verfügens (2). Die Ausrichtung ist heteronom, da der Akteur die Kontrolle verliert, und exzentrisch, weil er nach außen bewegt wird.. Heteronom/Exzentrisch.
 
+
 fliehen: Material/Fight/Defense 3/Goal 2/Goal 3/het/ecc
 Begründung: Fliehen bedeutet, dass der Akteur sich bewegt (3) mit dem Ziel, einen gewünschten Zustand der Sicherheit zu erreichen (Goal 2) und eine Destination zu erreichen (Goal 3), wobei der Akteur sich an die Umstände anpassen muss (het) und nach außen gerichtet handelt (ecc). Die Bewegung erfolgt aus einer Gefahrensituation heraus und die Ausrichtung ist heteronom, da der Akteur auf externe Bedrohungen reagiert.. Heteronom/Exzentrisch.
 
@@ -703,8 +813,10 @@ Begründung: In einem allgemeineren Kontext bedeutet fliehen, dass der Akteur si
 fliehen: Interpersonal/Avoidance 3/Goal 2//Goal -1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet fliehen, dass der Akteur sich bewegt (3), um einen gewünschten Zustand der Distanz zu erreichen (Goal 2) und sich einer unerwünschten Nähe zu entziehen (//Goal -1). Dies bezieht sich auf das Meiden sozialer Interaktionen oder Beziehungen.. Heteronom/Exzentrisch.
 
+
 fliesen: Material/Professions/Construction 3/Goal 2/aut/ecc
 Begründung: Beim Fliesen bewegt (3) der Akteur Fliesen, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine Oberfläche zu bedecken. Es handelt sich um eine autonome, nach außen gerichtete Tätigkeit, da der Akteur selbstbestimmt (aut) an Objekten außerhalb seines Körpers (ecc) arbeitet. Die Tätigkeit findet im Baugewerbe statt, daher die Construction-Area.. Autonom/Exzentrisch.
+
 
 fließen: Material/Fluids/Process 3/Goal 3/het/ecc
 Begründung: Das Verb 'fließen' beschreibt die Bewegung (3) einer Flüssigkeit zu einem Ziel hin (Goal 3), wobei die Bewegung heteronomen Gesetzmäßigkeiten folgt (het) und nach außen gerichtet ist (ecc). Die Flüssigkeit bewegt sich aufgrund natürlicher Kräfte wie der Schwerkraft, folgt also äußeren Bedingungen (het) und bewegt sich im Raum (ecc).. Heteronom/Exzentrisch.
@@ -715,6 +827,7 @@ Begründung: Im finanziellen Kontext bedeutet 'fließen', dass Geld sich bewegt 
 fließen: Material/Communication 3/Goal 3/aut/ecc
 Begründung: Im Kontext von Kommunikation kann 'fließen' bedeuten, dass eine Rede oder ein Gespräch ohne Stocken verläuft (3/Goal 3). Hier ist die Bewegung selbstbestimmt (aut) und nach außen gerichtet (ecc). Beispiel: 'Die Worte flossen ihm leicht von den Lippen.'. Autonom/Exzentrisch.
 
+
 flimmern: Material/Lighting 3/5/Goal 5/het/ecc
 Begründung: Flimmern bezeichnet eine schnelle, unregelmäßige Lichtbewegung (3), die dazu dient, Informationen zu übermitteln (5), was zum Informiertsein führt (Goal 5). Die Aktivität ist heteronom/exzentrisch, da der Akteur an externe Bedingungen angepasst ist und nach außen wirkt.. Heteronom/Exzentrisch.
 
@@ -724,11 +837,13 @@ Begründung: Als Wahrnehmungsstörung bedeutet flimmern, dass jemand ungewollt v
 flimmern: Material/IT 3/5/Goal -5/het/ecc
 Begründung: Bei elektronischen Displays bedeutet flimmern eine störende Bewegung (3) bei der Informationsdarstellung (5), die zu einer beeinträchtigten Informationsaufnahme führt (Goal -5). Diese Störung ist heteronom/exzentrisch, da sie nicht beabsichtigt ist und von externen Faktoren abhängt.. Heteronom/Exzentrisch.
 
+
 flirten: Interpersonal/Relationship 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Beim Flirten bewegt sich der Akteur (3) in Bezug auf einen anderen Menschen und sucht Kontakt (5), um eine attraktive Wirkung zu erzielen (Goal 3) und Kontakt herzustellen bzw. zu verstärken (Goal 5). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf den Antagonisten zugeht.. Autonom/Exzentrisch.
 
 flirten: Interpersonal/Sex 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: In einem explizit erotischen Kontext beinhaltet Flirten die gleiche Grundstruktur, jedoch mit stärkerer sexueller Komponente. Der Akteur geht auf jemanden zu (3) und sucht Kontakt (5), um eine erotische Wirkung (Goal 3) zu erzielen und einen potenziell intimen Kontakt anzubahnen (Goal 5).. Autonom/Exzentrisch.
+
 
 flitzen: Material 3/Goal 3/aut/ecc
 Begründung: Flitzen bedeutet, sich sehr schnell zu bewegen (3) mit dem Ziel, eine Destination zu erreichen oder eine Wirkung zu erzielen (Goal 3). Der Akteur bewegt sich autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
@@ -736,11 +851,13 @@ Begründung: Flitzen bedeutet, sich sehr schnell zu bewegen (3) mit dem Ziel, ei
 flitzen: Material/Sports 3/Goal 3/aut/ecc
 Begründung: Im sportlichen Kontext bedeutet flitzen, sich besonders schnell zu bewegen oder zu rennen (3), um ein bestimmtes Ziel zu erreichen (Goal 3), etwa bei einem Wettlauf oder Spiel.. Autonom/Exzentrisch.
 
+
 flottenmanagen: Material/Management 2/3/Goal 2/Goal 4/aut/con
 Begründung: Der Akteur verfügt bestimmend (2) über eine Gruppe von Fahrzeugen (Flotte) und organisiert deren Einsatz und Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem übergeordneten Ziel der geschäftlichen Anerkennung und Vergütung (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Flottenmanger eigenständig entscheidet und sich auf den inneren Bereich seiner Kontrolle konzentriert.. Autonom/Konzentrisch.
 
 flottenmanagen: Material/Logistics 2/3/Goal 3/Goal 4/aut/con
 Begründung: Der Akteur bestimmt (2) über die Bewegung (3) einer Fahrzeugflotte, um optimale Zielausrichtung und Transportwirkung zu erreichen (Goal 3), mit dem übergeordneten Ziel der geschäftlichen Anerkennung und Vergütung (Goal 4).. Autonom/Konzentrisch.
+
 
 fluchen: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Beim Fluchen bewegt sich der Akteur (3) auf einen Antagonisten zu und leistet (4) durch das Geben (1) von negativen Informationen (5) einen Beitrag, der einen unerwünschten Zustand für den Antagonisten bewirken soll (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand der Erleichterung/Spannungsabbau zu erreichen (//Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
@@ -751,6 +868,7 @@ Begründung: Im materiellen Kontext bedeutet Fluchen, dass der Akteur aggressiv 
 fluchen: Material/Religious 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im religiösen Kontext bedeutet Fluchen, dass der Akteur gegen religiöse Normen verstößt (3), indem er bewusst (4) Worte gibt (1/5), die als Beleidigung des Heiligen gelten und einen negativen Zustand erzeugen sollen (Goal -2), um eigene Frustration abzubauen (//Goal 2).. Autonom/Exzentrisch.
 
+
 flüchten: Material/Fight/Defense 3/Goal 2/Goal 3/het/ecc
 Begründung: Der Akteur bewegt sich (3) aktiv weg von einer Gefahr, um einen gewünschten Zustand der Sicherheit zu erreichen (Goal 2) und ein bestimmtes Ziel/eine sichere Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronome und exzentrisch (het/ecc), da der Akteur sich nach äußeren Gegebenheiten richten muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
 
@@ -760,11 +878,13 @@ Begründung: In einem Kampfkontext bedeutet flüchten, dass der Akteur sich bewe
 flüchten: Material/Avoidance 3/Goal 2/het/ecc
 Begründung: Im allgemeineren Kontext der Vermeidung bedeutet flüchten, dass der Akteur sich bewegt (3), um einen gewünschten Zustand (Sicherheit/Distanz) zu erreichen (Goal 2). Die Ausrichtung ist heteronym und exzentrisch, da der Akteur auf externe Umstände reagiert und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
 
+
 flüstern: Interpersonal/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) durch das Geben (1) von Informationen (5) mit dem Ziel, den Antagonisten zu informieren (Goal 5). Nach der Information des Antagonisten (//), erhält der Akteur Anerkennung (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Antagonisten anpasst und nach außen kommuniziert. Bei 'flüstern' wird absichtlich leise gesprochen, um Informationen diskret zu übermitteln.. Heteronom/Exzentrisch.
 
 flüstern: Material/Sound 2/3/Goal 5/het/ecc
 Begründung: In einem nicht-kommunikativen Kontext kann 'flüstern' auch als das Verfügen (2) über die Lautstärke der eigenen Stimme mit gezielter Zurückhaltung der Bewegung (3) verstanden werden, um eine bestimmte akustische Information zu erzeugen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da die Kontrolle nach außen wirkt und sich an die Situation anpasst.. Heteronom/Exzentrisch.
+
 
 fokussieren: Material/Attention 3/5/Goal 5/het/ecc
 Begründung: Beim Fokussieren bewegt und richtet (3) der Akteur seine Aufmerksamkeit gezielt auf bestimmte Informationen (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach äußeren Gegebenheiten ausrichtet und seine Aufmerksamkeit nach außen lenkt.. Heteronom/Exzentrisch.
@@ -774,6 +894,7 @@ Begründung: Im optischen Kontext bedeutet fokussieren das bestimmende (2) Ausri
 
 fokussieren: Material/Management 2/3/Goal 2/aut/ecc
 Begründung: Im Managementkontext bedeutet fokussieren das bestimmende (2) Lenken von Ressourcen oder Aufmerksamkeit (3) auf bestimmte Aspekte, um einen gewünschten Zustand oder ein spezifisches Ergebnis zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt agiert.. Autonom/Exzentrisch.
+
 
 folgen: Material/Dependency 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur erbringt eine Leistung (4) für den Antagonisten, indem er dessen Bestimmungen (2) akzeptiert und sich unterordnet, was zu einem gewünschten Zustand des Antagonisten führt (Goal 2). Nach dem Doppelslash folgt das Ziel des Akteurs, der für seine Unterordnung Anerkennung oder Belohnung (Goal 4) erhält. Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da sich der Akteur an Vorgaben von außen anpasst.. Heteronom/Exzentrisch.
@@ -787,11 +908,13 @@ Begründung: Im logischen Sinne bezeichnet 'folgen' das Erhalten (1) von Informa
 folgen: Material/Time 1/Goal 3/het/ecc
 Begründung: In zeitlicher Bedeutung bedeutet 'folgen' das Bekommen (1) einer Position in einer zeitlichen Abfolge, wobei das Ziel ist, eine bestimmte zeitliche Position (Goal 3) einzunehmen. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da die zeitliche Reihenfolge unveränderlich vorgegeben ist.. Heteronom/Exzentrisch.
 
+
 folgern: Material/Logic 3/5/2/Goal 5/het/ecc
 Begründung: Beim Folgern bewegt (3) der Akteur sich informierend (5) durch Beweisketten und verfügt (2) über Erkenntnisse, um informiert zu sein (Goal 5). Der Akteur ist dabei heteronom und exzentrisch (het/ecc) ausgerichtet, da er sich an externe logische Gesetzmäßigkeiten und Prämissen anpassen muss.. Heteronom/Exzentrisch.
 
 folgern: Material/Argument 3/5/2/Goal 5//Goal 3/het/ecc
 Begründung: In einer Argumentationssituation bewegt (3) der Akteur sich informierend (5) durch Fakten und verfügt (2) über Erkenntnisse, um informiert zu sein (Goal 5) mit dem Ziel, eine überzeugende Wirkung zu erzielen (//Goal 3).. Heteronom/Exzentrisch.
+
 
 foltern: Material/Fight/Aggression 2/3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch aggressive Bewegung/Anstreben (3) eine Leistung (4) zu erbringen, indem er dem Antagonisten Schmerzen gibt (1), die eine negative Wirkung für den Antagonisten haben (Goal -3). Dies dient dem eigenen Ziel des Akteurs (//Goal 2), einen gewünschten Zustand zu erreichen, wie z.B. Informationen zu bekommen oder Kontrolle auszuüben. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -799,11 +922,13 @@ Begründung: Der Akteur bestimmt (2) durch aggressive Bewegung/Anstreben (3) ein
 foltern: Material/Criminal/Activities 2/3/4/1/Goal -3//Goal 5/aut/ecc
 Begründung: In einem kriminellen Kontext bestimmt der Akteur (2) durch aggressive Bewegung (3) eine Leistung zu erbringen (4), indem er dem Antagonisten Schmerzen gibt (1), die eine stark negative Wirkung haben (Goal -3), um Informationen zu erlangen (//Goal 5).. Autonom/Exzentrisch.
 
+
 foppen: Interpersonal/Deception 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Beim Foppen bewegt sich der Akteur (3) auf den Antagonisten zu und leistet (4) ihm etwas, indem er ihm (1) gezielt falsche oder irreführende Informationen gibt (5), die einen unerwünschten Zustand beim Antagonisten bewirken sollen (Goal -2), um dadurch eine bestimmte Wirkung zu erzielen (//Goal 3) - typischerweise die Belustigung des Akteurs auf Kosten des Antagonisten. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
 foppen: Interpersonal/Entertainment 3/4/1/5/Goal 5//Goal 3/aut/ecc
 Begründung: Foppen im harmloseren Sinne des Neckens, bei dem der Akteur (3) dem Antagonisten (4) spielerisch Informationen gibt (1/5), um ihn zu unterhalten (Goal 5), während der Akteur selbst eine amüsante Wirkung (//Goal 3) erzielen möchte. Hier steht nicht die Täuschung mit negativem Zustand im Vordergrund, sondern ein gemeinsamer Spaß.. Autonom/Exzentrisch.
+
 
 forcieren: Material/Fight/Strategy 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Forcieren bedeutet, dass der Akteur durch bestimmendes Einsetzen (2) von verstärktem Druck und Bewegung (3) einen gewünschten Zustand (Goal 2) durchsetzen will und dabei gleichzeitig den Widerstand oder die entgegengesetzte Bewegung des Antagonisten bekämpft (//Goal -3). Die Aktivität ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
@@ -813,6 +938,7 @@ Begründung: Im Verhandlungskontext bedeutet forcieren, dass der Akteur bestimme
 
 forcieren: Material/Competition 3/Goal 3//Goal -3/aut/ecc
 Begründung: Im Wettbewerbskontext bedeutet forcieren, verstärkt zu beschleunigen oder Tempo zu erhöhen (3), um ein Ziel zu erreichen (Goal 3) und dabei die Zielerreichung des Gegners zu verhindern (//Goal -3).. Autonom/Exzentrisch.
+
 
 fordern: Material/Request 2/4/1/5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu fordern, indem er Information gibt (4/1/5), wobei die Leistung nach dem Umschalter wieder seinem eigenen Ziel dient, einen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -826,11 +952,13 @@ Begründung: Im sportlichen Wettkampf bedeutet 'fordern' einen Gegner anstreben/
 fordern: Interpersonal/Leadership 2/4/1/5//Goal 2/aut/ecc
 Begründung: In zwischenmenschlichen Führungssituationen bedeutet 'fordern', dass der Akteur bestimmt (2), dass der Antagonist eine Leistung erbringen soll, indem er eine Mitteilung macht (4/1/5), um seinen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 forecasten: Material/Weather 3/5/2/Goal 5/het/ecc
 Begründung: Beim Forecasten wird durch Bewegung/Anstreben (3) von Informationen (5) und deren Verfügung/Analyse (2) ein Informationszustand erreicht (Goal 5), wobei man sich an externe Gegebenheiten anpassen muss und nach außen gerichtet ist (het/ecc). Es handelt sich um die Vorhersage von Wetterdaten oder anderen Entwicklungen durch die Analyse und Interpretation von Informationen.. Heteronom/Exzentrisch.
 
 forecasten: Material/Business 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Im wirtschaftlichen Kontext bedeutet Forecasten die Analyse (3/5) und Verarbeitung (2) von Daten, um einen Informationszustand zu erreichen (Goal 5) mit dem höheren Ziel, einen gewünschten Geschäftszustand zu realisieren (Goal 2), wobei man sich an externe Faktoren anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
 
 formalisieren: Material/Documentation 2/3/Goal 2/aut/ecc
 Begründung: Formalisieren bedeutet, dass der Akteur bestimmt (2) und durch Bearbeitung/Umgestaltung (3) einen gewünschten Zustand (Goal 2) erreicht, indem er etwas in eine formale, strukturierte Form bringt. Der Akteur verfügt selbstbestimmt (aut) über den Inhalt und richtet seine Aktivität nach außen (ecc), um diesen in eine standardisierte Form zu überführen.. Autonom/Exzentrisch.
@@ -841,17 +969,20 @@ Begründung: Im rechtlichen Kontext bedeutet formalisieren, dass der Akteur best
 formalisieren: Material/Business/Documentation 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet formalisieren, dass der Akteur bestimmt (2) und durch Umgestaltung (3) einen gewünschten Zustand (Goal 2) erreicht, mit dem höheren Ziel der geschäftlichen Anerkennung/Vergütung (Goal 4), indem er Prozesse oder Vereinbarungen in einen offiziellen, dokumentierten Rahmen bringt.. Autonom/Exzentrisch.
 
+
 formaten: Material/IT 3/Goal 2/aut/ecc
 Begründung: Der Akteur bearbeitet (3) einen Datenträger, um einen gewünschten Zustand (Goal 2) herzustellen, nämlich eine bestimmte Strukturierung des Datenträgers. Der Vorgang ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt auf ein externes Objekt (den Datenträger) einwirkt.. Autonom/Exzentrisch.
 
 formaten: Material/Form 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über und bearbeitet (3) ein Objekt, um es in ein bestimmtes Format zu bringen und damit einen gewünschten Zustand (Goal 2) zu erreichen. Dies bezieht sich auf physische Formate wie Papier oder andere Materialien.. Autonom/Exzentrisch.
 
+
 formatieren: Material/IT/Process 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Daten/Speichermedien und transformiert diese durch Bewegen/Bearbeiten (3), um einen gewünschten Zustand (Goal 2) herzustellen, wobei die Daten in eine vorgegebene Struktur/Format gebracht werden. Die Ausrichtung ist autonom/eccentric, weil der Akteur selbstbestimmt handelt und auf externe Objekte einwirkt.. Autonom/Exzentrisch.
 
 formatieren: Material/Document 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über ein Dokument und bearbeitet es durch Bewegung/Anordnung der Elemente (3), um eine bestimmte Gestaltung/Struktur als gewünschten Zustand (Goal 2) zu erreichen. Hierbei werden Text, Bilder oder andere Dokumentelemente in eine bestimmte Form gebracht.. Autonom/Exzentrisch.
+
 
 formen: Material/Creation 3/Goal 2/aut/ecc
 Begründung: Formen bedeutet, durch Bewegung/Anstreben (3) eines Materials einen gewünschten Zustand (Goal 2) herzustellen. Der Akteur bewegt dabei autonom (aut) Material in der Umwelt (ecc), um ihm eine bestimmte Form zu geben.. Autonom/Exzentrisch.
@@ -865,6 +996,7 @@ Begründung: Im Baugewerbe bedeutet Formen das zielgerichtete Bewegen/Anstreben 
 formen: Interpersonal/Influence 3/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet Formen das Einfluss nehmen (3) auf eine Person, um deren Entwicklung in eine gewünschte Richtung (Goal 2) zu lenken.. Autonom/Exzentrisch.
 
+
 formgeben: Material/Form 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Material und bewegt/bearbeitet es (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Bei 'formgeben' bestimmt der Akteur durch Bearbeitung die Gestalt eines Objekts, wobei die Handlung autonom erfolgt und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
@@ -873,6 +1005,7 @@ Begründung: Im handwerklichen oder baulichen Kontext bedeutet 'formgeben', dass
 
 formgeben: Material/Art 2/3/Goal 2/Goal 3/aut/ecc
 Begründung: Im künstlerischen Kontext bedeutet 'formgeben', dass der Künstler verfügt (2) über Material und es bewegt/bearbeitet (3), um einen gewünschten Zustand (Goal 2) zu erreichen, aber auch eine ästhetische Wirkung (Goal 3) zu erzielen.. Autonom/Exzentrisch.
+
 
 formieren: Material/Group 2/3/Goal 2/aut/ecc
 Begründung: Das 'Formieren' bedeutet, dass der Akteur bestimmt/kontrolliert (2) und durch Bewegung (3) einen gewünschten Zustand (Goal 2) erreicht, indem er Personen oder Objekte in eine bestimmte Anordnung oder Formation bringt. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), da er aktiv eine Struktur erschafft.. Autonom/Exzentrisch.
@@ -883,6 +1016,7 @@ Begründung: Im militärischen Kontext bedeutet 'formieren', dass der kommandier
 formieren: Material/Form 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext der Gestaltung bedeutet 'formieren', dass der Akteur bestimmt (2) und durch gezielte Bewegungen (3) Materialien in eine bestimmte Form bringt, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 formulieren: Material/Creative/Writing 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich Informationen (5), damit diese in einer bestimmten Form vorhanden sind (Goal 5), was dem eigenen Ziel dient, einen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur den Formulierungsprozess selbst kontrolliert und nach außen wirkt.. Autonom/Exzentrisch.
 
@@ -891,6 +1025,7 @@ Begründung: Im juristischen Kontext bedeutet formulieren, dass der Akteur besti
 
 formulieren: Material/Scientific 3/5/2/Goal 5/aut/ecc
 Begründung: Im wissenschaftlichen Kontext bedeutet formulieren, mit Bewegung/Anstreben (3) Informationen zu untersuchen (5) und zu verfügen (2), um informiert zu sein oder eine Erkenntnis zu definieren (Goal 5). Hier steht der Erkenntnisprozess im Vordergrund ohne die Leistungskomponente für andere.. Autonom/Exzentrisch.
+
 
 forschen: Material/Scientific 3/5/2/Goal 5/het/ecc
 Begründung: Beim Forschen bewegt/strebt der Akteur (3) nach Informationen (5) und verfügt (2) über diese, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externe Fakten und Gegebenheiten anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
@@ -903,11 +1038,13 @@ Begründung: Forschen bedeutet, dass der Akteur durch aktives Bewegen/Anstreben 
 forschen: Material/Scientific 2/3/5/Goal 5/Goal 4/het/ecc
 Begründung: Im wissenschaftlichen Kontext bedeutet forschen, dass ein Wissenschaftler bestimmend (2) mit aktiver Bewegung (3) Informationen untersucht (5), um Erkenntnisse zu gewinnen (Goal 5) mit dem höheren Ziel der beruflichen Anerkennung (Goal 4). Die Ausrichtung ist heteronom und exzentrisch, da die Forschung von externen Faktoren abhängig ist und nach außen gerichtet.. Heteronom/Exzentrisch.
 
+
 fortbestehen: Material/Persistence 2/Goal 2/aut/con
 Begründung: Das Verb 'fortbestehen' bedeutet, dass ein bestimmter Zustand oder eine Entität weiterhin existiert und erhalten bleibt. Der Akteur verfügt/kontrolliert (2) über einen bestehenden Zustand und erhält diesen aufrecht, um einen gewünschten Zustand der Kontinuität zu realisieren (Goal 2). Die Ausrichtung ist autonom (aut), da es um das aktive Aufrechterhalten geht, und konzentrisch (con), da der Fokus auf dem Innenbereich des Akteurs liegt.. Autonom/Konzentrisch.
 
 fortbestehen: Material/Time 0/2/Goal 2/het/con
 Begründung: In einer zeitbezogenen Interpretation bedeutet 'fortbestehen' auch ein passives Weiterexistieren über eine Zeitspanne hinweg. Hier wartet der Akteur (0) darauf, dass ein bestehender Zustand (2) erhalten bleibt (Goal 2). Die Ausrichtung ist heteronom (het), da der Akteur sich an gegebene Umstände anpasst, und konzentrisch (con), da es sich um einen internen Zustand handelt.. Heteronom/Konzentrisch.
+
 
 fortbewegen: Material/Transportation 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) selbst (autonom) in die Umwelt hinein (eccentric), um eine Destination zu erreichen (Goal 3). Fortbewegen bedeutet die selbstbestimmte Ortsveränderung mit dem Ziel, eine andere Position zu erreichen.. Autonom/Exzentrisch.
@@ -918,17 +1055,20 @@ Begründung: Einen Gegenstand fortbewegen bedeutet, über den Gegenstand zu verf
 fortbewegen: Material/Animal 3/Goal 3/aut/ecc
 Begründung: Bei Tieren: Bewegen (3) durch eigenen Antrieb zu einem Ziel (Goal 3), selbstbestimmt (autonom) in die Umgebung hinein (eccentric).. Autonom/Exzentrisch.
 
+
 fortbilden: Material/Education/Training 2/4/1/5/Goal 5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für Andere zu erbringen (4), indem er Wissen gibt (1/5), damit der Antagonist informiert ist (Goal 5) und dadurch einen verbesserten Zustand erreicht (Goal 2). Letztendlich dient dies dem beruflichen Erfolg des Akteurs (//Goal 4). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur den Lernprozess selbstbestimmt gestaltet und nach außen auf die Lernenden einwirkt.. Autonom/Exzentrisch.
 
 fortbilden: Material/Education 4/1/5/Goal 5/Goal 2//Goal 2/Goal 4/het/ecc
 Begründung: Sich selbst fortbilden: Der Akteur leistet (als Teilnehmer einer Fortbildung) die Aufnahme (4/1) von Informationen (5), um informiert zu sein (Goal 5) und einen verbesserten beruflichen Zustand zu erreichen (Goal 2). Letztlich dient dies dem eigenen beruflichen Erfolg und der Anerkennung (//Goal 2/Goal 4). Die Ausrichtung ist heteronom und nach außen gerichtet (het/ecc), da der Akteur sich an vorgegebene Lernstrukturen anpasst.. Heteronom/Exzentrisch.
 
+
 fortdauern: Material/Persistence 0/Goal 2/het/ecc
 Begründung: Fortdauern bedeutet, dass ein Zustand bestehen bleibt oder weiterhin existiert. Der Akteur wartet passiv (0) darauf, dass ein bestimmter Zustand (Goal 2) erhalten bleibt. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an die gegebenen Umstände anpasst und der Prozess nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 fortdauern: Material/Time 3/Goal 2/het/ecc
 Begründung: In zeitlicher Hinsicht kann fortdauern auch als aktives Weitergehen/Fortbestehen interpretiert werden, wobei die Bewegung/das Anstreben (3) auf die Aufrechterhaltung eines Zustands (Goal 2) abzielt. Auch hier ist die Ausrichtung heteronom/exzentrisch (het/ecc), da der Akteur von äußeren Faktoren abhängig ist.. Heteronom/Exzentrisch.
+
 
 fortentwickeln: Material/Process 3/2/Goal 2/aut/ecc
 Begründung: Fortentwickeln bedeutet, dass der Akteur bestehende Strukturen (2) durch Bewegung/Anstreben (3) weiter ausbildet und verändert, um einen verbesserten Zustand zu erreichen (Goal 2). Der Akteur bewegt/transformiert (3) etwas unter seiner Kontrolle (2) zu einem qualitativ besseren Zustand (Goal 2).. Autonom/Exzentrisch.
@@ -939,6 +1079,7 @@ Begründung: Im wissenschaftlichen Kontext bedeutet fortentwickeln, bestehende T
 fortentwickeln: Interpersonal/Development 3/2/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet fortentwickeln, dass eine Person oder Gruppe durch bewusste Anstrengungen (3) bestehende Beziehungsstrukturen oder persönliche Eigenschaften (2) verbessert, um einen gewünschten fortgeschrittenen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 fortfahren: Material/Process 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3), um eine Destination/Wirkung zu erreichen (Goal 3), mit einer autonomen, nach außen gerichteten Ausrichtung. 'Fortfahren' bedeutet, eine begonnene Aktivität weiterzuführen oder fortzusetzen, wobei der Akteur selbstbestimmt (aut) den Prozess fortsetzt, mit der Intention, den Vorgang zu seinem Ziel zu bringen.. Autonom/Exzentrisch.
 
@@ -947,6 +1088,7 @@ Begründung: Im Kontext von Fahrzeugen bedeutet 'fortfahren' weiterzufahren, wob
 
 fortfahren: Material/Persistence 3/Goal 2/aut/ecc
 Begründung: In bestimmten Kontexten betont 'fortfahren' die Aufrechterhaltung eines gewünschten Zustands. Der Akteur bewegt/strebt an (3), um einen gewünschten Zustand zu realisieren oder aufrechtzuerhalten (Goal 2), mit einer autonomen, nach außen gerichteten Ausrichtung.. Autonom/Exzentrisch.
+
 
 fortführen: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über einen bereits bestehenden Prozess und bewegt/treibt diesen weiter voran (3), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Aktivität nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -957,6 +1099,7 @@ Begründung: Im geschäftlichen Kontext bestimmt der Akteur (2) über einen bere
 fortführen: Material/Leadership 2/3/Goal 2/aut/ecc
 Begründung: In einer Führungsposition bestimmt der Akteur (2) über bereits laufende Projekte oder Aktivitäten und setzt deren Fortführung in Bewegung (3), um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 fortgehen: Material/Navigation 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) autonom und nach außen gerichtet, mit dem Ziel, eine Destination zu erreichen bzw. sich von einem Ausgangspunkt zu entfernen (Goal 3). Es handelt sich um eine zielgerichtete Bewegung weg von einem Ort.. Autonom/Exzentrisch.
 
@@ -965,6 +1108,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet 'fortgehen' sich von einer
 
 fortgehen: Material/Social 3/1/Goal 3/aut/ecc
 Begründung: Im gesellschaftlichen Kontext kann 'fortgehen' auch bedeuten, zu einer Veranstaltung zu gehen. Der Akteur bewegt sich (3) und erreicht (1) ein Ziel (Goal 3), wobei er eine soziale Destination anstrebt.. Autonom/Exzentrisch.
+
 
 fortnehmen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) einen Gegenstand, um ihn in Besitz zu bekommen (1), mit dem Ziel einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein Objekt im Außenbereich zugreift und es entfernt.. Autonom/Exzentrisch.
@@ -975,6 +1119,7 @@ Begründung: In einem konfrontativen Kontext: Der Akteur bewegt sich (3) zu eine
 fortnehmen: Material/Theft 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Im Sinne von stehlen/entwenden: Der Akteur bewegt sich (3) zu einem Objekt und nimmt es in Besitz (1), um einen gewünschten Zustand zu erreichen (Goal 2), wobei dem Antagonisten (Besitzer) der gewünschte Besitzzustand genommen wird (//Goal -2).. Autonom/Exzentrisch.
 
+
 fortschicken: Material/Transportation 2/4/3/Goal 3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er eine Bewegung veranlasst (3), damit der Antagonist ein Ziel erreicht (Goal 3). Nach dem Umschalter // folgt das Ziel des Akteurs: einen gewünschten Zustand zu erreichen (Goal 2), nämlich dass die Person oder Sache weg ist. Der Akteur kontrolliert den Vorgang (aut) und richtet sich nach außen (ecc).. Autonom/Exzentrisch.
 
@@ -983,6 +1128,7 @@ Begründung: In der Bedeutung des Verschickens von Objekten/Sendungen bestimmt d
 
 fortschicken: Interpersonal 2/3/Goal 2//Goal -5/aut/ecc
 Begründung: In der zwischenmenschlichen Bedeutung von 'wegschicken/abweisen' bestimmt der Akteur (2) durch seine Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), der gegen das Kontaktziel des Antagonisten gerichtet ist (//Goal -5). Der Akteur kontrolliert die Situation autonom und wirkt nach außen.. Autonom/Exzentrisch.
+
 
 fortsetzen: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über einen Prozess und führt die Bewegung/das Anstreben (3) fort, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt eine Aktivität in die Außenwelt hinein fortsetzt.. Autonom/Exzentrisch.
@@ -993,11 +1139,13 @@ Begründung: Im Kontext der Aufgabenbearbeitung bedeutet 'fortsetzen' das verfü
 fortsetzen: Material/Time 2/3/Goal 2/Goal 3/aut/ecc
 Begründung: Im zeitlichen Kontext bedeutet 'fortsetzen' das bestimmende (2) Weiterführen eines Prozesses (3) mit dem Ziel, sowohl einen gewünschten Zustand beizubehalten (Goal 2) als auch ein definiertes Ziel zu erreichen (Goal 3).. Autonom/Exzentrisch.
 
+
 fotografieren: Material/Photography 3/5/2/Goal 5/het/ecc
 Begründung: Der Akteur bewegt (3) sich und sucht nach Informationen (5), um diese verfügbar zu machen (2), mit dem Ziel, informiert zu sein bzw. Informationen festzuhalten (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Gegebenheiten anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 fotografieren: Material/Professional 3/5/2/Goal 5/Goal 4/het/ecc
 Begründung: Als berufliche Tätigkeit beinhaltet Fotografieren das Bewegen (3), Informationen sammeln (5) und diese verfügbar machen (2), mit dem Ziel Informationen festzuhalten (Goal 5) und letztendlich Anerkennung/Bezahlung zu erhalten (Goal 4).. Heteronom/Exzentrisch.
+
 
 fotokopieren: Material/Office 2/3/5/Goal 5/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) über ein Gerät und bewegt (3) ein Original, um durch einen technischen Vorgang eine Kopie mit Informationen (5) zu erstellen, damit er informiert ist bzw. über die Informationen verfügen kann (Goal 5). Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Aktivität nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -1005,217 +1153,17 @@ Begründung: Der Akteur verfügt/kontrolliert (2) über ein Gerät und bewegt (3
 fotokopieren: Material/Documentation 2/3/5/Goal 5/Goal 2/aut/ecc
 Begründung: In dokumentarischem Kontext verfügt/kontrolliert der Akteur (2) über ein Kopiergerät und bewegt (3) ein Dokument, um Informationen (5) zu reproduzieren, mit dem Ziel informiert zu sein (Goal 5) und einen gewünschten Dokumentenzustand (Goal 2) zu erreichen, z.B. für Archivierung oder Verteilung.. Autonom/Exzentrisch.
 
+
 foulen: Material/Fight/Sports/Ball-Game 3/Goal 3//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt/strebt (3) mit dem Ziel, eine Wirkung zu erzielen (Goal 3), bekämpft dabei aber den gewünschten Zustand des Antagonisten (//Goal -2). Ein Foul im Sport ist eine regelwidrige Aktion, bei der ein Spieler mit seiner Bewegung einen anderen behindert oder stoppt und damit dessen Spielziel verhindert. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf einen Antagonisten einwirkt.. Autonom/Exzentrisch.
 
-fragen: Material/Information 3/1/Goal 5/het/ecc
-Begründung: Beim Fragen bewegt sich der Akteur (3) auf einen Antagonisten zu, um von diesem Informationen zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von externen Informationsquellen abhängig ist und sich nach außen orientiert.. Heteronom/Exzentrisch.
-
-fragen: Material/Request 3/1/Goal 2/het/ecc
-Begründung: Im Sinne von 'um etwas bitten/ersuchen' bewegt sich der Akteur (3) auf einen Antagonisten zu, um etwas zu bekommen (1), mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
-
-fragen: Interpersonal/Communication 3/5/Goal 5/het/ecc
-Begründung: Im zwischenmenschlichen Kontext bedeutet Fragen, dass der Akteur Kontakt aufnimmt (3/5), um eine Verbindung herzustellen und Informationen auszutauschen (Goal 5).. Heteronom/Exzentrisch.
-
-fragmentieren: Material/Process 3/Goal 2/aut/ecc
-Begründung: Der Akteur bewegt/bearbeitet (3) ein Objekt, um es in kleinere Teile zu zerlegen und damit einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
-
-fragmentieren: Material/Analysis 3/5/Goal 5/aut/ecc
-Begründung: Im analytischen Kontext bedeutet fragmentieren, Daten oder Informationen aufzuteilen (3) und zu untersuchen (5), um ein besseres Verständnis zu erlangen (Goal 5). Diese Bedeutung bezieht sich auf die Zerlegung von Informationen zur Analyse.. Autonom/Exzentrisch.
-
-fragmentieren: Material/IT 3/Goal -2/het/ecc
-Begründung: Im IT-Kontext bezeichnet Fragmentierung einen unerwünschten Prozess, bei dem Daten ungeordnet gespeichert werden, was zu einem ungewünschten Zustand (Goal -2) führt. Dies geschieht heterogen (het), da der Akteur (das System) sich an vorgegebene Strukturen anpassen muss.. Heteronom/Exzentrisch.
-
-framen: Material/Media 2/4/1/5/Goal 5//Goal 2/aut/ecc
-Begründung: Der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er eine Information gibt (1/5), damit der Antagonist informiert ist (Goal 5), wobei der Akteur durch die bestimmte Darstellung/Rahmung einen gewünschten Zustand erreicht (//Goal 2) - nämlich die Wahrnehmung in eine bestimmte Richtung zu lenken.. Autonom/Exzentrisch.
-
-framen: Material/Photography 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt (2) über ein Bild/Foto und bewegt/platziert (3) es in einen Rahmen, um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich das Bild zu rahmen/einzurahmen.. Autonom/Exzentrisch.
-
-framen: Material/IT/Communication 2/3/5/Goal 5/aut/ecc
-Begründung: Der Akteur bestimmt (2) und bearbeitet (3) Informationen (5), um diese in eine bestimmte Form oder Struktur zu bringen und damit informiert zu sein oder zu informieren (Goal 5) - im Sinne der Nachrichtentechnik/Datenübertragung.. Autonom/Exzentrisch.
-
-franchisen: Material/Business 2/4/1/5/Goal 2//Goal 4/aut/ecc
-Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Geschäftskonzepte, Markenrechte und Know-how (1/5) an einen Franchisenehmer gibt, damit dieser einen gewünschten Zustand erreicht (Goal 2). Nach dem Umschalter folgt das eigene Ziel des Franchisegebers, nämlich Geld und Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und seine Wirkung nach außen trägt.. Autonom/Exzentrisch.
-
-frankieren: Material/Postal 2/4/1/Goal 2//Goal 4/aut/ecc
-Begründung: Der Akteur bestimmt (2) eine Leistung (4) für den Postdienst zu erbringen, indem er Wertmarken/Porto gibt/bezahlt (1), damit ein gewünschter Zustand der Beförderungsfähigkeit für die Sendung eintritt (Goal 2 vor //). Nach Erfüllung dieser Leistung erhält der Akteur Anerkennung und ggf. Bezahlung im geschäftlichen Kontext (//Goal 4).. Autonom/Exzentrisch.
-
-frankieren: Material/Business/Documentation 2/4/1/5/Goal 2//Goal 4/aut/ecc
-Begründung: In einem geschäftlichen Kontext bestimmt der Akteur (2) eine Leistung (4) zu erbringen, indem er bezahlt/Geld gibt (1) und die Sendung mit einer Information (5) kennzeichnet, wodurch ein gewünschter Zustand der korrekten Abrechnung/Dokumentation erreicht wird (Goal 2). Dies dient dem Ziel, Anerkennung oder Bezahlung für die korrekte Dokumentation zu erhalten (//Goal 4).. Autonom/Exzentrisch.
-
-freelancen: Material/Business 2/4//Goal 2/Goal 4/aut/ecc
-Begründung: Der Akteur bestimmt/kontrolliert (2) eigenständig seine Leistungserbringung für verschiedene Auftraggeber (4), um einen gewünschten Zustand der beruflichen Selbstständigkeit zu erreichen (Goal 2) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Die autonome, nach außen gerichtete Ausrichtung (aut/ecc) zeigt, dass der Freelancer selbstbestimmt entscheidet und seine Leistungen verschiedenen Kunden aktiv anbietet.. Autonom/Exzentrisch.
-
-freelancen: Material/Career 2/4//Goal 2/Goal 4/aut/ecc
-Begründung: Im Kontext der Karriereentwicklung bedeutet freelancen, dass der Akteur selbstbestimmt (2) Leistungen für verschiedene Auftraggeber (4) erbringt, um einen unabhängigen Berufsstatus zu erreichen (Goal 2) und davon finanziell zu leben (Goal 4).. Autonom/Exzentrisch.
-
-freien: Interpersonal 3/1/Goal 3/Goal 1/aut/ecc
-Begründung: Der Akteur bewegt sich (3) auf einen potenziellen Partner zu, um (1) in eine Nähebeziehung zu kommen, mit dem Ziel eine Wirkung zu erzielen (Goal 3) und letztendlich Nähe zu gewinnen (Goal 1). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf den anderen zugeht.. Autonom/Exzentrisch.
-
-freien: Interpersonal/Relationship 3/1/Goal 1/Goal 2/aut/ecc
-Begründung: Im Kontext des Werbens um eine Person mit dem Ziel einer Partnerschaft/Ehe bewegt sich der Akteur (3) auf einen potenziellen Partner zu, um Nähe (Goal 1) und einen dauerhaften Beziehungszustand (Goal 2) zu erreichen. Der Fokus liegt hier stärker auf dem Ziel einer formalen Bindung.. Autonom/Exzentrisch.
-
-freigeben: Material/Authorization 2/4/1/Goal 2//Goal 2/aut/con
-Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen, indem er etwas gibt/überträgt (4/1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2 vor //), wobei dies gleichzeitig dem eigenen Ziel des Akteurs dient, einen gewünschten Zustand zu erreichen (Goal 2 nach //). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt über etwas verfügt, das in seinem Machtbereich liegt.. Autonom/Konzentrisch.
-
-freigeben: Material/Control 2/4/1/Goal 2//Goal 3/aut/con
-Begründung: Im Kontext von Bewegung/Verkehr bedeutet freigeben, dass der Akteur bestimmt (2), eine Leistung zu erbringen, indem er etwas gibt/überträgt (4/1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), wobei dies dem eigenen Ziel des Akteurs dient, eine Wirkung/Bewegung zu ermöglichen (Goal 3 nach //).. Autonom/Konzentrisch.
-
-freigeben: Material/IT/Security 2/4/1/5/Goal 5//Goal 2/aut/con
-Begründung: Im IT-Kontext bedeutet freigeben, dass der Akteur bestimmt (2), eine Leistung zu erbringen, indem er Zugang gibt (4/1) zu Informationen (5), damit der Antagonist informiert ist/Zugriff hat (Goal 5), was dem eigenen Ziel des Akteurs dient, einen gewünschten Systemzustand zu erreichen (Goal 2).. Autonom/Konzentrisch.
-
-freilassen: Material/Fight/Aggression 4/1/Goal 2/aut/ecc
-Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm Freiheit gibt (1), damit der Antagonist über seinen Zustand verfügen kann (Goal 2). Dies ist eine autonome, nach außen gerichtete Handlung, bei der der Akteur die Freiheit eines vorher in seiner Macht befindlichen Antagonisten ermöglicht.. Autonom/Exzentrisch.
-
-freilassen: Material/Criminal 4/1/Goal 2/aut/ecc
-Begründung: Im strafrechtlichen Kontext bedeutet freilassen, dass der Akteur (z.B. Behörde oder Gefängniswärter) eine Leistung für den Antagonisten erbringt (4), indem er ihm die Freiheit gibt (1), damit der Antagonist wieder über seinen eigenen Zustand verfügen kann (Goal 2).. Autonom/Exzentrisch.
-
-freilassen: Interpersonal/Control 4/1/Goal 2/aut/ecc
-Begründung: In zwischenmenschlichen Beziehungen bedeutet freilassen, dass der Akteur eine Leistung erbringt (4), indem er dem Antagonisten Freiheit gibt (1), damit dieser über seinen eigenen Zustand und seine Handlungen selbst bestimmen kann (Goal 2).. Autonom/Exzentrisch.
-
-freisprechen: Material/Law/Court 2/4/1/Goal 2//Goal 2/aut/ecc
-Begründung: Freisprechen bedeutet, dass ein Richter (2) eine Leistung für den Angeklagten erbringt (4), indem er ihm einen Zustand der Freiheit/Unschuld gibt (1/Goal 2), was auch dem Ziel des Richters entspricht, wenn er von der Unschuld überzeugt ist (//Goal 2). Die Ausrichtung ist autonom (der Richter hat die Entscheidungsgewalt) und exzentrisch (nach außen auf den Angeklagten gerichtet).. Autonom/Exzentrisch.
-
-freisprechen: Material/IT/Communication 2/4/Goal 2//Goal 4/aut/ecc
-Begründung: Im IT-/Telekommunikationskontext bedeutet 'freisprechen' die Funktion zu aktivieren, bei der man ohne Hörer telefonieren kann. Der Nutzer bestimmt (2) eine Leistung für das Gerät (4), damit ein gewünschter Zustand erreicht wird (Goal 2), wobei das Endziel die Funktionalität des Systems ist (//Goal 4).. Autonom/Exzentrisch.
-
-freisprechen: Material/Education 2/4/1/5/Goal 2//Goal 4/aut/ecc
-Begründung: Im Bildungskontext bedeutet 'freisprechen' ein Vortragen ohne Manuskript. Der Akteur bestimmt (2), eine Leistung zu erbringen (4), bei der er Informationen gibt (1/5), um einen gewünschten Zustand (Goal 2) zu erreichen und dabei Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
-
-freistellen: Material/Photography 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt/bestimmt (2) über eine Bewegung/Bearbeitung (3), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich ein Objekt vom Hintergrund zu isolieren. Der Akteur handelt dabei autonom (aut) und nach außen gerichtet (ecc), da er ein Objekt außerhalb seiner selbst bearbeitet.. Autonom/Exzentrisch.
-
-freistellen: Material/Human-Resources 2/4/Goal 2//Goal 4/aut/ecc
-Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich einen Mitarbeiter von seinen Pflichten zu entbinden, was schließlich dem Akteur selbst zu beruflicher Anerkennung verhilft (//Goal 4).. Autonom/Exzentrisch.
-
-freistellen: Material/Finance 2/1/Goal 2/aut/ecc
-Begründung: Der Akteur bestimmt (2) das Bekommen (1) eines gewünschten Zustands (Goal 2) - im finanziellen Kontext bedeutet dies, einen Betrag im Steuerverfahren oder in der Buchhaltung separat auszuweisen oder von der Steuer abzusetzen.. Autonom/Exzentrisch.
-
-freuen: Interpersonal/Emotional 1/Goal 1/het/ecc
-Begründung: Freuen bedeutet, dass der Akteur ein positives Gefühl bekommt (1) und dadurch emotional befriedigt ist (Goal 1). Es handelt sich um ein heteronomes, exzentrisches Empfinden, da es durch äußere Ereignisse oder andere Personen ausgelöst wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
-
-freuen: Material/Emotions 1/Goal 2/het/ecc
-Begründung: Sich über etwas freuen kann auch bedeuten, dass man einen gewünschten Zustand (Goal 2) durch ein positives Gefühl bekommt (1), etwa bei der Freude über ein Geschenk oder ein Ereignis, wobei der Fokus auf dem resultierenden Zustand liegt.. Heteronom/Exzentrisch.
-
-freuen: Interpersonal/Psychological 4/1/Goal 1//Goal 4/het/ecc
-Begründung: Jemanden freuen (transitiv) bedeutet, dass der Akteur eine Leistung für einen Anderen erbringt (4) indem er positive Gefühle gibt (1), damit der Andere emotional befriedigt ist (Goal 1), während der Akteur selbst Anerkennung erwartet (//Goal 4).. Heteronom/Exzentrisch.
-
-friendzonen: Interpersonal/Relationship 3/4/1/Goal -1//Goal 3/aut/ecc
-Begründung: Der Akteur strebt an (3) eine Leistung für den Antagonisten zu erbringen (4), indem er etwas gibt (1), nämlich eine freundschaftliche Beziehung statt einer romantischen Beziehung. Dies führt zu einem unerwünschten Nähe-Zustand (Goal -1) für den Antagonisten (der romantische Nähe wollte). Nach dem Umschalter folgt das eigentliche Ziel des Akteurs: eine Wirkung zu erzielen (Goal 3), nämlich die Kontrolle über die Art der Beziehung zu behalten.. Autonom/Exzentrisch.
-
-friendzonen: Interpersonal/Protection 2/3/Goal 2//Goal -1/aut/ecc
-Begründung: Der Akteur bestimmt (2) und bewegt (3) die Beziehung in eine Richtung, um einen gewünschten Zustand (Goal 2) - Schutz vor unerwünschter romantischer Bindung - zu erreichen, während er gleichzeitig gegen den Annäherungswunsch (Goal -1) des Antagonisten agiert.. Autonom/Exzentrisch.
-
-frischhalten: Material/Preservation 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur bestimmt/kontrolliert (2) und bewegt/behandelt (3) ein Objekt, um einen gewünschten Zustand (frisch bleiben) zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
-
-frischhalten: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
-Begründung: Im Kontext von Lebensmitteln bedeutet frischhalten, dass der Akteur bestimmt/kontrolliert (2) und bewegt/behandelt (3) Nahrungsmittel, um deren gewünschten Zustand (Frische) zu erhalten (Goal 2) mit dem höheren Ziel, dass sie später verzehrt werden können (Goal 1).. Autonom/Exzentrisch.
-
-frustrieren: Interpersonal/Psychological 3/4/1/Goal -2//Goal 3/aut/ecc
-Begründung: Der Akteur bewegt sich (3) auf den Antagonisten zu, leistet ihm (4) etwas, indem er ihm etwas gibt (1), was beim Antagonisten einen unerwünschten Zustand verursacht (Goal -2), mit dem Ziel für den Akteur selbst, eine Wirkung zu erzielen (//Goal 3). Die Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur gezielt handelt, um beim Antagonisten Frustration auszulösen.. Autonom/Exzentrisch.
-
-frustrieren: Material/Emotions 3/1/Goal -2/het/ecc
-Begründung: In der zweiten Bedeutung erfährt der Akteur selbst Frustration. Er strebt etwas an (3), bekommt aber (1) einen unerwünschten Zustand (Goal -2). Diese Erfahrung ist heteronom und nach außen gerichtet (het/ecc), da der Akteur die Frustration durch äußere Umstände erfährt und nicht selbst steuern kann.. Heteronom/Exzentrisch.
-
-fräsen: Material/Metalworking 3/Goal 2/aut/ecc
-Begründung: Fräsen ist ein Bearbeitungsvorgang, bei dem der Akteur mit einem Fräswerkzeug Material durch Bewegung (3) bearbeitet, um einen gewünschten Zustand (Goal 2) des Werkstücks zu erreichen. Der Akteur bewegt das Werkzeug autonom und wirkt auf ein externes Objekt ein (aut/ecc).. Autonom/Exzentrisch.
-
-fräsen: Material/Woodworking 3/Goal 2/aut/ecc
-Begründung: Im Kontext der Holzbearbeitung bedeutet Fräsen das Formen oder Abtragen von Holzmaterial durch Bewegung (3) eines Fräswerkzeugs, um einen gewünschten Zustand des Werkstücks (Goal 2) zu erreichen.. Autonom/Exzentrisch.
-
-Begründung: Beim Fräsen bewegt (3) der Akteur durch eine Fräsmaschine Material ab, um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um einen autonomen Prozess (aut), der auf ein außenliegendes Objekt (ecc) einwirkt. Mit einer Fräse werden Materialien wie Metall, Holz oder Kunststoff durch rotierende Werkzeuge bearbeitet, um eine bestimmte Form zu erzielen.. Autonom/Exzentrisch.
-Begründung: Im Kontext der Holzbearbeitung bezeichnet das Fräsen einen Vorgang, bei dem durch Bewegung (3) des Werkzeugs Holzmaterial abgetragen wird, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Bewegung des Fräswerkzeugs ist autonom gesteuert (aut) und wirkt auf ein externes Objekt (ecc).. Autonom/Exzentrisch.
-fräsen: Material/Agriculture 3/Goal 2/aut/ecc
-Begründung: In der Landwirtschaft bedeutet Fräsen das Bearbeiten des Bodens durch Bewegung (3) einer Bodenfräse, um einen gewünschten Zustand des Bodens (Goal 2) für die Aussaat zu erreichen. Der Akteur steuert den Prozess autonom (aut) und wirkt auf ein externes Objekt, den Boden (ecc).. Autonom/Exzentrisch.
-
-frösteln: Material/Physical/Condition 1/Goal -2/het/con
-Begründung: Der Akteur bekommt (1) einen unerwünschten körperlichen Zustand (Goal -2), nämlich ein leichtes Kältegefühl. Dies geschieht heteronom (het), da der Akteur diesen Zustand nicht selbst kontrolliert, und konzentrisch (con), da es sich um einen inneren körperlichen Zustand handelt.. Heteronom/Konzentrisch.
-
-frösteln: Material/Weather 1/Goal -2/het/con
-Begründung: In Bezug auf Wetterbedingungen bedeutet frösteln, dass der Akteur aufgrund von Kälte von außen (1) einen unerwünschten Zustand des Frierens erlebt (Goal -2). Dies ist heteronom, da der Akteur die Temperatur nicht kontrolliert, und konzentrisch, da die Empfindung im Inneren stattfindet.. Heteronom/Konzentrisch.
-
-frühstücken: Material/Food 2/1/Goal 1/het/ecc
-Begründung: Der Akteur verfügt/bestimmt (2) über Nahrung und bekommt (1) sie, um befriedigt/gesättigt zu sein (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den verfügbaren Lebensmitteln richtet und die Nahrung von außen aufnimmt.. Heteronom/Exzentrisch.
-
-frühstücken: Material/Social-Activities 3/1/5/Goal 1/Goal 5/het/ecc
-Begründung: Im sozialen Kontext kann frühstücken auch bedeuten, dass der Akteur sich zu einer Frühstücksveranstaltung begibt (3), dort Nahrung bekommt (1) und sich informiert/kommuniziert (5), um sowohl gesättigt zu sein (Goal 1) als auch in Kontakt mit anderen zu sein (Goal 5).. Heteronom/Exzentrisch.
-
-fundamentieren: Material/Construction 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt und bestimmt (2) über Baumaterialien und bewegt/platziert diese (3), um das Fundament eines Gebäudes zu erstellen und damit einen gewünschten Zustand zu erreichen (Goal 2). Dies ist eine autonom exzentrische Tätigkeit, da der Akteur eigenständig handelt und die Aktivität nach außen gerichtet ist.. Autonom/Exzentrisch.
-
-fundamentieren: Material/Scientific 3/5/Goal 2/aut/ecc
-Begründung: Im wissenschaftlichen Kontext bedeutet fundamentieren, eine Theorie oder Aussage durch Belege zu untermauern. Der Akteur bewegt sich (3) durch Informationen und sammelt diese (5), um einen gewünschten Zustand der Begründung/Untermauerung zu erreichen (Goal 2).. Autonom/Exzentrisch.
-
-fundieren: Material/Construction 3/2/Goal 2/aut/ecc
-Begründung: Der Akteur bewegt/bearbeitet (3) Material, um es zu verfestigen/stabilisieren (2), damit ein gewünschter stabiler Zustand (Goal 2) erreicht wird. Fundieren bedeutet, etwas mit einem soliden Fundament zu versehen oder auf eine stabile Grundlage zu stellen, was eine autonome, nach außen gerichtete Aktivität darstellt.. Autonom/Exzentrisch.
-
-fundieren: Material/Scientific 3/5/2/Goal 5/Goal 2/aut/ecc
-Begründung: In wissenschaftlichem Kontext bedeutet fundieren, eine Theorie oder Behauptung mit Beweisen/Erkenntnissen zu untermauern. Der Akteur bewegt/sucht (3) Informationen (5), um sie zu einer stabilen Grundlage zu fügen (2), mit dem Ziel, gut informiert zu sein (Goal 5) und einen gewünschten wissenschaftlich fundierten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
-
-funken: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
-Begründung: Funken bedeutet, über einen Funkkanal Informationen zu senden. Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Empfänger informiert ist (Goal 5). Dies dient letztendlich dem Ziel des Akteurs, seine kommunikative Aufgabe zu erfüllen (//Goal 4).. Autonom/Exzentrisch.
-
-funken: Material/Electrical 3/1/Goal 3/het/ecc
-Begründung: In der physikalischen Bedeutung: Elektrische Funken entstehen, wenn sich Energie in Form von Lichtblitzen entlädt. Hier bewegt sich (3) Elektrizität und erzielt (1) eine Wirkung (Goal 3).. Heteronom/Exzentrisch.
-
-funken: Material/Fight/Aggression 3/5/Goal 3/aut/ecc
-Begründung: Im übertragenen Sinne: Konfliktsituationen anfeuern. Der Akteur bewegt sich (3) mit Informationen (5), um eine Wirkung zu erzielen (Goal 3), etwa um einen Streit oder Konflikt anzufachen.. Autonom/Exzentrisch.
-
-funktionalisieren: Material/Engineering 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt (2) über ein Objekt und bearbeitet/transformiert es (3), um einen gewünschten funktionalen Zustand zu erreichen (Goal 2). Funktionalisieren bedeutet, etwas für einen bestimmten Zweck nutzbar zu machen, indem man es so verändert oder anpasst, dass es eine bestimmte Funktion erfüllen kann.. Autonom/Exzentrisch.
-
-funktionalisieren: Material/Organization 2/3/Goal 2/Goal 4/aut/ecc
-Begründung: Im organisatorischen Kontext bedeutet funktionalisieren, dass der Akteur bestimmt (2) und Prozesse oder Strukturen transformiert (3), um einen gewünschten, effizienteren Zustand zu erreichen (Goal 2) mit dem übergeordneten Ziel der geschäftlichen Anerkennung oder des finanziellen Erfolgs (Goal 4).. Autonom/Exzentrisch.
-
-funktionalisieren: Material/Scientific 3/5/Goal 2/het/ecc
-Begründung: Im wissenschaftlichen Kontext bedeutet funktionalisieren das Untersuchen und Analysieren (3/5) eines Objekts oder Systems, um dessen Funktionalität oder Nutzbarkeit für einen bestimmten Zweck zu bestimmen oder zu verbessern (Goal 2).. Heteronom/Exzentrisch.
-
-funktionieren: Material/Machine-System 4/Goal 2//Goal 4/het/ecc
-Begründung: Eine Maschine oder ein System leistet (4) etwas für einen Antagonisten (z.B. den Bediener oder Nutzer), um einen gewünschten Zustand (Goal 2) herzustellen, während der Akteur (die Maschine) letztlich Anerkennung dafür erhält, dass sie ihren Zweck erfüllt (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Maschine/das System auf externe Bedingungen reagiert und nach außen wirkt.. Heteronom/Exzentrisch.
-
-funktionieren: Material/Process 4/Goal 2//Goal 4/het/ecc
-Begründung: Ein Prozess oder Verfahren leistet (4) etwas für einen Antagonisten (z.B. den Anwender oder das System), um einen gewünschten Zustand (Goal 2) herzustellen, während der Akteur (der Prozess) letztlich die Anerkennung dafür erhält, dass er seinen Zweck erfüllt (//Goal 4).. Heteronom/Exzentrisch.
-
-funktionieren: Material/Organization 4/Goal 2//Goal 4/het/ecc
-Begründung: Eine Organisation oder ein System leistet (4) etwas für Andere, um deren gewünschte Zustände (Goal 2) zu erreichen, während die Organisation selbst dadurch ihren Zweck erfüllt und Anerkennung erhält (//Goal 4).. Heteronom/Exzentrisch.
-
-furnieren: Material/Woodworking 3/Goal 2/aut/ecc
-Begründung: Furnieren bezeichnet das Aufbringen (3) dünner Holzschichten auf Möbel oder andere Holzwerkstoffe, um einen gewünschten Zustand (Goal 2) herzustellen. Der Akteur bewegt/bearbeitet (3) aktiv und selbstbestimmt (aut) das Material in Richtung auf ein äußeres Objekt (ecc).. Autonom/Exzentrisch.
-
-fusionieren: Material/Business 2/3/Goal 2/aut/ecc
-Begründung: Fusionieren bedeutet, dass ein Akteur bestimmt/verfügt (2) und durch Bewegung/Anstreben (3) zwei oder mehr Einheiten zusammenführt, um einen gewünschten Zustand (Goal 2) zu erreichen. Es ist autonom und nach außen gerichtet (aut/ecc), da es eine aktive Handlung ist, die über den ursprünglichen Kontrollbereich hinausgeht.. Autonom/Exzentrisch.
-
-fusionieren: Material/Chemical/Process 3/Goal 2/aut/ecc
-Begründung: Im chemischen Kontext bedeutet Fusionieren, dass durch eine Bewegung/einen Prozess (3) Elemente vereinigt werden, um einen gewünschten neuen Zustand (Goal 2) zu erreichen, wie bei der Kernfusion.. Autonom/Exzentrisch.
-
-fusionieren: Material/Organization 2/3/Goal 2/Goal 4/aut/ecc
-Begründung: Im organisatorischen Kontext bedeutet Fusionieren, dass ein Akteur bestimmt (2) durch Bewegung/Zusammenführung (3) Organisationseinheiten zu verbinden, um einen gewünschten Zustand (Goal 2) zu erreichen und letztendlich wirtschaftliche Vorteile zu erzielen (Goal 4).. Autonom/Exzentrisch.
-
-fälschen: Material/Deception 3/2/Goal 2//Goal -2/aut/ecc
-Begründung: Der Akteur bewegt/bearbeitet aktiv (3) und kontrolliert/verändert (2) etwas, um einen gewünschten Zustand (Goal 2) zu erreichen, während er gleichzeitig die Ziele des Antagonisten beeinträchtigt (//Goal -2), indem er ihn täuscht. Die Ausrichtung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und auf die Außenwelt einwirkt.. Autonom/Exzentrisch.
-
-fälschen: Material/Criminal/Documentation 3/2/5/Goal 5/Goal 2//Goal -2/aut/ecc
-Begründung: Im Kontext von Dokumentenfälschung bearbeitet der Akteur (3) ein Objekt, verfügt/kontrolliert (2) über dessen Informationsgehalt (5), um Informationen zu manipulieren (Goal 5) und einen gewünschten Zustand (Goal 2) zu erreichen, während er die Ziele des Antagonisten beeinträchtigt (//Goal -2).. Autonom/Exzentrisch.
-
-fälschen: Material/Art 3/5/Goal 5/Goal 2/aut/ecc
-Begründung: Im Kontext der Kunst, etwa beim Erstellen von Kopien bekannter Werke, bewegt/bearbeitet (3) der Akteur Materialien, um Informationen/visuelle Erscheinung (5) zu reproduzieren (Goal 5) und einen gewünschten Zustand (Goal 2) zu erreichen, ohne notwendigerweise betrügerische Absichten zu haben.. Autonom/Exzentrisch.
-
-färben: Material/Chemical/Process 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt über (2) und bewegt/transformiert (3) Farbsubstanzen, um einen gewünschten Zustand (Goal 2) eines Objekts zu erreichen, nämlich dessen Farbveränderung. Die Handlung erfolgt autonom und ist nach außen auf das zu färbende Objekt gerichtet (aut/ecc).. Autonom/Exzentrisch.
-
-färben: Material/Textile 2/3/Goal 2/Goal 4/aut/ecc
-Begründung: Im textilen Bereich verfügt der Akteur über (2) und bewegt/transformiert (3) Farbstoffe, um einen gewünschten Zustand bei Textilien zu erreichen (Goal 2), wobei dies im beruflichen Kontext zusätzlich auf Anerkennung/Bezahlung abzielt (Goal 4).. Autonom/Exzentrisch.
-
-färben: Material/Hair 2/3/Goal 2/aut/ecc
-Begründung: Beim Haarefärben verfügt der Akteur über (2) und transformiert (3) die Haarfarbe, um einen gewünschten Zustand (Goal 2) zu erreichen. Die autonome Handlung ist nach außen auf das Haar gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
 föhnen: Material/Hairstyling 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über einen Föhn und setzt ihn ein, um mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) des Haares zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 föhnen: Material/Hairstyling 2/4/3/Goal 2//Goal 4/het/ecc
 Begründung: In der beruflichen Variante bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er mit Bewegung (3) einen gewünschten Zustand für den Kunden herstellt (Goal 2), um letztlich Anerkennung/Bezahlung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
+
 
 fördern: Material/Assistance 2/4/3/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, die durch Bewegung/Anstreben (3) einen gewünschten Zustand für den Antagonisten bewirkt (Goal 2), was schließlich zur Anerkennung für den Akteur führt (//Goal 4). Dies ist autonom und nach außen gerichtet, da der Akteur aus eigener Initiative unterstützend tätig wird und diese Unterstützung auf einen Antagonisten im Außenbereich wirkt.. Autonom/Exzentrisch.
@@ -1229,6 +1177,217 @@ Begründung: Im Transportwesen bedeutet 'fördern' den Prozess des Beförderns, 
 fördern: Material/Government 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im Kontext staatlicher Unterstützung bedeutet 'fördern' das Bestimmen (2) über Ressourcen, um eine Leistung (4) durch Geben (1) zu erbringen, die einen gewünschten Zustand für den Empfänger bewirkt (Goal 2). Der Akteur erhält dafür berufliche Anerkennung (//Goal 4). Der Prozess ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
 
+
+fragen: Material/Information 3/1/Goal 5/het/ecc
+Begründung: Beim Fragen bewegt sich der Akteur (3) auf einen Antagonisten zu, um von diesem Informationen zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von externen Informationsquellen abhängig ist und sich nach außen orientiert.. Heteronom/Exzentrisch.
+
+fragen: Material/Request 3/1/Goal 2/het/ecc
+Begründung: Im Sinne von 'um etwas bitten/ersuchen' bewegt sich der Akteur (3) auf einen Antagonisten zu, um etwas zu bekommen (1), mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
+fragen: Interpersonal/Communication 3/5/Goal 5/het/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet Fragen, dass der Akteur Kontakt aufnimmt (3/5), um eine Verbindung herzustellen und Informationen auszutauschen (Goal 5).. Heteronom/Exzentrisch.
+
+
+fragmentieren: Material/Process 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt/bearbeitet (3) ein Objekt, um es in kleinere Teile zu zerlegen und damit einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
+
+fragmentieren: Material/Analysis 3/5/Goal 5/aut/ecc
+Begründung: Im analytischen Kontext bedeutet fragmentieren, Daten oder Informationen aufzuteilen (3) und zu untersuchen (5), um ein besseres Verständnis zu erlangen (Goal 5). Diese Bedeutung bezieht sich auf die Zerlegung von Informationen zur Analyse.. Autonom/Exzentrisch.
+
+fragmentieren: Material/IT 3/Goal -2/het/ecc
+Begründung: Im IT-Kontext bezeichnet Fragmentierung einen unerwünschten Prozess, bei dem Daten ungeordnet gespeichert werden, was zu einem ungewünschten Zustand (Goal -2) führt. Dies geschieht heterogen (het), da der Akteur (das System) sich an vorgegebene Strukturen anpassen muss.. Heteronom/Exzentrisch.
+
+
+framen: Material/Media 2/4/1/5/Goal 5//Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er eine Information gibt (1/5), damit der Antagonist informiert ist (Goal 5), wobei der Akteur durch die bestimmte Darstellung/Rahmung einen gewünschten Zustand erreicht (//Goal 2) - nämlich die Wahrnehmung in eine bestimmte Richtung zu lenken.. Autonom/Exzentrisch.
+
+framen: Material/Photography 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt (2) über ein Bild/Foto und bewegt/platziert (3) es in einen Rahmen, um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich das Bild zu rahmen/einzurahmen.. Autonom/Exzentrisch.
+
+framen: Material/IT/Communication 2/3/5/Goal 5/aut/ecc
+Begründung: Der Akteur bestimmt (2) und bearbeitet (3) Informationen (5), um diese in eine bestimmte Form oder Struktur zu bringen und damit informiert zu sein oder zu informieren (Goal 5) - im Sinne der Nachrichtentechnik/Datenübertragung.. Autonom/Exzentrisch.
+
+
+franchisen: Material/Business 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Geschäftskonzepte, Markenrechte und Know-how (1/5) an einen Franchisenehmer gibt, damit dieser einen gewünschten Zustand erreicht (Goal 2). Nach dem Umschalter folgt das eigene Ziel des Franchisegebers, nämlich Geld und Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und seine Wirkung nach außen trägt.. Autonom/Exzentrisch.
+
+
+frankieren: Material/Postal 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) für den Postdienst zu erbringen, indem er Wertmarken/Porto gibt/bezahlt (1), damit ein gewünschter Zustand der Beförderungsfähigkeit für die Sendung eintritt (Goal 2 vor //). Nach Erfüllung dieser Leistung erhält der Akteur Anerkennung und ggf. Bezahlung im geschäftlichen Kontext (//Goal 4).. Autonom/Exzentrisch.
+
+frankieren: Material/Business/Documentation 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: In einem geschäftlichen Kontext bestimmt der Akteur (2) eine Leistung (4) zu erbringen, indem er bezahlt/Geld gibt (1) und die Sendung mit einer Information (5) kennzeichnet, wodurch ein gewünschter Zustand der korrekten Abrechnung/Dokumentation erreicht wird (Goal 2). Dies dient dem Ziel, Anerkennung oder Bezahlung für die korrekte Dokumentation zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
+
+fräsen: Material/Metalworking 3/Goal 2/aut/ecc
+Begründung: Fräsen ist ein Bearbeitungsvorgang, bei dem der Akteur mit einem Fräswerkzeug Material durch Bewegung (3) bearbeitet, um einen gewünschten Zustand (Goal 2) des Werkstücks zu erreichen. Der Akteur bewegt das Werkzeug autonom und wirkt auf ein externes Objekt ein (aut/ecc).. Autonom/Exzentrisch.
+
+fräsen: Material/Woodworking 3/Goal 2/aut/ecc
+Begründung: Im Kontext der Holzbearbeitung bedeutet Fräsen das Formen oder Abtragen von Holzmaterial durch Bewegung (3) eines Fräswerkzeugs, um einen gewünschten Zustand des Werkstücks (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+Begründung: Beim Fräsen bewegt (3) der Akteur durch eine Fräsmaschine Material ab, um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um einen autonomen Prozess (aut), der auf ein außenliegendes Objekt (ecc) einwirkt. Mit einer Fräse werden Materialien wie Metall, Holz oder Kunststoff durch rotierende Werkzeuge bearbeitet, um eine bestimmte Form zu erzielen.. Autonom/Exzentrisch.
+Begründung: Im Kontext der Holzbearbeitung bezeichnet das Fräsen einen Vorgang, bei dem durch Bewegung (3) des Werkzeugs Holzmaterial abgetragen wird, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Bewegung des Fräswerkzeugs ist autonom gesteuert (aut) und wirkt auf ein externes Objekt (ecc).. Autonom/Exzentrisch.
+fräsen: Material/Agriculture 3/Goal 2/aut/ecc
+Begründung: In der Landwirtschaft bedeutet Fräsen das Bearbeiten des Bodens durch Bewegung (3) einer Bodenfräse, um einen gewünschten Zustand des Bodens (Goal 2) für die Aussaat zu erreichen. Der Akteur steuert den Prozess autonom (aut) und wirkt auf ein externes Objekt, den Boden (ecc).. Autonom/Exzentrisch.
+
+
+freelancen: Material/Business 2/4//Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt/kontrolliert (2) eigenständig seine Leistungserbringung für verschiedene Auftraggeber (4), um einen gewünschten Zustand der beruflichen Selbstständigkeit zu erreichen (Goal 2) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Die autonome, nach außen gerichtete Ausrichtung (aut/ecc) zeigt, dass der Freelancer selbstbestimmt entscheidet und seine Leistungen verschiedenen Kunden aktiv anbietet.. Autonom/Exzentrisch.
+
+freelancen: Material/Career 2/4//Goal 2/Goal 4/aut/ecc
+Begründung: Im Kontext der Karriereentwicklung bedeutet freelancen, dass der Akteur selbstbestimmt (2) Leistungen für verschiedene Auftraggeber (4) erbringt, um einen unabhängigen Berufsstatus zu erreichen (Goal 2) und davon finanziell zu leben (Goal 4).. Autonom/Exzentrisch.
+
+
+freien: Interpersonal 3/1/Goal 3/Goal 1/aut/ecc
+Begründung: Der Akteur bewegt sich (3) auf einen potenziellen Partner zu, um (1) in eine Nähebeziehung zu kommen, mit dem Ziel eine Wirkung zu erzielen (Goal 3) und letztendlich Nähe zu gewinnen (Goal 1). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf den anderen zugeht.. Autonom/Exzentrisch.
+
+freien: Interpersonal/Relationship 3/1/Goal 1/Goal 2/aut/ecc
+Begründung: Im Kontext des Werbens um eine Person mit dem Ziel einer Partnerschaft/Ehe bewegt sich der Akteur (3) auf einen potenziellen Partner zu, um Nähe (Goal 1) und einen dauerhaften Beziehungszustand (Goal 2) zu erreichen. Der Fokus liegt hier stärker auf dem Ziel einer formalen Bindung.. Autonom/Exzentrisch.
+
+
+freigeben: Material/Authorization 2/4/1/Goal 2//Goal 2/aut/con
+Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen, indem er etwas gibt/überträgt (4/1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2 vor //), wobei dies gleichzeitig dem eigenen Ziel des Akteurs dient, einen gewünschten Zustand zu erreichen (Goal 2 nach //). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt über etwas verfügt, das in seinem Machtbereich liegt.. Autonom/Konzentrisch.
+
+freigeben: Material/Control 2/4/1/Goal 2//Goal 3/aut/con
+Begründung: Im Kontext von Bewegung/Verkehr bedeutet freigeben, dass der Akteur bestimmt (2), eine Leistung zu erbringen, indem er etwas gibt/überträgt (4/1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), wobei dies dem eigenen Ziel des Akteurs dient, eine Wirkung/Bewegung zu ermöglichen (Goal 3 nach //).. Autonom/Konzentrisch.
+
+freigeben: Material/IT/Security 2/4/1/5/Goal 5//Goal 2/aut/con
+Begründung: Im IT-Kontext bedeutet freigeben, dass der Akteur bestimmt (2), eine Leistung zu erbringen, indem er Zugang gibt (4/1) zu Informationen (5), damit der Antagonist informiert ist/Zugriff hat (Goal 5), was dem eigenen Ziel des Akteurs dient, einen gewünschten Systemzustand zu erreichen (Goal 2).. Autonom/Konzentrisch.
+
+
+freilassen: Material/Fight/Aggression 4/1/Goal 2/aut/ecc
+Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm Freiheit gibt (1), damit der Antagonist über seinen Zustand verfügen kann (Goal 2). Dies ist eine autonome, nach außen gerichtete Handlung, bei der der Akteur die Freiheit eines vorher in seiner Macht befindlichen Antagonisten ermöglicht.. Autonom/Exzentrisch.
+
+freilassen: Material/Criminal 4/1/Goal 2/aut/ecc
+Begründung: Im strafrechtlichen Kontext bedeutet freilassen, dass der Akteur (z.B. Behörde oder Gefängniswärter) eine Leistung für den Antagonisten erbringt (4), indem er ihm die Freiheit gibt (1), damit der Antagonist wieder über seinen eigenen Zustand verfügen kann (Goal 2).. Autonom/Exzentrisch.
+
+freilassen: Interpersonal/Control 4/1/Goal 2/aut/ecc
+Begründung: In zwischenmenschlichen Beziehungen bedeutet freilassen, dass der Akteur eine Leistung erbringt (4), indem er dem Antagonisten Freiheit gibt (1), damit dieser über seinen eigenen Zustand und seine Handlungen selbst bestimmen kann (Goal 2).. Autonom/Exzentrisch.
+
+
+freisprechen: Material/Law/Court 2/4/1/Goal 2//Goal 2/aut/ecc
+Begründung: Freisprechen bedeutet, dass ein Richter (2) eine Leistung für den Angeklagten erbringt (4), indem er ihm einen Zustand der Freiheit/Unschuld gibt (1/Goal 2), was auch dem Ziel des Richters entspricht, wenn er von der Unschuld überzeugt ist (//Goal 2). Die Ausrichtung ist autonom (der Richter hat die Entscheidungsgewalt) und exzentrisch (nach außen auf den Angeklagten gerichtet).. Autonom/Exzentrisch.
+
+freisprechen: Material/IT/Communication 2/4/Goal 2//Goal 4/aut/ecc
+Begründung: Im IT-/Telekommunikationskontext bedeutet 'freisprechen' die Funktion zu aktivieren, bei der man ohne Hörer telefonieren kann. Der Nutzer bestimmt (2) eine Leistung für das Gerät (4), damit ein gewünschter Zustand erreicht wird (Goal 2), wobei das Endziel die Funktionalität des Systems ist (//Goal 4).. Autonom/Exzentrisch.
+
+freisprechen: Material/Education 2/4/1/5/Goal 2//Goal 4/aut/ecc
+Begründung: Im Bildungskontext bedeutet 'freisprechen' ein Vortragen ohne Manuskript. Der Akteur bestimmt (2), eine Leistung zu erbringen (4), bei der er Informationen gibt (1/5), um einen gewünschten Zustand (Goal 2) zu erreichen und dabei Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
+
+freistellen: Material/Photography 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt/bestimmt (2) über eine Bewegung/Bearbeitung (3), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich ein Objekt vom Hintergrund zu isolieren. Der Akteur handelt dabei autonom (aut) und nach außen gerichtet (ecc), da er ein Objekt außerhalb seiner selbst bearbeitet.. Autonom/Exzentrisch.
+
+freistellen: Material/Human-Resources 2/4/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich einen Mitarbeiter von seinen Pflichten zu entbinden, was schließlich dem Akteur selbst zu beruflicher Anerkennung verhilft (//Goal 4).. Autonom/Exzentrisch.
+
+freistellen: Material/Finance 2/1/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2) das Bekommen (1) eines gewünschten Zustands (Goal 2) - im finanziellen Kontext bedeutet dies, einen Betrag im Steuerverfahren oder in der Buchhaltung separat auszuweisen oder von der Steuer abzusetzen.. Autonom/Exzentrisch.
+
+
+freuen: Interpersonal/Emotional 1/Goal 1/het/ecc
+Begründung: Freuen bedeutet, dass der Akteur ein positives Gefühl bekommt (1) und dadurch emotional befriedigt ist (Goal 1). Es handelt sich um ein heteronomes, exzentrisches Empfinden, da es durch äußere Ereignisse oder andere Personen ausgelöst wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+freuen: Material/Emotions 1/Goal 2/het/ecc
+Begründung: Sich über etwas freuen kann auch bedeuten, dass man einen gewünschten Zustand (Goal 2) durch ein positives Gefühl bekommt (1), etwa bei der Freude über ein Geschenk oder ein Ereignis, wobei der Fokus auf dem resultierenden Zustand liegt.. Heteronom/Exzentrisch.
+
+freuen: Interpersonal/Psychological 4/1/Goal 1//Goal 4/het/ecc
+Begründung: Jemanden freuen (transitiv) bedeutet, dass der Akteur eine Leistung für einen Anderen erbringt (4) indem er positive Gefühle gibt (1), damit der Andere emotional befriedigt ist (Goal 1), während der Akteur selbst Anerkennung erwartet (//Goal 4).. Heteronom/Exzentrisch.
+
+
+friendzonen: Interpersonal/Relationship 3/4/1/Goal -1//Goal 3/aut/ecc
+Begründung: Der Akteur strebt an (3) eine Leistung für den Antagonisten zu erbringen (4), indem er etwas gibt (1), nämlich eine freundschaftliche Beziehung statt einer romantischen Beziehung. Dies führt zu einem unerwünschten Nähe-Zustand (Goal -1) für den Antagonisten (der romantische Nähe wollte). Nach dem Umschalter folgt das eigentliche Ziel des Akteurs: eine Wirkung zu erzielen (Goal 3), nämlich die Kontrolle über die Art der Beziehung zu behalten.. Autonom/Exzentrisch.
+
+friendzonen: Interpersonal/Protection 2/3/Goal 2//Goal -1/aut/ecc
+Begründung: Der Akteur bestimmt (2) und bewegt (3) die Beziehung in eine Richtung, um einen gewünschten Zustand (Goal 2) - Schutz vor unerwünschter romantischer Bindung - zu erreichen, während er gleichzeitig gegen den Annäherungswunsch (Goal -1) des Antagonisten agiert.. Autonom/Exzentrisch.
+
+
+frischhalten: Material/Preservation 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/kontrolliert (2) und bewegt/behandelt (3) ein Objekt, um einen gewünschten Zustand (frisch bleiben) zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
+frischhalten: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
+Begründung: Im Kontext von Lebensmitteln bedeutet frischhalten, dass der Akteur bestimmt/kontrolliert (2) und bewegt/behandelt (3) Nahrungsmittel, um deren gewünschten Zustand (Frische) zu erhalten (Goal 2) mit dem höheren Ziel, dass sie später verzehrt werden können (Goal 1).. Autonom/Exzentrisch.
+
+
+frösteln: Material/Physical/Condition 1/Goal -2/het/con
+Begründung: Der Akteur bekommt (1) einen unerwünschten körperlichen Zustand (Goal -2), nämlich ein leichtes Kältegefühl. Dies geschieht heteronom (het), da der Akteur diesen Zustand nicht selbst kontrolliert, und konzentrisch (con), da es sich um einen inneren körperlichen Zustand handelt.. Heteronom/Konzentrisch.
+
+frösteln: Material/Weather 1/Goal -2/het/con
+Begründung: In Bezug auf Wetterbedingungen bedeutet frösteln, dass der Akteur aufgrund von Kälte von außen (1) einen unerwünschten Zustand des Frierens erlebt (Goal -2). Dies ist heteronom, da der Akteur die Temperatur nicht kontrolliert, und konzentrisch, da die Empfindung im Inneren stattfindet.. Heteronom/Konzentrisch.
+
+
+frustrieren: Interpersonal/Psychological 3/4/1/Goal -2//Goal 3/aut/ecc
+Begründung: Der Akteur bewegt sich (3) auf den Antagonisten zu, leistet ihm (4) etwas, indem er ihm etwas gibt (1), was beim Antagonisten einen unerwünschten Zustand verursacht (Goal -2), mit dem Ziel für den Akteur selbst, eine Wirkung zu erzielen (//Goal 3). Die Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur gezielt handelt, um beim Antagonisten Frustration auszulösen.. Autonom/Exzentrisch.
+
+frustrieren: Material/Emotions 3/1/Goal -2/het/ecc
+Begründung: In der zweiten Bedeutung erfährt der Akteur selbst Frustration. Er strebt etwas an (3), bekommt aber (1) einen unerwünschten Zustand (Goal -2). Diese Erfahrung ist heteronom und nach außen gerichtet (het/ecc), da der Akteur die Frustration durch äußere Umstände erfährt und nicht selbst steuern kann.. Heteronom/Exzentrisch.
+
+
+frühstücken: Material/Food 2/1/Goal 1/het/ecc
+Begründung: Der Akteur verfügt/bestimmt (2) über Nahrung und bekommt (1) sie, um befriedigt/gesättigt zu sein (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den verfügbaren Lebensmitteln richtet und die Nahrung von außen aufnimmt.. Heteronom/Exzentrisch.
+
+frühstücken: Material/Social-Activities 3/1/5/Goal 1/Goal 5/het/ecc
+Begründung: Im sozialen Kontext kann frühstücken auch bedeuten, dass der Akteur sich zu einer Frühstücksveranstaltung begibt (3), dort Nahrung bekommt (1) und sich informiert/kommuniziert (5), um sowohl gesättigt zu sein (Goal 1) als auch in Kontakt mit anderen zu sein (Goal 5).. Heteronom/Exzentrisch.
+
+
+fundamentieren: Material/Construction 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt und bestimmt (2) über Baumaterialien und bewegt/platziert diese (3), um das Fundament eines Gebäudes zu erstellen und damit einen gewünschten Zustand zu erreichen (Goal 2). Dies ist eine autonom exzentrische Tätigkeit, da der Akteur eigenständig handelt und die Aktivität nach außen gerichtet ist.. Autonom/Exzentrisch.
+
+fundamentieren: Material/Scientific 3/5/Goal 2/aut/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet fundamentieren, eine Theorie oder Aussage durch Belege zu untermauern. Der Akteur bewegt sich (3) durch Informationen und sammelt diese (5), um einen gewünschten Zustand der Begründung/Untermauerung zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+
+fundieren: Material/Construction 3/2/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt/bearbeitet (3) Material, um es zu verfestigen/stabilisieren (2), damit ein gewünschter stabiler Zustand (Goal 2) erreicht wird. Fundieren bedeutet, etwas mit einem soliden Fundament zu versehen oder auf eine stabile Grundlage zu stellen, was eine autonome, nach außen gerichtete Aktivität darstellt.. Autonom/Exzentrisch.
+
+fundieren: Material/Scientific 3/5/2/Goal 5/Goal 2/aut/ecc
+Begründung: In wissenschaftlichem Kontext bedeutet fundieren, eine Theorie oder Behauptung mit Beweisen/Erkenntnissen zu untermauern. Der Akteur bewegt/sucht (3) Informationen (5), um sie zu einer stabilen Grundlage zu fügen (2), mit dem Ziel, gut informiert zu sein (Goal 5) und einen gewünschten wissenschaftlich fundierten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+
+funken: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Funken bedeutet, über einen Funkkanal Informationen zu senden. Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Empfänger informiert ist (Goal 5). Dies dient letztendlich dem Ziel des Akteurs, seine kommunikative Aufgabe zu erfüllen (//Goal 4).. Autonom/Exzentrisch.
+
+funken: Material/Electrical 3/1/Goal 3/het/ecc
+Begründung: In der physikalischen Bedeutung: Elektrische Funken entstehen, wenn sich Energie in Form von Lichtblitzen entlädt. Hier bewegt sich (3) Elektrizität und erzielt (1) eine Wirkung (Goal 3).. Heteronom/Exzentrisch.
+
+funken: Material/Fight/Aggression 3/5/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne: Konfliktsituationen anfeuern. Der Akteur bewegt sich (3) mit Informationen (5), um eine Wirkung zu erzielen (Goal 3), etwa um einen Streit oder Konflikt anzufachen.. Autonom/Exzentrisch.
+
+
+funktionalisieren: Material/Engineering 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt (2) über ein Objekt und bearbeitet/transformiert es (3), um einen gewünschten funktionalen Zustand zu erreichen (Goal 2). Funktionalisieren bedeutet, etwas für einen bestimmten Zweck nutzbar zu machen, indem man es so verändert oder anpasst, dass es eine bestimmte Funktion erfüllen kann.. Autonom/Exzentrisch.
+
+funktionalisieren: Material/Organization 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im organisatorischen Kontext bedeutet funktionalisieren, dass der Akteur bestimmt (2) und Prozesse oder Strukturen transformiert (3), um einen gewünschten, effizienteren Zustand zu erreichen (Goal 2) mit dem übergeordneten Ziel der geschäftlichen Anerkennung oder des finanziellen Erfolgs (Goal 4).. Autonom/Exzentrisch.
+
+funktionalisieren: Material/Scientific 3/5/Goal 2/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet funktionalisieren das Untersuchen und Analysieren (3/5) eines Objekts oder Systems, um dessen Funktionalität oder Nutzbarkeit für einen bestimmten Zweck zu bestimmen oder zu verbessern (Goal 2).. Heteronom/Exzentrisch.
+
+
+funktionieren: Material/Machine-System 4/Goal 2//Goal 4/het/ecc
+Begründung: Eine Maschine oder ein System leistet (4) etwas für einen Antagonisten (z.B. den Bediener oder Nutzer), um einen gewünschten Zustand (Goal 2) herzustellen, während der Akteur (die Maschine) letztlich Anerkennung dafür erhält, dass sie ihren Zweck erfüllt (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Maschine/das System auf externe Bedingungen reagiert und nach außen wirkt.. Heteronom/Exzentrisch.
+
+funktionieren: Material/Process 4/Goal 2//Goal 4/het/ecc
+Begründung: Ein Prozess oder Verfahren leistet (4) etwas für einen Antagonisten (z.B. den Anwender oder das System), um einen gewünschten Zustand (Goal 2) herzustellen, während der Akteur (der Prozess) letztlich die Anerkennung dafür erhält, dass er seinen Zweck erfüllt (//Goal 4).. Heteronom/Exzentrisch.
+
+funktionieren: Material/Organization 4/Goal 2//Goal 4/het/ecc
+Begründung: Eine Organisation oder ein System leistet (4) etwas für Andere, um deren gewünschte Zustände (Goal 2) zu erreichen, während die Organisation selbst dadurch ihren Zweck erfüllt und Anerkennung erhält (//Goal 4).. Heteronom/Exzentrisch.
+
+
+furnieren: Material/Woodworking 3/Goal 2/aut/ecc
+Begründung: Furnieren bezeichnet das Aufbringen (3) dünner Holzschichten auf Möbel oder andere Holzwerkstoffe, um einen gewünschten Zustand (Goal 2) herzustellen. Der Akteur bewegt/bearbeitet (3) aktiv und selbstbestimmt (aut) das Material in Richtung auf ein äußeres Objekt (ecc).. Autonom/Exzentrisch.
+
+
+fusionieren: Material/Business 2/3/Goal 2/aut/ecc
+Begründung: Fusionieren bedeutet, dass ein Akteur bestimmt/verfügt (2) und durch Bewegung/Anstreben (3) zwei oder mehr Einheiten zusammenführt, um einen gewünschten Zustand (Goal 2) zu erreichen. Es ist autonom und nach außen gerichtet (aut/ecc), da es eine aktive Handlung ist, die über den ursprünglichen Kontrollbereich hinausgeht.. Autonom/Exzentrisch.
+
+fusionieren: Material/Chemical/Process 3/Goal 2/aut/ecc
+Begründung: Im chemischen Kontext bedeutet Fusionieren, dass durch eine Bewegung/einen Prozess (3) Elemente vereinigt werden, um einen gewünschten neuen Zustand (Goal 2) zu erreichen, wie bei der Kernfusion.. Autonom/Exzentrisch.
+
+fusionieren: Material/Organization 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im organisatorischen Kontext bedeutet Fusionieren, dass ein Akteur bestimmt (2) durch Bewegung/Zusammenführung (3) Organisationseinheiten zu verbinden, um einen gewünschten Zustand (Goal 2) zu erreichen und letztendlich wirtschaftliche Vorteile zu erzielen (Goal 4).. Autonom/Exzentrisch.
+
+
 fügen: Material/Construction 2/3/Goal 2/aut/ecc
 Begründung: Fügen bedeutet, dass der Akteur bestimmt/verfügt (2) und durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) erreicht, indem er Teile zusammenbringt und miteinander verbindet. Es handelt sich um eine autonome (aut) nach außen gerichtete (ecc) Handlung, bei der der Akteur aktiv Materialien zusammenfügt.. Autonom/Exzentrisch.
 
@@ -1238,11 +1397,13 @@ Begründung: Sich fügen bedeutet, dass der Akteur eine Leistung für einen Anta
 fügen: Material/Woodworking 2/3/Goal 2/aut/ecc
 Begründung: Im holzverarbeitenden Kontext bedeutet fügen das präzise Zusammenpassen von Holzteilen, wobei der Akteur bestimmt/verfügt (2) und durch gezielte Bewegung (3) einen gewünschten Zustand (Goal 2) herstellt. Die Tätigkeit ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
 
+
 fühlen: Material/Sensory 5/Goal 5/het/ecc
 Begründung: Beim Fühlen nimmt der Akteur durch taktile Sinneswahrnehmung (5) Informationen auf, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Gegebenheiten anpasst und nach außen gerichtet ist, um die Informationen zu erhalten.. Heteronom/Exzentrisch.
 
 fühlen: Interpersonal/Emotional 1/Goal 5/het/ecc
 Begründung: Im emotionalen Sinne bedeutet Fühlen das Empfangen (1) von emotionalen Zuständen und Empfindungen, um über die eigenen Gefühle informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da emotionales Fühlen oft als etwas erlebt wird, das einem widerfährt und von außen kommt.. Heteronom/Exzentrisch.
+
 
 führen: Material/Leadership 2/Goal 2/Goal 4/aut/con
 Begründung: Der Akteur verfügt/bestimmt (2) über Menschen, um einen gewünschten Zustand zu erreichen (Goal 2) und letztlich berufliche Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur in seinem Einflussbereich bestimmt.. Autonom/Konzentrisch.
@@ -1256,6 +1417,7 @@ Begründung: Der Akteur verfügt/bestimmt (2) über Aufzeichnungen oder Listen, 
 führen: Fight/Strategy 2/3/Goal 2/Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung/Anstreben (3), um einen gewünschten Zustand (Goal 2) und eine Wirkung (Goal 3) zu erreichen. Dies bezieht sich auf das Führen im Kampf- oder Wettbewerbskontext.. Autonom/Exzentrisch.
 
+
 füllen: Material/Fluids/Process 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) und bewegt (3) eine Flüssigkeit oder Material und bewirkt damit, dass etwas Anderes diese Flüssigkeit oder dieses Material bekommt (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom (der Akteur bestimmt den Vorgang) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
 
@@ -1265,11 +1427,13 @@ Begründung: Der Akteur verfügt (2) über ein Material und bewegt (3) es, damit
 füllen: Material/Form 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Material, bewegt (3) es in ein Formular oder eine Lücke hinein, die es bekommen (1) soll, um einen gewünschten Zustand (Goal 2) zu erreichen, wie z.B. beim Ausfüllen eines Formulars.. Autonom/Exzentrisch.
 
+
 für jemanden schwärmen: Interpersonal/Attraction 3/1/Goal 1/het/ecc
 Begründung: Der Akteur bewegt sich emotional (3) auf den Antagonisten zu und strebt an (1), Nähe/emotionale Verbindung zu bekommen (Goal 1). Die Ausrichtung ist heternom/exzentrisch (het/ecc), da der Akteur sich an der Person orientiert, für die er schwärmt, und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 für jemanden schwärmen: Interpersonal/Psychological 5/3/Goal 1/het/ecc
 Begründung: In der psychologischen Dimension bedeutet Schwärmen, dass der Akteur Kontakt sucht (5) und sich emotional bewegt (3), um Nähe zu empfinden (Goal 1). Die Ausrichtung ist heternom/exzentrisch (het/ecc), da der Akteur sich an der idealisierten Person orientiert.. Heteronom/Exzentrisch.
+
 
 fürchten: Interpersonal/Psychological 1/Goal -0/het/con
 Begründung: Fürchten bedeutet, ein negatives Gefühl zu bekommen (1) in Bezug auf eine Vorausannahme (Goal -0), dass etwas Unangenehmes oder Bedrohliches eintreten könnte. Es ist heteronomer Natur (het), da man sich der Situation ausgeliefert fühlt, und nach innen gerichtet (con), da es sich um ein inneres Gefühl handelt.. Heteronom/Konzentrisch.
@@ -1280,8 +1444,10 @@ Begründung: Im materiellen Kontext bedeutet fürchten, ein negatives Gefühl zu
 fürchten: Material/Risk 5/1/Goal -0/het/con
 Begründung: Im Risikokontext bedeutet fürchten, dass man Informationen aufnimmt (5) und ein negatives Gefühl bekommt (1) mit der Vorausannahme (Goal -0), dass eine Gefahr oder ein Risiko besteht. Die heteronome Ausrichtung (het) zeigt die Abhängigkeit von der befürchteten Situation an.. Heteronom/Konzentrisch.
 
+
 füsilieren: Material/Fight/Aggression/War 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Füsilieren bedeutet das standrechtliche Erschießen von Personen, typischerweise im militärischen Kontext. Der Akteur bewegt sich aggressiv (3) und bekommt (1) eine Wirkung (Goal 3), die zum gewünschten Zustand des Akteurs führt (Goal 2), während gleichzeitig der gewünschte Zustand des Antagonisten (am Leben zu sein) verhindert wird (//Goal -2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt nach außen gegen den Antagonisten handelt.. Autonom/Exzentrisch.
+
 
 füttern: Material/Animal 4/1/Goal 1//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) für den Antagonisten (Tier), indem er ihm Nahrung gibt (1), damit das Tier gesättigt wird (Goal 1). Nach dem Wechsel // folgt das Ziel des Akteurs, Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Bedürfnisse des Tieres anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
@@ -1291,3 +1457,4 @@ Begründung: Bei einem Baby/Kind ist das Füttern ebenfalls eine Leistung (4), b
 
 füttern: Material/Food/Cooking 2/4/1/Goal 1//Goal 4/aut/ecc
 Begründung: In einem Kochkontext kann 'füttern' bedeuten, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er etwas in eine Maschine/Vorrichtung gibt (1), damit eine Nahrungszubereitung erfolgt (Goal 1). Nach dem Wechsel // folgt das Ziel des Akteurs, ein berufliches Ergebnis zu erzielen (Goal 4).. Autonom/Exzentrisch.
+
