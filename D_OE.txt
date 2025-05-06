@@ -1,0 +1,17 @@
+öffnen: Material/Door 2/3/Goal 2/aut/ecc
+Begründung: Öffnen bedeutet, dass der Akteur über ein verschlossenes Objekt verfügt (2) und es mit Bewegung (3) in einen gewünschten Zustand bringt (Goal 2), nämlich den Zustand des Offenseins. Diese Handlung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
+
+öffnen: Material/Container 2/3/Goal 1/Goal 2/aut/ecc
+Begründung: Im Kontext von Behältern bedeutet öffnen, dass der Akteur über den Behälter verfügt (2), ihn mit Bewegung (3) in einen Zustand bringt (Goal 2), der das Bekommen des Inhalts ermöglicht (Goal 1). Dies unterscheidet sich vom allgemeinen Öffnen durch die zusätzliche Zugangsfunktion zum Inhalt.. Autonom/Exzentrisch.
+
+öffnen: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Im geschäftlichen Kontext (z.B. einen Laden öffnen) verfügt der Akteur (2) über einen Raum oder ein Geschäft und überführt es mit Bewegung (3) in einen betriebsbereiten Zustand (Goal 2), um geschäftlich tätig zu werden und Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+öffnen: Material/IT 2/1/Goal 5/aut/con
+Begründung: Im IT-Bereich bedeutet öffnen (z.B. eine Datei), dass der Akteur Verfügungsgewalt ausübt (2), um den Inhalt zugänglich zu machen/zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). Dies ist autonom (aut) und nach innen gerichtet (con), da es im eigenen System stattfindet.. Autonom/Konzentrisch.
+
+ölen: Material/Fluids/Process 2/3/1/Goal 2/aut/ecc
+Begründung: Ölen bedeutet, dass der Akteur bestimmt (2) und mit Bewegung (3) eine Flüssigkeit auf etwas gibt/aufträgt (1), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich das Schmieren/Gleiten/Rosten verhindern. Die Aktivität ist autonom (der Akteur bestimmt) und nach außen gerichtet (ecc), da er ein Objekt bearbeitet.. Autonom/Exzentrisch.
+
+ölen: Material/Cooking 2/3/1/Goal 2/Goal 1/aut/ecc
+Begründung: Im Kochkontext bedeutet ölen, dass der Akteur bestimmt (2) eine Flüssigkeit mit Bewegung (3) auf Lebensmittel gibt (1), um einen gewünschten Zustand (Goal 2) zu erreichen und letztendlich auch ein Lebensmittel zuzubereiten (Goal 1).. Autonom/Exzentrisch.
