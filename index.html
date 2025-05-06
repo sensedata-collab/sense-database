@@ -317,392 +317,491 @@
     </div>
     
     <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            // Variablen für die Verarbeitung
-            let verbEntries = [];             // Verben in aktueller Datei
-            let uniqueVerbs = [];             // Alphabetische Liste der Verben in aktueller Datei
-            let currentIndex = 0;             // Index des aktuell angezeigten Verbs
-            let searchTimeout;                // Timeout für die Sucheingabe
-            let lastSearchTerm = '';          // Letzter Suchbegriff
-            let currentFile = null;           // Aktuell geladene Datei
-            let cachedFiles = {};             // Cache für bereits geladene Dateien
-            
-            // Verfügbare Buchstaben für die Navigation
-            const AVAILABLE_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            
-            // Zuordnung von Umlauten zu Grundbuchstaben für die Dateisuche
-            const UMLAUT_MAP = {
-                'Ä': 'A',
-                'Ö': 'O',
-                'Ü': 'U'
-            };
-            
-            // Liste der Dateien, die tatsächlich existieren
-            let availableFiles = {};
-            
-            // DOM-Elemente - wie im Original
-            const searchInput = document.getElementById('searchInput');
-            const searchButton = document.getElementById('searchButton');
-            const errorMessage = document.getElementById('errorMessage');
-            const suggestions = document.getElementById('suggestions');
-            const loadingIndicator = document.getElementById('loadingIndicator');
-            const displayArea = document.getElementById('displayArea');
-            const currentVerb = document.getElementById('currentVerb');
-            const codeDisplay = document.getElementById('codeDisplay');
-            const explanationDisplay = document.getElementById('explanationDisplay');
-            const alternativesArea = document.getElementById('alternativesArea');
-            const firstButton = document.getElementById('firstButton');
-            const prevButton = document.getElementById('prevButton');
-            const nextButton = document.getElementById('nextButton');
-            const lastButton = document.getElementById('lastButton');
-            const formulaExplanation = document.getElementById('formulaExplanation');
-            
-            // Erklärungen für die Zeichen - unverändert
-            const symbolExplanations = {
-                "//": "// ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.",
-                "-": "- kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.",
-                "ADJ": "ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).",
-                "NO/": "NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.",
-                "NOT/": "NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.",
-                "CP/": "CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.",
-                "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
-            };
-            
-            // Initialisiere das System - Prüfe welche Dateien verfügbar sind
-            initSystem();
-            
-            async function initSystem() {
-                // Prüfe, welche Dateien verfügbar sind
-                for (let i = 0; i < AVAILABLE_LETTERS.length; i++) {
-                    const letter = AVAILABLE_LETTERS[i];
-                    const fileName = getFileNameForLetter(letter);
-                    
-                    try {
-                        const response = await fetch(fileName, { method: 'HEAD' });
-                        availableFiles[letter] = response.ok;
-                        
-                        if (response.ok && !currentFile) {
-                            // Lade die erste verfügbare Datei
-                            await loadAndProcessFile(letter);
-                        }
-                    } catch (error) {
-                        availableFiles[letter] = false;
-                        console.warn(`Datei ${fileName} nicht verfügbar.`);
-                    }
-                }
-                
-                // Wenn keine Datei geladen wurde, versuche 'A'
-                if (!currentFile) {
-                    try {
-                        await loadAndProcessFile('A');
-                    } catch (error) {
-                        showError("Keine Verbdateien gefunden. Bitte geben Sie ein Verb ein, um zu starten.");
-                    }
-                }
-                
-                // Aktiviere die Buttons basierend auf verfügbaren Dateien
-                updateNavButtons();
-            }
-            
-            // Event-Listeners für Formel-Zusätze - unverändert
-            document.querySelectorAll('.formula-item').forEach(item => {
-                item.addEventListener('click', function() {
-                    // Entferne aktive Klasse von allen Items
-                    document.querySelectorAll('.formula-item').forEach(i => {
-                        i.classList.remove('active');
-                    });
-                    
-                    // Füge aktive Klasse zum angeklickten Item hinzu
-                    this.classList.add('active');
-                    
-                    // Zeige die passende Erklärung an
-                    const symbol = this.getAttribute('data-symbol');
-                    formulaExplanation.textContent = symbolExplanations[symbol] || "Keine Erklärung verfügbar";
-                });
+document.addEventListener('DOMContentLoaded', function() {
+    // Variablen für die Verarbeitung
+    let verbEntries = [];             // Alle Verben
+    let uniqueVerbs = [];             // Alphabetische Liste der Verben 
+    let currentIndex = 0;             // Index des aktuell angezeigten Verbs
+    let searchTimeout;                // Timeout für die Sucheingabe
+    let lastSearchTerm = '';          // Letzter Suchbegriff
+    let dataLoaded = false;           // Flag ob Daten geladen wurden
+    
+    // DOM-Elemente
+    const searchInput = document.getElementById('searchInput');
+    const searchButton = document.getElementById('searchButton');
+    const errorMessage = document.getElementById('errorMessage');
+    const suggestions = document.getElementById('suggestions');
+    const loadingIndicator = document.getElementById('loadingIndicator');
+    const displayArea = document.getElementById('displayArea');
+    const currentVerb = document.getElementById('currentVerb');
+    const codeDisplay = document.getElementById('codeDisplay');
+    const explanationDisplay = document.getElementById('explanationDisplay');
+    const alternativesArea = document.getElementById('alternativesArea');
+    const firstButton = document.getElementById('firstButton');
+    const prevButton = document.getElementById('prevButton');
+    const nextButton = document.getElementById('nextButton');
+    const lastButton = document.getElementById('lastButton');
+    const formulaExplanation = document.getElementById('formulaExplanation');
+    
+    // Erklärungen für die Zeichen
+    const symbolExplanations = {
+        "//": "// ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.",
+        "-": "- kennzeichnet Goals die nicht zum Ziel führen oder führen sollen.",
+        "ADJ": "ADJ kennzeichnet ein Verb das als Adjektiv verwendet wird (machen - machbar).",
+        "NO/": "NO/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht werden kann, weil etwas entscheidendes nicht vorhanden ist.",
+        "NOT/": "NOT/ ist ein Prefix das bedeutet, dass das Goal nicht erreicht wird.",
+        "CP/": "CP/ Change Position ist ein Prefix das bedeutet, dass der Code für einen Antagonisten steht, dem das passiert was ihm der Akteur mit diesem Code antut.",
+        "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
+    };
+    
+    // Konstante für die Datendatei
+    const DATA_FILE = 'Coded_Verbs_100.txt';
+    
+    // Initialisiere das System
+    initSystem();
+    
+    async function initSystem() {
+        // Lade die Daten
+        await loadAllData();
+        
+        // Aktiviere die Buttons
+        updateNavButtons();
+    }
+    
+    // Event-Listeners für Formel-Zusätze
+    document.querySelectorAll('.formula-item').forEach(item => {
+        item.addEventListener('click', function() {
+            // Entferne aktive Klasse von allen Items
+            document.querySelectorAll('.formula-item').forEach(i => {
+                i.classList.remove('active');
             });
             
-            // Hilfsfunktion: Ermittle den Dateinamen basierend auf dem Buchstaben
-            function getFileNameForLetter(letter) {
-                if (!letter) return null;
-                // Einfache Dateinamen, keine Umlaute
-                return `D_${letter}.txt`;
-            }
+            // Füge aktive Klasse zum angeklickten Item hinzu
+            this.classList.add('active');
             
-            // Hilfsfunktion: Ermittle den Buchstaben für die Dateisuche (für Umlaute)
-            function getFileLetter(letter) {
-                if (!letter) return null;
-                // Normalisiere zuerst auf Großbuchstaben
-                letter = letter.toUpperCase();
-                // Umlaute dem entsprechenden Grundbuchstaben zuordnen
-                return UMLAUT_MAP[letter] || letter;
-            }
-            
-            // Hilfsfunktion: Lade eine Datei basierend auf dem Anfangsbuchstaben
-            async function loadFileForLetter(letter) {
-                if (!letter) {
-                    throw new Error("Kein Buchstabe angegeben");
-                }
-                
-                // Konvertiere Umlaute für die Dateisuche
-                const fileLetter = getFileLetter(letter);
-                
-                // Prüfe, ob der Buchstabe verfügbar ist
-                if (availableFiles[fileLetter] === false) {
-                    throw new Error(`Datei für Buchstaben "${letter}" ist nicht verfügbar.`);
-                }
-                
-                // Prüfe den Cache (für den ursprünglichen Buchstaben)
-                if (cachedFiles[letter]) {
-                    console.log(`Verwende gecachte Datei für "${letter}"`);
-                    return cachedFiles[letter];
-                }
-                
-                const fileName = getFileNameForLetter(fileLetter);
-                console.log(`Lade Datei "${fileName}" für Buchstaben "${letter}" (File-Buchstabe: ${fileLetter})...`);
-                
-                // Zeige Ladeindikator
-                loadingIndicator.style.display = 'block';
-                
-                try {
-                    const response = await fetch(fileName);
-                    
-                    if (!response.ok) {
-                        availableFiles[fileLetter] = false;
-                        throw new Error(`Datei ${fileName} konnte nicht geladen werden (${response.status})`);
-                    }
-                    
-                    const text = await response.text();
-                    
-                    // Prüfe ob der Text nicht leer ist
-                    if (!text.trim()) {
-                        throw new Error(`Datei ${fileName} ist leer.`);
-                    }
-                    
-                    // Speichere im Cache
-                    cachedFiles[letter] = text;
-                    currentFile = letter;
-                    availableFiles[fileLetter] = true;
-                    
-                    console.log(`Datei "${fileName}" erfolgreich geladen.`);
-                    return text;
-                } catch (error) {
-                    console.error(`Fehler beim Laden der Datei "${fileName}":`, error);
-                    throw error;
-                } finally {
-                    // Verstecke Ladeindikator
-                    loadingIndicator.style.display = 'none';
-                }
-            }
-            
-            // Lade eine Datei und verarbeite sie
-            async function loadAndProcessFile(letter) {
-                try {
-                    // Konvertiere Umlaute
-                    const fileLetter = getFileLetter(letter);
-                    
-                    // Prüfe, ob der Buchstabe gültig ist
-                    if (!fileLetter || !AVAILABLE_LETTERS.includes(fileLetter)) {
-                        console.error(`Ungültiger Buchstabe: ${letter} (File-Buchstabe: ${fileLetter})`);
-                        return false;
-                    }
-                    
-                    // Wenn wir bereits die richtige Datei geladen haben, nichts tun
-                    if (currentFile === letter && verbEntries.length > 0) {
-                        console.log(`Datei für '${letter}' ist bereits geladen.`);
-                        return true;
-                    }
-                    
-                    // Prüfe, ob die Datei verfügbar ist
-                    if (availableFiles[fileLetter] === false) {
-                        console.warn(`Datei für Buchstaben "${letter}" ist nicht verfügbar.`);
-                        showError(`Datei für Buchstaben "${letter}" ist nicht verfügbar.`);
-                        return false;
-                    }
-                    
-                    console.log(`Lade Datei für Buchstaben '${letter}'...`);
-                    
-                    // Lade die Datei
-                    const text = await loadFileForLetter(letter);
-                    
-                    // Verarbeite die Daten
-                    processVerbFile(text);
-                    
-                    console.log(`Datei für '${letter}' erfolgreich geladen und verarbeitet.`);
-                    
-                    return verbEntries.length > 0;
-                } catch (error) {
-                    console.error(`Fehler beim Laden der Datei für "${letter}":`, error);
-                    showError(`Fehler beim Laden der Datei für "${letter}": ${error.message}`);
-                    return false;
-                }
-            }
-            
-            // Suche nach einem Verb mit dynamischem Laden der passenden Datei
-            async function searchVerbWithFileLoading(term) {
-                if (!term) {
-                    hideSuggestions();
-                    return false;
-                }
-                
-                term = term.toLowerCase().trim();
-                let firstLetter = term.charAt(0).toUpperCase();
-                
-                // Konvertiere den ersten Buchstaben für die Dateisuche
-                const fileLetter = getFileLetter(firstLetter);
-                
-                // Prüfe, ob die entsprechende Datei verfügbar ist
-                if (!AVAILABLE_LETTERS.includes(fileLetter)) {
-                    showError(`Verben mit dem Anfangsbuchstaben "${firstLetter}" sind nicht verfügbar.`);
-                    return false;
-                }
-                
-                // Prüfe, ob wir die richtige Datei bereits geladen haben
-                if (currentFile !== firstLetter) {
-                    try {
-                        // Lade die passende Datei für den Buchstaben
-                        const success = await loadAndProcessFile(firstLetter);
-                        
-                        if (!success) {
-                            // Wenn das Laden fehlschlägt, versuche es mit dem Grundbuchstaben
-                            if (firstLetter !== fileLetter) {
-                                const success2 = await loadAndProcessFile(fileLetter);
-                                if (!success2) {
-                                    showError(`Konnte keine Verben mit dem Anfangsbuchstaben "${firstLetter}" laden.`);
-                                    return false;
-                                }
-                            } else {
-                                showError(`Konnte keine Verben mit dem Anfangsbuchstaben "${firstLetter}" laden.`);
-                                return false;
-                            }
-                        }
-                    } catch (error) {
-                        showError(`Fehler beim Laden der Datei: ${error.message}`);
-                        return false;
-                    }
-                }
-                
-                // Jetzt können wir in den geladenen Einträgen suchen
-                return searchVerb(term);
-            }
-            
-            // Rest des Codes bleibt unverändert, da die obigen Änderungen die Probleme beheben sollten
-            // ...
-            
-            // Navigation zum vorherigen Eintrag (auch über Dateigrenzen)
-            async function goToPrevious() {
-                // Speichern Sie den aktuellen Zustand vor der Navigation
-                const previousFile = currentFile;
-                const previousIndex = currentIndex;
-                
-                if (currentIndex > 0) {
-                    // Zum vorherigen Eintrag in der aktuellen Datei wechseln
-                    displayEntry(currentIndex - 1);
-                } else {
-                    // Suche nach dem vorherigen verfügbaren Buchstaben
-                    const currentFileLetter = getFileLetter(currentFile);
-                    const currentPos = AVAILABLE_LETTERS.indexOf(currentFileLetter);
-                    let prevLetter = null;
-                    
-                    // Durchlaufe alle vorherigen Buchstaben (rückwärts)
-                    for (let i = currentPos - 1; i >= 0; i--) {
-                        const letter = AVAILABLE_LETTERS[i];
-                        if (availableFiles[letter]) {
-                            prevLetter = letter;
-                            break;
-                        }
-                    }
-                    
-                    if (prevLetter) {
-                        console.log(`Navigiere zu vorherigem Buchstaben: ${prevLetter}`);
-                        try {
-                            // Lade die vorherige Datei
-                            const success = await loadAndProcessFile(prevLetter);
-                            
-                            if (success && verbEntries.length > 0) {
-                                // Springe zum letzten Eintrag dieser Datei
-                                displayEntry(verbEntries.length - 1);
-                            } else {
-                                // Bei Fehlern den vorherigen Zustand wiederherstellen
-                                if (previousFile && previousIndex >= 0) {
-                                    await loadAndProcessFile(previousFile);
-                                    displayEntry(previousIndex);
-                                }
-                                showError(`Fehler beim Laden der Datei für '${prevLetter}'`);
-                            }
-                        } catch (error) {
-                            console.error(`Fehler beim Laden der Datei ${prevLetter}:`, error);
-                            // Bei Fehlern vorherigen Zustand wiederherstellen
-                            if (previousFile && previousIndex >= 0) {
-                                await loadAndProcessFile(previousFile);
-                                displayEntry(previousIndex);
-                            }
-                            showError(`Fehler beim Laden der Datei für '${prevLetter}': ${error.message}`);
-                        }
-                    } else {
-                        showError("Sie befinden sich bereits am Anfang der Datenbank.");
-                    }
-                }
-            }
-            
-            // Navigation zum nächsten Eintrag (auch über Dateigrenzen)
-            async function goToNext() {
-                // Speichern Sie den aktuellen Zustand vor der Navigation
-                const previousFile = currentFile;
-                const previousIndex = currentIndex;
-                
-                if (currentIndex < verbEntries.length - 1) {
-                    // Zum nächsten Eintrag in der aktuellen Datei wechseln
-                    displayEntry(currentIndex + 1);
-                } else {
-                    // Suche nach dem nächsten verfügbaren Buchstaben
-                    const currentFileLetter = getFileLetter(currentFile);
-                    const currentPos = AVAILABLE_LETTERS.indexOf(currentFileLetter);
-                    let nextLetter = null;
-                    
-                    // Durchlaufe alle folgenden Buchstaben
-                    for (let i = currentPos + 1; i < AVAILABLE_LETTERS.length; i++) {
-                        const letter = AVAILABLE_LETTERS[i];
-                        if (availableFiles[letter]) {
-                            nextLetter = letter;
-                            break;
-                        }
-                    }
-                    
-                    if (nextLetter) {
-                        console.log(`Navigiere zu nächstem Buchstaben: ${nextLetter}`);
-                        try {
-                            // Lade die nächste Datei
-                            const success = await loadAndProcessFile(nextLetter);
-                            
-                            if (success && verbEntries.length > 0) {
-                                // Springe zum ersten Eintrag dieser Datei
-                                displayEntry(0);
-                            } else {
-                                // Bei Fehlern den vorherigen Zustand wiederherstellen
-                                if (previousFile && previousIndex >= 0) {
-                                    await loadAndProcessFile(previousFile);
-                                    displayEntry(previousIndex);
-                                }
-                                showError(`Fehler beim Laden der Datei für '${nextLetter}'`);
-                            }
-                        } catch (error) {
-                            console.error(`Fehler beim Laden der Datei ${nextLetter}:`, error);
-                            // Bei Fehlern vorherigen Zustand wiederherstellen
-                            if (previousFile && previousIndex >= 0) {
-                                await loadAndProcessFile(previousFile);
-                                displayEntry(previousIndex);
-                            }
-                            showError(`Fehler beim Laden der Datei für '${nextLetter}': ${error.message}`);
-                        }
-                    } else {
-                        showError("Sie haben das Ende der Datenbank erreicht.");
-                    }
-                }
-            }
-            
-            // Der Rest des Skripts bleibt unverändert
-            // ...
+            // Zeige die passende Erklärung an
+            const symbol = this.getAttribute('data-symbol');
+            formulaExplanation.textContent = symbolExplanations[symbol] || "Keine Erklärung verfügbar";
         });
-    </script>
-</body>
-</html>
+    });
+    
+    // Lade alle Daten aus der Datei
+    async function loadAllData() {
+        loadingIndicator.style.display = 'block';
+        
+        try {
+            console.log(`Lade Datei ${DATA_FILE}...`);
+            const response = await fetch(DATA_FILE);
+            
+            if (!response.ok) {
+                throw new Error(`Fehler beim Laden der Datei: ${response.status}`);
+            }
+            
+            const text = await response.text();
+            
+            if (!text || !text.trim()) {
+                throw new Error('Die Datei enthält keine Daten.');
+            }
+            
+            // Verarbeite die Daten
+            processVerbFile(text);
+            dataLoaded = true;
+            
+            console.log('Daten erfolgreich geladen und verarbeitet.');
+            
+            // Zeige den ersten Eintrag an, wenn vorhanden
+            if (verbEntries.length > 0) {
+                displayEntry(0);
+            }
+        } catch (error) {
+            console.error('Fehler beim Laden der Daten:', error);
+            showError(`Fehler beim Laden der Daten: ${error.message}`);
+        } finally {
+            loadingIndicator.style.display = 'none';
+        }
+    }
+    
+    // Verarbeite die Verbdatei und strukturiere die Daten
+    function processVerbFile(text) {
+        console.log("Verarbeite Datei...");
+        
+        // Zurücksetzen der aktuellen Daten
+        verbEntries = [];
+        uniqueVerbs = [];
+        
+        // Teile den Text in Blöcke auf (Leerzeilen als Trenner)
+        const blocks = text.split(/\n\s*\n/);
+        console.log(`Gefundene Textblöcke: ${blocks.length}`);
+        
+        // Temporäres Array für die Einträge
+        let tempEntries = [];
+        
+        // Verarbeite jeden Block (ein Block = ein Eintrag mit Begründung)
+        for (let blockIndex = 0; blockIndex < blocks.length; blockIndex++) {
+            const block = blocks[blockIndex].trim();
+            if (!block) continue; // Leere Blöcke überspringen
+            
+            const lines = block.split('\n');
+            
+            // Finde die Verb-Zeile (sollte die erste sein)
+            let verbLine = null;
+            let explanationLine = null;
+            
+            for (let i = 0; i < lines.length; i++) {
+                const line = lines[i].trim();
+                if (!line) continue;
+                
+                if (line.startsWith('Begründung:')) {
+                    explanationLine = line;
+                } else if (line.includes(':')) {
+                    verbLine = line;
+                }
+            }
+            
+            if (verbLine) {
+                const colonPos = verbLine.indexOf(':');
+                const verb = verbLine.substring(0, colonPos).trim();
+                const code = verbLine.substring(colonPos + 1).trim();
+                
+                // Extrahiere die Begründung, falls vorhanden
+                let explanation = "";
+                if (explanationLine) {
+                    explanation = explanationLine.substring('Begründung:'.length).trim();
+                }
+                
+                // Füge den Eintrag hinzu
+                tempEntries.push({
+                    verb: verb,
+                    code: code,
+                    explanation: explanation,
+                    blockIndex: blockIndex // Für die Sortierung
+                });
+            }
+        }
+        
+        // Gruppiere nach Verb und nummeriere
+        const verbGroups = {};
+        tempEntries.forEach(entry => {
+            if (!verbGroups[entry.verb]) {
+                verbGroups[entry.verb] = [];
+            }
+            verbGroups[entry.verb].push(entry);
+        });
+        
+        // Erstelle die finale Liste mit Bedeutungsnummern
+        uniqueVerbs = Object.keys(verbGroups).sort();
+        
+        uniqueVerbs.forEach((verb, verbIndex) => {
+            // Sortiere nach der ursprünglichen Reihenfolge im Text
+            const sortedEntries = verbGroups[verb].sort((a, b) => a.blockIndex - b.blockIndex);
+            
+            // Füge Bedeutungsnummern hinzu
+            sortedEntries.forEach((entry, index) => {
+                verbEntries.push({
+                    verb: entry.verb,
+                    code: entry.code,
+                    explanation: entry.explanation,
+                    meaningNumber: index + 1,
+                    totalMeanings: sortedEntries.length,
+                    verbIndex: verbIndex + 1 // 1-basierter Index des Verbs in der alphabetischen Liste
+                });
+            });
+        });
+        
+        console.log("Verarbeitung abgeschlossen");
+        console.log(`Gefundene Einträge: ${verbEntries.length}`);
+        console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
+    }
+    
+    // Zeige einen Eintrag an
+    function displayEntry(index) {
+        if (index < 0 || index >= verbEntries.length) {
+            showError('Ungültiger Index: ' + index);
+            return;
+        }
+        
+        const entry = verbEntries[index];
+        currentIndex = index;
+        
+        // Verb anzeigen
+        currentVerb.textContent = entry.verb;
+        currentVerb.style.color = 'black'; // Schwarz statt Blau
+        
+        // Code anzeigen
+        codeDisplay.textContent = entry.code;
+        
+        // Begründung anzeigen
+        if (entry.explanation && entry.explanation.trim()) {
+            explanationDisplay.textContent = entry.explanation;
+            explanationDisplay.style.display = 'block';
+        } else {
+            explanationDisplay.textContent = "Keine Begründung verfügbar";
+            explanationDisplay.style.display = 'block';
+        }
+        
+        // Keine Alternativen mehr anzeigen, da jede Bedeutung einzeln dargestellt wird
+        alternativesArea.style.display = 'none';
+        
+        // Fehler und Vorschläge zurücksetzen
+        hideError();
+        hideSuggestions();
+        
+        // Scrolle nach oben
+        window.scrollTo(0, 0);
+        
+        // Aktualisiere die Navigation
+        updateNavButtons();
+    }
+    
+    // Navigation zum vorherigen Eintrag
+    function goToPrevious() {
+        if (currentIndex > 0) {
+            displayEntry(currentIndex - 1);
+        } else {
+            showError("Sie befinden sich bereits am Anfang der Datenbank.");
+        }
+    }
+    
+    // Navigation zum nächsten Eintrag
+    function goToNext() {
+        if (currentIndex < verbEntries.length - 1) {
+            displayEntry(currentIndex + 1);
+        } else {
+            showError("Sie haben das Ende der Datenbank erreicht.");
+        }
+    }
+    
+    // Navigation zum ersten Eintrag
+    function goToFirst() {
+        if (verbEntries.length > 0) {
+            displayEntry(0);
+        } else {
+            showError("Keine Daten verfügbar.");
+        }
+    }
+    
+    // Navigation zum letzten Eintrag
+    function goToLast() {
+        if (verbEntries.length > 0) {
+            displayEntry(verbEntries.length - 1);
+        } else {
+            showError("Keine Daten verfügbar.");
+        }
+    }
+    
+    // Suche nach einem Verb
+    function searchVerb(term) {
+        if (!term) {
+            hideSuggestions();
+            return false;
+        }
+        
+        // Wenn Daten noch nicht geladen wurden, warte
+        if (!dataLoaded || verbEntries.length === 0) {
+            showError("Die Daten werden noch geladen. Bitte versuchen Sie es in wenigen Sekunden erneut.");
+            return false;
+        }
+        
+        term = term.toLowerCase().trim();
+        
+        // Exakte Übereinstimmung suchen (erste Bedeutung)
+        const exactMatch = verbEntries.findIndex(entry => 
+            entry.verb.toLowerCase() === term && entry.meaningNumber === 1
+        );
+        
+        if (exactMatch !== -1) {
+            displayEntry(exactMatch);
+            hideError();
+            hideSuggestions();
+            return true;
+        }
+        
+        // Suche nach Verben, die mit dem Suchbegriff beginnen (erste Bedeutung)
+        const startsWith = verbEntries.findIndex(entry => 
+            entry.verb.toLowerCase().startsWith(term) && entry.meaningNumber === 1
+        );
+        
+        if (startsWith !== -1) {
+            displayEntry(startsWith);
+            
+            // Zeige Vorschläge für ähnliche Verben
+            showSimilarVerbs(term);
+            return true;
+        }
+        
+        // Teilübereinstimmung (erste Bedeutung)
+        const partialMatch = verbEntries.findIndex(entry => 
+            entry.verb.toLowerCase().includes(term) && entry.meaningNumber === 1
+        );
+        
+        if (partialMatch !== -1) {
+            displayEntry(partialMatch);
+            
+            // Zeige Vorschläge für ähnliche Verben
+            showSimilarVerbs(term);
+            return true;
+        }
+        
+        // Wenn keine erste Bedeutung gefunden wurde, suche nach beliebiger Bedeutung
+        const anyMatch = verbEntries.findIndex(entry => 
+            entry.verb.toLowerCase().includes(term)
+        );
+        
+        if (anyMatch !== -1) {
+            displayEntry(anyMatch);
+            showSimilarVerbs(term);
+            return true;
+        }
+        
+        // Keine Übereinstimmung gefunden
+        showError(`Das Verb "${term}" wurde nicht gefunden. Möglicherweise ist es nicht in unserer Datenbank enthalten oder anders geschrieben.`);
+        showSimilarVerbs(term);
+        return false;
+    }
+    
+    // Zeige ähnliche Verben als Vorschläge
+    function showSimilarVerbs(term) {
+        if (!term || term.length < 2) {
+            hideSuggestions();
+            return;
+        }
+        
+        // Finde einzigartige Verben (keine Duplikate wegen mehrerer Bedeutungen)
+        const similarVerbs = uniqueVerbs
+            .filter(verb => verb.toLowerCase().includes(term.toLowerCase()))
+            .slice(0, 5);  // Begrenze auf 5 Vorschläge
+        
+        if (similarVerbs.length > 0) {
+            suggestions.innerHTML = 'Ähnliche Verben: ' + 
+                similarVerbs.map(verb => `<a href="#" class="verb-suggestion">${verb}</a>`).join(', ');
+            suggestions.style.display = 'block';
+            
+            // Event-Listener für Vorschläge
+            document.querySelectorAll('.verb-suggestion').forEach(link => {
+                link.addEventListener('click', function(e) {
+                    e.preventDefault();
+                    const selectedVerb = this.textContent;
+                    searchInput.value = selectedVerb;
+                    searchVerb(selectedVerb);
+                });
+            });
+        } else {
+            hideSuggestions();
+        }
+    }
+    
+    // Prüfe, ob ein String ein gültiges deutsches Verb ist
+    function isValidGermanVerb(text) {
+        // Vereinfachte Prüfung: ein deutsches Verb endet typischerweise auf -en, -eln, -ern
+        // und enthält keine Zahlen oder Sonderzeichen (außer ä, ö, ü, ß)
+        const germanVerbPattern = /^[a-zäöüß]+(?:en|eln|ern)$/i;
+        
+        return germanVerbPattern.test(text.trim());
+    }
+    
+    // Fehler anzeigen
+    function showError(message) {
+        errorMessage.textContent = message;
+        errorMessage.style.display = 'block';
+    }
+    
+    // Fehler ausblenden
+    function hideError() {
+        errorMessage.style.display = 'none';
+    }
+    
+    // Vorschläge ausblenden
+    function hideSuggestions() {
+        suggestions.style.display = 'none';
+    }
+    
+    // Navigationsbuttons aktualisieren
+    function updateNavButtons() {
+        // Prüfe die aktuelle Position
+        const isFirstEntry = currentIndex === 0;
+        const isLastEntry = currentIndex === verbEntries.length - 1;
+        
+        // Aktiviere/deaktiviere Buttons entsprechend
+        firstButton.disabled = isFirstEntry;
+        prevButton.disabled = isFirstEntry;
+        nextButton.disabled = isLastEntry;
+        lastButton.disabled = isLastEntry;
+    }
+    
+    // Event-Listener registrieren
+    
+    // Live-Suche mit Timeout
+    searchInput.addEventListener('input', function() {
+        const term = this.value.trim();
+        
+        // Ignoriere kurze Eingaben für die Live-Suche
+        if (term.length < 2) {
+            hideSuggestions();
+            return;
+        }
+        
+        // Setze früheren Timeout zurück
+        clearTimeout(searchTimeout);
+        
+        // Warte kurz, bevor die Suche durchgeführt wird
+        searchTimeout = setTimeout(() => {
+            if (term !== lastSearchTerm) {
+                searchVerb(term);
+                lastSearchTerm = term;
+            }
+        }, 300);
+    });
+    
+    // Such-Button
+    searchButton.addEventListener('click', function() {
+        const term = searchInput.value.trim();
+        
+        if (!term) {
+            showError('Bitte geben Sie ein Verb ein.');
+            return;
+        }
+        
+        if (!isValidGermanVerb(term) && term.length > 2) {
+            showError('Bitte geben Sie ein gültiges deutsches Verb ein (endet typischerweise auf -en, -eln oder -ern).');
+            return;
+        }
+        
+        searchVerb(term);
+    });
+    
+    // Navigationstasten
+    prevButton.addEventListener('click', goToPrevious);
+    nextButton.addEventListener('click', goToNext);
+    firstButton.addEventListener('click', goToFirst);
+    lastButton.addEventListener('click', goToLast);
+    
+    // Tastatur-Navigation
+    document.addEventListener('keydown', function(e) {
+        if (e.target === searchInput) {
+            // Wenn im Suchfeld, nur bei Enter-Taste suchen
+            if (e.key === 'Enter') {
+                const term = searchInput.value.trim();
+                if (term) {
+                    searchVerb(term);
+                }
+            }
+            return;
+        }
+        
+        // Sonst allgemeine Navigation
+        switch (e.key) {
+            case 'ArrowLeft':
+                goToPrevious();
+                break;
+            case 'ArrowRight':
+                goToNext();
+                break;
+            case 'Home':
+                goToFirst();
+                break;
+            case 'End':
+                goToLast();
+                break;
+        }
+    });
+});
