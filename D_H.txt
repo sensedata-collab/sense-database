@@ -10,6 +10,7 @@ Begründung: Im landwirtschaftlichen Kontext ist Hacken eine Bewegung (3) zur Bo
 hacken: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Im handwerklichen Kontext bedeutet Hacken das aktive Bewegen (3) einer Axt oder eines ähnlichen Werkzeugs, um Holz zu spalten oder zu bearbeiten und so einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 haften: Material/Adhesive 2/3/Goal 2/het/ecc
 Begründung: Haften bezeichnet im Hauptsinn das Anhängen/Festsitzen eines Objekts an einer Oberfläche. Der Akteur verfügt über ein Objekt (2), das durch eine Kraft/Eigenschaft (3) in einem gewünschten Zustand (Goal 2) gehalten wird. Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang von äußeren Kräften abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -19,17 +20,20 @@ Begründung: In der rechtlichen Bedeutung bedeutet haften, dass der Akteur eine 
 haften: Material/Responsibility 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Im Sinne von 'verantwortlich sein' bedeutet haften, dass der Akteur eine Leistung (4) erbringt, indem er die Kontrolle (2) übernimmt, um einen gewünschten Zustand für den Geschädigten herzustellen (Goal 2), mit dem Ziel, seiner gesellschaftlichen Verpflichtung nachzukommen (//Goal 4).. Heteronom/Exzentrisch.
 
+
 halluzinieren: Material/Psychological 5/3/1/Goal -5/het/ecc
 Begründung: Halluzinieren bedeutet, dass der Akteur Informationen erhält (5/1), die aber nicht real sind, sondern durch innere Prozesse erzeugt werden (3). Dies führt zu einem unzuverlässigen Informationszustand (Goal -5), da die wahrgenommenen Informationen nicht der Realität entsprechen. Die Ausrichtung ist heteronom/exzentrisch, weil der Akteur nicht die Kontrolle über die Halluzinationen hat und diese als von außen kommend wahrnimmt.. Heteronom/Exzentrisch.
 
 halluzinieren: Material/Paranormal 5/3/1/Goal 5/het/ecc
 Begründung: In einem parapsychologischen Kontext könnte Halluzinieren als das Wahrnehmen (5) und Bekommen (1) von Informationen verstanden werden, die durch einen mentalen Bewegungsprozess (3) übermittelt werden und tatsächlich zu einem Informiertsein (Goal 5) führen - wenn man von der Existenz übersinnlicher Phänomene ausgeht. Die Wahrnehmung wäre heteronom und nach außen gerichtet.. Heteronom/Exzentrisch.
 
+
 haltbarmachen: Material/Preservation 2/3/Goal 2/aut/ecc
 Begründung: Lebensmittel oder andere Waren haltbar machen bedeutet, dass der Akteur bestimmt/verfügt (2) über Materialien und durch Bearbeitung/Transformation (3) einen gewünschten Zustand erreicht, nämlich die verlängerte Haltbarkeit (Goal 2). Der Prozess ist autonom und nach außen gerichtet (aut/ecc), da der Akteur aktiv auf die Objekte einwirkt.. Autonom/Exzentrisch.
 
 haltbarmachen: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
 Begründung: Im Kontext der Lebensmittelverarbeitung bedeutet haltbarmachen, dass der Akteur verfügt (2) über Lebensmittel und durch Bearbeitung (3) einen Zustand erreicht, der sowohl die Haltbarkeit sicherstellt (Goal 2) als auch die spätere Nahrungsaufnahme ermöglicht (Goal 1).. Autonom/Exzentrisch.
+
 
 halten: Material 2/Goal 2/aut/con
 Begründung: Halten bedeutet, durch Verfügen/Kontrollieren (2) über ein Objekt einen gewünschten Zustand (Goal 2) zu bewahren. Der Akteur bestimmt autonom (aut) über das Objekt in seinem Kontrollbereich (con).. Autonom/Konzentrisch.
@@ -49,6 +53,7 @@ Begründung: In Beziehungen bedeutet halten, durch Verfügen/Kontrollieren (2) e
 halten: Material/Obligation 4/Goal 2//Goal 4/het/ecc
 Begründung: Ein Versprechen halten bedeutet, eine Leistung (4) für einen Antagonisten zu erbringen, um dessen gewünschten Zustand (Goal 2) herzustellen, mit dem Ziel der Anerkennung für den Akteur (//Goal 4).. Heteronom/Exzentrisch.
 
+
 handeln: Material/Business 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: In der primären Bedeutung des Handels bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er etwas gibt/überträgt (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2). Nach dem Wechsel zurück zum Akteur (//), ist dessen Ziel, geschäftlich Geld/Anerkennung zu bekommen (Goal 4). Diese Aktivität ist autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
@@ -61,6 +66,7 @@ Begründung: Im allgemeinen Sinne von 'tätig werden/agieren' bewegt sich der Ak
 handeln: Material/Negotiation 3/5/Goal 2/aut/ecc
 Begründung: Im Sinne von 'verhandeln' bewegt sich der Akteur (3) im Feld der Information und Kommunikation (5), um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 handhaben: Material/Control 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) über ein Objekt und bewegt/bearbeitet es (3), um einen gewünschten Zustand zu erreichen (Goal 2). Das Handhaben bezieht sich auf die geschickte Manipulation und Kontrolle von Gegenständen.. Autonom/Exzentrisch.
 
@@ -70,8 +76,10 @@ Begründung: In einem Management-Kontext bedeutet handhaben das bestimmte Verfü
 handhaben: Material/Problem-Solving 2/3/Goal 2/het/ecc
 Begründung: Im Sinne des Umgangs mit schwierigen Situationen bedeutet handhaben das kontrollierte (2) Bewältigen (3) einer Herausforderung, um einen gewünschten Zustand zu erreichen (Goal 2), wobei man sich an die Gegebenheiten anpassen muss (het/ecc).. Heteronom/Exzentrisch.
 
+
 handlungsanweisen: Material/Leadership 2/4/1/5//Goal 2/Goal 4/aut/con
 Begründung: Der Akteur bestimmt (2) eine Leistung für einen Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), mit dem Ziel, dass ein gewünschter Zustand für den Akteur hergestellt wird (//Goal 2) und letztendlich Anerkennung/Vergütung zu bekommen (Goal 4). Die Ausrichtung ist autonom-konzentrisch (aut/con), da der Akteur selbstbestimmt innerhalb seines Verantwortungsbereichs handelt.. Autonom/Konzentrisch.
+
 
 hangeln: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Hangeln bedeutet, sich mit den Händen an etwas entlangbewegen (3), um eine bestimmte Destination zu erreichen (Goal 3). Der Akteur bewegt seinen Körper aktiv und selbstbestimmt (aut) nach außen gerichtet (ecc), indem er sich von Griff zu Griff fortbewegt. Dies ist eine spezifische Form der körperlichen Fortbewegung.. Autonom/Exzentrisch.
@@ -79,11 +87,13 @@ Begründung: Hangeln bedeutet, sich mit den Händen an etwas entlangbewegen (3),
 hangeln: Material/Sports/Training 3/Goal 2/aut/ecc
 Begründung: Im sportlichen Kontext kann hangeln auch bedeuten, sich an einer Stange oder einem Seil entlangzuhangeln (3), um einen gewünschten körperlichen Trainingszustand zu erreichen (Goal 2), etwa zur Stärkung der Armmuskulatur. Die Aktivität ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 harken: Material/Garden 3/Goal 2/aut/ecc
 Begründung: Beim Harken bewegt (3) der Akteur ein Werkzeug (Harke), um einen gewünschten Zustand (Goal 2) wie einen glatten, von Laub oder Steinen befreiten Boden zu erreichen. Die Tätigkeit ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt auf die Umgebung einwirkt.. Autonom/Exzentrisch.
 
 harken: Material/Agriculture 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im landwirtschaftlichen Kontext beinhaltet Harken das Bewegen (3) eines Werkzeugs, um einen gewünschten Bodenzustand (Goal 2) zu erreichen, mit dem zusätzlichen Ziel, eine berufliche Leistung zu erbringen und dafür Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
 
 harmonieren: Material/Music 2/4/Goal 2/Goal 4/het/ecc
 Begründung: Der Akteur verfügt (2) über sein musikalisches Können und leistet (4) einen Beitrag zur Gesamtkomposition, um einen gewünschten Zustand (Goal 2) zu erreichen und Anerkennung (Goal 4) zu bekommen. Der Prozess ist heteronom, da der Akteur sich an andere Musikelemente anpassen muss, und exzentrisch, da das Ergebnis nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -94,6 +104,7 @@ Begründung: In zwischenmenschlichen Beziehungen bedeutet harmonieren, dass der 
 harmonieren: Material/Cooperation 4/3/Goal 2//Goal 2/het/ecc
 Begründung: Im Kontext der Zusammenarbeit bedeutet harmonieren, dass der Akteur eine Leistung erbringt (4) und seine Handlungen bewegt/anpasst (3), um einen gewünschten Zustand (Goal 2) für den Antagonisten zu erreichen, der gleichzeitig dem eigenen Ziel (//Goal 2) entspricht. Es findet eine Anpassung im Außenbereich statt (het/ecc).. Heteronom/Exzentrisch.
 
+
 harmonisieren: Material/Music 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über musikalische Elemente und bewegt/verändert (3) sie, um einen gewünschten harmonischen Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf musikalische Elemente einwirkt.. Autonom/Exzentrisch.
 
@@ -103,8 +114,10 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet harmonisieren, eine Wirkun
 harmonisieren: Material/Legal 2/3/Goal 2/aut/ecc
 Begründung: Im rechtlichen Kontext bedeutet harmonisieren, Bestimmungen/Vorschriften (2) zu bewegen/anzugleichen (3), um einen einheitlichen, konsistenten Rechtszustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf verschiedene Regelwerke einwirkt.. Autonom/Exzentrisch.
 
+
 harren: Material/Persistence 0/Goal 2/het/ecc
 Begründung: Harren bedeutet geduldiges, ausdauerndes Warten auf das Eintreten eines bestimmten Zustands. Der Akteur verharrt in einem Wartezustand (0), bis ein gewünschter Zustand (Goal 2) eintritt. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur von äußeren Bedingungen abhängig ist und sich nach außen orientiert.. Heteronom/Exzentrisch.
+
 
 hassen: Interpersonal/Emotions 1/Goal -1/het/ecc
 Begründung: Hassen bedeutet, dass der Akteur ein starkes negatives Gefühl gegenüber einem Antagonisten empfindet/bekommt (1). Das Ziel dieses Gefühls ist die emotionale Distanzierung (Goal -1), wobei der Akteur sich dem Einfluss des Antagonisten anpasst (het) und nach außen auf ihn gerichtet ist (ecc). Es ist ein Zustand des Empfangens negativer Gefühle, der das Gegenteil von Liebe oder Nähe darstellt.. Heteronom/Exzentrisch.
@@ -112,17 +125,20 @@ Begründung: Hassen bedeutet, dass der Akteur ein starkes negatives Gefühl gege
 hassen: Interpersonal/Psychological 3/Goal 2//Goal -1/aut/ecc
 Begründung: In einem psychologischen Kontext kann Hassen auch bedeuten, dass der Akteur aktiv eine Position der Abgrenzung und Ablehnung (3) einnimmt, um die eigene Autonomie zu wahren (Goal 2), während er gleichzeitig die Nähe zum Antagonisten bekämpft (//Goal -1). Diese Variante betont den aktiveren Aspekt des Hassens als Schutzmechanismus.. Autonom/Exzentrisch.
 
+
 hasten: Material/Movement 3/Goal 3/aut/ecc
 Begründung: Eine Person bewegt sich schnell (3) mit dem Ziel, eine Destination möglichst rasch zu erreichen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da die Person selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
 
 hasten: Material/Time 2/3/Goal 2/aut/ecc
 Begründung: Etwas beschleunigen/vorantreiben im Sinne von: Der Akteur verfügt (2) über einen Prozess und bewegt (3) ihn schneller, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Person bestimmt aktiv über den zeitlichen Ablauf eines Vorgangs.. Autonom/Exzentrisch.
 
+
 haten: Interpersonal/Fight/Dispute 3/Goal 3//Goal -2/aut/ecc
 Begründung: Beim 'haten' bewegt/strebt der Akteur (3) eine negative Wirkung an (Goal 3), mit dem Ziel, den gewünschten Zustand des Antagonisten zu beeinträchtigen (//Goal -2). Der Akteur agiert selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er Abneigung gegenüber dem Antagonisten ausdrückt und versucht, diesen zu schädigen oder herabzusetzen.. Autonom/Exzentrisch.
 
 haten: Material/IT/Social 3/1/5/Goal 3//Goal -2/aut/ecc
 Begründung: Im Online-Kontext bedeutet 'haten' das gezielte Bewegen/Anstreben (3), mit dem Bekommen (1) einer Informationsplattform (5), um eine negative Wirkung zu erzielen (Goal 3) und den gewünschten Zustand des Antagonisten zu beeinträchtigen (//Goal -2), etwa durch negative Kommentare oder Bewertungen in sozialen Medien.. Autonom/Exzentrisch.
+
 
 hauen: Material/Fight/Aggression 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) seine Hand oder ein Schlaginstrument mit dem Ziel, eine Wirkung (Goal 3) auf den Antagonisten auszuüben. Es handelt sich um eine autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
@@ -136,14 +152,69 @@ Begründung: Im handwerklichen Kontext: Der Akteur bewegt (3) ein Werkzeug (z.B.
 hauen: Material/Woodworking 3/1/Goal 2/aut/ecc
 Begründung: Beim Holzbearbeiten: Der Akteur bewegt (3) ein Werkzeug und bekommt (1) eine Veränderung am Material, um einen gewünschten Zustand (Goal 2) zu erreichen, wie beim Behauen von Holz.. Autonom/Exzentrisch.
 
+
 haushalten: Material/Finance 2/3/Goal 2/aut/con
 Begründung: Beim Haushalten verfügt/kontrolliert (2) der Akteur über Ressourcen und bewegt/transformiert (3) diese, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich mit begrenzten Mitteln auszukommen und diese sparsam einzuteilen. Die Kontrolle über finanzielle oder materielle Ressourcen findet im eigenen Kontrollbereich statt (aut/con).. Autonom/Konzentrisch.
 
 haushalten: Material/Management 2/3/Goal 2/Goal 4/aut/con
 Begründung: Im beruflichen Kontext bedeutet haushalten das Verwalten (2) und Einteilen (3) von Ressourcen, um einen gewünschten Zustand zu erreichen (Goal 2) mit dem Ziel der beruflichen Anerkennung (Goal 4).. Autonom/Konzentrisch.
 
+
 hausieren: Material/Sales 3/4/1/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur bewegt sich (3) zu potenziellen Kunden, um eine Leistung zu erbringen (4), indem er Waren anbietet/gibt (1), mit dem Ziel, einen gewünschten Zustand (Verkauf) zu erreichen (Goal 2), um letztendlich Anerkennung/Bezahlung zu bekommen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Gegebenheiten der Kunden und äußeren Umständen richten muss.. Heteronom/Exzentrisch.
+
+
+häckseln: Material/Agriculture 3/Goal 2/aut/ecc
+Begründung: Häckseln bedeutet, organisches Material wie Pflanzen oder Äste mit einer Maschine (Häcksler) in kleine Stücke zu schneiden. Der Akteur bewegt (3) das Material, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die Zerkleinerung des Materials. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein außenliegendes Material einwirkt.. Autonom/Exzentrisch.
+
+häckseln: Material/Waste-Disposal 3/Goal 2/aut/ecc
+Begründung: Im Kontext der Abfallentsorgung bedeutet häckseln das Zerkleinern von zu entsorgenden Materialien wie Papier oder Gartenabfällen. Der Akteur bewegt (3) das Material, um einen gewünschten Zustand (Goal 2) der Zerkleinerung zu erreichen, was die weitere Verarbeitung oder Entsorgung erleichtert.. Autonom/Exzentrisch.
+
+
+häkeln: Material/Crafts 3/Goal 2/aut/ecc
+Begründung: Häkeln bedeutet, einen autonomen Bewegungsvorgang (3) auszuführen, bei dem durch Manipulation eines Fadens mit einer Häkelnadel ein gewünschter Zustand (Goal 2) in Form eines Textilerzeugnisses hergestellt wird. Der Akteur verfügt aktiv über die Bewegung und wirkt nach außen (aut/ecc), um das Material zu formen.. Autonom/Exzentrisch.
+
+
+hämmern: Material/Construction 3/Goal 2/aut/ecc
+Begründung: Hämmern bedeutet, mit einem Hammer auf etwas zu schlagen, um einen gewünschten Zustand zu erreichen. Der Akteur bewegt (3) ein Werkzeug mit Kraft, um ein Material zu formen oder zu befestigen (Goal 2). Die Tätigkeit ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt auf einen externen Gegenstand einwirkt.. Autonom/Exzentrisch.
+
+hämmern: Material/Metalworking 3/Goal 2/aut/ecc
+Begründung: Im Kontext der Metallbearbeitung bedeutet hämmern das gezielte Schlagen mit einem Hammer, um Metall zu formen, zu strecken oder zu biegen. Der Akteur bewegt (3) das Werkzeug, um einen gewünschten Zustand des Werkstücks (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+hämmern: Interpersonal/Psychological 3/Goal 3/aut/ecc
+Begründung: Im übertragenen Sinne bedeutet 'auf etwas hämmern' beharrlich und wiederholt auf jemanden einwirken, um eine bestimmte Wirkung zu erzielen. Der Akteur bewegt sich (3) energisch und wiederholt, um eine spezifische Wirkung beim Antagonisten zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+
+hänseln: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
+Begründung: Hänseln bedeutet, dass der Akteur bewegt (3) eine Leistung erbringt (4), indem er etwas gibt (1), nämlich Informationen (5), die einen unerwünschten Zustand beim Antagonisten bewirken sollen (Goal -2), um selbst eine Wirkung zu erzielen (//Goal 3). Der Akteur ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+hänseln: Material/Fight/Dispute/Interpersonal 3/4/1/5/Goal -2//Goal 3/aut/ecc
+Begründung: In einem materielleren Kontext bedeutet hänseln das bewusste (3) Leisten (4) durch Geben (1) von spöttischen Bemerkungen oder Informationen (5), um einen negativen Zustand beim Antagonisten zu erzeugen (Goal -2), mit dem Ziel einer Wirkung für den Akteur (//Goal 3).. Autonom/Exzentrisch.
+
+
+hätscheln: Interpersonal/Relationship 4/3/1/Goal 1//Goal 4/het/ecc
+Begründung: Hätscheln bedeutet, jemanden übertrieben zu umsorgen und zu verwöhnen. Der Akteur leistet für den Antagonisten (4) durch Bewegungen (3) wie streicheln und umsorgen, ein Bekommen (1) von Nähe und Zuwendung (Goal 1). Nach dem Doppelslash folgt das eigene Ziel des Akteurs: Anerkennung zu bekommen (Goal 4) für seine Fürsorge. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Bedürfnissen des Anderen richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
+
+hätscheln: Interpersonal/Parenting 4/3/1/Goal 1/Goal 2//Goal 4/het/ecc
+Begründung: Im Kontext der Kindererziehung bedeutet hätscheln das übermäßige Verwöhnen eines Kindes. Der Akteur leistet für das Kind (4) durch aktive Zuwendung (3) und Geben (1) von Nähe (Goal 1) und gewünschten Zuständen (Goal 2). Das Ziel des Akteurs selbst (nach //) ist Anerkennung zu bekommen (Goal 4). Die übertriebene Fürsorge kann zu Verzärtelung führen.. Heteronom/Exzentrisch.
+
+
+häufen: Material/Collection 3/1/Goal 2/aut/ecc
+Begründung: Das Verb 'häufen' beschreibt das Bewegen (3) von Objekten, um sie an einem Ort zu sammeln/bekommen (1), mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen, wobei der Akteur autonom handelt und nach außen gerichtet ist (aut/ecc).. Autonom/Exzentrisch.
+
+häufen: Material/Accumulation 3/1/Goal 2/Goal 5/aut/ecc
+Begründung: Im Kontext der Datensammlung bedeutet 'häufen' das gezielte Bewegen (3) und Sammeln/Bekommen (1) von Informationen, um einen gewünschten Zustand (Goal 2) mit dem höheren Ziel des Informiertseins (Goal 5) zu erreichen.. Autonom/Exzentrisch.
+
+häufen: Material/Finance 3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Im finanziellen Kontext bedeutet 'häufen' (z.B. Vermögen anhäufen) das Bewegen (3) und Ansammeln/Bekommen (1) von finanziellen Mitteln, um einen gewünschten Besitzzustand (Goal 2) mit dem übergeordneten Ziel der finanziellen Sicherheit oder Anerkennung (Goal 4) zu erreichen.. Autonom/Exzentrisch.
+
+
+häuslich einrichten: Material/Interior-Design 2/3/Goal 2/aut/con
+Begründung: Der Akteur verfügt/bestimmt (2) über Möbel und Einrichtungsgegenstände und bewegt/platziert sie (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt in seinem eigenen Kontrollbereich handelt.. Autonom/Konzentrisch.
+
+häuslich einrichten: Material/House/Furniture 2/3/Goal 2/aut/con
+Begründung: Im Kontext der Wohnraumgestaltung bedeutet häuslich einrichten, dass der Akteur bestimmt (2), wie Möbel und Einrichtungsgegenstände bewegt/platziert werden (3), um einen gewünschten Wohnzustand zu erreichen (Goal 2).. Autonom/Konzentrisch.
+
 
 hebeln: Material/Mechanical 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt (3) mit einem Hebel an, um einen gewünschten Zustand zu erreichen (Goal 2), wie das Bewegen eines Objekts mittels Hebelwirkung. Die Handlung ist autonom vom Akteur bestimmt (aut) und nach außen auf die Umwelt gerichtet (ecc).. Autonom/Exzentrisch.
@@ -154,6 +225,7 @@ Begründung: Im Kampfkontext bedeutet hebeln, dass der Akteur durch Bewegung/Ans
 hebeln: Material/Finance 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im Finanzbereich bedeutet 'hebeln', dass durch Verfügung über Kapital (2) und Bewegung/Anstreben (3) ein gewünschter Zustand erreicht wird (Goal 2), um letztendlich Geld/Anerkennung zu bekommen (Goal 4), wie bei Hebelwirkung durch Fremdkapital.. Autonom/Exzentrisch.
 
+
 heben: Material/Physical/Movement 3/Goal 2/aut/ecc
 Begründung: Die Aktivität 'heben' beinhaltet das Bewegen (3) eines Objekts, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass sich das Objekt in einer höheren Position befindet. Der Akteur handelt selbstbestimmt (aut) und die Bewegung ist nach außen gerichtet (ecc), da er auf ein Objekt in seiner Umgebung einwirkt.. Autonom/Exzentrisch.
 
@@ -163,11 +235,13 @@ Begründung: Im finanziellen Kontext bedeutet 'heben' (etwa 'Geld heben'), dass 
 heben: Material/Status 3/Goal 2/aut/ecc
 Begründung: Im Sinne von 'den Status heben' bedeutet es, durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine Erhöhung des Status. Der Akteur handelt selbstbestimmt (aut) und die Handlung ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 hecheln: Material/Physical 4/Goal 0/het/ecc
 Begründung: Hecheln bezeichnet eine schnelle, flache Atmung bei Anstrengung oder Hitze. Der Körper leistet (4) eine erhöhte Atmung, um den Körper abzukühlen und in einen Basiszustand (Goal 0) zurückzukehren. Die Ausrichtung ist heteronom/exzentrisch, da der Prozess unwillkürlich erfolgt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 hecheln: Material/Animal 4/Goal 0/het/ecc
 Begründung: Bei Tieren, besonders Hunden, ist Hecheln ein natürlicher Kühlmechanismus durch schnelle Atmung mit heraushängender Zunge. Der Körper leistet (4) eine erhöhte Atmungsaktivität, um in einen kühleren Basiszustand (Goal 0) zurückzukehren.. Heteronom/Exzentrisch.
+
 
 hechten: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) mit einer schnellen, werfenden Körperbewegung, um eine bestimmte Destination/Wirkung zu erreichen (Goal 3). Dies beschreibt die Bewegung des 'Hechtsprungs', bei dem sich jemand mit dem ganzen Körper nach vorne wirft, um ein Ziel zu erreichen.. Autonom/Exzentrisch.
@@ -175,17 +249,20 @@ Begründung: Der Akteur bewegt sich (3) mit einer schnellen, werfenden Körperbe
 hechten: Material/Sports 3/Goal 3/aut/ecc
 Begründung: Im sportlichen Kontext beschreibt 'hechten' einen gezielten Sprung oder Wurf des eigenen Körpers (3), um eine bestimmte Wirkung zu erzielen, wie beim Torwart, der sich nach dem Ball wirft (Goal 3).. Autonom/Exzentrisch.
 
+
 hedgen: Material/Finance 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Beim Hedgen (Absichern von Finanzpositionen) bestimmt der Akteur (2) durch Bewegungen am Finanzmarkt (3) einen gewünschten Zustand der Absicherung (Goal 2), während er gleichzeitig gegen mögliche negative Marktentwicklungen vorgeht (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt agiert und nach außen in den Markt eingreift. Der Akteur verfügt über Finanzinstrumente und nutzt sie, um sich gegen Risiken abzusichern.. Autonom/Exzentrisch.
 
 hedgen: Material/Business/Competition 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet Hedgen, dass ein Unternehmen bestimmt (2) durch strategische Maßnahmen (3) einen geschützten Zustand zu erreichen (Goal 2), während es gleichzeitig gegen Wettbewerbsrisiken vorgeht (//Goal -3). Die Absicherungsstrategie wird autonom entwickelt und nach außen in den Markt getragen.. Autonom/Exzentrisch.
 
+
 hefteln: Material/Office 2/3/Goal 2/aut/con
 Begründung: Hefteln bedeutet, Dokumente vorübergehend mit einer Klammer oder einem Stift zusammenzuheften. Der Akteur verfügt (2) über Dokumente und bewegt (3) sie, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die vorübergehende Verbindung der Dokumente. Diese Aktivität erfolgt autonom im eigenen Kontrollbereich (aut/con).. Autonom/Konzentrisch.
 
 hefteln: Material/Tailoring 2/3/Goal 2/aut/con
 Begründung: Im Bereich der Schneiderei bedeutet 'hefteln' das provisorische Zusammennähen von Stoffteilen. Der Akteur verfügt (2) über die Stoffteile und bewegt (3) sie zueinander, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die vorläufige Verbindung der Teile vor dem endgültigen Nähen.. Autonom/Konzentrisch.
+
 
 heften: Material/Office 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt (3) Objekte (typischerweise Papiere), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Papiere an einer bestimmten Stelle zusammenzuhalten. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt (aut) nach außen auf die Objekte (ecc) einwirkt.. Autonom/Exzentrisch.
@@ -196,6 +273,7 @@ Begründung: In der Bedeutung 'provisorisch befestigen' bestimmt der Akteur (2) 
 heften: Material/Tailoring 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext der Schneiderei bedeutet 'heften' das provisorische Zusammennähen von Stoffteilen. Der Akteur bestimmt (2) die Bewegung (3) der Nadel/des Fadens durch den Stoff, um einen gewünschten vorläufigen Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 hegen: Material/Garden 2/3/Goal 2/het/ecc
 Begründung: Im Sinne des Pflegens und Erhaltens von Pflanzen oder Tieren verfügt/kontrolliert der Akteur (2) durch Bewegung/Anstreben (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Bedürfnissen der Natur richtet und nach außen wirkt.. Heteronom/Exzentrisch.
 
@@ -205,11 +283,14 @@ Begründung: Im Sinne von 'Gefühle hegen' leistet der Akteur (4) durch Bewegung
 hegen: Material/Protection 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Sinne von 'beschützen/bewahren' verfügt der Akteur (2) über etwas und bewegt/strebt an (3), um einen gewünschten Zustand (Goal 2) herzustellen und gleichzeitig negative Einflüsse abzuwehren (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
 
+
 hehlen: Material/Criminal 4/1/Goal 2//Goal 4/het/ecc
 Begründung: Hehlen bedeutet, gestohlene Waren zu übernehmen und weiterzuverkaufen. Der Akteur leistet für den Antagonisten (den Dieb) eine Dienstleistung (4), indem er die gestohlenen Gegenstände annimmt/bekommt (1), damit der Dieb einen gewünschten Zustand erreicht (Goal 2: über das Diebesgut zu verfügen ohne es selbst verkaufen zu müssen). Nach dem Wechsel (//): Der Akteur selbst will Geld und Anerkennung bekommen (Goal 4) für diese Dienstleistung. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Gegebenheiten des Diebes anpassen muss und nach außen wirkt.. Heteronom/Exzentrisch.
 
+
 hehlern: Material/Criminal 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Hehlen bedeutet, dass der Akteur (Hehler) bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er gestohlene Waren annimmt/kauft und weitergibt (1), um einen gewünschten Zustand für sich zu erreichen (Goal 2) und letztlich Geld/Anerkennung zu bekommen (Goal 4). Der Hehler verfügt über gestohlene Waren und gibt sie weiter, was eine autonome, nach außen gerichtete Aktivität darstellt (aut/ecc).. Autonom/Exzentrisch.
+
 
 heilen: Material/Medical 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur (z.B. Arzt) leistet etwas (4) durch Bewegen/Anstreben (3) und Bekommen (1) eines gewünschten Zustands für den Antagonisten (Patienten), nämlich Gesundheit (Goal 2). Letztendlich erhält der Akteur dafür Anerkennung/Bezahlung (//Goal 4). Die Ausrichtung ist heteronom (het), da der Akteur sich nach den Bedürfnissen des Patienten richtet, und nach außen gerichtet (ecc), da die Handlung auf einen anderen Menschen gerichtet ist.. Heteronom/Exzentrisch.
@@ -217,8 +298,10 @@ Begründung: Der Akteur (z.B. Arzt) leistet etwas (4) durch Bewegen/Anstreben (3
 heilen: Material/Psychological 3/1/Goal 2/aut/ecc
 Begründung: Im psychologischen Sinne kann 'heilen' auch als ein Prozess verstanden werden, bei dem jemand selbst gesund wird oder etwas in Ordnung kommt. Hier bewegt/strebt der Akteur (3) und bekommt (1) einen gewünschten Zustand (Goal 2). Die Ausrichtung ist autonom (aut), da der Prozess selbstgesteuert abläuft, und nach außen gerichtet (ecc), da es um die Veränderung eines Zustands geht.. Autonom/Exzentrisch.
 
+
 heilfasten: Material/Medical/Process 2/3/Goal 1/Goal 2/het/ecc
 Begründung: Heilfasten ist ein bewusst bestimmter (2) medizinischer Prozess, bei dem der Akteur durch kontrolliertes Fasten (3) seinen Körper reinigen und heilen will. Dies dient sowohl dem Bekommen eines gesättigten/gereinigten Zustands (Goal 1) als auch der Realisierung eines gewünschten Gesundheitszustands (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Fastenprinzipien anpasst und auf seinen Körper einwirkt.. Heteronom/Exzentrisch.
+
 
 heimbringen: Material/Transportation 4/3/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) eine Transportdienstleistung (3) für einen Antagonisten, damit dieser etwas (z.B. sich selbst) an sein Ziel/Heim bekommt (1) und über sein Zuhause verfügen kann (Goal 2). Nach dem Wechsel (//), folgt das Ziel des Akteurs: Anerkennung für die Transportleistung zu erhalten (Goal 4).. Autonom/Exzentrisch.
@@ -226,17 +309,20 @@ Begründung: Der Akteur leistet (4) eine Transportdienstleistung (3) für einen 
 heimbringen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas und erreicht (1), dass es an seinem gewünschten Ziel/zu Hause ist (Goal 2). Dies gilt, wenn der Akteur eine Sache nach Hause bringt, ohne dass es eine Dienstleistung für jemand anderen ist.. Autonom/Exzentrisch.
 
+
 heimisch fühlen: Interpersonal/Psychological 1/Goal 2/het/con
 Begründung: Sich heimisch fühlen bedeutet, dass der Akteur ein Gefühl des Zuhauseseins bekommt (1) und dadurch einen gewünschten Zustand des Wohlbefindens und der Vertrautheit erlangt (Goal 2). Die Ausrichtung ist heteronom (het), da man sich den Gegebenheiten des Ortes anpasst, und konzentrisch (con), da es sich um ein innerliches Gefühl handelt, das im eigenen Befinden verankert ist.. Heteronom/Konzentrisch.
 
 heimisch fühlen: Material/Lodging 1/Goal 2/het/con
 Begründung: Im Kontext von Wohnraum bedeutet sich heimisch fühlen, dass der Akteur an einem Ort ein Gefühl der Zugehörigkeit und Vertrautheit bekommt (1), wodurch der gewünschte Zustand der Behaglichkeit erreicht wird (Goal 2). Die Ausrichtung bleibt gleich, aber der Fokus liegt auf dem materiellen Wohnumfeld.. Heteronom/Konzentrisch.
 
+
 heimschicken: Material/Transportation 2/4/3/Goal 3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er eine Bewegung des Antagonisten (3) veranlasst, damit dieser sein Ziel/seine Destination (Goal 3) erreicht. Dies dient dem Zweck des Akteurs, einen gewünschten Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
 
 heimschicken: Material/Hospitality 2/4/3/Goal 3//Goal 2/aut/ecc
 Begründung: Im Kontext der Gastfreundschaft bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er den Gast (Antagonisten) in Bewegung setzt (3) zu dessen Heimatdestination (Goal 3), um für sich einen gewünschten Zustand (Ende des Besuchs) herzustellen (//Goal 2).. Autonom/Exzentrisch.
+
 
 heimsuchen: Material/Invasion 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem Ort, um einen gewünschten Zustand für sich herzustellen (Goal 2), während gleichzeitig der gewünschte Zustand des Antagonisten beeinträchtigt wird (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er in einen fremden Bereich eindringt und negative Auswirkungen verursacht.. Autonom/Exzentrisch.
@@ -247,11 +333,13 @@ Begründung: In der Bedeutung von 'von einer Katastrophe heimgesucht werden' bew
 heimsuchen: Material/Visit 3/5/Goal 5/aut/ecc
 Begründung: In der neutralen Bedeutung von 'besuchen' bewegt sich der Akteur (3) zu einem Ort, um Informationen auszutauschen/zu erhalten (5), mit dem Ziel informiert zu sein bzw. in Kontakt zu treten (Goal 5). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 heiraten: Interpersonal/Relationship 3/1/2/Goal 1/Goal 2/aut/ecc
 Begründung: Heiraten bedeutet, dass der Akteur aktiv auf jemanden zugeht (3) und eine dauerhafte Bindung eingeht, wodurch er eine Nähebeziehung bekommt (1) und gleichzeitig eine rechtlich verbindliche Gemeinschaft mit gegenseitigen Verfügungsrechten etabliert (2). Die Goals sind sowohl Nähe (Goal 1) als auch ein neuer rechtlicher und gesellschaftlicher Zustand (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Partner zugeht.. Autonom/Exzentrisch.
 
 heiraten: Material/Law 2/4/1/Goal 2//Goal 2/aut/ecc
 Begründung: In der rechtlichen Bedeutung handelt es sich beim Heiraten um einen Vertrag, bei dem der Akteur bestimmt (2), eine Leistung zu erbringen (4) und rechtliche Verpflichtungen einzugehen (1), um einen gemeinsamen gewünschten Zustand zu erreichen (Goal 2). Nach dem Doppelslash folgt ein weiteres Goal 2, da auch der Akteur selbst den rechtlichen Status erlangen möchte. Hier steht der formelle Rechtsakt im Vordergrund.. Autonom/Exzentrisch.
+
 
 heizen: Material/Heating-System 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über ein Heizsystem und bewegt (3) Wärme, um einen gewünschten Temperaturzustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbständig die Umgebung beeinflusst.. Autonom/Exzentrisch.
@@ -262,6 +350,7 @@ Begründung: Im technischen Kontext kann 'heizen' auch bedeuten, ein Gerät oder
 heizen: Material/Vehicle 2/3/Goal 3/aut/ecc
 Begründung: Im umgangssprachlichen Sinne von 'gas geben/schnell fahren'. Der Akteur verfügt (2) über das Fahrzeug und bewegt (3) es schnell, um eine Wirkung/Destination (Goal 3) zu erreichen.. Autonom/Exzentrisch.
 
+
 helfen: Interpersonal/Support 4/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur leistet für den Antagonisten (4) etwas, um dem Antagonisten zu einem gewünschten Zustand zu verhelfen (Goal 2). Nach dem Umschalter (//) folgt das Ziel des Akteurs, nämlich Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist heteronom/excentrisch (het/ecc), da der Akteur sich nach den Bedürfnissen des Anderen richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
@@ -271,11 +360,13 @@ Begründung: Im materiellen Kontext beinhaltet Helfen oft eine Bewegungskomponen
 helfen: Material/Emergency 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: In Notfallsituationen leistet der Akteur (4) durch Bewegung (3) und Geben (1) etwas, damit der Antagonist einen gewünschten Zustand (z.B. Rettung, Sicherheit) erreicht (Goal 2), während der Akteur Anerkennung erhält (//Goal 4).. Heteronom/Exzentrisch.
 
+
 hellhören: Material/Sensory 5/Goal 5/het/ecc
 Begründung: Hellhören ist eine besondere Form des Informierens (5), wobei der Akteur intensiv akustische Informationen aufnimmt, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externe akustische Informationen anpasst und nach außen gerichtet ist. Es handelt sich um eine spezielle auditive Wahrnehmungsfähigkeit, bei der der Akteur sich besonders aufmerksam auf das Hören konzentriert.. Heteronom/Exzentrisch.
 
 hellhören: Material/Paranormal 5/Goal 5/het/ecc
 Begründung: In einem übersinnlichen Kontext bezeichnet hellhören die paranormale Fähigkeit, Geräusche, Stimmen oder Botschaften wahrzunehmen, die für andere nicht hörbar sind. Auch hier informiert sich der Akteur (5), um Wissen zu erlangen (Goal 5), jedoch aus einer übersinnlichen Quelle. Die Ausrichtung bleibt heteronom/exzentrisch (het/ecc), da der Akteur sich an externe Informationen anpasst.. Heteronom/Exzentrisch.
+
 
 hemmen: Material/Limitation 2/3/Goal -3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) durch Bewegung/Anstreben (3) die Verringerung einer Bewegung oder Wirkung (Goal -3), um einen gewünschten Zustand (Goal 2) zu erreichen. Bei 'hemmen' geht es um das aktive Beschränken oder Reduzieren einer Bewegung oder eines Prozesses, was einer Verlangsamung oder Einschränkung entspricht.. Autonom/Exzentrisch.
@@ -289,17 +380,20 @@ Begründung: Im psychologischen Kontext bedeutet 'hemmen', jemandes Handlungsfre
 hemmen: Material/Control 2/3/Goal 2//Goal -3/aut/con
 Begründung: Als Kontrollfunktion in einem System bedeutet 'hemmen' das bestimmende (2) Eingreifen in einen Prozess (3), um einen gewünschten Zustand zu erreichen (Goal 2) und unerwünschte Entwicklungen zu verhindern (//Goal -3), wie bei einer Bremse oder Regelungstechnik.. Autonom/Konzentrisch.
 
+
 her zitieren: Interpersonal 2/Goal 5/aut/con
 Begründung: Der Akteur bestimmt (2) durch seine Autorität eine Person zu sich zu kommen und sich zu melden, um Kontakt herzustellen (Goal 5). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur aus einer Machtposition heraus bestimmt und der Antagonist in seinen Machtbereich kommen soll.. Autonom/Konzentrisch.
 
 her zitieren: Material/Leadership 2/Goal 5/aut/con
 Begründung: In einem beruflichen oder organisatorischen Kontext verfügt/bestimmt der Akteur (2) über den Antagonisten, sich zu melden oder zu erscheinen, um verfügbare Informationen auszutauschen (Goal 5). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur die Kontrolle über die Situation hat.. Autonom/Konzentrisch.
 
+
 herabblicken: Material/Physical/Position 5/Goal 5/het/ecc
 Begründung: Der Akteur informiert sich (5) durch Blicken von oben nach unten, um informiert zu sein (Goal 5). Es handelt sich um eine heteronome, exzentrische Ausrichtung, da der Blick nach außen gerichtet ist und von der Position abhängig ist.. Heteronom/Exzentrisch.
 
 herabblicken: Interpersonal/Status 3/Goal 3//Goal -2/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet 'herabblicken' eine abwertende Haltung gegenüber jemandem einzunehmen. Der Akteur bewegt sich (3) in einer Weise, die eine Wirkung erzielt (Goal 3), wodurch ein gewünschter Zustand beim Akteur (höhere Position) erreicht wird und gleichzeitig ein Ziel des Antagonisten (als gleichwertig angesehen zu werden) bekämpft wird (//Goal -2).. Autonom/Exzentrisch.
+
 
 herabsetzen: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Herabsetzen bedeutet, dass der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er negative Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, seinen gewünschten Zustand zu erreichen (//Goal 2), nämlich den anderen in einer schlechteren Position zu sehen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -309,6 +403,7 @@ Begründung: In einem materiellen/hierarchischen Kontext bedeutet 'herabsetzen',
 
 herabsetzen: Material/Physical/Position 3/1/Goal 2/aut/ecc
 Begründung: Im physisch-räumlichen Kontext bedeutet 'herabsetzen', dass der Akteur durch Bewegung (3) etwas auf eine niedrigere Position bringt (1), um einen gewünschten Zustand herzustellen (Goal 2). Beispiel: einen Gegenstand auf den Boden herabsetzen. Die Ausrichtung ist autonom/exzentrisch, da die Bewegung selbstbestimmt nach außen erfolgt.. Autonom/Exzentrisch.
+
 
 herabstufen: Material/Hierarchy 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) mit einer Bewegung nach unten (3) einen gewünschten Zustand für sich und gleichzeitig einen unerwünschten Zustand für den Antagonisten (Goal -2), der herabgestuft wird. Es handelt sich um eine selbstbestimmte, nach außen gerichtete Handlung (aut/ecc), bei der der Status einer Person oder eines Objekts verringert wird.. Autonom/Exzentrisch.
@@ -320,11 +415,13 @@ Es ist eine autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzent
 herabstufen: Material/Classification 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext von Klassifikation oder Kategorisierung bestimmt der Akteur (2) mit einer Bewegung nach unten (3) einen gewünschten Zustand (Goal 2), indem er ein Objekt in eine niedrigere Kategorie einordnet. Es ist eine autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
 
+
 herabwürdigen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich Informationen (5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2), um damit seinen eigenen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten wirkt.. Autonom/Exzentrisch.
 
 herabwürdigen: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet herabwürdigen, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich Informationen (5), die den sozialen Status oder die persönliche Würde des Antagonisten verringern (Goal -2), um die eigene Position/den eigenen Status zu stärken (//Goal 2).. Autonom/Exzentrisch.
+
 
 herabziehen: Material/Physical/Movement 3/1/Goal 2/het/ecc
 Begründung: Herabziehen bedeutet, dass der Akteur eine Bewegung (3) ausführt, um etwas zu bekommen/heranzuholen (1), mit dem Ziel, einen gewünschten Zustand herzustellen (Goal 2) - nämlich dass etwas nach unten bewegt wird. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Eigenschaften des zu bewegenden Objekts anpassen muss und nach außen wirkt.. Heteronom/Exzentrisch.
@@ -335,17 +432,20 @@ Begründung: Im übertragenen Sinne bedeutet 'herabziehen', jemanden zu kritisie
 herabziehen: Interpersonal/Status 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im sozialen Kontext kann 'herabziehen' bedeuten, den Status einer Person zu verringern. Der Akteur bewegt sich (3) mit dem Ziel, einen gewünschten Zustand für sich selbst zu erreichen (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten bekämpft (//Goal -2).. Autonom/Exzentrisch.
 
+
 heranbeten: Interpersonal/Religious 3/4/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur bewegt sich (3) durch andauerndes Beten als Leistung (4) auf einen gewünschten Zustand zu (Goal 2), wobei das Gebet als Leistung für eine höhere Macht/Gottheit verstanden wird. Nach Erfüllung dieser Handlung erwartet der Akteur Anerkennung/Erfüllung seiner Wünsche (//Goal 4). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Betende sich an äußere Vorgaben anpasst und nach außen auf eine Gottheit ausgerichtet ist.. Heteronom/Exzentrisch.
 
 heranbeten: Material/Psychological 3/1/Goal 2/het/ecc
 Begründung: In einer übertragenen Bedeutung kann 'heranbeten' bedeuten, durch andauerndes Bitten/Wünschen (3) etwas zu bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2). Hier ist keine religiöse Komponente enthalten, sondern die psychologische Dimension des anhaltenden Wünschens/Hoffens.. Heteronom/Exzentrisch.
 
+
 heranbitten: Interpersonal 2/5/Goal 5/aut/con
 Begründung: Heranbitten bedeutet, jemanden zu sich zu rufen oder einzuladen näher zu kommen. Der Akteur bestimmt/verfügt (2) durch Kontaktaufnahme (5), um Kontakt herzustellen (Goal 5). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur die Aktion selbstbestimmt initiiert und sie auf seinen eigenen Bereich gerichtet ist.. Autonom/Konzentrisch.
 
 heranbitten: Material/Leadership 2/4/5//Goal 2/aut/con
 Begründung: Im beruflichen/formellen Kontext bedeutet heranbitten, dass eine Autoritätsperson bestimmt (2), eine Leistung zu erbringen (4) durch Informieren (5), mit dem Ziel, einen gewünschten Zustand für den Akteur zu erreichen (//Goal 2). Der Akteur nutzt seine Autorität, um jemanden zu sich zu rufen.. Autonom/Konzentrisch.
+
 
 heranführen: Material/Education/Training 3/4/5/Goal 5//Goal 4/het/ecc
 Begründung: Der Akteur bewegt/vermittelt (3) als Leistung für den Antagonisten (4) Informationen (5), damit der Antagonist informiert wird (Goal 5), mit dem Ziel, Anerkennung für diese Leistung zu erhalten (//Goal 4). Das methodische Heranführen ist im Bildungskontext ein Vermittlungsprozess, bei dem der Lehrende den Lernenden schrittweise mit Neuem vertraut macht.. Heteronom/Exzentrisch.
@@ -356,11 +456,13 @@ Begründung: Der Akteur bestimmt (2) die Bewegung (3) als Leistung für den Anta
 heranführen: Material/Process 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas in Richtung eines Ziels/einer Wirkung (Goal 3). Hier bezieht sich heranführen auf das physische Näher-Bringen eines Objekts an einen Ort oder eine Position.. Autonom/Exzentrisch.
 
+
 heranholen: Material 3/1/Goal 2/aut/ecc
 Begründung: Beim 'Heranholen' geht es darum, durch Bewegung (3) etwas zu bekommen/zu erlangen (1), um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er einen Gegenstand durch eine Bewegung zu sich holt. Die Codierung umfasst die Bewegungskomponente (anstreben/sich bewegen), das Erlangen des Objekts und den resultierenden gewünschten Zustand der Verfügbarkeit.. Autonom/Exzentrisch.
 
 heranholen: Material/Transportation 3/1/Goal 3/aut/ecc
 Begründung: Im Transportkontext bedeutet 'heranholen' das Bewegen (3) und Bekommen (1) von etwas mit dem primären Ziel, eine bestimmte Destination zu erreichen oder eine transportbezogene Wirkung zu erzielen (Goal 3). Dies gilt besonders für größere Objekte oder Personen, die von einem entfernten Ort geholt werden müssen.. Autonom/Exzentrisch.
+
 
 heranlocken: Material/Animal/Training 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und nutzt Informationen/Signale (5), um die Destination/Wirkung zu erreichen (Goal 3), nämlich dass der Antagonist (z.B. ein Tier) herankommt und Kontakt aufnimmt (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -371,6 +473,7 @@ Begründung: Im zwischenmenschlichen Bereich bedeutet heranlocken, dass der Akte
 heranlocken: Material/Marketing 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: Im Marketing-Kontext bedeutet heranlocken, dass der Akteur durch Bewegung auf potenzielle Kunden zu (3) und mit Informationen (5) diese zu einer Destination führt (Goal 3), um einen gewünschten Geschäftszustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 heranmachen: Interpersonal 3/Goal 3/Goal 1/aut/ecc
 Begründung: Der Akteur bewegt sich (3) auf einen Antagonisten zu, um eine Wirkung zu erzielen (Goal 3) mit dem übergeordneten Ziel, Nähe zu erlangen (Goal 1). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf einen anderen zugeht.. Autonom/Exzentrisch.
 
@@ -380,11 +483,13 @@ Begründung: In handwerklichem Kontext: Der Akteur bewegt (3) ein Objekt in die 
 heranmachen: Interpersonal/Sex 3/5/Goal 3/Goal 1/aut/ecc
 Begründung: Im romantisch-sexuellen Kontext: Der Akteur bewegt sich auf jemanden zu (3) und sucht Kontakt (5), um eine sexuelle Wirkung zu erzielen (Goal 3) mit dem Ziel der emotionalen oder körperlichen Nähe (Goal 1). Die Handlung ist selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 heranrufen: Interpersonal/Communication 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) kontaktierend (5) auf einen Anderen zu, um Kontakt herzustellen (Goal 5). Der Akteur agiert selbstbestimmt (aut) nach außen gerichtet (ecc), da er aktiv auf jemanden zugeht und ihn zu sich ruft.. Autonom/Exzentrisch.
 
 heranrufen: Interpersonal/Leadership 2/5/Goal 2/aut/con
 Begründung: Im Kontext von Autorität: Der Akteur bestimmt (2) über Kontakt (5), um einen gewünschten Zustand zu erreichen (Goal 2), wie wenn eine Autoritätsperson jemanden zu sich ruft. Der Akteur handelt selbstbestimmt (aut) im eigenen Kontrollbereich (con).. Autonom/Konzentrisch.
+
 
 herantreten: Material/Movement 3/Goal 3/het/ecc
 Begründung: Der Akteur bewegt sich (3) auf ein Ziel zu, um es zu erreichen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da sich der Akteur auf ein externes Objekt zubewegt und sich dabei an dessen Position orientieren muss.. Heteronom/Exzentrisch.
@@ -395,11 +500,13 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet 'herantreten' auf jemanden
 herantreten: Material/Problem-Solving 3/5/Goal 5/aut/ecc
 Begründung: Im Sinne von 'an eine Aufgabe herantreten' bewegt sich der Akteur (3) und informiert sich (5), um Kenntnis über eine Sache zu erlangen (Goal 5). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt an die Sache herangeht.. Autonom/Exzentrisch.
 
+
 heranwinken: Interpersonal/Gesture 3/5/Goal 5/aut/ecc
 Begründung: Beim Heranwinken bewegt sich der Akteur (3) mit einer Geste, um Kontakt (5) zu einem Antagonisten aufzunehmen. Das Ziel ist, dass ein Kontakt stattfindet (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt eine nach außen gerichtete Handlung ausführt, um jemanden zu sich zu bewegen.. Autonom/Exzentrisch.
 
 heranwinken: Material/Fight/Gesture 3/5/Goal 3/aut/ecc
 Begründung: In einem Kontext, wo der Akteur durch eine Winkgeste jemanden zu einem bestimmten Ort dirigieren will (z.B. bei militärischen Operationen oder im Straßenverkehr), ist das primäre Ziel die Bewegung/Wirkung (Goal 3) und nicht der Kontakt selbst.. Autonom/Exzentrisch.
+
 
 heranziehen: Material/Education/Training 2/3/1/Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit einer Bewegung (3) das Bekommen (1) eines gewünschten Zustands (Goal 2), nämlich eine Person für eine Aufgabe zu qualifizieren, mit dem übergeordneten Ziel der Anerkennung/beruflichen Leistung (Goal 4). Die Ausrichtung ist autonom (der Akteur hat die Kontrolle) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
@@ -410,14 +517,17 @@ Begründung: Der Akteur bestimmt (2) die Bewegung (3) zum Bekommen (1) eines gew
 heranziehen: Material/Physical 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) die Bewegung (3) eines Objekts zu sich hin, um einen gewünschten Zustand (Goal 2) zu erreichen. Dies bezieht sich auf die konkrete physische Bedeutung des Heranziehens im Sinne von 'zu sich ziehen'.. Autonom/Exzentrisch.
 
+
 heranzitieren: Interpersonal/Leadership 2/5/Goal 5/aut/con
 Begründung: In der Bedeutung 'jemanden zu sich bestellen/rufen' bestimmt der Akteur (2) einen Kontakt (5) und sorgt dafür, dass dieser zustande kommt (Goal 5). Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur eine Autoritätsposition innehat und bestimmt, dass der Antagonist in seinen Verfügungsbereich kommen soll.. Autonom/Konzentrisch.
+
 
 herausarbeiten: Material/Analysis 3/5/2/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt/untersucht (3) Informationen, um sie zu erschließen (5), und verfügt (2) anschließend über die gewonnenen Erkenntnisse, um informiert zu sein (Goal 5). 'Herausarbeiten' beschreibt den analytischen Prozess, bei dem durch gezieltes Untersuchen (3/5) wichtige Informationen identifiziert und verfügbar gemacht werden (2/Goal 5).. Autonom/Exzentrisch.
 
 herausarbeiten: Material/Creative 3/2/Goal 2/aut/ecc
 Begründung: In einem gestalterischen Kontext bedeutet 'herausarbeiten' die gezielte Bewegung/Bearbeitung (3) von Material, um bestimmte Merkmale oder Formen hervorzuheben und so einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur verfügt dabei über das Material (2) und gestaltet es aktiv und selbstbestimmt (aut/ecc).. Autonom/Exzentrisch.
+
 
 herausbringen: Material/Process 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt (3) etwas, um es zu bekommen (1) und damit einen gewünschten Zustand zu erreichen (Goal 2). 'Herausbringen' bedeutet, etwas von innen nach außen zu bewegen, um es verfügbar zu machen.. Autonom/Exzentrisch.
@@ -431,6 +541,7 @@ Begründung: Der Akteur bewegt/strebt (3) nach Informationen (5), um informiert 
 herausbringen: Material/Pronunciation 2/4/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch eine Leistung (4) mit Bewegung (3), einen gewünschten Zustand zu erreichen (Goal 2). Im Sinne von 'einen Ton/ein Wort herausbringen' - durch Artikulation hervorbringen.. Autonom/Exzentrisch.
 
+
 herausfinden: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Aktiv nach Informationen suchen (3/5), mit dem Ziel, informiert zu sein (Goal 5). Der Akteur bewegt sich dabei im übertragenen Sinne zu Informationsquellen hin (3) und nimmt Informationen auf (5), wobei er sich an externe Gegebenheiten anpassen muss (het/ecc).. Heteronom/Exzentrisch.
 
@@ -439,6 +550,7 @@ Begründung: Im investigativen Kontext bedeutet 'herausfinden' ein aktives Suche
 
 herausfinden: Material/Problem-Solving 3/5/Goal 5/Goal 2/het/ecc
 Begründung: Im Kontext des Problemlösens bedeutet 'herausfinden' das Suchen nach Informationen (3/5), um informiert zu sein (Goal 5) mit dem höheren Ziel, einen gewünschten Zustand herzustellen (Goal 2).. Heteronom/Exzentrisch.
+
 
 herausfordern: Fight/Dispute 3/1/5/Goal 3//Goal -2/aut/ecc
 Begründung: Beim Herausfordern bewegt sich der Akteur (3) auf einen Antagonisten zu, um dessen Aufmerksamkeit zu bekommen (1) und ihn zu einem Kräftemessen oder einer Auseinandersetzung zu bewegen (5). Das Ziel ist, eine Wirkung zu erzielen (Goal 3), die gleichzeitig den gewünschten Zustand des Antagonisten (Ruhe, überlegene Position) verhindert (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -449,6 +561,7 @@ Begründung: Im Kontext von Wettbewerb oder sportlichen Aktivitäten bedeutet he
 herausfordern: Material/Testing 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: In einem Testkontext bedeutet herausfordern, gezielt jemandes Fähigkeiten oder ein System auf die Probe zu stellen. Der Akteur bewegt sich aktiv (3) und sucht nach Informationen (5), um eine Wirkung zu erzielen (Goal 3) und Informationen über Leistungsgrenzen zu erhalten (Goal 5). Hier liegt der Fokus auf dem Erkenntnisgewinn, nicht auf dem antagonistischen Aspekt.. Autonom/Exzentrisch.
 
+
 herausgeben: Material/Publication 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt/übergibt (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), während der Akteur selbst Anerkennung/Vergütung erhält (//Goal 4). Die Aktivität richtet sich selbstbestimmt (aut) nach außen (ecc), typisch für das Herausgeben von Publikationen.. Autonom/Exzentrisch.
 
@@ -457,6 +570,7 @@ Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er et
 
 herausgeben: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Geld zurückgibt/erstattet (1), damit der Empfänger darüber verfügen kann (Goal 2). Nach dem Wechsel folgt das Ziel des Akteurs, seiner Verpflichtung nachzukommen und dafür Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
 
 herausholen: Material 3/1/Goal 2/aut/ecc
 Begründung: Das Verb 'herausholen' beschreibt einen Vorgang, bei dem der Akteur eine Bewegung ausführt (3), um etwas aus einem Behältnis oder von einem Ort zu bekommen (1) und dadurch einen gewünschten Zustand herzustellen (Goal 2). Der Akteur handelt dabei selbstbestimmt (aut) und die Handlung ist nach außen gerichtet (ecc), da etwas aus einem äußeren Bereich geholt wird.. Autonom/Exzentrisch.
@@ -467,6 +581,7 @@ Begründung: Im sportlichen Kontext bedeutet 'herausholen' das Erreichen eines b
 herausholen: Interpersonal/Psychological 3/1/Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext kann 'herausholen' bedeuten, durch aktives Zugehen (3) und Bekommen (1) von Informationen oder Reaktionen, einen Kontakt zu einem Menschen herzustellen (Goal 5), z.B. 'etwas aus jemandem herausholen' im Sinne von jemanden zum Reden bringen.. Autonom/Exzentrisch.
 
+
 herausnehmen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas aus einem Behältnis oder einer Umgebung und bekommt (1) es in seine Verfügung, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Handlung ist autonom gesteuert (aut) und nach außen gerichtet (ecc), da der Akteur aktiv ein Objekt aus seiner ursprünglichen Position entfernt.. Autonom/Exzentrisch.
 
@@ -476,11 +591,13 @@ Begründung: Im medizinischen Kontext bedeutet 'herausnehmen' das operative Entf
 herausnehmen: Material/IT 3/1/Goal 2/aut/ecc
 Begründung: Im IT-Kontext bedeutet 'herausnehmen' das Entfernen von Daten oder Komponenten aus einem System. Der Akteur bewegt (3) und bekommt (1) die Information oder Komponente in seine Verfügung, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 herausposaunen: Material/Communication 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Beim 'Herausposaunen' bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen (5) gibt (1), damit der Antagonist informiert ist (Goal 5). Der Akteur tut dies auf eine laute, übertriebene Weise mit dem Ziel, einen für ihn gewünschten Zustand zu erreichen (//Goal 2), nämlich die Aufmerksamkeit auf sich zu lenken oder sich Luft zu machen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbst bestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
 
 herausposaunen: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In einem konfliktbeladenen Kontext kann 'herausposaunen' als indiskrete Enthüllung von Informationen verstanden werden, die dem Antagonisten schaden soll. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), etwa Genugtuung oder Schädigung des Rufs des Antagonisten.. Autonom/Exzentrisch.
+
 
 herausputzen: Material/Appearance 2/3/Goal 2/aut/ecc
 Begründung: Beim Herausputzen bestimmt (2) der Akteur das anstrebende Bewegen/Bearbeiten (3) eines Objekts (z.B. sich selbst, eine Person oder einen Gegenstand), um einen gewünschten verbesserten Zustand der Erscheinung (Goal 2) zu erreichen. Der Akteur verfügt selbst über die Gestaltung (aut) und wirkt nach außen (ecc), da die Erscheinung für andere wahrnehmbar sein soll.. Autonom/Exzentrisch.
@@ -488,8 +605,10 @@ Begründung: Beim Herausputzen bestimmt (2) der Akteur das anstrebende Bewegen/B
 herausputzen: Material/Cleaning 2/3/Goal 2/aut/ecc
 Begründung: In der Bedeutung des gründlichen Reinigens bestimmt (2) der Akteur das Bewegen/Bearbeiten (3) eines Objekts, um einen gewünschten Zustand der Sauberkeit (Goal 2) zu erreichen. Hier liegt der Fokus auf dem Reinigungsaspekt statt auf der äußeren Erscheinung.. Autonom/Exzentrisch.
 
+
 herbeibeordern: Material/Leadership 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Beim Herbeibeordern bestimmt der Akteur (2) als Autorität, eine Leistung für den Antagonisten zu erbringen (4), indem er eine Information übermittelt (5), die dazu führt, dass der Antagonist an einen bestimmten Ort kommen soll. Nach dem Umschalter (//) folgen die Ziele des Akteurs: einen gewünschten Zustand herzustellen (Goal 2) und dabei berufliche Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur aus einer Machtposition heraus handelt und der Vorgang in seinem Einflussbereich bleibt.. Autonom/Konzentrisch.
+
 
 herbeiführen: Material/Causation 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt oder strebt etwas an (3), um einen gewünschten Zustand zu erreichen oder zu realisieren (Goal 2). Das Herbeiführen ist ein aktives, selbstbestimmtes (aut) Verursachen eines Zustands durch nach außen gerichtetes Handeln (ecc).. Autonom/Exzentrisch.
@@ -500,17 +619,20 @@ Begründung: Im Führungskontext bedeutet herbeiführen, bestimmend (2) eine Bew
 herbeiführen: Material/Event 3/Goal 3/aut/ecc
 Begründung: Im Ereigniskontext bedeutet herbeiführen, eine Bewegung/ein Anstreben (3) zu initiieren, mit dem Ziel eine bestimmte Wirkung oder ein Ereignis zu erzielen (Goal 3). Der Fokus liegt auf dem Herbeiführen eines Ereignisses mit konkreten Auswirkungen.. Autonom/Exzentrisch.
 
+
 herbeiholen: Material/Search 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem Objekt, um es zu bekommen (1), mit dem Ziel einen gewünschten Zustand zu erreichen (Goal 2), wobei er selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt. 'Herbeiholen' bedeutet etwas, das sich an einem anderen Ort befindet, zu holen und herzubringen.. Autonom/Exzentrisch.
 
 herbeiholen: Interpersonal 3/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'herbeiholen', eine andere Person durch Bewegung/Anstreben (3) an einen bestimmten Ort zu bringen, um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 herbeikommandieren: Material/Leadership 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4) und gibt Informationen (5), damit der gewünschte Zustand des Akteurs erreicht wird (//Goal 2), nämlich dass jemand an einen bestimmten Ort kommt, und letztendlich um Anerkennung für diese Führungsleistung zu erhalten (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur aus einer Autoritätsposition heraus Anweisungen gibt und den Prozess kontrolliert.. Autonom/Konzentrisch.
 
 herbeikommandieren: Material/Military 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Im militärischen Kontext: Der Akteur in Befehlsposition bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4) und übermittelt einen Befehl (5), damit der gewünschte Zustand (//Goal 2) eintritt, dass Soldaten/Untergebene an einen bestimmten Ort kommen, mit dem Endziel der Befehlsautorität (Goal 4). Die Ausrichtung ist autonom/konzentrisch wegen der Befehlsgewalt.. Autonom/Konzentrisch.
+
 
 herbeirufen: Interpersonal 2/Goal 5/aut/con
 Begründung: Das Herbeirufen bedeutet, dass der Akteur bestimmt/verfügt (2) über die Aufmerksamkeit eines anderen, mit dem Ziel, Kontakt herzustellen (Goal 5). Der Akteur verwendet seine Autorität oder Verfügungsgewalt, um eine andere Person zu sich zu rufen, wobei diese Handlung im Innenbereich des Akteurs (aut/con) stattfindet, da der Antagonist als im Einflussbereich des Akteurs befindlich betrachtet wird.. Autonom/Konzentrisch.
@@ -521,14 +643,17 @@ Begründung: Im Kontext von Hilfeleistungen bedeutet 'herbeirufen', dass der Akt
 herbeirufen: Material/Emergency 2/4/5//Goal 2/aut/ecc
 Begründung: Bei Notfällen bedeutet 'herbeirufen', dass der Akteur bestimmt (2), eine Hilfeleistung (4) durch Signalgeben (5) anzufordern, mit dem Ziel, einen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist hier nach außen gerichtet (ecc), da die Hilfe von außerhalb des direkten Einflussbereichs kommt.. Autonom/Exzentrisch.
 
+
 herbeisehnen: Interpersonal/Emotional 3/5/Goal 3/Goal 1/aut/ecc
 Begründung: Herbeisehnen bedeutet, dass der Akteur eine intensive Sehnsucht (3/5) nach etwas oder jemandem empfindet und sich wünscht, dass diese Person oder Sache näherkommt oder eintritt (Goal 3), mit dem Ziel, Nähe oder Befriedigung zu erleben (Goal 1). Der Prozess ist autonom (der Akteur bestimmt über sein Sehnen) und nach außen gerichtet (exzentrisch), da das Ersehnte außerhalb des unmittelbaren Verfügungsbereichs liegt.. Autonom/Exzentrisch.
 
 herbeisehnen: Material/Psychological 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: Im materiellen psychologischen Kontext bedeutet herbeisehnen, dass der Akteur intensiv wünscht (3/5), dass ein bestimmter Zustand oder eine Situation eintritt oder näherkommt (Goal 3), um einen gewünschten Zustand zu erreichen (Goal 2). Diese Variante fokussiert mehr auf die Realisierung eines gewollten Zustands als auf die emotionale Nähe.. Autonom/Exzentrisch.
 
+
 herbeiwinken: Interpersonal/Gesture 2/3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch eine Bewegung (3) in Form einer Geste, die eine Information übermittelt (5), um Kontakt herzustellen (Goal 5). Das Herbeiwinken ist eine bestimmende Geste, mit der der Akteur jemanden zu sich kommen lässt, wobei eine Bewegung des Arms ausgeführt wird, um eine kommunikative Information zu vermitteln. Die Ausrichtung ist autonom (der Akteur entscheidet selbst) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
 
 herbeiwünschen: Material/Magic 0/3/Goal 2/het/ecc
 Begründung: Herbeiwünschen bedeutet, passiv zu warten (0) und durch mentale Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) erreichen zu wollen, wobei man sich an externe Gegebenheiten anpasst (het) und nach außen gerichtet ist (ecc). Es handelt sich um ein gedankliches, magisches Konzept, bei dem man durch bloßes Wünschen etwas herbeiführen möchte, ohne selbst physisch aktiv zu werden.. Heteronom/Exzentrisch.
@@ -536,11 +661,13 @@ Begründung: Herbeiwünschen bedeutet, passiv zu warten (0) und durch mentale Be
 herbeiwünschen: Interpersonal/Goal 0/3/Goal 2/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet herbeiwünschen, auf das Erscheinen einer Person zu hoffen/zu warten (0), durch mentales Anstreben (3) einen gewünschten Zustand (Goal 2) erreichen zu wollen, nämlich dass die Person anwesend ist.. Heteronom/Exzentrisch.
 
+
 herbeizitieren: Interpersonal 2/Goal 5/aut/con
 Begründung: Der Akteur verfügt/bestimmt (2) über die Kontaktaufnahme zu einem Antagonisten (Goal 5). Der Akteur hat dabei eine machtvolle Position und die Kontaktaufnahme geschieht in seinem Einflussbereich (aut/con). Es handelt sich um eine Form der Anweisung an jemanden, zu erscheinen/sich einzufinden, wobei der Akteur über die Autorität verfügt, dies anzuordnen.. Autonom/Konzentrisch.
 
 herbeizitieren: Material/Authorities 2/Goal 5/aut/con
 Begründung: Im behördlichen oder formellen Kontext bedeutet 'herbeizitieren' eine amtliche Vorladung oder formelle Aufforderung zum Erscheinen. Der Akteur hat die behördliche Befugnis (2), den Kontakt mit dem Antagonisten anzuordnen (Goal 5).. Autonom/Konzentrisch.
+
 
 herbemühen: Material/Leadership 2/4/3/Goal 3//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) und leistet (4) für den Antagonisten, dass dieser sich bewegt (3) und zu einer Destination kommt (Goal 3). Nach dem Umschalter // folgen die Ziele des Akteurs: Einen gewünschten Zustand zu erreichen (Goal 2), letztlich um Anerkennung zu bekommen (Goal 4). Es geht um das autoritative Hinzuziehen einer Person zu einem bestimmten Ort/Zweck.. Autonom/Exzentrisch.
@@ -548,11 +675,13 @@ Begründung: Der Akteur bestimmt (2) und leistet (4) für den Antagonisten, dass
 herbemühen: Interpersonal/Request 3/1/Goal 3//Goal 2/aut/ecc
 Begründung: In einem weniger formellen Kontext bedeutet herbemühen auch, jemanden zu bitten (3) zu kommen (1), um an ein Ziel zu gelangen (Goal 3), wobei die eigene Absicht des Akteurs ist, einen gewünschten Zustand zu erreichen (//Goal 2). Hier ist der Bitten-Aspekt betont, nicht die Autorität.. Autonom/Exzentrisch.
 
+
 herbestellen: Material/Leadership 2/4/5//Goal 2/aut/con
 Begründung: Bei 'herbestellen' bestimmt der Akteur (2) eine Leistung für den Antagonisten zu erbringen (4), indem er ihm eine Information übermittelt (5), mit dem Ziel, dass der Antagonist zu einem gewünschten Ort kommt und sich damit ein gewünschter Zustand für den Akteur einstellt (//Goal 2). Der Akteur agiert eigenbestimmt (aut) und der Vorgang findet in seinem Kontrollbereich statt (con).. Autonom/Konzentrisch.
 
 herbestellen: Material/Authorities 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: In einem behördlichen Kontext bedeutet 'herbestellen', dass eine Amtsperson kraft ihrer Autorität bestimmt (2), eine Leistung für einen Bürger zu erbringen (4), indem sie eine Vorladung/Information übermittelt (5), um einen gewünschten amtlichen Zustand herzustellen (//Goal 2) und im Rahmen ihrer beruflichen Funktion Anerkennung zu bekommen (Goal 4).. Autonom/Konzentrisch.
+
 
 herbeten: Material/Religious 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Herbeten bedeutet, auswendig gelernte religiöse Formeln oder Texte mechanisch wiederzugeben. Der Akteur leistet (4) eine Übermittlung (1) von Informationen (5), damit der Antagonist (Zuhörer oder religiöse Instanz) informiert ist (Goal 5). Nach dem Wechsel folgt das eigene Ziel des Akteurs, Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an vorgegebene Texte anpasst und nach außen wirkt.. Heteronom/Exzentrisch.
@@ -560,11 +689,13 @@ Begründung: Herbeten bedeutet, auswendig gelernte religiöse Formeln oder Texte
 herbeten: Material/Education 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Im Bildungskontext bedeutet herbeten das mechanische Aufsagen gelernter Inhalte ohne tieferes Verständnis. Der Akteur leistet (4) durch Geben (1) von Informationen (5) für einen Antagonisten (z.B. Lehrer) mit dem Ziel, diesen zu informieren (Goal 5), während der Akteur selbst Anerkennung (//Goal 4) anstrebt. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur vorgegebene Inhalte reproduziert.. Heteronom/Exzentrisch.
 
+
 herbitten: Interpersonal/Request 2/3/5/Goal 5/Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) mit einer Bewegung (3) zu sich hin und Kontaktaufnahme (5), um Kontakt herzustellen (Goal 5) mit dem Ziel, dass die Person zu ihm kommt (Goal 3). 'Herbitten' bedeutet, jemanden aufzufordern/zu bitten, zu einem heranzukommen oder zu erscheinen.. Autonom/Exzentrisch.
 
 herbitten: Material/Leadership 2/4/5//Goal 3/Goal 2/aut/ecc
 Begründung: In einem formelleren Kontext bestimmt der Akteur (2) eine Leistung für den Antagonisten (4) durch Informationsübermittlung (5), damit dieser zu einem bestimmten Ort kommt (//Goal 3), was dem gewünschten Zustand des Akteurs entspricht (Goal 2). Diese Variante betont den autoritativen Charakter der Aufforderung.. Autonom/Exzentrisch.
+
 
 hereinholen: Material/Physical/Movement 3/1/Goal 2/aut/ecc
 Begründung: Beim Hereinholen bewegt (3) der Akteur etwas von außen nach innen, um es zu bekommen (1) und einen gewünschten Zustand herzustellen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und die Bewegung ist nach außen gerichtet (ecc), da etwas von draußen nach drinnen geholt wird.. Autonom/Exzentrisch.
@@ -575,11 +706,13 @@ Begründung: Im Kontext einer Organisation bedeutet 'hereinholen' das bestimmend
 hereinholen: Interpersonal/Group 3/1/Goal 5/aut/ecc
 Begründung: Im sozialen Kontext bedeutet 'hereinholen', jemanden durch eine Bewegung (3) in eine Gruppe aufzunehmen/zu bekommen (1), um Kontakt herzustellen (Goal 5), wie bei der Integration einer Person in eine Gemeinschaft.. Autonom/Exzentrisch.
 
+
 hereinlegen: Interpersonal/Deception 2/3/4/1/Goal -2//Goal 2/Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung (3) eine Leistung (4) zu erbringen, indem er etwas gibt (1), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2), während der Akteur einen gewünschten Zustand (//Goal 2) und eine Wirkung (Goal 3) für sich selbst erzielt. Der Akteur täuscht den Antagonisten, um ihn in eine nachteilige Situation zu bringen und daraus selbst Vorteile zu ziehen.. Autonom/Exzentrisch.
 
 hereinlegen: Material/Furniture 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3) etwas zu bekommen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. In diesem Kontext bedeutet 'hereinlegen' das physische Einlegen/Platzieren eines Gegenstands in einen anderen, wie z.B. ein Tablett in einen Schrank legen.. Autonom/Exzentrisch.
+
 
 hereinnehmen: Material 2/3/1/Goal 2/aut/con
 Begründung: Der Akteur bestimmt/verfügt (2) über etwas und bewegt (3) dieses vom Außen ins Innen, wobei er es bekommt (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt handelt und auf seinen inneren Bereich ausgerichtet ist.. Autonom/Konzentrisch.
@@ -590,11 +723,13 @@ Begründung: Im Kontext eines Hauses/Wohnung: Der Akteur bestimmt (2) und bewegt
 hereinnehmen: Interpersonal/Group 2/3/1/Goal 2/aut/con
 Begründung: Im sozialen Kontext: Der Akteur bestimmt (2) und bewegt (3) eine Person in eine Gruppe hinein, wobei die Gruppe diese Person als Mitglied bekommt (1), um einen gewünschten Zustand der Gruppe (Goal 2) zu erreichen.. Autonom/Konzentrisch.
 
+
 hergehen: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Mit 'hergehen' bewegt/strebt (3) der Akteur zu einem bestimmten Ziel (zum Sprecher/Beobachter hin), um eine Destination zu erreichen (Goal 3). Die Bewegung erfolgt selbstbestimmt (aut) und ist nach außen in die Umwelt gerichtet (ecc).. Autonom/Exzentrisch.
 
 hergehen: Material/Process 3/Goal 3/het/ecc
 Begründung: In der übertragenen Bedeutung kann 'hergehen' auch bedeuten 'vonstatten gehen/ablaufen'. Hierbei bewegt sich (3) ein Vorgang auf sein Ziel zu (Goal 3), wobei der Akteur sich an äußere Umstände anpassen muss (het) und die Bewegung nach außen gerichtet ist (ecc).. Heteronom/Exzentrisch.
+
 
 herholen: Material/Movement 3/1/Goal 2/aut/ecc
 Begründung: Beim Herholen bewegt sich der Akteur (3) zu einem Objekt, nimmt es und bringt es zum Ausgangspunkt zurück (1), um einen gewünschten Zustand herzustellen (Goal 2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt in die Umwelt hinein handelt.. Autonom/Exzentrisch.
@@ -605,11 +740,13 @@ Begründung: Im Transportkontext bedeutet herholen, etwas durch Bewegung (3) zu 
 herholen: Interpersonal 3/1/Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet herholen, jemanden zu holen (3/1), um Kontakt herzustellen (Goal 5). Der Akteur agiert autonom und exzentrisch (aut/ecc), indem er auf eine andere Person zugeht.. Autonom/Exzentrisch.
 
+
 herkommen: Material/Movement 3/1/Goal 3/het/ecc
 Begründung: Sich hierher bewegen (3) und ankommen (1), um eine bestimmte Destination zu erreichen (Goal 3). 'Herkommen' impliziert eine Bewegung zum Sprecher hin, wobei der Akteur sich an externen Bezugspunkten orientiert (het/ecc).. Heteronom/Exzentrisch.
 
 herkommen: Interpersonal 3/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext kann 'herkommen' auch bedeuten, auf jemanden zuzugehen (3), um Kontakt herzustellen (Goal 5). Der Akteur orientiert sich dabei am Antagonisten (het/ecc).. Heteronom/Exzentrisch.
+
 
 herleiten: Material/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Beim Herleiten bewegt man sich (3) durch Informationen (5), gewinnt daraus Verfügung (2) über neue Erkenntnisse, um informiert zu sein (Goal 5). Die Heteronomie zeigt die Abhängigkeit von gegebenen Informationen, aus denen man logisch schließt.. Heteronom/Exzentrisch.
@@ -617,11 +754,13 @@ Begründung: Beim Herleiten bewegt man sich (3) durch Informationen (5), gewinnt
 herleiten: Material/Logic 3/5/2/Goal 5/het/ecc
 Begründung: Im logischen Kontext bedeutet herleiten, durch analytische Bewegung (3) aus bekannten Informationen (5) eine neue Erkenntnis zu gewinnen (2), mit dem Ziel, über eine abgeleitete Wahrheit informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
 
+
 herlocken: Interpersonal 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) kontaktierend (5) auf einen Antagonisten zu, um eine Wirkung auf ihn zu erzielen (Goal 3), nämlich ein Näherkommen des Antagonisten, was zu Kontakt führt (Goal 5). Es handelt sich um eine bewusste Strategie, den Anderen anzulocken, daher ist die Ausrichtung autonom/exzentrisch.. Autonom/Exzentrisch.
 
 herlocken: Material/Animal/Training 3/5/1/Goal 3/Goal 5/aut/ecc
 Begründung: Im Kontext des Tiertrainings lockt der Akteur ein Tier an (3/5), damit es sich nähert (1) und eine bestimmte Position erreicht (Goal 3), was dem Zweck der Kontaktaufnahme dient (Goal 5). Die Bewegung ist zielgerichtet, daher autonom/exzentrisch.. Autonom/Exzentrisch.
+
 
 herrichten: Material/Preparation 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über ein Objekt und bearbeitet es (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine vorbereitende Tätigkeit, bei der etwas in einen brauchbaren oder benötigten Zustand gebracht wird. Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da eine Veränderung am Objekt vorgenommen wird.. Autonom/Exzentrisch.
@@ -632,6 +771,7 @@ Begründung: Im Kontext der Haushaltsführung oder Raumgestaltung: Der Akteur ve
 herrichten: Material/Appearance 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext des persönlichen Erscheinungsbildes: Der Akteur verfügt (2) über sein Aussehen und bearbeitet/verändert es (3), um einen gewünschten repräsentativen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 herrschen: Material/Leadership 2/Goal 2/aut/con
 Begründung: Der Akteur verfügt/kontrolliert/bestimmt (2) über andere Personen oder einen Bereich, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und konzentrisch (aut/con), da der Akteur selbstbestimmt handelt und innerhalb seines Machtbereichs tätig ist.. Autonom/Konzentrisch.
 
@@ -640,6 +780,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet herrschen, dass der Akteur
 
 herrschen: Material/Fight/Power-Politics 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im Kontext politischer Machtkämpfe bedeutet herrschen, dass der Akteur bestimmt (2) und mit bestimmten Maßnahmen agiert (3), um seine Machtposition zu sichern (Goal 2) und gleichzeitig die Bewegungsfreiheit/Handlungsmöglichkeiten von Antagonisten einzuschränken (//Goal -3).. Autonom/Konzentrisch.
+
 
 herstellen: Material/Manufacturing 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt/bearbeitet (3) Materialien, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich ein fertiges Produkt zu erschaffen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und auf die Außenwelt einwirkt. Das Herstellen ist ein Transformationsprozess, bei dem der Akteur Rohstoffe oder Komponenten verändert, um etwas Neues zu produzieren.. Autonom/Exzentrisch.
@@ -650,11 +791,13 @@ Begründung: Im geschäftlichen Kontext wird durch Verfügen über (2) und Bearb
 herstellen: Interpersonal/Relationship 3/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'eine Beziehung herstellen' ein Bewegen/Anstreben (3) mit dem Ziel, einen gewünschten Zustand der Verbindung zwischen Menschen zu erreichen (Goal 2). Die Beziehungsherstellung ist eine autonome, nach außen gerichtete Aktivität.. Autonom/Exzentrisch.
 
+
 herumführen: Material/Navigation 2/4/3/Goal 3//Goal 4/aut/ecc
 Begründung: Der Akteur verfügt/bestimmt (2) über eine Leistung (4) für den Antagonisten, indem er Bewegung (3) ermöglicht, damit der Antagonist ein Ziel erreicht (Goal 3). Nach dem Leistungswechsel folgt das eigene Ziel des Akteurs, Anerkennung zu erhalten (//Goal 4). Die Tätigkeit ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und die Führung im Außenbereich stattfindet.. Autonom/Exzentrisch.
 
 herumführen: Material/Tourism 2/4/3/5/Goal 3/Goal 5//Goal 4/aut/ecc
 Begründung: Im touristischen Kontext beinhaltet das Herumführen zusätzlich eine informierende Komponente (5), bei der der Akteur bestimmt (2), eine Leistung (4) zu erbringen, indem er den Antagonisten bewegt (3) und informiert (5), damit dieser sowohl zum Ziel gelangt (Goal 3) als auch informiert wird (Goal 5).. Autonom/Exzentrisch.
+
 
 herunterspielen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2), mit dem Ziel, einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Der Akteur stellt etwas bewusst als weniger bedeutend oder weniger schwerwiegend dar, um die Wahrnehmung zu beeinflussen.. Autonom/Exzentrisch.
@@ -662,11 +805,20 @@ Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er In
 herunterspielen: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die die Bedeutung oder den Einfluss einer anderen Person minimieren (Goal -2), um seine eigene Position zu stärken (//Goal 2).. Autonom/Exzentrisch.
 
+
+herüberbringen: Material/Transportation 4/3/1/Goal 2//Goal 4/het/ecc
+Begründung: Der Akteur leistet für den Antagonisten (4) durch Bewegung (3) das Bekommen (1) eines gewünschten Zustands (Goal 2), damit der Akteur selbst Anerkennung/Bezahlung bekommt (//Goal 4). Diese Tätigkeit beschreibt einen Transportvorgang, bei dem etwas von einem Ort zu einem anderen gebracht wird, wobei der Empfänger dadurch einen gewünschten Zustand erreicht.. Heteronom/Exzentrisch.
+
+herüberbringen: Material 3/1/Goal 2/het/ecc
+Begründung: Im privaten Kontext ohne Dienstleistungscharakter: Der Akteur bewegt sich (3) und übergibt etwas (1), um einen gewünschten Zustand zu erreichen (Goal 2). Hier fehlt die Assistance 4, da keine Leistung für einen Antagonisten erbracht wird, sondern eine eigenständige Handlung des Akteurs vorliegt.. Heteronom/Exzentrisch.
+
+
 hervorgehen: Material/Process 3/1/Goal 3/Goal 2/het/ecc
 Begründung: Hervorgehen bedeutet, dass etwas oder jemand (Akteur) aus einem Prozess, Zustand oder einer Situation durch Bewegung (3) herauskommt/entsteht und dabei etwas bekommt/erlangt (1), wodurch eine Wirkung/ein Ergebnis erreicht wird (Goal 3) und ein neuer Zustand entsteht (Goal 2). Der Prozess ist heteronym (het), da er oft von externen Faktoren abhängig ist, und nach außen gerichtet (ecc), weil etwas Neues in die Umwelt hervortritt.. Heteronom/Exzentrisch.
 
 hervorgehen: Material/Competition 3/1/Goal 3/Goal 2//Goal -3/het/ecc
 Begründung: Im Kontext eines Wettbewerbs bedeutet hervorgehen, dass der Akteur durch Bewegung/Anstreben (3) und Erreichen (1) eines Ziels (Goal 3) den gewünschten Zustand des Sieges erlangt (Goal 2) und dabei die Ziele der Gegner vereitelt (//Goal -3). Die Ausrichtung ist heteronym (het), da der Sieg von externen Faktoren abhängt, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 hervorheben: Material/Presentation 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich/richtet Fokus (3) auf bestimmte Informationen (5), um informiert zu sein bzw. andere zu informieren (Goal 5). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur sich an den vorhandenen Informationen orientieren muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
@@ -677,14 +829,17 @@ Begründung: Im Sinne von 'optisch betonen': Der Akteur bestimmt (2) durch Beweg
 hervorheben: Interpersonal/Status 2/4/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im Sinne von 'jemanden loben/würdigen': Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen über ihn mitteilt (5), damit dieser informiert ist (Goal 5), was dem eigenen Ziel des Akteurs dient, einen gewünschten Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
 
+
 hervortun: Interpersonal/Competition 3/5/Goal 3//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich/strebt an (3) im Kontaktbereich (5), um eine besondere Wirkung zu erzielen (Goal 3) und dabei andere in ihrer Wirkung zu übertreffen oder zu behindern (//Goal -3). Die Ausrichtung ist autonom und nach außen gerichtet, da der Akteur durch eigene Initiative seine Qualitäten besonders zur Geltung bringt, um sich von anderen abzuheben.. Autonom/Exzentrisch.
 
 hervortun: Material/Presentation 3/5/Goal 3/aut/ecc
 Begründung: Diese Bedeutung fokussiert auf das reine Hervorheben oder Präsentieren ohne den direkten Wettbewerbsaspekt. Der Akteur bewegt/platziert (3) etwas oder sich selbst im Wahrnehmungsbereich anderer (5), um eine besondere Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
 
+
 herzen: Interpersonal 3/1/Goal 1/aut/ecc
 Begründung: Beim Herzen bewegt sich der Akteur (3) auf einen Antagonisten zu und bekommt (1) durch diese körperliche Nähe ein Gefühl von Nah-Sein und Liebe (Goal 1). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf den Antagonisten zugeht. Dies entspricht dem zwischenmenschlichen Bereich der körperlichen Zuneigung.. Autonom/Exzentrisch.
+
 
 herzitieren: Material/Leadership 2/5/Goal 5/aut/con
 Begründung: Herzitieren bedeutet, bestimmend (2) in Kontakt treten (5), um jemanden zu sich zu rufen und zu informieren (Goal 5). Der Akteur verfügt/bestimmt mit Autorität über die Situation und fordert eine Person auf, zu ihm zu kommen, um Informationen zu erhalten oder zu liefern. Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt im eigenen Machtbereich handelt.. Autonom/Konzentrisch.
@@ -692,11 +847,6 @@ Begründung: Herzitieren bedeutet, bestimmend (2) in Kontakt treten (5), um jema
 herzitieren: Interpersonal/Control 2/3/Goal 5/aut/con
 Begründung: Im zwischenmenschlichen Kontext bedeutet herzitieren, mit Autorität (2) jemanden dazu zu bewegen (3), zu einem persönlichen Treffen zu erscheinen (Goal 5). Es geht um die autoritäre Anweisung zur Bewegung des Antagonisten mit dem Ziel eines direkten Kontakts.. Autonom/Konzentrisch.
 
-herüberbringen: Material/Transportation 4/3/1/Goal 2//Goal 4/het/ecc
-Begründung: Der Akteur leistet für den Antagonisten (4) durch Bewegung (3) das Bekommen (1) eines gewünschten Zustands (Goal 2), damit der Akteur selbst Anerkennung/Bezahlung bekommt (//Goal 4). Diese Tätigkeit beschreibt einen Transportvorgang, bei dem etwas von einem Ort zu einem anderen gebracht wird, wobei der Empfänger dadurch einen gewünschten Zustand erreicht.. Heteronom/Exzentrisch.
-
-herüberbringen: Material 3/1/Goal 2/het/ecc
-Begründung: Im privaten Kontext ohne Dienstleistungscharakter: Der Akteur bewegt sich (3) und übergibt etwas (1), um einen gewünschten Zustand zu erreichen (Goal 2). Hier fehlt die Assistance 4, da keine Leistung für einen Antagonisten erbracht wird, sondern eine eigenständige Handlung des Akteurs vorliegt.. Heteronom/Exzentrisch.
 
 hetzen: Material/Fight/Aggression 3/Goal 3//Goal -2/aut/ecc
 Begründung: Hetzen bedeutet, sich oder andere aggressiv und schnell zu bewegen (3), um eine Wirkung zu erzielen (Goal 3), wobei gleichzeitig der gewünschte Zustand eines Antagonisten bekämpft wird (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
@@ -710,11 +860,13 @@ Begründung: Im Kontext der Jagd oder Tiertraining bedeutet hetzen, ein Tier bes
 hetzen: Interpersonal/Fight/Dispute 3/1/5/Goal 3//Goal -2/aut/ecc
 Begründung: Im sozialen Kontext bedeutet aufhetzen, durch aggressive Kommunikation (3/1/5) eine Wirkung bei anderen zu erzielen (Goal 3), um den gewünschten Zustand eines Antagonisten zu bekämpfen (//Goal -2).. Autonom/Exzentrisch.
 
+
 heucheln: Interpersonal/Deception 2/4/1/5/Goal -2//Goal 2/het/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen falschen Eindruck beim Antagonisten erzeugen sollen (Goal -2). Dies dient dem Ziel des Akteurs, einen für sich gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist heteronom (het) und nach außen gerichtet (ecc), da der Akteur sich an die Erwartungen des Antagonisten anpasst, um dessen Wahrnehmung zu manipulieren.. Heteronom/Exzentrisch.
 
 heucheln: Material/Theater-Acting 2/3/5/Goal 3/aut/ecc
 Begründung: Im Kontext des Theaters oder der Schauspielerei bedeutet 'heucheln' eine bewusste Darstellung (2) mit Bewegung (3) und Informationsvermittlung (5), um eine bestimmte Wirkung beim Publikum zu erzielen (Goal 3). Die Ausrichtung ist autonom (aut) und nach außen gerichtet (ecc), da der Schauspieler bestimmt, wie er die Rolle interpretiert.. Autonom/Exzentrisch.
+
 
 heulen: Material/Emotions 4/1/5/Goal 1/het/ecc
 Begründung: Das Heulen ist ein emotionaler Ausdruck durch Weinen mit Lauten. Der Akteur leistet (4) durch Geben (1) einer Information (5), was zur emotionalen Entlastung führt (Goal 1). Die Ausrichtung ist heteronom und exzentrisch, da der Akteur auf seine Emotionen reagiert und den Ausdruck nach außen richtet.. Heteronom/Exzentrisch.
@@ -725,6 +877,7 @@ Begründung: Heulen im Sinne von Geräuschen wie bei Wind, Sirenen oder Motoren.
 heulen: Material/Animal 3/4/1/5/Goal 3/het/ecc
 Begründung: Heulen im Sinne der Lautäußerung von Tieren (besonders Wölfen/Hunden). Das Tier bewegt sich (3), leistet (4) durch Geben (1) einer Information (5), um eine Wirkung zu erzielen (Goal 3) wie Kommunikation oder Reviermarkierung. Die Ausrichtung ist heteronom und exzentrisch, da es von natürlichen Instinkten geleitet wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
+
 hinaufstreben: Material/Movement 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) nach oben/aufwärts, um eine höhere Position/Destination zu erreichen (Goal 3). Dies ist eine autonome, nach außen gerichtete Bewegung (aut/ecc). Die Aktivität beinhaltet eine zielgerichtete Aufwärtsbewegung mit der Absicht, ein höher gelegenes Ziel zu erreichen.. Autonom/Exzentrisch.
 
@@ -734,11 +887,13 @@ Begründung: Im übertragenen Sinne bedeutet 'hinaufstreben' das Anstreben (3) e
 hinaufstreben: Material/Career 3/Goal 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext bedeutet 'hinaufstreben' das Anstreben (3) einer höheren Position, um eine bestimmte Karrierestufe zu erreichen (Goal 3), einen gewünschten beruflichen Zustand zu erlangen (Goal 2) und letztendlich berufliche Anerkennung und finanzielle Vergütung zu bekommen (Goal 4).. Autonom/Exzentrisch.
 
+
 hinblicken: Material/Vision 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt seinen Blick (3) in eine bestimmte Richtung, um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da die Aufnahme von visuellen Informationen von äußeren Faktoren abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 hinblicken: Interpersonal 3/5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet hinblicken, dass der Akteur seine Aufmerksamkeit (3) auf eine Person richtet, um Kontakt aufzunehmen oder zu halten (5), mit dem Ziel, dass ein Kontakt stattfindet oder bestehen bleibt (Goal 5).. Heteronom/Exzentrisch.
+
 
 hindern: Material/Limitation 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), wodurch er das Bewegungsziel/die Wirkung eines Antagonisten verhindert (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv und selbstbestimmt handelt, um die Bewegung des Antagonisten einzuschränken.. Autonom/Exzentrisch.
@@ -749,11 +904,13 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet 'hindern', dass der Akteur
 hindern: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im Verteidigungskontext bedeutet 'hindern', dass der Akteur bestimmt (2) mit Bewegung/Barrieren (3) einen geschützten Zustand (Goal 2) herzustellen, wodurch die Bewegung/der Angriff eines Antagonisten blockiert wird (//Goal -3).. Autonom/Konzentrisch.
 
+
 hineinhorchen: Material/Sensory 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich geistig (3) in etwas hinein (daher het/ecc als Ausrichtung nach außen), um Informationen aufzunehmen (5) mit dem Ziel, informiert zu sein (Goal 5). Es geht um eine aktive, zielgerichtete Aufnahme von akustischen Informationen, wobei der Akteur sich auf die Quelle konzentriert.. Heteronom/Exzentrisch.
 
 hineinhorchen: Interpersonal/Analysis 3/5/Goal 5/het/ecc
 Begründung: In einem zwischenmenschlichen Kontext bedeutet 'hineinhorchen', sich in die Gefühle oder Gedanken einer anderen Person hineinzuversetzen (3/5), um deren innere Zustände zu erfassen und zu verstehen (Goal 5). Der Fokus liegt hier auf dem Erfassen von Emotionen oder Bedürfnissen anderer.. Heteronom/Exzentrisch.
+
 
 hineinreden: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) auf einen Antagonisten zu, um ihm eine Information zu geben (4/1/5), die einen unerwünschten Zustand beim Antagonisten bewirkt (Goal -2), damit der Akteur seinen eigenen gewünschten Zustand erreicht (//Goal 2). Der Akteur stört durch sein Hineinreden die Pläne/Absichten des Antagonisten, um seine eigene Position/Meinung durchzusetzen.. Autonom/Exzentrisch.
@@ -761,11 +918,13 @@ Begründung: Der Akteur bewegt sich (3) auf einen Antagonisten zu, um ihm eine I
 hineinreden: Material/Communication 3/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: In einer sachlicheren Bedeutung kann 'hineinreden' auch bedeuten, dass der Akteur sich in ein Gespräch einmischt (3), um eine Leistung zu erbringen (4) durch das Geben (1) von Informationen (5), damit andere informiert sind (Goal 5) und der Akteur Anerkennung bekommt (//Goal 4).. Autonom/Exzentrisch.
 
+
 hineinstellen: Material/Positioning 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas und positioniert es (bekommen einer Position = 1) um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur kontrolliert den Vorgang autonom (aut) mit Wirkung nach außen (ecc), indem er einen Gegenstand in einen Behälter oder definierten Raum stellt.. Autonom/Exzentrisch.
 
 hineinstellen: Material/Container 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3) und Positionierung (1) den Platz eines Objekts in einem Behälter, um einen gewünschten Zustand (Goal 2) zu erreichen. Diese Variante betont stärker die bewusste Entscheidung über den spezifischen Platz, an dem etwas positioniert wird.. Autonom/Exzentrisch.
+
 
 hingeben: Interpersonal 3/1/Goal 1/aut/ecc
 Begründung: Bei 'hingeben' ist eine bewegende (3) Aktivität enthalten, bei der der Akteur etwas (sich selbst) überlässt/übergibt/gibt (1), um Nähe zu erreichen (Goal 1). Es beinhaltet ein aktives Zugehen und Öffnen zu einer anderen Person, mit dem Ziel emotional nahe zu sein. Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Handlung selbstbestimmt in Richtung auf einen Antagonisten ausführt.. Autonom/Exzentrisch.
@@ -776,6 +935,7 @@ Begründung: In einer zweiten Bedeutung kann 'hingeben' auch bedeuten, dass man 
 hingeben: Material 4/1/Goal 2//Goal 4/aut/ecc
 Begründung: In einer dritten Bedeutung kann 'hingeben' das Übergeben oder Aushändigen eines Objekts bedeuten. Hier leistet (4) der Akteur durch Geben (1) für einen Antagonisten, damit dieser einen gewünschten Zustand erreicht (Goal 2), während der Akteur selbst Anerkennung erhält (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
 
+
 hingehen: Material/Physical/Movement 3/1/Goal 3/aut/ecc
 Begründung: Diese Aktivität beinhaltet eine Bewegung (3) zu einer Destination hin, wobei man diese Destination erreicht/bekommt (1) und somit das Ziel der Bewegung (Goal 3) realisiert. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt eine Bewegung nach außen durchführt.. Autonom/Exzentrisch.
 
@@ -785,11 +945,13 @@ Begründung: In zwischenmenschlichem Kontext kann 'hingehen' bedeuten, auf jeman
 hingehen: Material/Visit 3/1/Goal 3/Goal 5/aut/ecc
 Begründung: Als Besuchs-Aktivität beinhaltet 'hingehen' eine Bewegung (3) zu einem Ort, dessen Erreichen (1) sowohl die Destination (Goal 3) als auch einen informationellen Austausch ermöglicht (Goal 5), wie bei einem Besuch üblich.. Autonom/Exzentrisch.
 
+
 hingezogen fühlen: Interpersonal/Psychological 1/Goal 3/het/ecc
 Begründung: Sich zu jemandem hingezogen fühlen bedeutet, dass der Akteur eine Anziehung (1/bekommt) gegenüber einer anderen Person verspürt, mit dem Ziel (Goal 3), eine Wirkung zu erleben oder anzustreben. Diese Empfindung ist heteronomisch (het), weil sie nicht vollständig der eigenen Kontrolle unterliegt, und exzentrisch (ecc), weil sie auf eine andere Person außerhalb des eigenen Innenbereichs gerichtet ist.. Heteronom/Exzentrisch.
 
 hingezogen fühlen: Interpersonal/Emotional 1/Goal 1/het/ecc
 Begründung: In einem emotionalen Kontext kann 'hingezogen fühlen' auch bedeuten, dass der Akteur ein Nähegefühl (1/bekommt) erfährt, mit dem Ziel (Goal 1), emotionale Nähe zu erleben. Diese Empfindung ist ebenfalls heteronomisch und exzentrisch, da sie auf eine andere Person gerichtet ist und nicht vollständig kontrollierbar ist.. Heteronom/Exzentrisch.
+
 
 hinhorchen: Material/Sound 5/Goal 5/het/ecc
 Begründung: Der Akteur informiert sich (5) gezielt durch aktives Hören, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externe akustische Signale anpasst und nach außen gerichtet ist, um diese wahrzunehmen.. Heteronom/Exzentrisch.
@@ -800,6 +962,7 @@ Begründung: In einem Überwachungskontext bedeutet hinhorchen ein aktives Anstr
 hinhorchen: Interpersonal/Communication 5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet hinhorchen aufmerksames Zuhören im Kontakt mit anderen Menschen, um deren Mitteilungen aufzunehmen. Der Akteur informiert sich (5), um über die Kommunikation anderer informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
 
+
 hinlaufen: Material/Physical/Movement 3/1/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem bestimmten Ziel und bekommt (1) eine Destination, die er erreicht hat (Goal 3). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
@@ -808,6 +971,7 @@ Begründung: Im sportlichen Kontext bedeutet hinlaufen, sich zu einem Ziel zu be
 
 hinlaufen: Interpersonal 3/1/Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext kann hinlaufen bedeuten, sich zu einer Person zu bewegen (3), um einen Kontakt herzustellen (1/Goal 5), was selbstbestimmt und nach außen gerichtet ist (aut/ecc).. Autonom/Exzentrisch.
+
 
 hinlegen: Material/Physical/Position 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei die Bewegung selbstbestimmt (aut) und nach außen gerichtet (ecc) ist. 'Hinlegen' bedeutet, etwas in eine horizontale Position zu bringen, wobei der Akteur über das Objekt verfügt und es bewegt, um eine bestimmte Lage zu erreichen.. Autonom/Exzentrisch.
@@ -818,6 +982,7 @@ Begründung: Eine alternative Bedeutung von 'hinlegen' ist, sich selbst in eine 
 hinlegen: Material/Performance 3/Goal 2/aut/ecc
 Begründung: In einer umgangssprachlichen Bedeutung kann 'hinlegen' auch bedeuten, eine Leistung zu erbringen oder zu präsentieren. Der Akteur bewegt sich (3) um einen gewünschten Zustand (Goal 2) zu erreichen, indem er ein Ergebnis präsentiert oder eine Leistung zeigt.. Autonom/Exzentrisch.
 
+
 hinnehmen: Material/Accept 4/1/Goal 2/het/ecc
 Begründung: Der Akteur leistet (4) für den Antagonisten, indem er etwas bekommt/annimmt (1), damit ein gewünschter Zustand für den Antagonisten eintritt (Goal 2). Dies ist heteronym und exzentrisch ausgerichtet (het/ecc), da der Akteur sich den äußeren Gegebenheiten anpasst. Beim Hinnehmen akzeptiert der Akteur passiv etwas, das er eigentlich nicht möchte, ohne Widerstand zu leisten.. Heteronom/Exzentrisch.
 
@@ -826,6 +991,7 @@ Begründung: Im psychologischen Kontext bedeutet hinnehmen, dass der Akteur eine
 
 hinnehmen: Material/Tolerance 4/1/Goal 2//Goal 2/het/ecc
 Begründung: Im Kontext der Toleranz bedeutet hinnehmen, dass der Akteur eine Leistung erbringt (4), indem er etwas akzeptiert/empfängt (1), damit ein gewünschter Zustand für den Antagonisten eintritt (Goal 2), was gleichzeitig auch zu einem gewünschten Zustand für den Akteur führt (//Goal 2), beispielsweise um Konflikte zu vermeiden.. Heteronom/Exzentrisch.
+
 
 hinreißen: Interpersonal/Emotional 3/1/Goal 3/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt/beeindruckt (3) und bewirkt beim Antagonisten (1) eine starke emotionale Wirkung (Goal 3) und Aufmerksamkeit/Kontakt (Goal 5). Der Akteur strebt aktiv und nach außen gerichtet (aut/ecc) eine beeindruckende Wirkung an. Hinreißen bedeutet, jemanden emotional so stark zu beeindrucken, dass er völlig eingenommen wird.. Autonom/Exzentrisch.
@@ -836,11 +1002,13 @@ Begründung: Der Akteur lässt sich selbst hinreißen (zu einer unüberlegten Ha
 hinreißen: Material/Process 3/1/Goal 2/aut/ecc
 Begründung: Im materiellen Kontext bedeutet hinreißen das Bewegen (3) und Bekommen (1) eines gewünschten Zustands (Goal 2), wie beim Reißen von Material zu einem bestimmten Zweck. Der Akteur handelt selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 hinrichten: Material/Law/Criminal 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) eine Wirkung (Goal 3), die zu einem gewollten Zustand (Goal 2) führt, während gleichzeitig ein gewünschter Zustand des Antagonisten (das Leben) verhindert wird (//Goal -2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt eine Wirkung auf den Antagonisten ausübt.. Autonom/Exzentrisch.
 
 hinrichten: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: In einem allgemeineren Kampf-/Aggressionskontext bedeutet hinrichten das gezielte (3) Töten eines Antagonisten (1), um eine Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand herzustellen (Goal 2), während dem Antagonisten das Leben genommen wird (//Goal -2).. Autonom/Exzentrisch.
+
 
 hinschauen: Material/Vision 5/Goal 5/het/ecc
 Begründung: Der Akteur nimmt visuell Informationen auf (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an äußere Gegebenheiten anpasst und nach außen orientiert ist, um Informationen aufzunehmen.. Heteronom/Exzentrisch.
@@ -851,11 +1019,13 @@ Begründung: In der gezielten Bedeutung von 'genau hinschauen/untersuchen' beweg
 hinschauen: Interpersonal 5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'hinschauen' (im Sinne von 'nicht wegsehen'), dass der Akteur Kontakt (5) aufnimmt, um in Kontakt zu sein/bleiben (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da er sich nach außen zu anderen Menschen orientiert.. Heteronom/Exzentrisch.
 
+
 hinsehen: Material/Vision 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt (3) sich oder seinen Blick in Richtung eines Objekts, um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den äußeren Gegebenheiten richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
 hinsehen: Material/Observation 3/5/Goal 5/Goal 2/het/ecc
 Begründung: In einem Kontext der bewussten Beobachtung bewegt der Akteur (3) seinen Blick gezielt, um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5) und einen gewünschten Zustand (z.B. Kontrolle, Überwachung) zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
 
 hinstellen: Material/Physical/Position 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) ein Objekt, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei der Akteur autonom handelt und die Bewegung nach außen gerichtet ist (aut/ecc). Es geht um die zielgerichtete Bewegung eines Gegenstands an einen bestimmten Platz, wodurch ein gewünschter Zustand erreicht wird.. Autonom/Exzentrisch.
@@ -866,17 +1036,20 @@ Begründung: Im Kontext der Möbelanordnung bewegt (3) der Akteur ein Möbelstü
 hinstellen: Interpersonal/Psychological 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: In übertragener Bedeutung: Der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er jemandem eine Position/Rolle gibt (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), was letztlich der Anerkennung des Akteurs dient (//Goal 4).. Autonom/Exzentrisch.
 
+
 hinterfragen: Material/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Beim Hinterfragen bewegt sich der Akteur (3) zu Informationen (5), um diese kritisch zu überprüfen und zu kontrollieren (2), mit dem Ziel, besser informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/eccentric, da der Akteur sich nach externen Informationen richten muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 hinterfragen: Material/Fight/Dispute 3/5/2/Goal 5//Goal -2/het/ecc
 Begründung: In einem kritischen, konfrontativen Kontext bedeutet hinterfragen, dass der Akteur Informationen (5) gezielt untersucht (3) und prüft (2), mit dem primären Ziel informiert zu sein (Goal 5), aber auch um die Position oder Behauptung eines Antagonisten in Frage zu stellen (//Goal -2).. Heteronom/Exzentrisch.
 
+
 hintergehen: Interpersonal/Deception 3/1/5/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) um zu bekommen (1) und zu informieren (5), um einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Der Akteur handelt autonom und nach außen gerichtet. Beim Hintergehen täuscht der Akteur den Antagonisten durch Verschweigen oder Falschinformation, handelt dabei aber eigennützig gegen die Interessen des Antagonisten.. Autonom/Exzentrisch.
 
 hintergehen: Material/Criminal 3/1/5/Goal 2//Goal -2/aut/ecc
 Begründung: Im kriminellen Kontext bedeutet hintergehen das bewusste Umgehen von Vereinbarungen oder Regeln (3), um einen persönlichen Vorteil zu bekommen (1), wobei Informationen verschleiert werden (5), um einen gewünschten Zustand für sich zu erreichen (Goal 2) und den gewünschten Zustand des Betrogenen zu verhindern (//Goal -2).. Autonom/Exzentrisch.
+
 
 hinterlassen: Material 2/4/1/Goal 2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt/übergibt (1), um einen gewünschten Zustand zu erreichen (Goal 2), der auch für den Antagonisten (den Empfänger/Nachfolger) einen gewünschten Zustand darstellt (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen wirkt.. Autonom/Exzentrisch.
@@ -887,6 +1060,7 @@ Begründung: Im Sinne eines Vermächtnisses/Erbes leistet der Akteur (4) durch A
 hinterlassen: Material/Trace 3/1/Goal 2/aut/ecc
 Begründung: Im Sinne von 'Spuren hinterlassen' bewegt sich der Akteur (3) und bewirkt dadurch (1) einen gewünschten oder ungewünschten Zustand (Goal 2), indem er Markierungen oder Hinweise an einem Ort zurücklässt.. Autonom/Exzentrisch.
 
+
 hinterlegen: Material/Storage 2/3/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung (3), eine Leistung zu erbringen (4), indem er etwas gibt/übergibt (1), um einen gewünschten Zustand (sichere Aufbewahrung) zu erreichen (Goal 2). Nach erfolgter Übergabe erhält der Akteur eine Bestätigung/Anerkennung (//Goal 4).. Autonom/Exzentrisch.
 
@@ -896,11 +1070,13 @@ Begründung: Im IT-Kontext bedeutet hinterlegen das bestimmende (2) Bewegen (3) 
 hinterlegen: Material/Financial-Transactions 2/3/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im finanziellen Kontext bedeutet hinterlegen das bestimmende (2) Bewegen (3) von Geld oder Wertgegenständen als Leistung (4) durch Geben (1), um einen gewünschten Zustand (Sicherheit/Kaution) herzustellen (Goal 2). Nach der Hinterlegung erhält der Akteur eine Bestätigung (//Goal 4).. Autonom/Exzentrisch.
 
+
 hintertreiben: Material/Fight/Strategy 3/Goal 2//Goal -2/aut/ecc
 Begründung: Heimlich oder durch Ränkespiel das Zustandekommen von etwas verhindern. Der Akteur bewegt sich (3) um seinen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig das Ziel des Antagonisten (//Goal -2) vereitelt. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur bewusst und selbstbestimmt handelt, um auf die Pläne des Antagonisten einzuwirken.. Autonom/Exzentrisch.
 
 hintertreiben: Material/Obstruction 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: In dieser Bedeutung kontrolliert der Akteur (2) einen Prozess und bewegt sich (3), um einen gewünschten Zustand herzustellen (Goal 2), während er die Wirkung/das Ziel des Antagonisten verhindert (//Goal -3). Dies bezieht sich stärker auf die konkrete Blockierung von Abläufen oder Fortschritten.. Autonom/Exzentrisch.
+
 
 hinterziehen: Material/Tax 2/3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch geschickte Bewegung/Anstreben (3) das Bekommen (1) eines gewünschten Zustands (Goal 2), wobei er gleichzeitig den gewünschten Zustand des Antagonisten (Steuerbehörde) verhindert (//Goal -2). Das beschreibt das heimliche Zurückhalten von Geldern/Steuern, die eigentlich abzugeben wären.. Autonom/Exzentrisch.
@@ -908,11 +1084,20 @@ Begründung: Der Akteur bestimmt/verfügt (2) durch geschickte Bewegung/Anstrebe
 hinterziehen: Material/Criminal 2/3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Im allgemeineren kriminellen Kontext bedeutet hinterziehen das unrechtmäßige Zurückhalten oder Verbergen von Werten/Geldern, die einem Anderen zustehen. Der Akteur bestimmt/kontrolliert (2) durch Manipulation/Bewegung (3) das Behalten/Bekommen (1) eines gewünschten Zustands (Goal 2), während er den berechtigten Anspruch des Antagonisten blockiert (//Goal -2).. Autonom/Exzentrisch.
 
+
+hinüberbringen: Material/Transportation 4/3/1/Goal 2//Goal 4/het/ecc
+Begründung: Der Akteur leistet für einen Antagonisten (4) eine Bewegung (3), bei der etwas übergeben wird (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2). Nach dem Umschalter folgt das eigene Ziel des Akteurs: Anerkennung/Bezahlung für diese Dienstleistung zu erhalten (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da sich der Akteur an die Vorgaben des Empfängers anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
+
+hinüberbringen: Material 3/1/Goal 2/aut/ecc
+Begründung: In einer nicht-dienstleistungsbezogenen Bedeutung kann 'hinüberbringen' als eigenständige Handlung verstanden werden: Der Akteur bewegt sich (3) und übergibt etwas (1), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da die Handlung selbstbestimmt und nach außen gerichtet erfolgt.. Autonom/Exzentrisch.
+
+
 hinweisen: Material/Information 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur leistet für den Antagonisten (4) durch Geben (1) von Informationen (5), damit dieser informiert ist (Goal 5). Nach dem Umschalter folgt das Ziel des Akteurs, Anerkennung zu erhalten (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 hinweisen: Material/Direction 4/1/5/Goal 3//Goal 4/aut/ecc
 Begründung: In der Bedeutung von 'den Weg weisen' leistet der Akteur für den Antagonisten (4) durch Geben (1) von richtungsweisenden Informationen (5), damit dieser eine Destination erreichen kann (Goal 3). Das Ziel des Akteurs ist Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
 
 hinzufügen: Material/Process 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt über (2) und bewegt/führt hinzu (3) etwas, das hinzukommt/bekommen wird (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf die Umgebung einwirkt.. Autonom/Exzentrisch.
@@ -923,14 +1108,10 @@ Begründung: Im IT-Kontext bedeutet hinzufügen das bestimmende (2) Bewegen (3) 
 hinzufügen: Material/Collection 2/3/1/Goal 2/aut/ecc
 Begründung: Im Kontext einer Sammlung bedeutet hinzufügen das bestimmende (2) Bewegen (3) eines neuen Elements, das der Sammlung hinzukommt (1), um einen gewünschten Zustand der Sammlung zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
-hinüberbringen: Material/Transportation 4/3/1/Goal 2//Goal 4/het/ecc
-Begründung: Der Akteur leistet für einen Antagonisten (4) eine Bewegung (3), bei der etwas übergeben wird (1), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2). Nach dem Umschalter folgt das eigene Ziel des Akteurs: Anerkennung/Bezahlung für diese Dienstleistung zu erhalten (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da sich der Akteur an die Vorgaben des Empfängers anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
-
-hinüberbringen: Material 3/1/Goal 2/aut/ecc
-Begründung: In einer nicht-dienstleistungsbezogenen Bedeutung kann 'hinüberbringen' als eigenständige Handlung verstanden werden: Der Akteur bewegt sich (3) und übergibt etwas (1), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da die Handlung selbstbestimmt und nach außen gerichtet erfolgt.. Autonom/Exzentrisch.
 
 hissen: Material/Maritime 2/3/Goal 2/aut/ecc
 Begründung: Hissen bedeutet das bestimmende (2) Hochziehen/Bewegen (3) einer Flagge oder eines Segels, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur verfügt (2) eigenständig (aut) über den Gegenstand und bewegt ihn außerhalb seines Körpers (ecc) nach oben.. Autonom/Exzentrisch.
+
 
 hobeln: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Hobeln bedeutet im Schreinerhandwerk, eine Holzoberfläche mit einem Hobel zu bearbeiten, um sie zu glätten. Der Akteur bewegt (3) den Hobel, um einen gewünschten Zustand des Holzes (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf das Material einwirkt.. Autonom/Exzentrisch.
@@ -941,8 +1122,10 @@ Begründung: In der technischen Verarbeitung bezeichnet Hobeln einen Fertigungsp
 hobeln: Interpersonal/Slang 3/Goal 3/aut/ecc
 Begründung: Als umgangssprachlicher Begriff kann 'hobeln' auch energisches, rücksichtsloses Vorgehen oder Geschlechtsverkehr bezeichnen. Der Akteur bewegt sich (3) energisch, um eine bestimmte Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
 
+
 hochachten: Interpersonal/Respect 2/4/5/Goal 5//Goal 2/aut/ecc
 Begründung: Beim Hochachten bestimmt der Akteur (2) eine Leistung (4) für den Antagonisten zu erbringen, indem er ihn mit Aufmerksamkeit (5) wahrnimmt, damit der Antagonist informiert ist über diese Wertschätzung (Goal 5). Nach dem Umschalter (//) folgt das eigene Ziel des Akteurs, einen gewünschten Zustand der Respektbeziehung herzustellen (Goal 2).. Autonom/Exzentrisch.
+
 
 hochbringen: Material/Physical/Movement 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas nach oben und bekommt (1) es an die gewünschte höhere Position, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Bewegung ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
@@ -956,6 +1139,7 @@ Begründung: Der Akteur bewegt (3) eine Flüssigkeit nach oben (z.B. durch Pumpe
 hochbringen: Material/Medical/Process 3/1/Goal -3/het/ecc
 Begründung: Der Akteur bewegt (3) und bekommt (1) ungewollt etwas aus dem Magen/Körper nach oben (erbrechen), was zu einer unerwünschten Wirkung (Goal -3) führt. Der Vorgang ist heteronom, da er nicht vollständig kontrollierbar ist.. Heteronom/Exzentrisch.
 
+
 hochfahren: Material/Machine-System 2/1/Goal 3/aut/ecc
 Begründung: Der Akteur verfügt/bestimmt (2) über einen technischen Prozess, bei dem etwas in Betrieb genommen/eingeschaltet wird, was zum Bekommen (1) eines funktionierenden Zustands führt, mit dem Ziel einer Wirkung/Funktionalität (Goal 3). 'Hochfahren' bezieht sich auf das Starten und Aktivieren eines Systems bis zu seiner vollen Funktionsfähigkeit.. Autonom/Exzentrisch.
 
@@ -965,8 +1149,10 @@ Begründung: Im IT-Kontext bedeutet 'hochfahren' das Starten eines Computers ode
 hochfahren: Material/Vehicle 2/3/Goal 3/aut/ecc
 Begründung: In Bezug auf Fahrzeuge bedeutet 'hochfahren' das Beschleunigen, wobei der Akteur bestimmt/verfügt (2) über das Fahrzeug und es bewegt (3), um eine höhere Geschwindigkeit zu erreichen (Goal 3).. Autonom/Exzentrisch.
 
+
 hochglänzen: Material/Cleaning 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3) einen gewünschten Zustand zu erreichen (Goal 2), nämlich eine hochglänzende Oberfläche. Der Vorgang ist autonom (der Akteur bestimmt selbst) und nach außen gerichtet (auf ein Objekt bezogen). Die Bewegungskomponente bezieht sich auf das Polieren/Reiben, das notwendig ist, um Hochglanz zu erzeugen.. Autonom/Exzentrisch.
+
 
 hochhalten: Material/Physical/Position 2/3/Goal 2/aut/ecc
 Begründung: Beim Hochhalten verfügt der Akteur (2) über ein Objekt und bewegt es (3) nach oben, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass das Objekt sich in erhöhter Position befindet. Die Handlung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt ein Objekt im Außenbereich positioniert.. Autonom/Exzentrisch.
@@ -977,6 +1163,7 @@ Begründung: Im übertragenen Sinne bedeutet 'hochhalten' jemanden oder etwas zu
 hochhalten: Material/Preservation 2/3/Goal 2/aut/ecc
 Begründung: In einer weiteren Bedeutung kann 'hochhalten' auch bedeuten, etwas zu bewahren oder aufrechtzuerhalten (z.B. Tradition hochhalten). Der Akteur verfügt (2) über etwas und setzt Anstrengung ein (3), um einen gewünschten Zustand der Bewahrung (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 hochheben: Material/Physical/Movement 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) einen Gegenstand oder eine Person nach oben, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen (ecc), da er etwas in der Umwelt verändert. Beim Hochheben wird ein Objekt durch aktive Bewegung in eine höhere Position gebracht.. Autonom/Exzentrisch.
 
@@ -985,6 +1172,7 @@ Begründung: Im sportlichen Kontext (z.B. Gewichtheben) bewegt (3) der Akteur ei
 
 hochheben: Interpersonal 3/1/Goal 1/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bewegt (3) der Akteur eine andere Person und bekommt (1) dadurch Nähe (Goal 1), wie beim Hochheben eines Kindes oder beim freudigen Hochheben einer Person.. Autonom/Exzentrisch.
+
 
 hochklappen: Material/Furniture 2/3/Goal 2/aut/ecc
 Begründung: Beim Hochklappen verfügt der Akteur (2) über einen beweglichen Gegenstand und bewegt (3) diesen nach oben, um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und die Bewegung erfolgt im Außenbereich (ecc).. Autonom/Exzentrisch.
@@ -995,17 +1183,20 @@ Begründung: Im technischen Kontext bedeutet Hochklappen das Aufstellen oder Auf
 hochklappen: Material/IT 2/3/1/Goal 5/aut/ecc
 Begründung: Im IT-Kontext bedeutet Hochklappen das Aufklappen eines Laptops, um Zugang zu Informationen zu bekommen. Der Akteur verfügt (2) über den Laptop, bewegt (3) ihn, bekommt dadurch (1) Zugang zur Anzeige, um informiert zu sein (Goal 5).. Autonom/Exzentrisch.
 
+
 hochloben: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er ihm übertrieben positiv bewertende Informationen gibt (1/5), die für den Antagonisten einen unerwünschten Zustand (überhöhte Erwartungen) bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand herzustellen (//Goal 2), nämlich eine Position der moralischen Überlegenheit oder manipulativen Kontrolle.. Autonom/Exzentrisch.
 
 hochloben: Interpersonal/Persuasion 3/4/1/5/Goal 3//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich auf den Antagonisten zu (3), leistet etwas für ihn (4), indem er ihm übermäßig positive Informationen gibt (1/5), um eine Wirkung zu erzielen (Goal 3), mit dem Ziel für sich selbst einen gewünschten Zustand herzustellen (//Goal 2), etwa die Manipulation des Antagonisten.. Autonom/Exzentrisch.
 
+
 hochrechnen: Material/Mathematics 3/5/2/Goal 5/aut/ecc
 Begründung: Beim Hochrechnen bewegt (3) der Akteur verfügbare Informationen (5) und verfügt analytisch (2) über sie, um ein umfassenderes Informationsbild zu erhalten (Goal 5). Der Begriff beschreibt einen mathematischen Prozess, bei dem aus Teilinformationen auf größere Gesamtwerte geschlossen wird - typischerweise bei Wahlen, Umfragen oder statistischen Erhebungen. Die Tätigkeit ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und auf externe Daten einwirkt.. Autonom/Exzentrisch.
 
 hochrechnen: Material/Business/Documentation 3/5/2/Goal 5/Goal 2/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet Hochrechnen das analytische Bewegen (3) von Informationen (5), über die der Akteur verfügt (2), um informiert zu sein (Goal 5) und einen gewünschten Zustand der Planungssicherheit zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 hochschalten: Material/Mechanical 2/3/Goal 3/aut/con
 Begründung: Der Akteur verfügt/kontrolliert (2) einen Schaltmechanismus mit Bewegung (3), um eine höhere Wirkung/schnellere Bewegung zu erreichen (Goal 3). Die Kontrolle erfolgt im eigenen Bereich mit kleinen Bewegungen (aut/con).. Autonom/Konzentrisch.
@@ -1016,11 +1207,13 @@ Begründung: Im elektrischen/elektronischen Kontext bedeutet hochschalten das be
 hochschalten: Material/Driving 2/3/Goal 3/aut/con
 Begründung: Beim Autofahren bedeutet hochschalten das Wechseln in einen höheren Gang durch Bestimmen/Verfügen (2) über die Schaltung mit minimaler Bewegung (3), um eine andere Geschwindigkeit/Wirkung zu erreichen (Goal 3).. Autonom/Konzentrisch.
 
+
 hochschlafen: Interpersonal/Sex 3/4/Goal 3//Goal 2/Goal 4/het/ecc
 Begründung: Sich durch sexuelle Aktivität (3/4) an einer Person mit höherer gesellschaftlicher Position hocharbeiten, um eine Wirkung zu erzielen (Goal 3), mit dem Ziel, dadurch selbst eine bessere Stellung zu erreichen (//Goal 2) und Anerkennung zu bekommen (Goal 4). Der Begriff impliziert eine instrumentalisierte Sexualität als Mittel zum Karriereaufstieg.. Heteronom/Exzentrisch.
 
 hochschlafen: Interpersonal/Career 3/4/1/Goal 2/Goal 4/het/ecc
 Begründung: Durch Beziehungen zu einflussreichen Personen in Organisationen aufsteigen (sich bewegen durch Leistungen für andere, um eine bessere Position zu bekommen).. Heteronom/Exzentrisch.
+
 
 hochziehen: Material/Movement 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas nach oben, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom (der Akteur bestimmt die Bewegung) und exzentrisch (nach außen gerichtet, auf ein Objekt wirkend).. Autonom/Exzentrisch.
@@ -1037,6 +1230,7 @@ Begründung: Im zwischenmenschlichen Bereich kann hochziehen bedeuten, jemanden 
 hochziehen: Material/Clothing 2/3/Goal 2/aut/con
 Begründung: Bei Kleidungsstücken bedeutet hochziehen das Anpassen der Position eines Kleidungsstücks. Der Akteur verfügt (2) über und bewegt (3) das Objekt, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist nach innen (con), da es sich um den eigenen Bereich handelt.. Autonom/Konzentrisch.
 
+
 hocken: Material/Physical/Position 2/Goal 2/aut/con
 Begründung: Hocken bedeutet, über die eigene Körperhaltung zu verfügen/zu bestimmen (2), um einen gewünschten Zustand (Goal 2) zu erreichen, indem man in gebückter Stellung mit gebeugten Knien verharrt. Es handelt sich um eine selbstbestimmte Kontrolle (aut) im eigenen Bereich (con).. Autonom/Konzentrisch.
 
@@ -1046,11 +1240,13 @@ Begründung: Im übertragenen Sinne kann 'hocken' auch das untätige Verharren a
 hocken: Material/Housing 2/Goal 2/het/con
 Begründung: In umgangssprachlicher Bedeutung kann 'hocken' auch 'wohnen/sich aufhalten' bedeuten. Hier verfügt/bestimmt der Akteur (2) über seinen Aufenthaltsort, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er sich an vorgegebene Umstände anpassen muss (het) in seinem Bereich (con).. Heteronom/Konzentrisch.
 
+
 hoffen: Interpersonal/Psychological 0/Goal 0/het/ecc
 Begründung: Beim Hoffen wartet der Akteur (0) auf eine positive Wendung mit einem vorausgehenden Eigengefühl der Zuversicht (Goal 0). Die Ausrichtung ist heteronom (het), da der Akteur sich an externe Umstände anpassen muss, und exzentrisch (ecc), da die Hoffnung nach außen auf zukünftige Ereignisse gerichtet ist.. Heteronom/Exzentrisch.
 
 hoffen: Material/Emotional 0/1/Goal 0/het/ecc
 Begründung: In einem materiellen Kontext kann hoffen bedeuten, dass der Akteur wartet (0) auf das Bekommen (1) eines erwünschten Zustands oder Objekts, wobei ein Gefühl der Zuversicht (Goal 0) vorherrscht. Die Ausrichtung ist heteronomisch und exzentrisch, da das Erhoffte außerhalb der direkten Kontrolle des Akteurs liegt.. Heteronom/Exzentrisch.
+
 
 hofieren: Interpersonal/Relationship 3/5/Goal 3/Goal 1/aut/ecc
 Begründung: Jemanden hofieren bedeutet, einer Person besondere Aufmerksamkeit und Zuvorkommenheit entgegenzubringen, um einen positiven Eindruck zu hinterlassen und ihre Gunst zu gewinnen. Der Akteur bewegt sich auf den Antagonisten zu (3) und knüpft intensiven Kontakt (5), um eine Wirkung zu erzielen (Goal 3) und dadurch Nähe zu erreichen (Goal 1). Die Aktivität ist autonomes Handeln des Akteurs (aut) und nach außen auf den Antagonisten gerichtet (ecc).. Autonom/Exzentrisch.
@@ -1058,11 +1254,13 @@ Begründung: Jemanden hofieren bedeutet, einer Person besondere Aufmerksamkeit u
 hofieren: Material/Historical 4/3/1/Goal 3/Goal 1//Goal 4/aut/ecc
 Begründung: Im historischen Kontext bedeutet hofieren die Leistung (4) des Hofierenden, durch bestimmte Bewegungen/Gesten (3) etwas zu geben (1), um eine Wirkung beim Adligen zu erzielen (Goal 3) und eine besondere Nähe zum Hof/zur Obrigkeit zu bekommen (Goal 1), mit dem Ziel der eigenen Anerkennung (//Goal 4). Dies bezieht sich auf das höfische Verhalten gegenüber Adligen.. Autonom/Exzentrisch.
 
+
 homeoffice: Material/Office Object 2/2/4//Goal 4 het/ecc
 Begründung: Ein Homeoffice ist ein Besitzobjekt (2) in Form eines Raumes (2) im eigenen Zuhause, das dazu dient, berufliche Tätigkeiten/Leistungen (4) auszuführen, mit dem Ziel, Geld und/oder Anerkennung zu bekommen (Goal 4). Es ist ein Raum, der die Ausführung von Arbeitstätigkeiten ermöglicht und somit als Arbeitsplatz für die Erbringung beruflicher Leistungen dient.. Heteronom/Exzentrisch.
 
 homeoffice: Material/Work 2/4//Goal 2/Goal 4/het/ecc
 Begründung: Als Tätigkeit betrachtet bedeutet 'homeoffice' (im Homeoffice arbeiten), dass der Akteur über seinen Arbeitsplatz zu Hause verfügt (2) und dort Leistungen für seinen Arbeitgeber erbringt (4), um einen gewünschten Zustand zu erreichen (Goal 2) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Die heteronome/exzentrische Ausrichtung zeigt, dass sich der Akteur an externe Anforderungen anpasst.. Heteronom/Exzentrisch.
+
 
 homeoffice machen: Material/Work 4/2/Goal 2/Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) eine berufliche Tätigkeit und verfügt dabei (2) über seinen häuslichen Arbeitsbereich, um einen gewünschten Zustand herzustellen (Goal 2) mit dem übergeordneten Ziel, berufliche Anerkennung und Bezahlung zu erhalten (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an berufliche Vorgaben anpassen muss und seine Leistung nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -1070,11 +1268,13 @@ Begründung: Der Akteur leistet (4) eine berufliche Tätigkeit und verfügt dabe
 homeoffice machen: Material/Office 4/2/5/Goal 2/Goal 4/het/ecc
 Begründung: Bei dieser Bedeutungsvariante liegt der Fokus auf der Bürotätigkeit mit Informationsverarbeitung (5), die der Akteur von zu Hause aus ausführt. Er leistet (4) eine berufliche Tätigkeit, verfügt (2) über seinen häuslichen Arbeitsbereich und arbeitet mit Informationen (5), um einen gewünschten Zustand herzustellen (Goal 2) mit dem Ziel, berufliche Anerkennung und Bezahlung zu erhalten (Goal 4).. Heteronom/Exzentrisch.
 
+
 homeofficen: Material/Office 2/4/Goal 2/Goal 4/het/ecc
 Begründung: Der Akteur verfügt (2) über seinen Heimarbeitsplatz und erbringt eine Leistung (4) für eine Firma, um einen gewünschten Zustand zu erreichen (Goal 2) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist heteronom (het), da der Akteur sich nach externen Vorgaben richtet, und nach außen gerichtet (ecc), da die Arbeitsleistung für Andere/die Firma erbracht wird.. Heteronom/Exzentrisch.
 
 homeofficen: Material/Work 4/2/4/Goal 4/het/ecc
 Begründung: In dieser alternativen Bedeutung betont 'homeofficen' dass der Akteur seine Tätigkeiten von zu Hause aus ausführt und seinen Heimarbeitsplatz zur Verfügung (4/2) stellt und erbringt eine Leistung (4) für eine Firma,  und letztendlich Geld/Anerkennung zu bekommen (Goal 4).. Heteronom/Exzentrisch.
+
 
 homiefizieren: Material/Slang 3/1/Goal 2/het/ecc
 Begründung: Der umgangssprachliche Begriff 'homiefizieren' bedeutet, jemanden zu seinem Freund oder Kumpel ('Homie') zu machen. Der Akteur bewegt sich (3) auf den Antagonisten zu und bekommt (1) eine freundschaftliche Beziehung, um einen gewünschten Zustand der Freundschaft herzustellen (Goal 2). Die Ausrichtung ist heterenom/exzentrisch, da der Prozess von der Reaktion des Anderen abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -1082,14 +1282,17 @@ Begründung: Der umgangssprachliche Begriff 'homiefizieren' bedeutet, jemanden z
 homiefizieren: Interpersonal/Relationship 3/1/Goal 2/het/ecc
 Begründung: Im zwischenmenschlichen Beziehungskontext bedeutet 'homiefizieren', eine freundschaftliche Verbindung zu jemandem aufzubauen. Der Akteur geht auf den Anderen zu (3), bekommt dessen Vertrauen/Akzeptanz (1), um den gewünschten Zustand einer Freundschaft (Goal 2) zu erreichen.. Heteronom/Exzentrisch.
 
+
 homogenisieren: Material/Processing 2/3/Goal 2/aut/ecc
 Begründung: Beim Homogenisieren verfügt der Akteur (2) über die Bearbeitung eines Materials und bewegt/transformiert es durch einen Prozess (3), um einen gewünschten gleichmäßigen Zustand zu erreichen (Goal 2). Der Prozess macht ungleichmäßige Substanzen gleichmäßig verteilt, wie bei der Homogenisierung von Milch.. Autonom/Exzentrisch.
 
 homogenisieren: Material/Chemical/Process 2/3/Goal 2/aut/ecc
 Begründung: Im chemischen Kontext bezeichnet Homogenisieren das Verfügen über (2) und Bewegen/Transformieren (3) von verschiedenen Substanzen, um einen gleichmäßig verteilten Zustand zu erreichen (Goal 2), bei dem alle Bestandteile einheitlich verteilt sind.. Autonom/Exzentrisch.
 
+
 homöopathieren: Material/Medical/Process 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) durch die Anwendung/Bewegung (3) von homöopathischen Mitteln, die der Patient bekommt (1), um einen gewünschten Gesundheitszustand beim Patienten zu erreichen (Goal 2). Nach dem Umschalter folgt das Ziel des Akteurs selbst, nämlich Anerkennung/Bezahlung für diese medizinische Leistung zu erhalten (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Beschwerden des Patienten anpassen muss und nach außen auf den Patienten wirkt.. Heteronom/Exzentrisch.
+
 
 honen: Material/Metalworking 3/Goal 2/aut/ecc
 Begründung: Honen ist ein Feinbearbeitungsverfahren in der Metallbearbeitung, bei dem durch Bewegen (3) spezieller Honwerkzeuge die Oberfläche eines Werkstücks geglättet und präzisiert wird, um einen gewünschten Zustand der Oberfläche (Goal 2) zu erreichen. Der Akteur führt die Bewegung selbstbestimmt durch (aut) und wirkt auf ein externes Objekt ein (ecc).. Autonom/Exzentrisch.
@@ -1097,11 +1300,13 @@ Begründung: Honen ist ein Feinbearbeitungsverfahren in der Metallbearbeitung, b
 honen: Material/Manufacturing 3/Goal 2/aut/ecc
 Begründung: Im allgemeineren Fertigungskontext bezeichnet Honen einen Schleifprozess, bei dem ein Akteur durch gezielte Bewegung (3) eines Werkzeugs die Oberfläche eines Werkstücks verfeinert, um einen präzisen Endzustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 honorieren: Material/Reward 2/4/1/Goal 4//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1), um den Antagonisten für dessen Leistung anzuerkennen und zu belohnen (Goal 4). Nach dem Umschalter folgt das eigene Ziel des Akteurs, nämlich seine soziale oder geschäftliche Pflicht zu erfüllen (//Goal 4).. Autonom/Exzentrisch.
 
 honorieren: Material/Finance 2/4/1/Goal 4//Goal 4/aut/ecc
 Begründung: Im finanziellen Kontext: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Geld gibt (1), um die Leistung des Antagonisten zu vergüten (Goal 4). Dies dient dem Ziel des Akteurs, seine Geschäftspflicht zu erfüllen (//Goal 4).. Autonom/Exzentrisch.
+
 
 horchen: Material/Surveillance 5/Goal 5/het/ecc
 Begründung: Beim Horchen informiert sich der Akteur (5) aktiv und aufmerksam durch Zuhören, um Informationen zu bekommen (Goal 5). Die Ausrichtung ist heteronym (het), da der Akteur sich nach externen Informationsquellen richten muss, und exzentrisch (ecc), da die Informationen von außen kommen.. Heteronom/Exzentrisch.
@@ -1112,6 +1317,7 @@ Begründung: In der Bedeutung von 'genau hinhören/lauschen' informiert sich der
 horchen: Material/Fight/Intelligence-Operations 5/Goal 5//Goal 2/het/ecc
 Begründung: Im Sinne von 'abhören/belauschen' informiert sich der Akteur heimlich (5), um Informationen zu erhalten (Goal 5) mit dem übergeordneten Ziel, einen gewünschten Zustand zu erreichen (Goal 2), etwa einen strategischen Vorteil.. Heteronom/Exzentrisch.
 
+
 hosten: Material/IT 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur verfügt (2) über eine Leistung (4) für einen Antagonisten, indem er Daten/Inhalte bereitstellt (1) und Informationen (5) zugänglich macht, um einen gewünschten Zustand (Goal 2) herzustellen. Nach dem Wechsel zum Akteur steht das Ziel der Anerkennung oder Bezahlung für diese Dienstleistung (//Goal 4).. Autonom/Exzentrisch.
 
@@ -1121,74 +1327,6 @@ Begründung: Der Akteur verfügt (2) über eine Leistung (4) für einen Antagoni
 hosten: Material/Event 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur verfügt (2) über eine Leistung (4) für Teilnehmer, indem er eine Veranstaltung bereitstellt (1) und Führung/Information bietet (5), um einen gewünschten Zustand (Goal 2) herzustellen. Nach dem Wechsel zum Akteur steht das Ziel der Anerkennung oder finanziellen Vergütung (//Goal 4).. Autonom/Exzentrisch.
 
-humpeln: Material/Physical/Movement 3/Goal -3/het/ecc
-Begründung: Humpeln bezeichnet eine beeinträchtigte Form der Fortbewegung, bei der sich der Akteur mit einer ungleichmäßigen, gehemmten Bewegung (3) fortbewegt, wobei diese Bewegung nicht optimal zum Ziel führt (Goal -3). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an die Beschränkungen seiner körperlichen Beeinträchtigung anpassen muss und die Bewegung nach außen gerichtet ist.. Heteronom/Exzentrisch.
-
-huschen: Material/Movement 3/Goal 3/het/ecc
-Begründung: Huschen bezeichnet eine schnelle, leise, meist unauffällige Bewegung (3) mit dem Ziel, rasch von einem Ort zum anderen zu gelangen (Goal 3). Die Bewegung erfolgt oft angepasst an äußere Umstände (het) und ist nach außen gerichtet (ecc), da der Akteur sich durch einen Raum bewegt.. Heteronom/Exzentrisch.
-
-huschen: Material/Stealth 3/Goal 3/Goal 2/het/ecc
-Begründung: Im Kontext von verstecktem oder heimlichem Bewegen bedeutet huschen, sich schnell und unauffällig (3) zu bewegen, um ein Ziel zu erreichen (Goal 3) und dabei einen gewünschten Zustand der Unentdecktheit zu wahren (Goal 2). Die Bewegung passt sich den äußeren Umständen an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
-
-huschen: Material/Light 3/Goal 3/het/ecc
-Begründung: Im Kontext von Licht bedeutet huschen das schnelle, flüchtige Bewegen (3) von Lichtreflexen oder Schatten mit dem Ziel, von einem Ort zum anderen zu gelangen (Goal 3). Die Bewegung wird von äußeren Umständen bestimmt (het) und findet im Außenbereich statt (ecc).. Heteronom/Exzentrisch.
-
-hypnotisieren: Interpersonal/Control 2/3/5/Goal 2//Goal -3/aut/ecc
-Begründung: Der Hypnotiseur bestimmt (2) durch Bewegung/Anstreben (3) und Informationen (5) einen gewünschten Zustand (Goal 2) zu erreichen, wobei er die Willensfreiheit/eigenständige Bewegungsfähigkeit des Antagonisten einschränkt (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Hypnotiseur aktiv auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
-
-hypnotisieren: Material/Psychological 2/3/5/Goal 5/Goal 2/het/ecc
-Begründung: Als medizinisch-therapeutische Methode verwendet, ist Hypnotisieren ein Bestimmen (2) durch spezifische Bewegungen/Anstreben (3) und Informationen (5), um einen informierten Zustand (Goal 5) und letztlich einen gewünschten Zustand (Goal 2) bei einem Patienten zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Therapeut sich an die individuellen Reaktionen des Patienten anpassen muss.. Heteronom/Exzentrisch.
-
-hypothetisieren: Material/Hypothesis 3/5/2/Goal 5/het/ecc
-Begründung: Hypothetisieren bedeutet, aktiv nach Informationen zu suchen (3/5) und über diese zu verfügen (2), um informiert zu sein (Goal 5). Der Akteur bewegt sich gedanklich (3) in einem Informationsraum, nimmt Informationen auf (5) und versucht, diese zu einer vorläufigen Vermutung/Annahme zusammenzuführen (2), mit dem Ziel, ein besseres Verständnis zu erlangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externe Fakten anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
-
-hypothetisieren: Material/Scientific 3/5/2/Goal 5/Goal 3/het/ecc
-Begründung: Im wissenschaftlichen Kontext bedeutet hypothetisieren zusätzlich, dass durch die Formulierung einer Hypothese eine Wirkung erzielt werden soll (Goal 3) - nämlich die Möglichkeit, diese Hypothese zu testen und zu bestätigen oder zu widerlegen.. Heteronom/Exzentrisch.
-
-häckseln: Material/Agriculture 3/Goal 2/aut/ecc
-Begründung: Häckseln bedeutet, organisches Material wie Pflanzen oder Äste mit einer Maschine (Häcksler) in kleine Stücke zu schneiden. Der Akteur bewegt (3) das Material, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die Zerkleinerung des Materials. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein außenliegendes Material einwirkt.. Autonom/Exzentrisch.
-
-häckseln: Material/Waste-Disposal 3/Goal 2/aut/ecc
-Begründung: Im Kontext der Abfallentsorgung bedeutet häckseln das Zerkleinern von zu entsorgenden Materialien wie Papier oder Gartenabfällen. Der Akteur bewegt (3) das Material, um einen gewünschten Zustand (Goal 2) der Zerkleinerung zu erreichen, was die weitere Verarbeitung oder Entsorgung erleichtert.. Autonom/Exzentrisch.
-
-häkeln: Material/Crafts 3/Goal 2/aut/ecc
-Begründung: Häkeln bedeutet, einen autonomen Bewegungsvorgang (3) auszuführen, bei dem durch Manipulation eines Fadens mit einer Häkelnadel ein gewünschter Zustand (Goal 2) in Form eines Textilerzeugnisses hergestellt wird. Der Akteur verfügt aktiv über die Bewegung und wirkt nach außen (aut/ecc), um das Material zu formen.. Autonom/Exzentrisch.
-
-hämmern: Material/Construction 3/Goal 2/aut/ecc
-Begründung: Hämmern bedeutet, mit einem Hammer auf etwas zu schlagen, um einen gewünschten Zustand zu erreichen. Der Akteur bewegt (3) ein Werkzeug mit Kraft, um ein Material zu formen oder zu befestigen (Goal 2). Die Tätigkeit ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt auf einen externen Gegenstand einwirkt.. Autonom/Exzentrisch.
-
-hämmern: Material/Metalworking 3/Goal 2/aut/ecc
-Begründung: Im Kontext der Metallbearbeitung bedeutet hämmern das gezielte Schlagen mit einem Hammer, um Metall zu formen, zu strecken oder zu biegen. Der Akteur bewegt (3) das Werkzeug, um einen gewünschten Zustand des Werkstücks (Goal 2) zu erreichen.. Autonom/Exzentrisch.
-
-hämmern: Interpersonal/Psychological 3/Goal 3/aut/ecc
-Begründung: Im übertragenen Sinne bedeutet 'auf etwas hämmern' beharrlich und wiederholt auf jemanden einwirken, um eine bestimmte Wirkung zu erzielen. Der Akteur bewegt sich (3) energisch und wiederholt, um eine spezifische Wirkung beim Antagonisten zu erzielen (Goal 3).. Autonom/Exzentrisch.
-
-hänseln: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
-Begründung: Hänseln bedeutet, dass der Akteur bewegt (3) eine Leistung erbringt (4), indem er etwas gibt (1), nämlich Informationen (5), die einen unerwünschten Zustand beim Antagonisten bewirken sollen (Goal -2), um selbst eine Wirkung zu erzielen (//Goal 3). Der Akteur ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
-
-hänseln: Material/Fight/Dispute/Interpersonal 3/4/1/5/Goal -2//Goal 3/aut/ecc
-Begründung: In einem materielleren Kontext bedeutet hänseln das bewusste (3) Leisten (4) durch Geben (1) von spöttischen Bemerkungen oder Informationen (5), um einen negativen Zustand beim Antagonisten zu erzeugen (Goal -2), mit dem Ziel einer Wirkung für den Akteur (//Goal 3).. Autonom/Exzentrisch.
-
-hätscheln: Interpersonal/Relationship 4/3/1/Goal 1//Goal 4/het/ecc
-Begründung: Hätscheln bedeutet, jemanden übertrieben zu umsorgen und zu verwöhnen. Der Akteur leistet für den Antagonisten (4) durch Bewegungen (3) wie streicheln und umsorgen, ein Bekommen (1) von Nähe und Zuwendung (Goal 1). Nach dem Doppelslash folgt das eigene Ziel des Akteurs: Anerkennung zu bekommen (Goal 4) für seine Fürsorge. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Bedürfnissen des Anderen richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
-
-hätscheln: Interpersonal/Parenting 4/3/1/Goal 1/Goal 2//Goal 4/het/ecc
-Begründung: Im Kontext der Kindererziehung bedeutet hätscheln das übermäßige Verwöhnen eines Kindes. Der Akteur leistet für das Kind (4) durch aktive Zuwendung (3) und Geben (1) von Nähe (Goal 1) und gewünschten Zuständen (Goal 2). Das Ziel des Akteurs selbst (nach //) ist Anerkennung zu bekommen (Goal 4). Die übertriebene Fürsorge kann zu Verzärtelung führen.. Heteronom/Exzentrisch.
-
-häufen: Material/Collection 3/1/Goal 2/aut/ecc
-Begründung: Das Verb 'häufen' beschreibt das Bewegen (3) von Objekten, um sie an einem Ort zu sammeln/bekommen (1), mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen, wobei der Akteur autonom handelt und nach außen gerichtet ist (aut/ecc).. Autonom/Exzentrisch.
-
-häufen: Material/Accumulation 3/1/Goal 2/Goal 5/aut/ecc
-Begründung: Im Kontext der Datensammlung bedeutet 'häufen' das gezielte Bewegen (3) und Sammeln/Bekommen (1) von Informationen, um einen gewünschten Zustand (Goal 2) mit dem höheren Ziel des Informiertseins (Goal 5) zu erreichen.. Autonom/Exzentrisch.
-
-häufen: Material/Finance 3/1/Goal 2/Goal 4/aut/ecc
-Begründung: Im finanziellen Kontext bedeutet 'häufen' (z.B. Vermögen anhäufen) das Bewegen (3) und Ansammeln/Bekommen (1) von finanziellen Mitteln, um einen gewünschten Besitzzustand (Goal 2) mit dem übergeordneten Ziel der finanziellen Sicherheit oder Anerkennung (Goal 4) zu erreichen.. Autonom/Exzentrisch.
-
-häuslich einrichten: Material/Interior-Design 2/3/Goal 2/aut/con
-Begründung: Der Akteur verfügt/bestimmt (2) über Möbel und Einrichtungsgegenstände und bewegt/platziert sie (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt in seinem eigenen Kontrollbereich handelt.. Autonom/Konzentrisch.
-
-häuslich einrichten: Material/House/Furniture 2/3/Goal 2/aut/con
-Begründung: Im Kontext der Wohnraumgestaltung bedeutet häuslich einrichten, dass der Akteur bestimmt (2), wie Möbel und Einrichtungsgegenstände bewegt/platziert werden (3), um einen gewünschten Wohnzustand zu erreichen (Goal 2).. Autonom/Konzentrisch.
 
 hören: Material/Sensory 5/Goal 5/het/ecc
 Begründung: Beim Hören informiert sich der Akteur (5) durch die Aufnahme von Schallwellen, um informiert zu sein (Goal 5). Da der Akteur sich an die externen akustischen Signale anpassen muss und die Information von außen kommt, ist die Ausrichtung heteronom und exzentrisch (het/ecc).. Heteronom/Exzentrisch.
@@ -1199,6 +1337,21 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet Hören das aufmerksame Zuh
 hören: Material/Compliance 4/2/Goal 2//Goal 4/het/ecc
 Begründung: In der Bedeutung 'auf jemanden hören' (gehorchen) leistet der Akteur (4) für den Antagonisten, indem er dessen Verfügungsgewalt akzeptiert (2), damit der Antagonist einen gewünschten Zustand erreicht (Goal 2), während der Akteur Anerkennung anstrebt (//Goal 4).. Heteronom/Exzentrisch.
 
+
+humpeln: Material/Physical/Movement 3/Goal -3/het/ecc
+Begründung: Humpeln bezeichnet eine beeinträchtigte Form der Fortbewegung, bei der sich der Akteur mit einer ungleichmäßigen, gehemmten Bewegung (3) fortbewegt, wobei diese Bewegung nicht optimal zum Ziel führt (Goal -3). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an die Beschränkungen seiner körperlichen Beeinträchtigung anpassen muss und die Bewegung nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+
+huschen: Material/Movement 3/Goal 3/het/ecc
+Begründung: Huschen bezeichnet eine schnelle, leise, meist unauffällige Bewegung (3) mit dem Ziel, rasch von einem Ort zum anderen zu gelangen (Goal 3). Die Bewegung erfolgt oft angepasst an äußere Umstände (het) und ist nach außen gerichtet (ecc), da der Akteur sich durch einen Raum bewegt.. Heteronom/Exzentrisch.
+
+huschen: Material/Stealth 3/Goal 3/Goal 2/het/ecc
+Begründung: Im Kontext von verstecktem oder heimlichem Bewegen bedeutet huschen, sich schnell und unauffällig (3) zu bewegen, um ein Ziel zu erreichen (Goal 3) und dabei einen gewünschten Zustand der Unentdecktheit zu wahren (Goal 2). Die Bewegung passt sich den äußeren Umständen an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
+huschen: Material/Light 3/Goal 3/het/ecc
+Begründung: Im Kontext von Licht bedeutet huschen das schnelle, flüchtige Bewegen (3) von Lichtreflexen oder Schatten mit dem Ziel, von einem Ort zum anderen zu gelangen (Goal 3). Die Bewegung wird von äußeren Umständen bestimmt (het) und findet im Außenbereich statt (ecc).. Heteronom/Exzentrisch.
+
+
 hüpfen: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Hüpfen bedeutet, dass der Akteur autonom eine nach außen gerichtete Bewegung (3) ausführt, indem er sich vom Boden abstößt und wieder landet, um eine Destination zu erreichen oder eine bestimmte Wirkung zu erzielen (Goal 3). Der Akteur bewegt seinen Körper selbstbestimmt (aut) in die Umwelt hinein (ecc).. Autonom/Exzentrisch.
 
@@ -1208,6 +1361,7 @@ Begründung: In einem zwischenmenschlichen Kontext kann Hüpfen als Ausdruck von
 hüpfen: Material/Sports/Training 3/Goal 3/Goal 2/aut/ecc
 Begründung: Im sportlichen Kontext ist Hüpfen eine spezifische Bewegung (3), die sowohl auf das Erreichen einer Wirkung (Goal 3) als auch auf das Herstellen eines gewünschten Zustands (Goal 2) abzielt, wie etwa die Verbesserung der Fitness oder Koordination.. Autonom/Exzentrisch.
 
+
 hüten: Material/Responsibility 2/3/Goal 2//Goal -3/aut/con
 Begründung: Hüten bedeutet, über etwas zu verfügen (2) und es mit Aufmerksamkeit zu bewahren (3), um einen gewünschten Zustand der Sicherheit zu erreichen (Goal 2), während gleichzeitig verhindert wird, dass etwas Negatives geschieht oder Schaden entsteht (//Goal -3). Dies geschieht in einer selbstbestimmten Weise (aut) und innerhalb des eigenen Kontrollbereichs (con).. Autonom/Konzentrisch.
 
@@ -1216,3 +1370,18 @@ Begründung: In der Bedeutung des Hütens von Tieren verfügt der Akteur (2) üb
 
 hüten: Material/Parenting 4/3/2/Goal 2//Goal 4/aut/con
 Begründung: Im Sinne von Kinderbetreuung leistet der Akteur (4) eine Aufsicht (3) und Kontrolle (2), um einen gewünschten Zustand der Sicherheit für die Kinder zu erreichen (Goal 2), was zur eigenen Anerkennung führt (//Goal 4). Die Ausrichtung ist autonom und konzentrisch, da der Akteur eigenständig im eigenen Verantwortungsbereich handelt.. Autonom/Konzentrisch.
+
+
+hypnotisieren: Interpersonal/Control 2/3/5/Goal 2//Goal -3/aut/ecc
+Begründung: Der Hypnotiseur bestimmt (2) durch Bewegung/Anstreben (3) und Informationen (5) einen gewünschten Zustand (Goal 2) zu erreichen, wobei er die Willensfreiheit/eigenständige Bewegungsfähigkeit des Antagonisten einschränkt (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Hypnotiseur aktiv auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+hypnotisieren: Material/Psychological 2/3/5/Goal 5/Goal 2/het/ecc
+Begründung: Als medizinisch-therapeutische Methode verwendet, ist Hypnotisieren ein Bestimmen (2) durch spezifische Bewegungen/Anstreben (3) und Informationen (5), um einen informierten Zustand (Goal 5) und letztlich einen gewünschten Zustand (Goal 2) bei einem Patienten zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Therapeut sich an die individuellen Reaktionen des Patienten anpassen muss.. Heteronom/Exzentrisch.
+
+
+hypothetisieren: Material/Hypothesis 3/5/2/Goal 5/het/ecc
+Begründung: Hypothetisieren bedeutet, aktiv nach Informationen zu suchen (3/5) und über diese zu verfügen (2), um informiert zu sein (Goal 5). Der Akteur bewegt sich gedanklich (3) in einem Informationsraum, nimmt Informationen auf (5) und versucht, diese zu einer vorläufigen Vermutung/Annahme zusammenzuführen (2), mit dem Ziel, ein besseres Verständnis zu erlangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externe Fakten anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+hypothetisieren: Material/Scientific 3/5/2/Goal 5/Goal 3/het/ecc
+Begründung: Im wissenschaftlichen Kontext bedeutet hypothetisieren zusätzlich, dass durch die Formulierung einer Hypothese eine Wirkung erzielt werden soll (Goal 3) - nämlich die Möglichkeit, diese Hypothese zu testen und zu bestätigen oder zu widerlegen.. Heteronom/Exzentrisch.
+
