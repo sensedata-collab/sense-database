@@ -10,11 +10,13 @@ Begründung: Beim Dämpfen von Speisen wird durch Verfügen (2) über Hitze eine
 dampfen: Material/Heating-System 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext von Heizungssystemen bedeutet 'dampfen' einen Heizdampf erzeugen. Der Akteur verfügt (2) über ein System und bewirkt eine Transformation (3), um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 danken: Interpersonal/Communication 4/1/5/Goal 4//Goal 2/het/ecc
 Begründung: Beim Danken leistet der Akteur (4) durch das Geben (1) einer Information (5) eine Anerkennung für den Antagonisten (Goal 4), die dem eigenen Ziel des Akteurs dient, einen gewünschten Zustand der sozialen Beziehung herzustellen (//Goal 2). Die Ausrichtung ist heteronom (het), da sich der Akteur an die vorhergehende Leistung des Antagonisten anpasst, und exzentrisch (ecc), da die Handlung nach außen auf den Antagonisten gerichtet ist.. Heteronom/Exzentrisch.
 
 danken: Interpersonal/Religious 4/1/5/Goal 4//Goal 5/het/ecc
 Begründung: Im religiösen Kontext (z.B. 'Gott danken') leistet der Akteur (4) durch das Geben (1) von Worten/Gebeten (5) eine Anerkennung (Goal 4) für eine höhere Macht, wobei der Akteur damit auch das Ziel verfolgt, in Kontakt mit dieser höheren Macht zu treten (//Goal 5).. Heteronom/Exzentrisch.
+
 
 darbieten: Material/Exhibition 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1) und informiert (5), damit der Antagonist informiert wird (Goal 5). Dies dient dem Ziel des Akteurs, Anerkennung zu bekommen (//Goal 4). Es handelt sich um eine präsentierende Tätigkeit, bei der der Akteur selbstbestimmt (aut) nach außen gerichtet (ecc) etwas zur Schau stellt.. Autonom/Exzentrisch.
@@ -25,11 +27,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er et
 darbieten: Interpersonal/Entertainment 2/4/1/5/Goal 5/Goal 3//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt (1) und informiert (5), damit der Antagonist informiert wird (Goal 5) und eine Wirkung erzielt wird (Goal 3). Dies dient dem Ziel des Akteurs, Anerkennung zu bekommen (//Goal 4). Hier geht es um künstlerische Darbietungen wie Aufführungen oder Vorstellungen.. Autonom/Exzentrisch.
 
+
 darlegen: Material/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Beim Darlegen bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Letztendlich erhält der Akteur dafür Anerkennung (//Goal 4). Die Ausrichtung ist autonom (der Akteur entscheidet selbst) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
 
 darlegen: Material/Presentation 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: In einem Kontext, in dem die Darlegung nicht primär für Anerkennung erfolgt, sondern um einen gewünschten Zustand zu erreichen (z.B. bei einer Rechtfertigung oder Beweisführung), bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), mit dem Ziel für den Akteur, einen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
 
 darstellen: Material/Presentation 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Beim Darstellen bestimmt der Akteur (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), damit der Empfänger informiert ist (Goal 5), um letztendlich selbst Anerkennung zu erhalten (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf andere wirkt.. Autonom/Exzentrisch.
@@ -40,11 +44,13 @@ Begründung: Im künstlerischen Sinne (wie beim Schauspiel) beinhaltet Darstelle
 darstellen: Material/Theater-Acting 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Als Schauspieler bedeutet darstellen, durch Bewegung/körperlichen Ausdruck (3) mit informierender Absicht (5) eine Wirkung zu erzielen (Goal 3) und Informationen zu vermitteln (Goal 5). Der Akteur handelt selbstbestimmt und nach außen auf sein Publikum gerichtet.. Autonom/Exzentrisch.
 
+
 dartun: Material/Presentation 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1) und informiert (5), damit der Antagonist informiert ist (Goal 5). Das dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2) - nämlich etwas bewiesen oder demonstriert zu haben. Es handelt sich um eine selbstbestimmte, nach außen gerichtete Aktivität (aut/ecc).. Autonom/Exzentrisch.
 
 dartun: Material/Evidence 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: In einem beweisführenden Kontext bedeutet 'dartun', etwas nachzuweisen oder zu belegen. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), durch Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2) - in diesem Fall die Anerkennung der Beweisführung.. Autonom/Exzentrisch.
+
 
 daten: Interpersonal 3/5/Goal 5/Goal 3/aut/ecc
 Begründung: Beim 'Daten' bewegt sich der Akteur (3) zu einer Person hin und sucht/nimmt Kontakt auf (5), um eine soziale Verbindung herzustellen (Goal 5) und eine Wirkung auf den anderen Menschen zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf jemand anderen zugeht.. Autonom/Exzentrisch.
@@ -52,17 +58,20 @@ Begründung: Beim 'Daten' bewegt sich der Akteur (3) zu einer Person hin und suc
 daten: Material/IT 2/1/5/Goal 5/het/ecc
 Begründung: In der IT-Bedeutung des Wortes 'daten' (Daten erheben/sammeln) verfügt der Akteur (2) über das Bekommen (1) von Informationen (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von externen Informationsquellen abhängig ist.. Heteronom/Exzentrisch.
 
+
 datenschützen: Material/IT/Security 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Datenschützen bedeutet, dass der Akteur bestimmt/verfügt (2) über Daten und bewegt/bearbeitet (3) sie, um einen gewünschten Zustand der Sicherheit zu erreichen (Goal 2), wobei gleichzeitig unerwünschte Zugriffe durch Antagonisten verhindert werden (//Goal -2). Es hat eine autonome, exzentrische Ausrichtung (aut/ecc), da der Akteur aktiv nach außen hin agiert, um Daten vor unberechtigtem Zugriff zu schützen.. Autonom/Exzentrisch.
 
 datenschützen: Material/IT/Security 2/3/5/Goal 5/Goal 2//Goal -3/aut/ecc
 Begründung: In einem erweiterten Verständnis beinhaltet Datenschützen auch, dass der Akteur Information (5) über potenzielle Bedrohungen sammelt, um informiert zu sein (Goal 5) und dadurch einen sicheren Zustand zu erreichen (Goal 2), während er aktiv verhindert, dass Antagonisten ihre Ziele erreichen (//Goal -3).. Autonom/Exzentrisch.
 
+
 dauern: Material/Time 0/Goal 0/het/con
 Begründung: Das Verb 'dauern' beschreibt einen passiven Zustand des Wartens oder Anhaltens. Der Akteur wartet ab (0), bis ein bestimmter Zeitraum vorüber ist, was zu einem Basiszustand (Goal 0) führt. Die Ausrichtung ist heteronom/konzentrisch (het/con), da der Akteur keinen Einfluss auf die verstreichende Zeit hat und der Vorgang nach innen gerichtet ist.. Heteronom/Konzentrisch.
 
 dauern: Material/Process 0/3/Goal 3/het/con
 Begründung: In der Bedeutung 'einen Prozess über Zeit fortführen' beinhaltet 'dauern' ein Warten (0) während eine Bewegung/Veränderung stattfindet (3), mit dem Ziel, eine bestimmte Wirkung oder einen Endzustand zu erreichen (Goal 3).. Heteronom/Konzentrisch.
+
 
 davonlaufen: Material/Fight/Defense 3/Goal 2//Goal -3/het/ecc
 Begründung: Der Akteur bewegt sich (3) für einen gewünschten eigenen Zustand (Goal 2), nämlich sicheres Entkommen, und bekämpft damit das Ziel des Antagonisten (//Goal -3), den Akteur zu ergreifen. Die Bewegungsausrichtung ist heterogen, da sie durch die äußere Bedrohung bestimmt wird, und exzentrisch, da sie nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -73,6 +82,7 @@ Begründung: Im allgemeinen materiellen Sinne ist davonlaufen eine Bewegung (3),
 davonlaufen: Interpersonal/Relationship 3/Goal 2//Goal -1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext kann davonlaufen bedeuten, dass man eine Beziehung oder Verpflichtung flieht. Der Akteur bewegt sich (3) für einen gewünschten Zustand der Freiheit (Goal 2) und verhindert damit die Nähe, die der Antagonist anstrebt (//Goal -1).. Heteronom/Exzentrisch.
 
+
 dazugeben: Material 2/4/1/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über etwas, leistet etwas für einen Antagonisten (4), indem er etwas gibt/hinzufügt (1), um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
@@ -82,11 +92,53 @@ Begründung: Der Akteur bestimmt/verfügt (2) beim Kochen über Zutaten, leistet
 dazugeben: Material/Group/Contribution 2/4/1/Goal 2//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über einen Beitrag, leistet etwas für die Gruppe (4), indem er etwas zum Gemeinsamen beiträgt/gibt (1), um für den Empfänger einen gewünschten Zustand zu erreichen (Goal 2) und nach dem Wechsel zu seinen eigenen Zielen einen gewünschten Zustand für sich (//Goal 2) und Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
 
+
 dazwischenreden: Interpersonal/Disturbance 3/4/1/5/Goal -5//Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) in eine laufende Kommunikation, leistet dabei (4) ungefragt durch Geben (1) von Informationen (5) eine Störung, die den gewünschten Kommunikationszustand des Antagonisten beeinträchtigt (Goal -5), um selbst eine Wirkung zu erzielen (//Goal 3). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt in die Kommunikationssphäre anderer eingreift.. Autonom/Exzentrisch.
 
 dazwischenreden: Interpersonal/Communication 3/4/1/5/Goal 5//Goal 3/aut/ecc
 Begründung: Als konstruktiver Beitrag zu einem Gespräch: Der Akteur bewegt sich (3) in eine Konversation, leistet (4) durch Geben (1) von Informationen (5) einen Beitrag, der den Informationsfluss für den Antagonisten ergänzt (Goal 5), um selbst eine Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
+
+
+dämmen: Material/Construction 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt über (2) und bewegt/verarbeitet (3) Dämmmaterial, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Isolation von Wärme, Kälte oder Schall. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf äußere Objekte einwirkt.. Autonom/Exzentrisch.
+
+dämmen: Material/Fluids 2/3/Goal 2//Goal -3/aut/ecc
+Begründung: Der Akteur verfügt über (2) und bewegt/setzt ein (3) Materialien, um einen gewünschten Zustand der Eindämmung (Goal 2) zu erreichen und gleichzeitig das Fließen/die Bewegung eines Antagonisten (Wasser, Flüssigkeit) zu verhindern (//Goal -3).. Autonom/Exzentrisch.
+
+dämmen: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/ecc
+Begründung: Der Akteur verfügt über (2) und bewegt/ergreift Maßnahmen (3), um einen gewünschten Kontrollzustand (Goal 2) zu erreichen und gleichzeitig die Ausbreitung eines antagonistischen Elements (z.B. Krankheit, Problem) zu verhindern (//Goal -3).. Autonom/Exzentrisch.
+
+
+dämmern: Material/Time 3/Goal 2/het/ecc
+Begründung: In der Bedeutung der Tageszeit bezieht sich 'dämmern' auf einen natürlichen Übergang zwischen Tageslicht und Dunkelheit. Es handelt sich um eine graduelle Bewegung/Veränderung (3) zu einem neuen Lichtzustand (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang nicht kontrollierbar ist und in der äußeren Umgebung stattfindet.. Heteronom/Exzentrisch.
+
+dämmern: Material/Cognitive 5/1/Goal 5/het/ecc
+Begründung: In der übertragenen Bedeutung 'jemandem dämmert etwas' handelt es sich um einen kognitiven Prozess, bei dem eine Person allmählich Informationen aufnimmt (5) und Erkenntnis bekommt (1), was zum Informiertsein führt (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Erkenntnisprozess oft nicht vollständig gesteuert werden kann.. Heteronom/Exzentrisch.
+
+
+dämonisieren: Material/Fight/Propaganda 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er negative Informationen gibt (1/5), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand (starke Ablehnung des Antagonisten durch Dritte) zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+dämonisieren: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im zwischenmenschlichen Kontext bedeutet dämonisieren, dass der Akteur bestimmt (2), eine Informationsleistung für den Antagonisten zu erbringen (4), indem er negative Eigenschaften übertreibt (1/5), um einen unerwünschten Zustand für den Antagonisten (sein Ansehen zu schädigen) zu bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand (soziale Isolierung des Antagonisten) zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
+dämonisieren: Material/Religious 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im religiösen Kontext bedeutet dämonisieren, dass der Akteur bestimmt (2), eine Informationsleistung zum Nachteil des Antagonisten zu erbringen (4), indem er diesem dämonische/teuflische Eigenschaften zuschreibt (1/5), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten religiösen oder moralischen Zustand der Abgrenzung herzustellen (//Goal 2).. Autonom/Exzentrisch.
+
+
+dämpfen: Material/Sound 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegung/Einwirkung (3) über einen Klang/Geräusch, um einen gewünschten Zustand - nämlich eine geringere Lautstärke - zu erreichen (Goal 2). Die Aktivität ist autonom (der Akteur entscheidet) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
+
+dämpfen: Material/Pressure 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegung/Einwirkung (3) über Druck/Kraft, um einen gewünschten Zustand - nämlich eine Verringerung von Stärke oder Intensität - zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+dämpfen: Material/Emotional 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt/kontrolliert (2) durch Einwirkung (3) über Emotionen oder Stimmungen, um einen gewünschten Zustand - nämlich eine Verringerung der emotionalen Intensität - zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
+dämpfen: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
+Begründung: Der Akteur verfügt/kontrolliert (2) durch Einwirkung/Bewegung (3) über Lebensmittel, um einen gewünschten Zustand des Garwerdens (Goal 2) zu erreichen und schließlich Nahrung bekommen zu haben (Goal 1).. Autonom/Exzentrisch.
+
 
 deaktivieren: Material/IT 2/Goal 2/aut/con
 Begründung: Der Akteur verfügt/kontrolliert (2) über ein System, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass das System nicht mehr aktiv ist. Dies ist autonom und nach innen gerichtet (aut/con), da der Akteur selbstbestimmt über Funktionen in seinem Kontrollbereich verfügt.. Autonom/Konzentrisch.
@@ -100,6 +152,7 @@ Begründung: Im Sicherheitskontext bedeutet deaktivieren, dass der Akteur bestim
 deaktivieren: Material/Military 2/3/Goal 2/aut/ecc
 Begründung: Im militärischen Kontext bedeutet deaktivieren, dass der Akteur bestimmt (2) und eine Bewegung durchführt (3), um eine Waffe, Mine oder Bombe in einen Zustand zu versetzen (Goal 2), in dem sie nicht mehr funktionsfähig ist. Dies ist autonom und nach außen gerichtet (aut/ecc), da der Akteur auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
 
+
 dealen: Material/Criminal/Activities 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über illegale Waren und leistet dem Käufer einen Dienst (4) durch das Geben/Übergeben (1) dieser Waren, damit der Käufer einen gewünschten Zustand erhält (Goal 2), während der Dealer selbst Geld/Anerkennung bekommt (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Dealer selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
 
@@ -109,11 +162,13 @@ Begründung: Im umgangssprachlichen Kontext kann 'dealen' auch legitimen Handel 
 dealen: Material/Negotiation 3/5/2/Goal 2/Goal 4/aut/ecc
 Begründung: In der Bedeutung von 'verhandeln' bewegt sich der Akteur (3) auf sein Gegenüber zu, tauscht Informationen aus (5) und versucht eine Einigung zu bestimmen/kontrollieren (2), um einen gewünschten Zustand (Goal 2) und letztlich Geld/Anerkennung (Goal 4) zu erreichen.. Autonom/Exzentrisch.
 
+
 debattieren: Interpersonal/Dispute 3/4/1/5/Goal 3/Goal 5//Goal 3/Goal 5/aut/ecc
 Begründung: Bei einer Debatte bewegt sich der Akteur (3) in Richtung eines Antagonisten, leistet (4) durch das Geben (1) von Informationen (5), um eine Wirkung zu erzielen (Goal 3) und Informiertheit zu erreichen (Goal 5). Nach dem Wechsel (//) ist das Ziel des Akteurs selbst, eine Wirkung beim Publikum/Gegner zu erzielen (Goal 3) und selbst informiert zu sein (Goal 5).. Autonom/Exzentrisch.
 
 debattieren: Material/Fight/Dispute 3/4/1/5/Goal 3/Goal 5//Goal 3/Goal 5/aut/ecc
 Begründung: Im sachlichen Kontext bewegt sich der Akteur (3) mit einer Leistung (4) für den Antagonisten durch Geben (1) von Informationen (5), um eine Wirkung beim Antagonisten zu erzielen (Goal 3) und um Informiertheit zu erreichen (Goal 5). Nach dem Wechsel liegt der Fokus auf dem eigenen Ziel, eine Wirkung auf Zuhörer und die Sachlage zu erzielen.. Autonom/Exzentrisch.
+
 
 debriefing: Material/Information 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Beim Debriefing leistet der Akteur (4) eine Informationsübermittlung (1/5), indem er Informationen über einen abgeschlossenen Einsatz, eine Mission oder ein Projekt vom Antagonisten bekommt, damit dieser informiert ist (Goal 5). Nach dem Doppelslash folgt das Ziel des Akteurs, nämlich Anerkennung zu bekommen (//Goal 4), da Debriefing typischerweise in einem beruflichen Kontext stattfindet.. Heteronom/Exzentrisch.
@@ -124,17 +179,20 @@ Begründung: Im militärischen Kontext ist Debriefing das systematische Befragen
 debriefing: Material/Psychological 4/1/5/Goal 5//Goal 2/Goal 4/het/ecc
 Begründung: Im psychologischen Kontext ist Debriefing eine therapeutische Intervention nach traumatischen Ereignissen. Der Akteur (Therapeut) leistet eine Informationsübermittlung (4/1/5), damit der Antagonist (Patient) informiert ist (Goal 5), mit dem Ziel, einen gewünschten Zustand der Verarbeitung zu erreichen (//Goal 2) und berufliche Anerkennung zu erlangen (Goal 4).. Heteronom/Exzentrisch.
 
+
 debuggen: Material/IT/Process 3/5/Goal 2/Goal 5/aut/ecc
 Begründung: Beim Debuggen bewegt (3) sich der Akteur durch den Programmcode, um Informationen (5) zu sammeln, mit dem Ziel einen gewünschten Zustand (fehlerfreies Programm) herzustellen (Goal 2) und informiert zu sein über die Fehlerursachen (Goal 5). Die Tätigkeit ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt an einem externen Objekt (dem Code) arbeitet.. Autonom/Exzentrisch.
 
 debuggen: Material/Problem-Solving 3/5/Goal 2/Goal 5/aut/ecc
 Begründung: Im allgemeineren Kontext der Fehlersuche bewegt (3) sich der Akteur durch ein System, informiert sich (5) über Fehlerquellen, mit dem Ziel einen gewünschten Zustand (funktionierendes System) herzustellen (Goal 2) und Klarheit über die Fehlerursachen zu haben (Goal 5).. Autonom/Exzentrisch.
 
+
 dechiffrieren: Material/Information 3/5/2/Goal 5/het/ecc
 Begründung: Dechiffrieren bedeutet, einen verschlüsselten Text zu entschlüsseln. Der Akteur bewegt sich (3) durch Informationen (5), um Verfügung (2) über deren Inhalt zu bekommen, mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die externen Eigenschaften des verschlüsselten Textes anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
 
 dechiffrieren: Material/IT/Security 3/5/2/Goal 5/het/ecc
 Begründung: Im IT-Sicherheitskontext bedeutet Dechiffrieren die Entschlüsselung digitaler Informationen durch Anwendung kryptographischer Verfahren. Der Akteur wendet Bewegung/Anstreben (3) auf verschlüsselte Informationen (5) an, um Verfügung (2) über den Klartext zu erlangen, mit dem Ziel, informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
+
 
 deckeln: Material/Limitation 2/3/Goal 2/aut/con
 Begründung: Der Akteur verfügt (2) über etwas und bewegt/führt eine begrenzende Aktion durch (3), um einen gewünschten Zustand der Begrenzung (Goal 2) zu erreichen. 'Deckeln' bedeutet eine Obergrenze festzulegen und durchzusetzen, wobei der Akteur autonom handelt (aut) und sich auf seinen Kontrollbereich bezieht (con).. Autonom/Konzentrisch.
@@ -144,6 +202,7 @@ Begründung: Der Akteur verfügt (2) über einen Topf/Behälter und bewegt (3) e
 
 deckeln: Material/Politics 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) und setzt mit Maßnahmen (3) eine Obergrenze für Preise, Mieten oder andere wirtschaftliche Faktoren durch, um einen gewünschten regulierten Zustand (Goal 2) zu erreichen. Hier handelt der Akteur autonom (aut) und wirkt auf das Außenfeld (ecc).. Autonom/Exzentrisch.
+
 
 decken: Material/Protection 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er etwas gibt/abgibt (1), um einen gewünschten Schutzzustand zu erreichen (Goal 2). Nach dem Umschalter (//) folgt das übliche Goal 4, da diese Leistung auf Anerkennung zielt. Die autonome und exzentrische Ausrichtung zeigt, dass der Akteur selbstbestimmt handelt und seine Aktivität nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -163,6 +222,7 @@ Begründung: Bei der Verteidigung bedeutet 'decken' das Bestimmen (2) einer Bewe
 decken: Material/Animals/commercial 2/3/1/Goal 1/Goal 2/aut/ecc
 Begründung: In der Tierzucht bedeutet 'decken' das Bestimmen (2) und Bewegen (3) eines Tieres, damit es ein anderes Tier befruchtet/bekommt (1), mit dem Ziel der biologischen Befriedigung (Goal 1) und einem gewünschten Zustand der Fortpflanzung (Goal 2).. Autonom/Exzentrisch.
 
+
 decodieren: Material/Information 3/5/2/Goal 5/het/ecc
 Begründung: Beim Decodieren werden verschlüsselte Informationen (5) durch einen Prozess der Analyse und Transformation (3) in verständliche Informationen umgewandelt, über die man dann verfügen kann (2), mit dem Ziel des Informiertseins (Goal 5). Es ist heteronomen Ursprungs, da man sich an externe Kodierungsregeln anpassen muss, und nach außen gerichtet (het/ecc).. Heteronom/Exzentrisch.
 
@@ -172,17 +232,20 @@ Begründung: Im IT-Sicherheitskontext bedeutet Decodieren das Entschlüsseln von
 decodieren: Material/Communication 3/5/2/Goal 5/het/ecc
 Begründung: In der Kommunikation bedeutet Decodieren das Umwandeln von codierten Nachrichten (5) durch einen analytischen Prozess (3) in verständliche Inhalte, über die man verfügen kann (2), mit dem Ziel, die enthaltene Information zu verstehen (Goal 5).. Heteronom/Exzentrisch.
 
+
 dedizieren: Material/Dedication 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4) durch Abgeben/Übergeben (1) einer Widmung/Zueignung (Werk, Arbeit), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2 vor //), mit dem Endziel der Anerkennung für den Akteur (Goal 4 nach //). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen wirkt.. Autonom/Exzentrisch.
 
 dedizieren: Material/Group/Contribution 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im Sinne von 'jemandem etwas widmen/zueignen' bestimmt der Akteur (2) eine Leistung zu erbringen (4) durch das Übergeben (1) einer Information (5), um den Antagonisten zu informieren (Goal 5), mit dem Endziel der Anerkennung für den Akteur (Goal 4).. Autonom/Exzentrisch.
 
+
 deduzieren: Material/Logic 3/5/2/Goal 5/het/ecc
 Begründung: Deduzieren bedeutet, durch logisches Schlussfolgern aus allgemeinen Prämissen spezifische Schlussfolgerungen abzuleiten. Der Akteur bewegt (3) sich durch Informationen (5), verfügt (2) über diese und ordnet sie, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an vorhandene logische Regeln anpassen muss und sich auf externe Informationen bezieht.. Heteronom/Exzentrisch.
 
 deduzieren: Material/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Im analytischen Kontext bedeutet deduzieren, systematisch von allgemeinen Theorien auf spezifische Einzelfälle zu schließen. Der Akteur bewegt sich durch Informationen (3/5), ordnet und strukturiert diese (2), um zu einer neuen Erkenntnis zu gelangen (Goal 5).. Heteronom/Exzentrisch.
+
 
 deeskalieren: Material/Fight/Dispute 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Deeskalieren bedeutet, bestimmend (2) eine Bewegung/Intervention (3) auszuführen, um einen gewünschten ruhigeren Zustand (Goal 2) herbeizuführen und gleichzeitig die zunehmende Verschärfung/Eskalation des Antagonisten (//Goal -3) zu verhindern. Der Akteur handelt selbstbestimmt (aut) in die Umwelt hinein (ecc), um einen Konflikt zu entschärfen.. Autonom/Exzentrisch.
@@ -193,17 +256,20 @@ Begründung: Im zwischenmenschlichen Bereich bedeutet Deeskalieren, bestimmend (
 deeskalieren: Material/Conflict 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im allgemeinen Konfliktkontext bedeutet Deeskalieren, bestimmend (2) eine Bewegung/Intervention (3) vorzunehmen, um eine gewünschte Abschwächung eines Konflikts (Goal 2) zu erreichen und gleichzeitig die weitere Verschärfung (//Goal -3) zu verhindern.. Autonom/Exzentrisch.
 
+
 definieren: Material/Information 2/5/Goal 5/aut/ecc
 Begründung: Der Akteur verfügt/bestimmt (2) über Informationen (5), um einen informierten Zustand zu erreichen (Goal 5). Beim Definieren legt der Akteur autonom und nach außen gerichtet (aut/ecc) fest, was ein bestimmter Begriff bedeutet, indem er die wesentlichen Merkmale und Eigenschaften eines Begriffs bestimmt und eingrenzt.. Autonom/Exzentrisch.
 
 definieren: Material/Classification 2/5/Goal 2/Goal 5/aut/ecc
 Begründung: Der Akteur verfügt/bestimmt (2) über Informationen (5), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Klassifizierung eines Begriffs, und um informiert zu sein (Goal 5). Diese Bedeutung betont den ordnenden, klassifizierenden Aspekt des Definierens.. Autonom/Exzentrisch.
 
+
 deflationieren: Material/Finance 2/3/Goal 2/aut/ecc
 Begründung: Deflationieren bedeutet, den Geldwert zu erhöhen, indem die Geldmenge verringert wird. Der Akteur verfügt/kontrolliert (2) über wirtschaftliche Instrumente und bewegt/steuert (3) aktiv die Geldmenge nach unten, um einen gewünschten Zustand der Preisstabilität oder -senkung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Wirkung nach außen in die Wirtschaft gerichtet ist.. Autonom/Exzentrisch.
 
 deflationieren: Material/Physics 3/Goal 2/aut/ecc
 Begründung: Im physikalischen Kontext kann deflationieren bedeuten, Luft oder Gas aus einem Gegenstand zu entfernen. Der Akteur bewegt/strebt an (3), einen gewünschten Zustand der verringerten Füllung oder des Druckabbaus zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 deformieren: Material/Form 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/bearbeitet (3) ein Objekt, um dessen gewünschte Form/Zustand zu verändern (Goal 2). Die Bewegung ist autonom (aut) und nach außen auf ein Objekt gerichtet (ecc).. Autonom/Exzentrisch.
@@ -214,8 +280,10 @@ Begründung: Als unbeabsichtigtes Ereignis: Ein Objekt wird durch Bewegung/Kraft
 deformieren: Material/Fight/Aggression 3/Goal 3//Goal -2/aut/ecc
 Begründung: Als aggressive Handlung: Der Akteur bewegt/verformt (3) etwas, um einen gewünschten Effekt zu erzielen (Goal 3), wodurch er gleichzeitig den erwünschten Zustand des Antagonisten verhindert (//Goal -2).. Autonom/Exzentrisch.
 
+
 defragmentieren: Material/IT/Storage 3/Goal 2/aut/ecc
 Begründung: Beim Defragmentieren werden verstreute Datenfragmente auf einem Speichermedium bewegt und neu angeordnet (3), um einen gewünschten Zustand herzustellen (Goal 2), bei dem zusammengehörige Daten wieder kontinuierlich gespeichert sind. Dies ist eine autonome, nach außen gerichtete Aktivität (aut/ecc), da sie auf Daten im externen Speichermedium wirkt.. Autonom/Exzentrisch.
+
 
 dehnen: Material/Physical 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über seinen Körper oder ein Material und bewegt/streckt (3) es, um einen gewünschten Zustand der Ausdehnung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Dehnung nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -229,6 +297,7 @@ Begründung: Bei technischen oder herstellungsbezogenen Prozessen verfügt der A
 dehnen: Material/Time 2/3/Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne kann 'dehnen' auch bedeuten, dass der Akteur verfügt (2) über einen Zeitraum und diesen verlängert/streckt (3), um einen gewünschten Zustand der Verlängerung zu erzielen (Goal 2).. Autonom/Exzentrisch.
 
+
 deklarieren: Material/Information 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5) mit dem Ziel, dass der Antagonist informiert ist (Goal 5). Nach dem Wechsel (//), strebt der Akteur einen gewünschten Zustand (Goal 2) und ggf. berufliche Anerkennung (Goal 4) an. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen wirkt.. Autonom/Exzentrisch.
 
@@ -237,6 +306,7 @@ Begründung: Im rechtlichen Kontext bedeutet 'deklarieren' eine offizielle Erkl�
 
 deklarieren: Material/Diplomatic 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im diplomatischen Kontext bedeutet 'deklarieren' eine offizielle Erklärung/Bekanntmachung abgeben. Der Akteur bestimmt (2) eine Leistung (4), indem er Informationen gibt (1/5), damit der Antagonist (andere Staaten/Öffentlichkeit) informiert ist (Goal 5). Ziel des Akteurs ist ein gewünschter Zustand (Goal 2), z.B. eine offizielle Position zu etablieren.. Autonom/Exzentrisch.
+
 
 dekodieren: Material/Information 3/5/2/Goal 5/het/ecc
 Begründung: Dekodieren bedeutet, dass der Akteur eine Bewegung/ein Anstreben (3) ausführt, um durch Informationsaufnahme (5) Verfügungsgewalt (2) über Informationen zu erlangen (Goal 5). Der Akteur geht aktiv an verschlüsselte oder codierte Informationen heran (3/5), um sie in eine verständliche Form zu bringen (2) und dadurch informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Informationen anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
@@ -247,8 +317,10 @@ Begründung: Im IT-Kontext bedeutet Dekodieren das Umwandeln von codierten Daten
 dekodieren: Material/Communication 3/5/2/Goal 5/het/ecc
 Begründung: Im Kommunikationskontext bezieht sich Dekodieren auf das aktive Entschlüsseln einer Nachricht (3/5), um die Bedeutung zu erfassen (2) und dadurch über die kommunizierte Information zu verfügen (Goal 5).. Heteronom/Exzentrisch.
 
+
 dekompilieren: Material/IT/Process 3/5/2/Goal 5/het/ecc
 Begründung: Beim Dekompilieren wird ein kompiliertes Computerprogramm (Maschinencode) angestrebt/bewegt/analysiert (3), um Informationen (5) über den ursprünglichen Quellcode zu gewinnen und darüber zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5). Es ist heteronomer/exzentrischer Natur (het/ecc), da man sich an externe Strukturen anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
+
 
 dekomprimieren: Material/IT/Process 3/Goal 2/aut/ecc
 Begründung: Beim Dekomprimieren wird eine komprimierte Datei oder ein Datenpaket durch Bewegen/Anstreben (3) in seinen ursprünglichen, größeren Zustand zurückversetzt, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt dabei autonom und wirkt auf ein externes Objekt (aut/ecc).. Autonom/Exzentrisch.
@@ -256,11 +328,13 @@ Begründung: Beim Dekomprimieren wird eine komprimierte Datei oder ein Datenpake
 dekomprimieren: Material/Package 3/Goal 2/aut/ecc
 Begründung: Im physischen Kontext bedeutet Dekomprimieren, zusammengepresste Materialien oder Gegenstände durch Bewegen/Anstreben (3) in ihren ursprünglichen, voluminöseren Zustand zurückzuversetzen, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 dekonspirieren: Material/Fight/Intelligence-Operations 2/4/1/5/Goal -5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand der Informiertheit für den Antagonisten bewirken (Goal -5) und dessen gewünschten Zustand der Geheimhaltung beeinträchtigen (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand der Offenlegung zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 dekonspirieren: Material/Security 3/5/1/Goal 5/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich aktiv (3), informiert sich (5) und bekommt (1) Informationen über Geheimoperationen, um informiert zu sein (Goal 5) und einen gewünschten Zustand der Aufdeckung zu erreichen (Goal 2), während er gleichzeitig die Geheimhaltungsziele des Antagonisten bekämpft (//Goal -2).. Autonom/Exzentrisch.
+
 
 dekretieren: Material/Government 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Dekretieren bezeichnet das autoritäre Erlassen von Verordnungen oder Befehlen durch eine Regierungsstelle oder Autorität. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er verbindliche Informationen (1/5) gibt, um einen gewünschten Zustand zu erreichen (Goal 2). Dies erfolgt aus einer autonomen, nach außen gerichteten Position (aut/ecc) mit dem Endziel, berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
@@ -268,8 +342,10 @@ Begründung: Dekretieren bezeichnet das autoritäre Erlassen von Verordnungen od
 dekretieren: Material/Law 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Im juristischen Kontext bedeutet dekretieren das Erlassen oder Verfügen einer rechtlichen Anordnung durch eine befugte Stelle. Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er eine verbindliche Information (1/5) gibt, um einen rechtlichen Zustand herzustellen (Goal 2), mit dem Endziel der beruflichen Anerkennung (Goal 4).. Autonom/Exzentrisch.
 
+
 dekryptieren: Material/IT/Security 3/5/2/Goal 5/het/ecc
 Begründung: Dekryptieren bedeutet, verschlüsselte Informationen durch aktive Bearbeitung (3) entschlüsseln, um Informationen (5) zu erhalten und darüber zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5). Der Prozess ist heterenom (het), da er von der Verschlüsselung abhängt, und nach außen gerichtet (ecc), da eine externe Informationsquelle erschlossen wird.. Heteronom/Exzentrisch.
+
 
 delegieren: Material/Leadership 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Der Akteur bestimmt (2) eine Leistung zu übertragen (4) und gibt Informationen (5), damit sein gewünschter Zustand (//Goal 2) erreicht wird, schlussendlich um Anerkennung zu bekommen (Goal 4). Der Akteur ist autonom und handelt in seinem Kontrollbereich (aut/con).. Autonom/Konzentrisch.
@@ -277,17 +353,20 @@ Begründung: Der Akteur bestimmt (2) eine Leistung zu übertragen (4) und gibt I
 delegieren: Material/Administration 2/4/2//Goal 2/Goal 4/aut/con
 Begründung: Im administrativen Kontext bedeutet delegieren, dass der Akteur bestimmt (2) eine Leistung zu übertragen (4) und Kontrolle/Verantwortung abgibt (2), um einen gewünschten Zustand (//Goal 2) zu erreichen und letztendlich Anerkennung zu bekommen (Goal 4).. Autonom/Konzentrisch.
 
+
 delegitimieren: Material/Fight/Politics 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas (Gegenargumente, kritische Informationen) gibt (1), was informiert (5), um einen unerwünschten Zustand für den Antagonisten (Verlust seiner Legitimität) zu bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand (politischen Vorteil, eigene Position zu stärken) zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 delegitimieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im allgemeineren Kontext einer Auseinandersetzung bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), um die Gültigkeit oder Berechtigung eines Gegners zu untergraben (Goal -2), mit dem Ziel, die eigene Position zu stärken (//Goal 2).. Autonom/Exzentrisch.
 
+
 delektieren: Material/Stimulation 3/1/Goal 1/aut/ecc
 Begründung: Delektieren bedeutet, sich an etwas zu erfreuen oder zu ergötzen. Der Akteur bewegt sich (3) zu etwas hin und bekommt (1) Genuss/Befriedigung (Goal 1). Es handelt sich um eine autonome und nach außen gerichtete Handlung, bei der man sich aktiv an etwas erfreut.. Autonom/Exzentrisch.
 
 delektieren: Interpersonal/Entertainment 1/Goal 1/het/ecc
 Begründung: Als soziale Aktivität kann 'delektieren' auch bedeuten, Vergnügen/Freude von anderen zu empfangen, wobei der Akteur passiv (1) Befriedigung/Genuss (Goal 1) von außen bekommt, etwa durch Unterhaltung oder Gesellschaft.. Heteronom/Exzentrisch.
+
 
 deliberieren: Material/Decision 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Deliberieren bedeutet, dass der Akteur bewegt/anstrebt (3) Informationen zu gewinnen (5), um zu verfügen/kontrollieren (2), mit dem Ziel informiert zu sein (Goal 5) und einen gewünschten Zustand zu erreichen (Goal 2). Es handelt sich um einen sorgfältigen Entscheidungsprozess, bei dem Informationen gesammelt und abgewogen werden, um zu einer fundierten Entscheidung zu gelangen. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Faktoren richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
@@ -298,14 +377,17 @@ Begründung: Im argumentativen Kontext bedeutet deliberieren, dass der Akteur ak
 deliberieren: Interpersonal/Group/Contribution 5/3/2/Goal 5/Goal 2/het/ecc
 Begründung: In einem Gruppenprozess bedeutet deliberieren das gemeinsame Informieren (5) und Bewegen (3) von Argumenten, um Entscheidungen zu treffen (2), mit dem Ziel, dass alle informiert sind (Goal 5) und ein gemeinsam gewollter Zustand erreicht wird (Goal 2).. Heteronom/Exzentrisch.
 
+
 demaskieren: Material/Fight/Dispute 3/5/Goal 5//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) mit dem Ziel, Informationen zu gewinnen (5/Goal 5), um damit einen gewünschten Zustand des Antagonisten zu bekämpfen (//Goal -2). Beim Demaskieren deckt jemand (enthüllt, entlarvt) etwas Verborgenes auf, wodurch der Antagonist seine Tarnung oder Verstellung verliert.. Autonom/Exzentrisch.
 
 demaskieren: Interpersonal/Deception 3/5/Goal 5//Goal -2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet demaskieren, die wahre Identität oder Absicht einer Person aufzudecken. Der Akteur bewegt sich aktiv (3), um Informationen zu suchen und aufzudecken (5/Goal 5), was gegen den gewünschten Zustand des Antagonisten gerichtet ist, verborgen zu bleiben (//Goal -2).. Autonom/Exzentrisch.
 
+
 dementieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Dementieren bedeutet, dass der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2), nämlich dass dessen Behauptung als unwahr gilt. Dies dient dem eigenen Ziel des Akteurs (//Goal 2), einen gewünschten Zustand herzustellen, in dem die Behauptung als falsch angesehen wird. Der Akteur handelt autonom und nach außen gerichtet.. Autonom/Exzentrisch.
+
 
 demodulieren: Material/Signal/Processing 3/5/Goal 5/aut/ecc
 Begründung: Demodulieren bezeichnet das Rückgewinnen/Extrahieren der ursprünglichen Information aus einem modulierten Signal. Der Akteur bewegt/bearbeitet (3) das Signal, um sich die enthaltenen Informationen (5) zugänglich zu machen, mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf externe Signale einwirkt.. Autonom/Exzentrisch.
@@ -313,11 +395,13 @@ Begründung: Demodulieren bezeichnet das Rückgewinnen/Extrahieren der ursprüng
 demodulieren: Material/Telecommunications 3/5/2/Goal 5/aut/ecc
 Begründung: Im spezifischeren Telekommunikationskontext bezeichnet Demodulieren den technischen Prozess, bei dem ein Signal bearbeitet wird (3), um die darin enthaltenen Informationen (5) zu extrahieren und über diese zu verfügen (2), mit dem Ziel, die ursprüngliche Information wiederherzustellen (Goal 5).. Autonom/Exzentrisch.
 
+
 demolieren: Material/Destruction 3/Goal 2//Goal -2/aut/ecc
 Begründung: Demolieren bedeutet, etwas durch bewusste Bewegungen/Handlungen (3) zu zerstören, um einen gewünschten Zustand (Goal 2) zu erreichen, wodurch gleichzeitig der Zustand des Antagonisten (das zu zerstörende Objekt) negativ beeinflusst wird (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf ein Objekt einwirkt.. Autonom/Exzentrisch.
 
 demolieren: Material/Fight/Aggression 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im Kontext eines Kampfes bedeutet demolieren, dass der Akteur mit aggressiven Bewegungen (3) einen gewünschten Zustand (Goal 2) erreicht, indem er den Zustand des Antagonisten (Person, Gebäude, Anlage) im feindlichen Kontext massiv beschädigt oder zerstört (//Goal -2).. Autonom/Exzentrisch.
+
 
 demonstrieren: Material/Fight/Protest 3/5/Goal 3/aut/ecc
 Begründung: Beim Demonstrieren bewegt sich der Akteur (3) mit dem Ziel, Informationen zu verbreiten (5), um eine Wirkung zu erzielen (Goal 3), typischerweise um auf ein Problem aufmerksam zu machen oder Veränderungen zu bewirken. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf die Umwelt einwirken will.. Autonom/Exzentrisch.
@@ -328,6 +412,7 @@ Begründung: In dieser Bedeutung bestimmt der Akteur (2) eine Leistung zu erbrin
 demonstrieren: Material/Technology 3/5/Goal 5/aut/ecc
 Begründung: In dieser technischen Bedeutung bewegt der Akteur (3) etwas, um Informationen zu vermitteln (5), mit dem Ziel, dass jemand informiert ist (Goal 5). Dies bezieht sich auf das Vorführen einer Funktionsweise oder eines Produkts, ohne den protestartigen Charakter der Hauptbedeutung.. Autonom/Exzentrisch.
 
+
 demontieren: Material/Manufacturing 3/2/Goal 2/aut/ecc
 Begründung: Demontieren bedeutet, durch Bewegung (3) die Verfügung über etwas (2) zu erlangen, um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur bewegt aktiv Komponenten eines Objekts auseinander, um dessen Bestandteile zu trennen und zugänglich zu machen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
 
@@ -337,11 +422,13 @@ Begründung: Im Wartungskontext bedeutet demontieren, ein Gerät oder eine Anlag
 demontieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet demontieren, jemanden oder dessen Ansehen/Position zu schwächen oder zu zerstören. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 demoralisieren: Material/Fight/Propaganda 2/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er negative Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2), um dadurch eine Wirkung für sich selbst zu erzielen (//Goal 3), nämlich die Kampfmoral zu schwächen. Das geschieht bestimmend (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 demoralisieren: Interpersonal/Psychological/Fight 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: In einem zwischenmenschlichen Kontext kann demoralisieren auch bedeuten, dass der Akteur aggressiv (3) eine Leistung erbringt (4), indem er negative Informationen gibt (1/5), die einen unerwünschten psychologischen Zustand beim Antagonisten bewirken (Goal -2), um eine bestimmte Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
+
 
 demotivieren: Material/Leadership 2/4/1/5/Goal -3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), durch Geben (1) von Information (5), die eine negative Wirkung auf die Motivation des Antagonisten hat (Goal -3), um einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2).. Autonom/Exzentrisch.
@@ -349,11 +436,13 @@ Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erb
 demotivieren: Interpersonal/Influence 3/4/1/5/Goal -3//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext: Der Akteur bewegt sich auf den Antagonisten zu (3), erbringt eine Leistung (4) durch Geben (1) von Information (5), die beim Antagonisten die Motivation reduziert (Goal -3), um einen eigenen Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 demütigen: Interpersonal/Psychological/Fight 2/3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung/Anstreben (3) eine Leistung zu erbringen (4), durch Geben (1) von Informationen (5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2), um einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Der Akteur zielt darauf ab, das Selbstwertgefühl des Antagonisten zu verletzen und ihn in eine unterlegene Position zu bringen, wobei er autonom handelt und nach außen auf den Antagonisten einwirkt (aut/ecc).. Autonom/Exzentrisch.
 
 demütigen: Material/Fight/Dispute/Interpersonal 2/3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Im materiellen Kontext von Auseinandersetzungen bestimmt der Akteur (2) mit Bewegung/Anstreben (3) eine Leistung zu erbringen (4), durch Geben (1) von Informationen (5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2), mit dem Ziel eine Wirkung zu erzielen (//Goal 3), etwa eine Machtposition zu demonstrieren oder anderen zu imponieren.. Autonom/Exzentrisch.
+
 
 denken: Material/Cognitive 3/5/2/Goal 5/het/ecc
 Begründung: Denken bedeutet, mental Informationen zu bewegen (3) und zu untersuchen (5), um sie im Geist zu organisieren und zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da sich der Denkende nach dem Gedankeninhalt richten muss und die Gedanken nach außen gerichtet sind.. Heteronom/Exzentrisch.
@@ -364,17 +453,20 @@ Begründung: Bei problemlösendem Denken werden Informationen mental bewegt (3) 
 denken: Interpersonal/Attention 3/5/Goal 5/Goal 1/het/ecc
 Begründung: An jemanden denken bedeutet, mental auf eine Person zuzugehen (3), Erinnerungen und Informationen über sie zu suchen (5), um informiert zu sein (Goal 5) und eine Form von Nähe zu empfinden (Goal 1).. Heteronom/Exzentrisch.
 
+
 denunzieren: Material/Fight/Intelligence-Operations 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) um eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung im Außenbereich liegt.. Autonom/Exzentrisch.
 
 denunzieren: Material/Criminal/Investigation 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im behördlichen Kontext: Der Akteur bewegt sich (3) um eine Leistung (4) zu erbringen, indem er belastende Informationen (1/5) weitergibt, die einen negativen Zustand für den Denunzierten herbeiführen (Goal -2), um einen eigenen Vorteil/gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 deployen: Material/IT/Process 2/3/1/Goal 2/Goal 5/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über eine Software-Anwendung, bewegt sie (3) und übergibt sie (1) an ein System, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei Informationen (Goal 5) verfügbar gemacht werden. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf ein System einwirkt.. Autonom/Exzentrisch.
 
 deployen: Material/Military 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über Truppen oder Ressourcen, bewegt sie (3) und platziert sie (1) in einem bestimmten Gebiet, um einen gewünschten Zustand (Goal 2) zu erreichen, wie z.B. eine strategische Position zu besetzen.. Autonom/Exzentrisch.
+
 
 deponieren: Material/Storage 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Gegenstände, bewegt (3) sie an einen bestimmten Ort und gibt sie dort ab (1), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich dass die Objekte an einem bestimmten Ort aufbewahrt werden. Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Handlung auf die Umwelt gerichtet ist.. Autonom/Exzentrisch.
@@ -388,11 +480,13 @@ Begründung: Im Finanzkontext bedeutet 'deponieren' das Verfügen über (2) Geld
 deponieren: Material/Waste-Disposal 2/3/1/Goal 2/aut/ecc
 Begründung: Im Kontext der Müllentsorgung bedeutet 'deponieren' das Verfügen über (2) Abfall, das Bewegen (3) zu einer Mülldeponie und das Abgeben (1) dort, um den gewünschten Zustand (Goal 2) der ordnungsgemäßen Entsorgung zu erreichen.. Autonom/Exzentrisch.
 
+
 deportieren: Material/Military 2/3/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung (3) eine Leistung zu erbringen (4), indem er Menschen wegnimmt/entfernt (1), was einen unerwünschten Zustand für die Deportierten (Antagonisten) bewirkt (Goal -2), um einen vom Akteur gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur autoritär handelt und nach außen auf andere einwirkt.. Autonom/Exzentrisch.
 
 deportieren: Material/Government 2/3/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: Im Kontext staatlicher Maßnahmen: Der Akteur (Behörde) bestimmt (2) mit Bewegung (3) eine Zwangsleistung zu erbringen (4), indem er Personen aus dem Land entfernt (1), was einen unerwünschten Zustand für die Betroffenen bewirkt (Goal -2), um einen gewünschten ordnungspolitischen Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
 
 deprimieren: Interpersonal/Psychological 3/4/1/5/Goal -0//Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem Antagonisten, leistet etwas für ihn (4), gibt ihm (1) Informationen (5), die dessen Zuversicht/Vertrauen (Goal -0) negativ beeinflussen. Nach dem Umschalten (//) steht das Ziel des Akteurs: eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv und gezielt den Antagonisten deprimiert.. Autonom/Exzentrisch.
@@ -400,11 +494,13 @@ Begründung: Der Akteur bewegt sich (3) zu einem Antagonisten, leistet etwas fü
 deprimieren: Material/Psychological 3/1/Goal -0/het/ecc
 Begründung: In der Bedeutung 'deprimiert werden/sein': Der Akteur erlebt (bekommen, 1) durch bewegende Umstände (3) einen Zustand der fehlenden Zuversicht (Goal -0). Die Ausrichtung ist heteronom/exzentrisch, da der Zustand von außen verursacht wird.. Heteronom/Exzentrisch.
 
+
 deregulieren: Material/Government 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), indem er Vorschriften/Regelungen abschafft oder lockert. Das Deregulieren ist ein autonomer (aut) Vorgang, der in die Umwelt hineinwirkt (ecc), da bestehende Regelungen verändert werden, was Auswirkungen auf die regulierte Umgebung hat.. Autonom/Exzentrisch.
 
 deregulieren: Material/Business/Competition 2/3/Goal 2/Goal 3/aut/ecc
 Begründung: Im wirtschaftlichen Kontext bestimmt der Akteur (2) mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) und strebt eine Marktwirkung (Goal 3) an, indem er Branchenregulierungen abschafft, was zu mehr Wettbewerb führen soll.. Autonom/Exzentrisch.
+
 
 designen: Material/Creative 2/3/Goal 2/aut/ecc
 Begründung: Beim Designen bestimmt der Akteur (2) durch das Bearbeiten und Gestalten (3) ein Objekt oder Produkt, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Designer eigenständig entscheidet und auf ein Objekt im Außenbereich einwirkt.. Autonom/Exzentrisch.
@@ -415,11 +511,13 @@ Begründung: Im künstlerischen Kontext bedeutet Designen, dass der Akteur besti
 designen: Material/Fashion 2/3/5/Goal 2/aut/ecc
 Begründung: Im Modebereich bedeutet Designen, dass der Akteur bestimmt (2), gestaltet (3) und sich dabei informiert (5) über Trends und Stilrichtungen, um einen gewünschten modischen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 designieren: Material/Leadership 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Beim Designieren bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen gibt (5), um einen gewünschten Zustand herzustellen (//Goal 2), nämlich dass jemand für eine bestimmte Position vorgesehen ist, was letztlich der beruflichen Anerkennung des Akteurs dient (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur eine Entscheidung im eigenen Machtbereich trifft.. Autonom/Konzentrisch.
 
 designieren: Material/Administration 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Im administrativen Kontext bestimmt der Akteur (2) als Leistung (4) durch eine formelle Benennung mit Information (5), einen gewünschten Zustand (//Goal 2) herbeizuführen, wobei jemand für eine Position oder Funktion bestimmt wird, was letztlich der beruflichen Anerkennung des Akteurs dient (Goal 4).. Autonom/Konzentrisch.
+
 
 desillusionieren: Material/Psychological 4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm Information gibt (1/5), die den Antagonisten in einen unerwünschten Informationszustand versetzt (Goal -5), wodurch der Akteur einen gewünschten Zustand erreicht (//Goal 2), nämlich, dass der Antagonist keine Illusionen mehr hat. Der Akteur zerstört bewusst die falschen Vorstellungen/Illusionen des Antagonisten.. Autonom/Exzentrisch.
@@ -427,11 +525,13 @@ Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm Informat
 desillusionieren: Interpersonal/Relationship 4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet desillusionieren, dass der Akteur dem Antagonisten eine Information gibt (4/1/5), die dessen positive Erwartungen/Illusionen zunichte macht (Goal -5), um einen realistischeren Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
 
+
 desinfizieren: Material/Medical/Cleaning 3/1/Goal 2/aut/ecc
 Begründung: Desinfizieren bedeutet, durch Bewegung und Anwendung (3) einer Substanz, die man bekommt (1), einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Keimfreiheit einer Oberfläche oder eines Gegenstands. Dies ist eine autonome Handlung mit Auswirkung auf die äußere Umgebung (aut/ecc).. Autonom/Exzentrisch.
 
 desinfizieren: Material/Health 3/Goal 2/Goal 5/aut/ecc
 Begründung: Im Gesundheitskontext bedeutet desinfizieren, aktiv durch Bewegung/Anstreben (3) einen gewünschten hygienischen Zustand (Goal 2) herzustellen, der das Ziel hat, Infektionen zu verhindern und damit informiert über die Sicherheit zu sein (Goal 5).. Autonom/Exzentrisch.
+
 
 desinformieren: Material/Fight/Propaganda 2/4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er falsche oder irreführende Informationen gibt (1/5), die beim Antagonisten zu einem ungewünschten Informationszustand führen (Goal -5), mit dem Ziel, einen gewünschten Zustand für den Akteur zu erreichen (//Goal 2).. Autonom/Exzentrisch.
@@ -442,6 +542,7 @@ Begründung: In geheimdienstlichen Operationen bestimmt der Akteur (2) eine Leis
 desinformieren: Interpersonal/Deception 2/4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er bewusst falsche Informationen gibt (1/5), die den Informationsstand des Antagonisten verschlechtern (Goal -5), um einen für den Akteur vorteilhaften Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 destabilisieren: Material/Fight/Strategy 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3) einen gewünschten Zustand (Goal 2) zu erreichen, nämlich ein System zu schwächen oder zu Fall zu bringen, während er gleichzeitig die Stabilität (//Goal -2) des Antagonisten bekämpft. Dies geschieht selbstbestimmt (aut) mit Ausrichtung nach außen (ecc).. Autonom/Exzentrisch.
 
@@ -451,11 +552,13 @@ Begründung: Im politischen Kontext strebt der Akteur an (3), eine bestehende Or
 destabilisieren: Interpersonal/Influence 3/Goal 3//Goal -2/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bewegt der Akteur sich (3) auf eine Person zu, um eine psychologische Wirkung zu erzielen (Goal 3), indem er die emotionale oder mentale Stabilität des Antagonisten untergräbt (//Goal -2). Dies geschieht selbstbestimmt (aut) mit Ausrichtung nach außen (ecc).. Autonom/Exzentrisch.
 
+
 destillieren: Material/Chemical/Process 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Destillieren bedeutet, dass der Akteur bestimmt/verfügt (2) über eine Flüssigkeit und bewegt/transformiert sie (3), um einen gewünschten Zustand herzustellen (Goal 2) - nämlich die Trennung der Bestandteile - und dadurch auch Informationen über die Zusammensetzung zu gewinnen (Goal 5). Die Ausrichtung ist autonom (aut), da der Akteur den Prozess kontrolliert, und nach außen gerichtet (ecc), da eine Substanz bearbeitet wird.. Autonom/Exzentrisch.
 
 destillieren: Material/Scientific 3/5/Goal 5/aut/ecc
 Begründung: Im wissenschaftlichen Kontext kann destillieren auch bedeuten, das Wesentliche aus Informationen herauszuziehen. Der Akteur bewegt/bearbeitet (3) Informationen, um sich zu informieren (5), mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt Informationen analysiert.. Autonom/Exzentrisch.
+
 
 detaillieren: Material/Information 3/5/2/Goal 5/aut/ecc
 Begründung: Beim Detaillieren bewegt/untersucht der Akteur (3) Informationen (5), um sie zu ordnen/zu strukturieren (2), mit dem Ziel, detaillierte Informationen zu haben bzw. bereitzustellen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf Informationen im Außenbereich einwirkt.. Autonom/Exzentrisch.
@@ -463,11 +566,13 @@ Begründung: Beim Detaillieren bewegt/untersucht der Akteur (3) Informationen (5
 detaillieren: Material/Documentation 2/3/5/Goal 5/aut/ecc
 Begründung: Im Dokumentationskontext bestimmt der Akteur (2) die Bewegung/Bearbeitung (3) von Informationen (5), um diese ausführlich darzustellen, mit dem Ziel, spezifische Informationen zu vermitteln (Goal 5).. Autonom/Exzentrisch.
 
+
 detektieren: Material/Surveillance 3/5/Goal 5/het/ecc
 Begründung: Detektieren bedeutet, mit zielgerichteter Bewegung (3) Informationen zu suchen (5), um informiert zu sein (Goal 5). Der Akteur bewegt sich aktiv nach Informationen oder Signalen und passt sich dabei an externe Gegebenheiten an (het/ecc).. Heteronom/Exzentrisch.
 
 detektieren: Material/Criminal/Investigation 3/5/Goal 5/het/ecc
 Begründung: Im kriminalistischen Kontext bedeutet detektieren das gezielte Aufspüren (3) und Erfassen (5) von Beweisen oder Hinweisen, um Kenntnisse über einen Sachverhalt zu erlangen (Goal 5).. Heteronom/Exzentrisch.
+
 
 deuten: Material/Interpretation 3/5/2/Goal 5/het/ecc
 Begründung: Bei 'deuten' geht der Akteur mit einer Bewegung (3) an Informationen heran (5), um diese zu verstehen und zu strukturieren (2), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom (abhängig vom zu deutenden Material) und exzentrisch (nach außen gerichtet).. Heteronom/Exzentrisch.
@@ -478,11 +583,13 @@ Begründung: Im Sinne von 'hindeuten/zeigen': Der Akteur bewegt sich (3), um ein
 deuten: Material/Analysis 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Im Sinne von 'interpretieren/auslegen': Der Akteur bewegt sich aktiv (3) zu Informationen hin (5), um diese zu verstehen und in einen Zusammenhang zu bringen (2), mit dem Ziel, informiert zu sein (Goal 5) und letztlich einen gewünschten Erkenntniszustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 dezimieren: Material/Fight/Aggression 3/1/Goal 3//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) in Bezug auf den Gegner und erzielt (1) eine Wirkung (Goal 3), nämlich eine drastische Reduzierung der Anzahl/Stärke und damit des Zustandes des Antagonisten(//Goal -2) . Dies ist eine aggressive Handlung zur massiven Reduzierung einer Gruppe/Menge.. Autonom/Exzentrisch.
 
 dezimieren: Material/Population 3/1/Goal -3/Goal 2/het/ecc
 Begründung: Im demografischen Kontext: Eine Bevölkerung wird durch äußere Umstände (wie Krankheit, Naturkatastrophen) stark reduziert (3/1) mit negativer Wirkung auf die Population (Goal -3), was zu einem veränderten Bevölkerungszustand führt (Goal 2).. Heteronom/Exzentrisch.
+
 
 diagnostizieren: Material/Medical/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Beim Diagnostizieren bewegt und untersucht der Akteur (3/5) Informationen über den Gesundheitszustand eines Patienten, um Verfügungsgewalt über dieses Wissen zu erlangen (2) mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Arzt sich nach externen Symptomen und Befunden richten muss und diese im Außenbereich des Patienten untersucht.. Heteronom/Exzentrisch.
@@ -490,11 +597,16 @@ Begründung: Beim Diagnostizieren bewegt und untersucht der Akteur (3/5) Informa
 diagnostizieren: Material/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Im allgemeineren Kontext bedeutet diagnostizieren, systematisch Informationen zu untersuchen (3/5) und zu analysieren, um Verfügungsgewalt über Erkenntnisse zu erlangen (2) mit dem Ziel, über ein Problem oder einen Zustand informiert zu sein (Goal 5). Auch hier ist die Ausrichtung heteronom/exzentrisch, da man sich nach externen Daten und Fakten richten muss.. Heteronom/Exzentrisch.
 
+Begründung: Diagnostizieren bedeutet, dass der Akteur durch Bewegen/Untersuchen (3) Informationen sammelt (5), um darüber zu verfügen (2) und informiert zu sein (Goal 5) über den gesundheitlichen Zustand eines Patienten. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Zustand des Patienten anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
+Begründung: Im allgemeineren Kontext bedeutet diagnostizieren, ein Problem zu untersuchen (3/5) und zu identifizieren, um Kenntnis (2) und Information (Goal 5) über dessen Ursachen zu erlangen. Dies wird beispielsweise bei technischen Geräten oder Systemen angewendet.. Heteronom/Exzentrisch.
+
+
 dialogisieren: Interpersonal/Communication 5/3/1/5/Goal 5/het/ecc
 Begründung: Dialogisieren bedeutet, einen wechselseitigen Austausch von Informationen zu führen, wobei sich die Gesprächspartner informieren (5), aktiv aufeinander zugehen (3), Mitteilungen empfangen (1) und Informationen weitergeben (5), mit dem Ziel, dass beide Seiten informiert sind (Goal 5). Die Ausrichtung ist heteronomisch/exzentrisch, da es sich um einen Prozess handelt, bei dem man sich auf den Gesprächspartner einstellen muss und der nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 dialogisieren: Material/Writing 3/5/Goal 5/aut/ecc
 Begründung: In der literarischen/textlichen Bedeutung heißt dialogisieren, einen Text in Dialogform zu bringen oder umzugestalten. Dabei werden Informationen aktiv bewegt/umgestaltet (3) und informativ aufbereitet (5), um einen informativen Zustand zu erreichen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Autor selbstbestimmt den Text umgestaltet.. Autonom/Exzentrisch.
+
 
 dichten: Material/Creative/Writing 3/5/2/Goal 5/aut/ecc
 Begründung: Beim Dichten bewegt/strebt der Akteur (3) nach Informationen (5), um sie in eine verfügte Form (2) zu bringen, mit dem Ziel, informiert zu sein bzw. zu informieren (Goal 5). Die Ausrichtung ist autonom/excentrisch, da der Akteur selbstbestimmt kreativ nach außen wirkt.. Autonom/Exzentrisch.
@@ -505,17 +617,20 @@ Begründung: Im Sinne von 'abdichten' bewegt (3) der Akteur Material, um einen g
 dichten: Interpersonal/Art-Action 4//Goal 3/aut/con
 Begründung: Im künstlerischen Kontext bedeutet Dichten eine Leistung zu erbringen (4), mit dem Ziel, eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/concentrisch, da der Akteur im eigenen Innenbereich selbstbestimmt schöpferisch tätig ist.. Autonom/Konzentrisch.
 
+
 dicketun: Interpersonal/Appearance 3/5/Goal 3/aut/ecc
 Begründung: Beim 'dicketun' bewegt/strebt der Akteur (3) einen Kontakt an (5), um eine bestimmte Wirkung zu erzielen (Goal 3). Der Akteur stellt sich wichtiger oder wohlhabender dar, als er ist, um andere zu beeindrucken. Dabei handelt er selbstbestimmt (aut) und nach außen gerichtet (ecc), da das Ziel ist, das Ansehen bei anderen zu erhöhen.. Autonom/Exzentrisch.
 
 dicketun: Interpersonal/Persuasion 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: In dieser Variante strebt der Akteur mit seiner Selbstdarstellung (3/5) neben einer Wirkung (Goal 3) auch einen gewünschten Zustand (Goal 2) an, nämlich die Verbesserung seiner sozialen Position oder das Erlangen von Vorteilen durch die Täuschung.. Autonom/Exzentrisch.
 
+
 dielen: Material/Construction 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und verarbeitet/bewegt (3) Fußbodenbelagsmaterial, um einen gewünschten Zustand (Goal 2) - einen fertigen Bodenbelag - herzustellen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur eigenständig handelt und auf das äußere Objekt (den Boden) einwirkt.. Autonom/Exzentrisch.
 
 dielen: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Bedeutung: Bretter/Dielen herstellen. Der Akteur bearbeitet/bewegt (3) Holz, um einen gewünschten Zustand (Goal 2) - fertige Dielen/Bretter - herzustellen. Die Bewegungskomponente steht hier im Vordergrund, während die Verfügung über Materialien implizit ist.. Autonom/Exzentrisch.
+
 
 dienen: Material/Service 4//Goal 4/het/ecc
 Begründung: Dienen bedeutet, eine Leistung (4) für einen Antagonisten zu erbringen, um Anerkennung/Bezahlung zu bekommen (Goal 4). Der Akteur passt sich den Anforderungen an (het) und ist nach außen gerichtet (ecc), da er seine Aktivität auf einen Anderen ausrichtet.. Heteronom/Exzentrisch.
@@ -529,11 +644,13 @@ Begründung: Im religiösen Kontext bedeutet dienen, Leistungen (4) für eine Go
 dienen: Material/Technological 4//Goal 2//Goal 4/het/ecc
 Begründung: Bei technischen Geräten oder Systemen bedeutet dienen, dass diese eine Leistung (4) erbringen, um einen gewünschten Zustand zu erreichen (Goal 2) und dabei einen Zweck zu erfüllen, wofür sie konzipiert wurden (Goal 4).. Heteronom/Exzentrisch.
 
+
 dienern: Interpersonal/Gesture 4/3/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) eine Bewegung (3) für den Antagonisten, um dessen gewünschten Zustand zu erreichen (Goal 2) - nämlich Respekt oder Unterwürfigkeit zu zeigen. Nach dem Umschalter folgt das Ziel des Akteurs selbst (//Goal 4), Anerkennung für diese Geste zu bekommen. Das Dienern ist eine demonstrative Höflichkeitsgeste, bei der der Oberkörper leicht nach vorne gebeugt wird, um Respekt zu zeigen.. Heteronom/Exzentrisch.
 
 dienern: Material/Historical 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Im historischen Kontext bedeutet 'dienern' das Ausführen von unterwürfigen Diensten für einen höhergestellten Antagonisten. Der Akteur leistet (4) bestimmte Tätigkeiten unter Kontrolle des Antagonisten (2), um dessen gewünschten Zustand herzustellen (Goal 2), mit dem Ziel für den Akteur, Anerkennung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
+
 
 diffamieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die das Ziel haben, den Ruf des Antagonisten zu schädigen (Goal -2), um damit einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen wirkt.. Autonom/Exzentrisch.
@@ -541,17 +658,20 @@ Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er In
 diffamieren: Interpersonal/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In einem zwischenmenschlichen Kontext bedeutet diffamieren, dass der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die den Ruf einer Person in sozialen Beziehungen schädigen sollen (Goal -2), um einen eigenen gewünschten sozialen Status oder Vorteil zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 differenzieren: Material/Classification 3/5/2/Goal 5/het/ecc
 Begründung: Der Akteur strebt an (3), Informationen zu sammeln (5), um Verfügung über klare Unterscheidungen zu erlangen (2), mit dem Ziel, informiert zu sein (Goal 5). Die heteronome und exzentrische Ausrichtung (het/ecc) zeigt, dass der Akteur sich nach externen Eigenschaften der zu unterscheidenden Elemente richtet.. Heteronom/Exzentrisch.
 
 differenzieren: Material/Analysis 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: In einem analytischen Kontext bedeutet differenzieren das Untersuchen (3) und Informieren (5), um Kontrolle über Unterscheidungsmerkmale zu haben (2), mit dem Ziel sowohl informiert zu sein (Goal 5) als auch einen gewünschten geordneten Zustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 digitalisieren: Material/IT/Process 2/3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und transformiert durch Bewegung/Bearbeitung (3) analoge Daten in digitale Form, um Informationen (5) zu gewinnen/zugänglich zu machen (Goal 5) und einen gewünschten Zustand der digitalen Verfügbarkeit zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
 digitalisieren: Material/Technology 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext bedeutet digitalisieren, dass der Akteur Prozesse oder Strukturen (2) verändert/transformiert (3), um einen gewünschten Zustand der digitalen Infrastruktur zu erreichen (Goal 2) mit dem übergeordneten Ziel, wirtschaftliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
 
 diktieren: Material/Leadership 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/con
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Information gibt (1/5), damit der Antagonist informiert ist (Goal 5), was letztendlich dem Ziel des Akteurs dient, einen gewünschten Zustand zu erreichen (//Goal 2) und berufliche Anerkennung zu bekommen (Goal 4).. Autonom/Konzentrisch.
@@ -562,17 +682,20 @@ Begründung: Im Bildungskontext bestimmt der Akteur (2) eine Leistung zu erbring
 diktieren: Material/Recording 2/4/1/5/Goal 5//Goal 2/aut/con
 Begründung: Im Kontext der Aufzeichnung bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Information gibt (1/5), damit der Antagonist (z.B. ein Aufnahmegerät oder eine Person, die mitschreibt) informiert ist (Goal 5), um einen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Konzentrisch.
 
+
 dimensionieren: Material/Engineering 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) die Größe oder Abmessungen eines Objekts, um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Tätigkeit (aut/ecc), bei der technische Berechnungen oder Entwürfe durchgeführt werden, um die richtigen Maße festzulegen.. Autonom/Exzentrisch.
 
 dimensionieren: Material/Technical 2/3/5/Goal 2/aut/ecc
 Begründung: In einem technischen Kontext beinhaltet das Dimensionieren nicht nur das Bestimmen (2) und Anpassen (3) von Größen, sondern auch das Berücksichtigen von Informationen und Parametern (5), um ein Objekt in der korrekten Größe zu gestalten (Goal 2).. Autonom/Exzentrisch.
 
+
 dinieren: Material/Food 2/1/Goal 1/aut/ecc
 Begründung: Dinieren bedeutet, förmlich und gehobener zu speisen oder zu Abend zu essen. Der Akteur verfügt (2) über das Bekommen (1) von Speisen, um gesättigt zu sein (Goal 1). Der Vorgang wird selbstbestimmt durchgeführt (aut) und ist nach außen gerichtet (ecc), da er üblicherweise in Gesellschaft oder einem Restaurant stattfindet.. Autonom/Exzentrisch.
 
 dinieren: Material/Social-Activities 3/1/Goal 1/Goal 5/het/ecc
 Begründung: In einem gesellschaftlichen Kontext bedeutet dinieren das formelle gemeinsame Speisen in eleganter Umgebung mit dem Zweck des gesellschaftlichen Austauschs. Der Akteur bewegt sich (3) zu einer Veranstaltung und bekommt dort (1) Nahrung (Goal 1) sowie soziale Kontakte und Austausch (Goal 5). Die Ausrichtung ist heteronom (het), weil gesellschaftliche Konventionen beachtet werden müssen, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 dippen: Material/Fluids/Process 3/1/Goal 2/het/ecc
 Begründung: Dippen bedeutet, einen Gegenstand kurz in eine Flüssigkeit einzutauchen (3), um etwas aufzunehmen/zu bekommen (1), mit dem Ziel, einen gewünschten Zustand zu erreichen (Goal 2), wie z.B. einen Geschmack, eine Beschichtung oder eine Verschönerung. Der Akteur passt sich dabei an die Eigenschaften der Flüssigkeit an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
@@ -582,6 +705,7 @@ Begründung: Im kulinarischen Kontext bedeutet dippen, Lebensmittel in eine Sauc
 
 dippen: Material/Chemical/Process 2/3/1/Goal 2/aut/ecc
 Begründung: Im technischen Kontext bedeutet dippen, einen kontrollierten Tauchvorgang durchzuführen, bei dem der Akteur bestimmt (2), wie ein Objekt bewegt wird (3), um eine Beschichtung zu bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2), wie beim Tauchbeschichten oder Galvanisieren.. Autonom/Exzentrisch.
+
 
 dirigieren: Material/Leadership 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Der Akteur bestimmt/verfügt (2) über eine Leistung (4) durch Anweisungen/Informationen (5), um einen gewünschten Zustand herzustellen (//Goal 2) und letztendlich Anerkennung/Vergütung zu erlangen (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur eigene Entscheidungen trifft und im Innenbereich seiner Verfügungsgewalt agiert.. Autonom/Konzentrisch.
@@ -598,11 +722,13 @@ Begründung: Im musikalischen Kontext bedeutet dirigieren, dass der Akteur als D
 dirigieren: Material/Transportation 2/4/1/5/3//Goal 3/aut/ecc
 Begründung: Im Verkehrskontext bedeutet dirigieren, dass der Akteur bestimmt (2) und eine Leistung erbringt (4), indem er Informationen gibt (1/5) für Bewegungen (3), damit ein Ziel erreicht wird (//Goal 3). Dies bezieht sich auf die Tätigkeit, Verkehrsteilnehmer oder Fahrzeuge zu leiten, etwa als Verkehrspolizist. Es ist eine autonome (aut) nach außen gerichtete (ecc) Aktivität.. Autonom/Exzentrisch.
 
+
 diskreditieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), nämlich das Ansehen oder die Glaubwürdigkeit einer Person zu schädigen.. Autonom/Exzentrisch.
 
 diskreditieren: Material/Fight/Propaganda 2/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Im Kontext von Propaganda bestimmt der Akteur (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, eine bestimmte Wirkung zu erzielen (//Goal 3), etwa die öffentliche Meinung zu beeinflussen.. Autonom/Exzentrisch.
+
 
 diskriminieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1) und informiert (5), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2), mit dem Ziel, einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -613,11 +739,13 @@ Begründung: Im neutralen Sinne bedeutet diskriminieren auch unterscheiden/diffe
 diskriminieren: Material/Social 3/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: In der sozialen Dimension bedeutet diskriminieren jemanden aktiv benachteiligen. Der Akteur strebt an (3), eine negative Leistung zu erbringen (4) und gibt (1), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2), was dem eigenen Ziel des Akteurs dient (//Goal 2).. Autonom/Exzentrisch.
 
+
 diskutieren: Material/Argument 3/5/1/5/Goal 5/aut/ecc
 Begründung: Beim Diskutieren bewegt (3) der Akteur Informationen (5), bekommt (1) Informationen vom Antagonisten und informiert (5) sich und andere, um informiert zu sein (Goal 5). Der Akteur handelt selbstbestimmt (aut) im Außenbereich (ecc).. Autonom/Exzentrisch.
 
 diskutieren: Material/Fight/Dispute 3/4/1/5/Goal 5//Goal 5/aut/ecc
 Begründung: In einer Streitsituation bewegt (3) der Akteur Informationen, leistet (4) etwas für den Antagonisten, indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), mit dem Ziel, selbst informiert zu sein (//Goal 5).. Autonom/Exzentrisch.
+
 
 disponieren: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Disponieren bedeutet, über Ressourcen, Personen oder Abläufe zu verfügen/bestimmen (2) und sie entsprechend anzuordnen/zu bewegen (3), um einen gewünschten Zustand bzw. eine optimale Anordnung zu erreichen (Goal 2). Es handelt sich um eine selbstbestimmte (aut) nach außen gerichtete (ecc) Aktivität, da der Akteur eigenständig über externe Elemente entscheidet.. Autonom/Exzentrisch.
@@ -628,6 +756,7 @@ Begründung: Im finanziellen Kontext bedeutet disponieren, über Geldmittel zu v
 disponieren: Material/Leadership 2/4/5//Goal 2/Goal 4/aut/con
 Begründung: Als Führungsaktivität bedeutet disponieren, bestimmend (2) Anweisungen zu geben (4/5), damit ein gewünschter organisatorischer Zustand erreicht wird (//Goal 2), letztlich um geschäftliche Anerkennung zu erhalten (Goal 4).. Autonom/Konzentrisch.
 
+
 disputieren: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einer Leistung für den Antagonisten (4), indem er Informationen gibt (1/5), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2). Dies dient dem Ziel des Akteurs, eine Wirkung zu erzielen (//Goal 3). Bei einer Disputation geht es darum, durch Argumentation und Diskussion die Position des Gegners zu schwächen und die eigene Position durchzusetzen.. Autonom/Exzentrisch.
 
@@ -637,11 +766,13 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet disputieren, dass der Akte
 disputieren: Material/Argument 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im wissenschaftlichen oder formalen Kontext bedeutet disputieren, dass der Akteur argumentativ vorgeht (3), eine Leistung für den Antagonisten erbringt (4), indem er Informationen gibt (1/5), um die Position des Antagonisten zu widerlegen (Goal -2), mit dem Ziel, einen gewünschten Zustand (die eigene Position als richtig zu etablieren) zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 dissen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Beim 'dissen' bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er dem Antagonisten (1) Informationen gibt (5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), nämlich die soziale Herabsetzung des Anderen. Es handelt sich um eine autonome, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
 
 dissen: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: In der persönlicheren, zwischenmenschlichen Variante des 'dissens' bewegt sich der Akteur aggressiv (3) auf den Antagonisten zu, um eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, eine Wirkung zu erzielen (//Goal 3), nämlich die soziale Dominanz in einer Gruppe. Der Fokus liegt hier stärker auf der emotionalen Wirkung als auf dem sachlichen Zustand.. Autonom/Exzentrisch.
+
 
 distanzieren: Interpersonal/Relationship 3/Goal -1/aut/ecc
 Begründung: Der Akteur bewegt sich (3) von einem Antagonisten weg, um Abstand/Distanz zu schaffen (Goal -1, Gegenteil von Nähe/Goal 1). Die Handlung erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur aktiv eine Beziehungsdistanz herstellt.. Autonom/Exzentrisch.
@@ -652,11 +783,13 @@ Begründung: Der Akteur bewegt sich (3) physisch von einem Objekt oder Ort weg, 
 distanzieren: Interpersonal/Dispute 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) von Ansichten/Aussagen eines Antagonisten weg, um einen gewünschten Zustand (Goal 2) zu erreichen und sich gleichzeitig gegen die Position des Antagonisten zu stellen (//Goal -2). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 distribuieren: Material/Distribution 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Beim Distribuieren verfügt der Akteur (2) über Güter und leistet (4) das Geben (1) dieser Güter an verschiedene Empfänger, um einen gewünschten Zustand des Verteilens zu erreichen (Goal 2), mit dem letztendlichen Ziel, geschäftliche Anerkennung oder Vergütung zu bekommen (//Goal 4). Die Ausrichtung ist autonom und exzentrisch, da der Akteur eigenständig handelt und nach außen wirkt.. Autonom/Exzentrisch.
 
 distribuieren: Material/IT/Process 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im IT-Kontext bedeutet Distribuieren das Verteilen von Software, Updates oder Daten an verschiedene Empfänger oder Systeme. Der Akteur verfügt (2) über die digitalen Ressourcen, leistet (4) deren Weitergabe (1), um einen gewünschten Verteilungszustand zu erreichen (Goal 2), mit dem übergeordneten Ziel, berufliche Anerkennung oder Vergütung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
 
 distributieren: Material/Distribution 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas an verschiedene Empfänger gibt/verteilt (1), um einen gewünschten Zustand herzustellen (Goal 2), schlussendlich um geschäftlich Geld/Anerkennung zu bekommen (Goal 4). Distributieren ist ein systematisches Verteilen von Waren oder Materialien an mehrere Empfänger, typischerweise im geschäftlichen Kontext.. Autonom/Exzentrisch.
@@ -664,11 +797,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er et
 distributieren: Material/IT 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im IT-Kontext bedeutet distributieren das Verteilen von Daten, Dateien oder Informationen (5) an verschiedene Empfänger. Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen (5) gibt (1), damit der Empfänger informiert ist (Goal 5), schlussendlich um Anerkennung/Vergütung zu bekommen (Goal 4).. Autonom/Exzentrisch.
 
+
 disziplinieren: Material/Education/Training 2/3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Disziplinieren bedeutet, dass der Akteur bestimmend (2) mit Bewegung/Anstreben (3) eine Leistung (4) für den Antagonisten erbringt, indem er etwas gibt (1), das eine negative Wirkung für den Antagonisten hat (Goal -3), um einen gewünschten Zustand (Ordnung, Einhaltung von Regeln) für den Akteur zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 disziplinieren: Interpersonal/Leadership 2/3/4/1/5/Goal -3//Goal 2/aut/ecc
 Begründung: In einem zwischenmenschlichen Führungskontext bedeutet disziplinieren, dass der Akteur bestimmend (2) mit Bewegung (3) eine Leistung (4) für den Antagonisten erbringt, indem er Informationen (1/5) gibt, die eine negative Wirkung für den Antagonisten haben (Goal -3), um einen gewünschten sozialen Ordnungszustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
 
 diversifizieren: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) und bewegt/transformiert (3) Geschäftsbereiche/Angebote vielfältiger, um einen gewünschten Zustand der Risikoverteilung/Variabilität zu erreichen (Goal 2) und letztendlich geschäftlichen Erfolg/Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt eine Veränderung in seiner Unternehmensstruktur mit Wirkung nach außen vornimmt.. Autonom/Exzentrisch.
@@ -679,11 +814,13 @@ Begründung: Der Akteur bestimmt/kontrolliert (2) und verteilt/transformiert (3)
 diversifizieren: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) und transformiert (3) einen Bereich/eine Sammlung/ein Programm durch Aufspaltung in verschiedene Teilbereiche, um einen gewünschten vielfältigeren Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 divertieren: Interpersonal/Entertainment 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) mit Kontaktaufnahme (5) auf andere zu, um eine Wirkung zu erzielen (Goal 3) und Kontakt herzustellen (Goal 5). Divertieren bedeutet unterhalten oder belustigen, wobei der Akteur aktiv auf einen Antagonisten zugeht, um ihn zu amüsieren und eine positive Reaktion hervorzurufen.. Autonom/Exzentrisch.
 
 divertieren: Material/Entertainment 3/5/Goal 3/het/ecc
 Begründung: Der Akteur bewegt sich (3) und sucht nach Informationen/Aktivitäten (5), um eine Wirkung (Goal 3) zu erzielen. Diese Bedeutung bezieht sich auf das Ablenken oder Zerstreuen von Personen durch Unterhaltungsangebote.. Heteronom/Exzentrisch.
+
 
 dividieren: Material/Mathematics 3/Goal 5/het/ecc
 Begründung: Beim Dividieren bewegt/transformiert (3) der Akteur Zahlen, um eine Information über das Ergebnis der Division zu erhalten (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Prozess von mathematischen Regeln bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -691,11 +828,13 @@ Begründung: Beim Dividieren bewegt/transformiert (3) der Akteur Zahlen, um eine
 dividieren: Material/Distribution 2/3/Goal 2/aut/ecc
 Begründung: Im Sinne von 'aufteilen/verteilen' bestimmt (2) der Akteur die Bewegung/Transformation (3) von Objekten, um einen gewünschten Zustand der Aufteilung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf die Umwelt einwirkt.. Autonom/Exzentrisch.
 
+
 dokumentieren: Material/Documentation 2/5/Goal 5/aut/ecc
 Begründung: Der Akteur verfügt (2) über Informationen (5), um einen informierten Zustand zu erreichen (Goal 5). Dokumentieren bedeutet das bestimmende Festhalten und Verfügbarmachen von Informationen in einer strukturierten Form. Die Area 'Material/Documentation' ist die präziseste, da sie sich spezifisch auf das Erfassen und Festhalten von Informationen bezieht.. Autonom/Exzentrisch.
 
 dokumentieren: Material/Recording 2/5/1/Goal 5/aut/ecc
 Begründung: In einem aufzeichnenden Kontext bedeutet dokumentieren, dass der Akteur Kontrolle ausübt (2) über Informationen (5), die er bekommt/sammelt (1), um einen informierten Zustand zu erreichen (Goal 5). Diese Variante betont den Aspekt des Sammelns und Aufzeichnens von Informationen.. Autonom/Exzentrisch.
+
 
 dolmetschen: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Beim Dolmetschen leistet der Akteur (4) für einen Antagonisten, indem er Informationen gibt (1) und aufbereitet (5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter (//Goal 4) strebt der Akteur nach Anerkennung/Bezahlung für diese Leistung. Die Ausrichtung ist heteronom/exzentrisch, da sich der Dolmetscher an die Sprachinhalte anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
@@ -703,11 +842,13 @@ Begründung: Beim Dolmetschen leistet der Akteur (4) für einen Antagonisten, in
 dolmetschen: Material/Diplomatic 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Im diplomatischen Kontext leistet der Dolmetscher (4) eine kulturvermittelnde Übersetzung, gibt Informationen (1/5) für den Antagonisten, damit dieser informiert ist (Goal 5), mit dem Ziel der beruflichen Anerkennung (//Goal 4). Die Ausrichtung bleibt heteronom/exzentrisch.. Heteronom/Exzentrisch.
 
+
 domestizieren: Material/Animal/Training 2/3/Goal 2/aut/ecc
 Begründung: Domestizieren bedeutet, wilde Tiere an menschliche Kontrolle zu gewöhnen und zahm zu machen. Der Akteur bestimmt/kontrolliert (2) und bewegt/strebt an (3), um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich ein gezähmtes Tier. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und seine Aktion nach außen (auf das Tier) gerichtet ist.. Autonom/Exzentrisch.
 
 domestizieren: Interpersonal/Control 2/3/Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne kann 'domestizieren' auch bedeuten, das Verhalten einer Person zu zähmen oder zu kontrollieren. Der Akteur bestimmt/kontrolliert (2) und strebt an (3), einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine angepasstere, gefügigere Person.. Autonom/Exzentrisch.
+
 
 dominieren: Interpersonal/Control 2/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert/verfügt (2) über einen Antagonisten, um einen gewünschten Zustand der Machtausübung (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Aktivität nach außen auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
@@ -721,6 +862,7 @@ Begründung: Im wirtschaftlichen Kontext bedeutet dominieren, dass ein Akteur (z
 dominieren: Material/Architecture 3/Goal 3/aut/ecc
 Begründung: Bei Gebäuden oder in der Landschaft bedeutet dominieren, dass ein Objekt durch seine Größe oder Position (3) eine bestimmte Wirkung (Goal 3) auf die Umgebung hat, indem es besonders hervorsticht oder sichtbar ist.. Autonom/Exzentrisch.
 
+
 donnern: Material/Weather 3/Goal 3/het/ecc
 Begründung: Als Wetterphänomen bezieht sich 'donnern' auf eine natürliche Bewegung (3) in der Atmosphäre mit dem Ziel einer akustischen Wirkung (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da das Phänomen nicht kontrolliert werden kann und sich nach außen richtet.. Heteronom/Exzentrisch.
 
@@ -729,6 +871,7 @@ Begründung: Im übertragenen Sinne bedeutet 'donnern' auch, mit großer Kraft u
 
 donnern: Material/Sound 2/3/Goal 3/aut/ecc
 Begründung: Im Kontext von gezielter Lauterzeugung bedeutet 'donnern' das Bestimmen (2) einer kräftigen Bewegung (3), um eine intensive akustische Wirkung zu erzielen (Goal 3), wie beim Trommeln oder lauten Sprechen.. Autonom/Exzentrisch.
+
 
 dosieren: Material/Measurement 2/3/Goal 2/aut/con
 Begründung: Der Akteur bestimmt/verfügt (2) über eine Substanz und bewegt/transformiert (3) diese in einer präzisen Menge oder Proportion, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/konzentrisch (aut/con), da der Akteur selbstbestimmt über eine Substanz in seinem Verfügungsbereich kontrolliert handelt.. Autonom/Konzentrisch.
@@ -739,11 +882,13 @@ Begründung: Im medizinischen Kontext bestimmt der Akteur (2) die genaue Menge e
 dosieren: Material/Chemical/Process 2/3/Goal 2/aut/con
 Begründung: Bei chemischen Prozessen bestimmt der Akteur (2) die präzise Menge von Substanzen durch gezieltes Abmessen und Hinzufügen (3), um eine bestimmte chemische Reaktion oder Zusammensetzung als gewünschten Zustand (Goal 2) zu erreichen. Die Kontrolle erfolgt selbstbestimmt im eigenen Verfügungsbereich (aut/con).. Autonom/Konzentrisch.
 
+
 downloaden: Material/IT/Storage 5/3/1/Goal 5/Goal 2/het/ecc
 Begründung: Der Akteur informiert sich (5) über eine Datei im Internet, bewegt (3) diese durch Netzwerk und bekommt (1) die Datei, um Informationen zu haben (Goal 5) und einen gewünschten Zustand zu erreichen (Goal 2), wobei er sich an externe Gegebenheiten anpassen muss und nach außen gerichtet ist (het/ecc).. Heteronom/Exzentrisch.
 
 downloaden: Material/IT/Process 5/3/1/Goal 2/het/ecc
 Begründung: Der Akteur nimmt Informationen auf (5), bewegt Daten über ein Netzwerk (3) und bekommt sie (1), um einen gewünschten Zustand (verfügbare Daten auf dem eigenen System) zu erreichen (Goal 2), wobei er von externen Systemen abhängig ist (het/ecc).. Heteronom/Exzentrisch.
+
 
 dozieren: Material/Education 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5) mit dem Ziel, dass der Antagonist informiert ist (Goal 5). Nach dem Umschalter folgt das Ziel des Akteurs, dafür Anerkennung oder Vergütung zu erhalten (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf Zuhörer wirkt.. Autonom/Exzentrisch.
@@ -751,17 +896,20 @@ Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbr
 dozieren: Interpersonal/Leadership 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: In einem weniger formellen Kontext kann 'dozieren' auch bedeuten, belehrend zu anderen zu sprechen, um den eigenen Status oder die eigene Überlegenheit zu demonstrieren. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), wobei das eigentliche Ziel des Akteurs der gewünschte Zustand der Überlegenheit ist (//Goal 2).. Autonom/Exzentrisch.
 
+
 drangsalieren: Material/Fight/Aggression 2/3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung/aggressivem Vorgehen (3) eine Leistung zu erbringen (4), durch die er dem Antagonisten etwas auferlegt (1), das für diesen eine negative Wirkung hat (Goal -3). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur gezielt und bestimmend nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
 drangsalieren: Interpersonal/Psychological/Fight 2/3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Im psychologischen Kontext bedeutet drangsalieren, dass der Akteur bestimmt (2) mit aggressivem Vorgehen (3) eine psychische Belastung (4/1) für den Antagonisten erzeugt, die für diesen eine negative Wirkung (Goal -3) hat. Dies dient dem Akteur zur Befriedigung eigener psychologischer Bedürfnisse (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur gezielt und bestimmend nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
+
 drapieren: Material/Interior-Design 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegen/Anordnen (3) von Stoffen/Textilien, um einen gewünschten ästhetischen Zustand (Goal 2) zu erreichen. Die Tätigkeit erfordert autonome Gestaltungsentscheidungen (aut) und wirkt nach außen auf die Umwelt (ecc).. Autonom/Exzentrisch.
 
 drapieren: Material/Clothing 2/3/Goal 2/aut/ecc
 Begründung: Das Anordnen/Legen von Stoff oder Kleidung am Körper, wobei der Akteur bestimmt (2), wie durch Bewegen (3) der Stoff angeordnet wird, um einen gewünschten Zustand der Erscheinung zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 draufsetzen: Material/Physical/Position 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt bestimmend (2) über einen Gegenstand durch eine Bewegung (3), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich dass etwas auf einem anderen Objekt platziert ist. Dies geschieht selbstbestimmt (aut) und in Bezug auf die Außenwelt (ecc).. Autonom/Exzentrisch.
@@ -772,11 +920,26 @@ Begründung: Im Kontext von Möbeln oder Sitzgelegenheiten: Der Akteur bestimmt 
 draufsetzen: Material/Cooking 2/3/Goal 2/Goal 1/aut/ecc
 Begründung: Im Kochkontext: Der Akteur verfügt bestimmend (2) über Lebensmittel und bewegt sie (3), um einen gewünschten Zustand zu erreichen (Goal 2) und letztendlich zur Nahrungsaufnahme (Goal 1) zu gelangen - z.B. einen Topfdeckel auf einen Topf setzen.. Autonom/Exzentrisch.
 
+
+drängen: Interpersonal/Persuasion 3/4/1/Goal 2//Goal 2/aut/ecc
+Begründung: Drängen bedeutet, dass der Akteur durch Bewegung (3) eine Leistung für den Antagonisten (4) erbringt, indem er etwas gibt (1), um einen gewünschten Zustand für den Antagonisten zu erreichen (Goal 2 vor //), was gleichzeitig dem eigenen Ziel des Akteurs dient (Goal 2 nach //). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+drängen: Material/Physical/Position 3/Goal 2/aut/ecc
+Begründung: Im physischen Sinne bedeutet drängen, sich mit Kraft zu bewegen (3), um einen gewünschten Zustand zu erreichen (Goal 2), z.B. sich durch eine Menschenmenge drängen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt eine Bewegung nach außen vollzieht.. Autonom/Exzentrisch.
+
+drängen: Material/Pressure 3/Goal 3//Goal -2/aut/ecc
+Begründung: Im Sinne von Druck ausüben bedeutet drängen, dass der Akteur eine Bewegung (3) ausführt, um eine Wirkung zu erzielen (Goal 3), die gleichzeitig den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf etwas einwirkt.. Autonom/Exzentrisch.
+
+drängen: Interpersonal/Time 2/4/5/Goal 2//Goal 2/aut/ecc
+Begründung: Im Kontext von zeitlichem Drängen bestimmt der Akteur (2) eine Leistung für den Antagonisten (4) zu erbringen, indem er Informationen gibt (5), um einen gewünschten Zustand für beide zu erreichen (Goal 2 beiderseits). Die Ausrichtung ist autonom/exzentrisch, da der Akteur bestimmend auf den Zeitplan einwirkt.. Autonom/Exzentrisch.
+
+
 drechseln: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Beim Drechseln bewegt/bearbeitet der Akteur (3) Holzstücke rotierend mit einem speziellen Werkzeug, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich ein gedrechseltes Holzobjekt mit einer bestimmten Form. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf ein außerhalb liegendes Objekt einwirkt.. Autonom/Exzentrisch.
 
 drechseln: Material/Professions/Construction 3/Goal 2/Goal 4/aut/ecc
 Begründung: Als berufliche Tätigkeit beinhaltet Drechseln das Bewegen/Bearbeiten (3) von Holz, um einen gewünschten Zustand zu erreichen (Goal 2) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Die Tätigkeit wird selbstbestimmt ausgeführt und wirkt auf ein externes Objekt ein.. Autonom/Exzentrisch.
+
 
 drehen: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt (3) ein Objekt kreisförmig, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Handlung selbstbestimmt ausführt und auf ein Objekt im Außenbereich einwirkt.. Autonom/Exzentrisch.
@@ -793,11 +956,13 @@ Begründung: Bei Steuerungsvorgängen: Der Akteur verfügt über (2) ein Bediene
 drehen: Material/Dance 3/Goal 3/aut/ecc
 Begründung: Als Tanzbewegung: Der Akteur bewegt sich (3) kreisförmig, um eine bestimmte Wirkung/Position zu erreichen (Goal 3).. Autonom/Exzentrisch.
 
+
 dreschen: Material/Agriculture 3/Goal 2/aut/ecc
 Begründung: Beim Dreschen bewegt/bearbeitet der Akteur (3) Getreide, um es aus den Ähren zu lösen und damit einen gewünschten Zustand (Goal 2) zu erreichen, nämlich das Korn vom Stroh zu trennen. Der Vorgang ist autonom und nach außen gerichtet, da der Akteur bestimmend auf die Umwelt einwirkt.. Autonom/Exzentrisch.
 
 dreschen: Material/Fight/Aggression/Brawl 3/Goal 3//Goal -2/aut/ecc
 Begründung: In der Bedeutung 'auf jemanden einschlagen/zuschlagen' bewegt der Akteur (3) seine Fäuste oder einen Gegenstand, um eine Wirkung zu erzielen (Goal 3) und gleichzeitig den gewünschten Zustand des Antagonisten zu verhindern (//Goal -2). Dies ist eine aggressive Handlung, die autonom und nach außen gerichtet ist.. Autonom/Exzentrisch.
+
 
 dringen: Material/Pressure 3/Goal 3/het/ecc
 Begründung: Der Akteur bewegt (3) sich mit Nachdruck/Kraft durch Hindernisse oder Widerstand, um eine Destination oder Wirkung zu erreichen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Prozess von äußeren Widerständen beeinflusst wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -807,6 +972,7 @@ Begründung: Im Sinne von 'auf etwas dringen' bewegt sich der Akteur (3) bestimm
 
 dringen: Material/Fluids 3/1/Goal 3/het/ecc
 Begründung: Im Sinne von 'Flüssigkeit dringt ein' bewegt sich (3) eine Substanz und bekommt (1) Zugang zu einem Bereich, um eine Wirkung/Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Vorgang von physikalischen Eigenschaften gesteuert wird.. Heteronom/Exzentrisch.
+
 
 drohen: Material/Fight/Gesture 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und leistet für den Antagonisten (4) durch Geben (1) einer Information (5), die einen unerwünschten Zustand für den Antagonisten in Aussicht stellt (Goal -2) mit dem Ziel, eine Wirkung für sich selbst zu erzielen (//Goal 3). Diese Kodierung erfasst das Androhen von negativen Konsequenzen, um das Verhalten des Antagonisten zu beeinflussen.. Autonom/Exzentrisch.
@@ -820,6 +986,7 @@ Begründung: In der Bedeutung 'es droht eine Katastrophe': Informationen (5) üb
 drohen: Interpersonal/Gesture 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Drohen im zwischenmenschlichen Bereich als gestische Aktivität: Der Akteur signalisiert (3) durch Geben (4/1) einer Information via Körpersprache (5), dass ein negativer Zustand für den Antagonisten eintreten könnte (Goal -2), um eine Wirkung für sich zu erzielen (//Goal 3).. Autonom/Exzentrisch.
 
+
 droppen: Material/IT 2/3/1/Goal 2/het/ecc
 Begründung: Im IT-Kontext bedeutet 'droppen', dass der Akteur über Daten verfügt (2), diese bewegt (3) und damit einen Zustand des Loslassens/Entfernens bewirkt (1/Goal 2). Der Vorgang ist heterenom, da er von externen Systembedingungen abhängt, und nach außen gerichtet. Es handelt sich um das Entfernen/Löschen von Dateien, Datenbankeinträgen oder anderen digitalen Elementen.. Heteronom/Exzentrisch.
 
@@ -831,6 +998,17 @@ Begründung: In der Umgangssprache bedeutet 'droppen' das Fallenlassen oder Aufg
 
 droppen: Material/Music 2/3/Goal 3/aut/ecc
 Begründung: In der Musikproduktion bedeutet 'droppen', dass der Akteur bestimmt (2) und eine Bewegung/Aktivität ausführt (3), um eine bestimmte Wirkung zu erzielen (Goal 3), typischerweise den Einsatz eines Beats oder einer Klangsequenz. Der Vorgang ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
+
+
+dröhnen: Material/Sound 3/Goal 5/het/ecc
+Begründung: Der Akteur bewegt (3) intensive Schallwellen, um Information (Goal 5) zu übermitteln. Die Ausrichtung ist heteronom (het) und exzentrisch (ecc), da der Schall sich nach außen ausbreitet und die Art des Dröhnens von den akustischen Gegebenheiten abhängt.. Heteronom/Exzentrisch.
+
+dröhnen: Material/Physical 1/Goal -2/het/ecc
+Begründung: Im Sinne von 'der Kopf dröhnt': Der Akteur bekommt (1) einen unerwünschten Zustand (Goal -2) durch intensive Schmerzempfindung. Die Ausrichtung ist heteronom und exzentrisch, da der Schmerz von außen einwirkt und der Akteur keine Kontrolle darüber hat.. Heteronom/Exzentrisch.
+
+dröhnen: Material/Machinery 3/Goal 3/het/ecc
+Begründung: Im Sinne von 'der Motor dröhnt': Eine Maschine bewegt sich (3) mit dem Ziel, eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch, da die Vibration nach außen gerichtet ist und von den Maschineneigenschaften abhängt.. Heteronom/Exzentrisch.
+
 
 drucken: Material/Printing 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Druckgeräte und bewegt/transformiert (3) Tinte/Farbe auf ein Medium, um einen gewünschten Zustand (Goal 2) - das Erscheinen von Text oder Bildern auf einem Trägermedium - zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur den Prozess selbstbestimmt steuert und die Wirkung nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -844,26 +1022,6 @@ Begründung: Im physikalischen Kontext bedeutet 'drucken' das Bewegen/Ansteuern 
 drucken: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext als Druckerei-Tätigkeit: Der Akteur verfügt (2) über Drucktechnik und transformiert (3) Material, um einen gewünschten Zustand (Goal 2) zu erreichen und damit Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
 
-drängen: Interpersonal/Persuasion 3/4/1/Goal 2//Goal 2/aut/ecc
-Begründung: Drängen bedeutet, dass der Akteur durch Bewegung (3) eine Leistung für den Antagonisten (4) erbringt, indem er etwas gibt (1), um einen gewünschten Zustand für den Antagonisten zu erreichen (Goal 2 vor //), was gleichzeitig dem eigenen Ziel des Akteurs dient (Goal 2 nach //). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
-
-drängen: Material/Physical/Position 3/Goal 2/aut/ecc
-Begründung: Im physischen Sinne bedeutet drängen, sich mit Kraft zu bewegen (3), um einen gewünschten Zustand zu erreichen (Goal 2), z.B. sich durch eine Menschenmenge drängen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt eine Bewegung nach außen vollzieht.. Autonom/Exzentrisch.
-
-drängen: Material/Pressure 3/Goal 3//Goal -2/aut/ecc
-Begründung: Im Sinne von Druck ausüben bedeutet drängen, dass der Akteur eine Bewegung (3) ausführt, um eine Wirkung zu erzielen (Goal 3), die gleichzeitig den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf etwas einwirkt.. Autonom/Exzentrisch.
-
-drängen: Interpersonal/Time 2/4/5/Goal 2//Goal 2/aut/ecc
-Begründung: Im Kontext von zeitlichem Drängen bestimmt der Akteur (2) eine Leistung für den Antagonisten (4) zu erbringen, indem er Informationen gibt (5), um einen gewünschten Zustand für beide zu erreichen (Goal 2 beiderseits). Die Ausrichtung ist autonom/exzentrisch, da der Akteur bestimmend auf den Zeitplan einwirkt.. Autonom/Exzentrisch.
-
-dröhnen: Material/Sound 3/Goal 5/het/ecc
-Begründung: Der Akteur bewegt (3) intensive Schallwellen, um Information (Goal 5) zu übermitteln. Die Ausrichtung ist heteronom (het) und exzentrisch (ecc), da der Schall sich nach außen ausbreitet und die Art des Dröhnens von den akustischen Gegebenheiten abhängt.. Heteronom/Exzentrisch.
-
-dröhnen: Material/Physical 1/Goal -2/het/ecc
-Begründung: Im Sinne von 'der Kopf dröhnt': Der Akteur bekommt (1) einen unerwünschten Zustand (Goal -2) durch intensive Schmerzempfindung. Die Ausrichtung ist heteronom und exzentrisch, da der Schmerz von außen einwirkt und der Akteur keine Kontrolle darüber hat.. Heteronom/Exzentrisch.
-
-dröhnen: Material/Machinery 3/Goal 3/het/ecc
-Begründung: Im Sinne von 'der Motor dröhnt': Eine Maschine bewegt sich (3) mit dem Ziel, eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch, da die Vibration nach außen gerichtet ist und von den Maschineneigenschaften abhängt.. Heteronom/Exzentrisch.
 
 drücken: Material/Pressure 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) kraftvoll gegen ein Objekt, um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Handlung (aut/ecc), bei der Druck ausgeübt wird, um eine Formveränderung oder Positionsveränderung zu bewirken.. Autonom/Exzentrisch.
@@ -880,6 +1038,7 @@ Begründung: Der Akteur bewegt (3) eine Druckvorrichtung, um einen gewünschten 
 drücken: Material/Emotions 1/Goal -2/het/con
 Begründung: Der Akteur bekommt (1) einen unerwünschten Zustand (Goal -2), nämlich ein bedrückendes Gefühl. Dies ist eine heteronome, nach innen gerichtete Erfahrung (het/con).. Heteronom/Konzentrisch.
 
+
 ducken: Material/Physical/Position 2/3/Goal 2/aut/con
 Begründung: Der Akteur verfügt (2) über seinen Körper und bewegt sich (3) in eine geduckte Position, um einen gewünschten körperlichen Zustand (Goal 2) zu erreichen. Dies geschieht selbstbestimmt (aut) und im eigenen Bereich (con).. Autonom/Konzentrisch.
 
@@ -889,11 +1048,13 @@ Begründung: Der Akteur verfügt (2) über seinen Körper und bewegt sich (3) in
 ducken: Interpersonal/Psychological 2/3/Goal 2/het/con
 Begründung: Der Akteur macht sich klein/unterordnet sich (2/3) vor einem Anderen, um einen Zustand der Unterordnung (Goal 2) zu erreichen. Dies geschieht fremdbestimmt (het) und im inneren Bereich (con).. Heteronom/Konzentrisch.
 
+
 duften: Material/Chemical/Process 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Duften bedeutet, dass ein Objekt eine Leistung (4) erbringt, indem es Duftmoleküle abgibt (1), die Informationen (5) über seine Beschaffenheit vermitteln, damit diese wahrgenommen werden können (Goal 5). Dies dient dem Ziel des Akteurs (des duftenden Objekts), wahrgenommen zu werden (//Goal 4).. Heteronom/Exzentrisch.
 
 duften: Material/Appearance 4/1/5/Goal 3//Goal 4/het/ecc
 Begründung: In einem weiteren Sinne kann duften bedeuten, eine Wirkung auf andere zu erzielen (Goal 3), indem angenehme Duftmoleküle abgegeben werden (4/1/5), was oft gezielt eingesetzt wird, um Aufmerksamkeit und Anziehung zu erzeugen.. Heteronom/Exzentrisch.
+
 
 dulden: Material/Tolerance 4/2/Goal 2//Goal 2/het/ecc
 Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm Verfügungsgewalt (2) überlässt, damit dieser einen gewünschten Zustand erreichen kann (Goal 2). Nach dem Umschalten (//) folgt das Ziel des Akteurs, seinen eigenen gewünschten Zustand zu wahren (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Antagonisten anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -903,6 +1064,7 @@ Begründung: Im Kontext von gesetzlichen oder regelbasierten Situationen bedeute
 
 dulden: Interpersonal/Relationship 4/2/Goal 2//Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Bereich kann dulden bedeuten, dass der Akteur leistet (4) für den Antagonisten durch Überlassen von Verfügungsgewalt (2), damit dieser einen gewünschten Zustand (Goal 2) erreicht. Der Akteur tut dies, um Nähe zu wahren oder Konflikte zu vermeiden (//Goal 1).. Heteronom/Exzentrisch.
+
 
 durcharbeiten: Material/Process 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt etwas an (3), indem er einen Stoff/ein Material/eine Aufgabe gründlich bearbeitet, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
@@ -916,6 +1078,7 @@ Begründung: Der Akteur bewegt/strebt an (3), um eine Wirkung zu erzielen (Goal 
 durcharbeiten: Material/Education/Training 3/5/Goal 5/Goal 2/het/ecc
 Begründung: Der Akteur bewegt/strebt an (3) Informationen zu verarbeiten (5), um informiert zu sein (Goal 5) und letztendlich einen gewünschten Lernzustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom, da er sich nach vorgegebenen Lernmaterialien richtet.. Heteronom/Exzentrisch.
 
+
 durchbeißen: Material/Endurance 3/Goal 2/aut/ecc
 Begründung: Eine schwierige Situation mit Anstrengung (3) überwinden, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur bewegt sich metaphorisch anstrengend durch ein Hindernis/Problem (aut/ecc).. Autonom/Exzentrisch.
 
@@ -924,6 +1087,14 @@ Begründung: Mit den Zähnen durch etwas materiell hindurchbeißen, wobei der Ak
 
 durchbeißen: Interpersonal/Psychological 3/Goal 2//Goal -3/aut/ecc
 Begründung: Sich gegen Widerstände durchsetzen, wobei der Akteur durch Anstrengung/Bewegung (3) einen gewünschten Zustand (Goal 2) erreicht und dabei die Hindernisse oder Widerstände des Antagonisten (//Goal -3) überwindet.. Autonom/Exzentrisch.
+
+
+durchblättern: Material/Book 3/5/Goal 5/aut/ecc
+Begründung: Der Akteur bewegt (3) Buchseiten oder Dokumente, um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5). Das durchblättern ist ein autonomer Vorgang (aut), der nach außen auf die Seiten/das Material gerichtet ist (ecc).. Autonom/Exzentrisch.
+
+durchblättern: Material/Document 3/5/Goal 5/aut/ecc
+Begründung: Im Kontext von Dokumenten oder Akten bedeutet durchblättern das Bewegen (3) durch mehrere Seiten, um sich zu informieren (5) mit dem Ziel informiert zu sein (Goal 5).. Autonom/Exzentrisch.
+
 
 durchblicken: Material/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Der Akteur bewegt/strebt (3) sich zu informieren (5), um zu verstehen/verfügen (2) über Informationen (Goal 5). Man durchdringt mit dem Blick/Verstand etwas Komplexes, um es zu verstehen. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Informationen richten muss.. Heteronom/Exzentrisch.
@@ -934,11 +1105,6 @@ Begründung: Im IT-Sicherheitskontext bedeutet 'durchblicken' das Erkennen (5) u
 durchblicken: Material/Transparency 2/5/Goal 5/het/ecc
 Begründung: In Bezug auf Transparenz bedeutet 'durchblicken' das Verfügen (2) über die Fähigkeit, Informationen (5) zu durchschauen und zu verstehen (Goal 5). Hier ist das bestimmende Element die Fähigkeit zur Durchschaubarkeit.. Heteronom/Exzentrisch.
 
-durchblättern: Material/Book 3/5/Goal 5/aut/ecc
-Begründung: Der Akteur bewegt (3) Buchseiten oder Dokumente, um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5). Das durchblättern ist ein autonomer Vorgang (aut), der nach außen auf die Seiten/das Material gerichtet ist (ecc).. Autonom/Exzentrisch.
-
-durchblättern: Material/Document 3/5/Goal 5/aut/ecc
-Begründung: Im Kontext von Dokumenten oder Akten bedeutet durchblättern das Bewegen (3) durch mehrere Seiten, um sich zu informieren (5) mit dem Ziel informiert zu sein (Goal 5).. Autonom/Exzentrisch.
 
 durchbohren: Material/Construction 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) ein Werkzeug durch ein Material, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er autonom handelt und nach außen auf ein Objekt einwirkt. Das Durchbohren ist ein transformatives Bearbeiten, bei dem eine Öffnung oder ein Loch in einem Material erzeugt wird.. Autonom/Exzentrisch.
@@ -948,6 +1114,7 @@ Begründung: Im Kampfkontext: Der Akteur bewegt (3) eine Waffe und bekommt (1) e
 
 durchbohren: Material/Medical 3/Goal 2/Goal 5/aut/ecc
 Begründung: Im medizinischen Kontext: Der Akteur bewegt (3) ein Instrument durch Gewebe, um einen gewünschten Zustand (Goal 2) herzustellen und Informationen zu gewinnen (Goal 5), z.B. bei einer Biopsie oder diagnostischen Punktion.. Autonom/Exzentrisch.
+
 
 durchbrechen: Material/Construction 3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) kraftvoll durch ein Hindernis, um einen gewünschten Zustand (Goal 2) zu erreichen und gleichzeitig die bestehende Blockierung zu überwinden (//Goal -3). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf die Umwelt einwirkt.. Autonom/Exzentrisch.
@@ -964,6 +1131,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet durchbrechen, dass der Akt
 durchbrechen: Material/Process 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Im Kontext von Prozessen bedeutet durchbrechen, dass der Akteur durch Bewegung/Anstreben (3) und Bekommen (1) einen gewünschten Zustand (Goal 2) erreicht, wobei er eine Blockade oder ein etabliertes Muster überwindet (//Goal -3), wie etwa beim Durchbrechen eines Kreislaufs oder einer Routine.. Autonom/Exzentrisch.
 
+
 durchbringen: Material/Time 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/verbraucht (3) Zeit oder führt einen Vorgang durch, um einen gewünschten Zustand (Goal 2) zu erreichen. Es geht um das Verbringen/Verbrauchen eines Zeitabschnitts durch aktive Handlung. Der Akteur bestimmt selbst über den Prozess (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
 
@@ -976,11 +1144,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er de
 durchbringen: Material/Legislative 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt über (2) und bewegt/bringt voran (3) einen Gesetzesentwurf o.ä., um einen gewünschten Zustand (Goal 2) zu erreichen. Dies bezieht sich auf das 'Durchbringen' eines Antrags oder Gesetzes in einer politischen Versammlung.. Autonom/Exzentrisch.
 
+
 durchdenken: Material/Cognitive 3/5/2/Goal 5/het/ecc
 Begründung: Etwas durchdenken bedeutet, einen Gedanken oder eine Idee mental zu bewegen/bearbeiten (3), dabei Informationen zu sammeln und zu prüfen (5), um diese zu ordnen und zu strukturieren (2), mit dem Ziel, vollständig informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach einem externen Gedankengegenstand richten muss.. Heteronom/Exzentrisch.
 
 durchdenken: Material/Problem-Solving 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: In einem problemlösenden Kontext bedeutet durchdenken, Informationen zu bearbeiten (3/5), um sie zu strukturieren (2), mit dem Ziel, nicht nur informiert zu sein (Goal 5), sondern auch einen gewünschten Zustand (eine Lösung) zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
 
 durchdrehen: Material/Mechanical 3/Goal 3/aut/ecc
 Begründung: Beim mechanischen Durchdrehen bewegt (3) der Akteur einen Gegenstand rotierend, um eine Wirkung zu erzielen (Goal 3). Dies geschieht autonom (aut) und nach außen gerichtet (ecc), da der Akteur die Bewegung selbstbestimmt initiiert und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
@@ -991,6 +1161,7 @@ Begründung: In Bezug auf Maschinen: Ein Rad oder Motor dreht durch, wenn es/er 
 durchdrehen: Interpersonal/Psychological 3/Goal -3/het/ecc
 Begründung: Im psychologischen Sinne bedeutet durchdrehen, dass ein Mensch die Kontrolle verliert und sich übermäßig bewegt/reagiert (3), wobei eine unerwünschte Wirkung (Goal -3) erzielt wird. Die Ausrichtung ist heterogen (het), da der Akteur nicht mehr vollständig autonom handelt, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 durchdringen: Material/Physics 3/1/Goal 3/het/ecc
 Begründung: Der Akteur bewegt sich (3) durch ein Material/Medium und bekommt (1) eine Wirkung/erreicht ein Ziel (Goal 3), wobei er sich an die Eigenschaften des zu durchdringenden Materials anpassen muss (het) und nach außen gerichtet agiert (ecc). Diese Kodierung beschreibt den physikalischen Vorgang des Durchdringens eines Mediums (wie Strahlung durch Material, Flüssigkeit durch poröses Material).. Heteronom/Exzentrisch.
 
@@ -999,6 +1170,7 @@ Begründung: Der Akteur bewegt sich geistig (3) durch komplexe Informationen, in
 
 durchdringen: Interpersonal/Influence 3/1/Goal 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) in Richtung eines Anderen und bekommt (1) eine Wirkung (Goal 3), wobei er bestimmte Zustände oder Reaktionen beim Anderen erreicht (Goal 2). Diese Bedeutung bezieht sich auf das Durchdringen im Sinne von nachhaltigem Beeinflussen einer Person.. Autonom/Exzentrisch.
+
 
 durchfahren: Material/Transportation 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) mit einem Fahrzeug durch einen Bereich, um eine Destination/ein Ziel zu erreichen (Goal 3). Die Ausrichtung ist autonom, da der Akteur selbstbestimmt handelt, und exzentrisch, da die Bewegung nach außen in die Umwelt gerichtet ist.. Autonom/Exzentrisch.
@@ -1009,11 +1181,13 @@ Begründung: Der Akteur bewegt sich (3) durch ein Gebiet und erreicht/bekommt (1
 durchfahren: Material/Endurance 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) ohne Unterbrechung durch, um einen gewünschten Zustand (durchgehende Fahrt ohne Pause) zu erreichen (Goal 2). Diese Bedeutung betont das Kontinuierliche der Fahrt.. Autonom/Exzentrisch.
 
+
 durchfiltern: Material/Fluids/Process 3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) Substanzen durch ein Filtermaterial und untersucht/informiert sich (5) über die Bestandteile, um informiert zu sein (Goal 5) und einen gewünschten Zustand der Reinigung/Trennung zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
 durchfiltern: Material/IT/Process 3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Im IT-Kontext: Der Akteur bewegt (3) Daten durch einen Filter und untersucht/informiert sich (5) über sie, um relevante Informationen zu erhalten (Goal 5) und einen gewünschten Zustand der Datenbereinigung zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 durchfluten: Material/Fluids/Process 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) eine Flüssigkeit durch etwas hindurch, um eine bestimmte Wirkung zu erzielen (Goal 3). Flüssigkeit bewegt sich aktiv durch einen Bereich und erreicht damit das Ziel der Durchströmung. Die Ausrichtung ist autonom und exzentrisch, da der Akteur den Prozess kontrolliert und nach außen auf die Umgebung einwirkt.. Autonom/Exzentrisch.
@@ -1024,6 +1198,7 @@ Begründung: Der Akteur bewegt (3) Licht, Wärme oder andere Strahlung durch ein
 durchfluten: Interpersonal/Emotional 3/1/Goal 3/het/ecc
 Begründung: Der Akteur wird von Gefühlen durchströmt (3/1), die eine intensive emotionale Wirkung erzielen (Goal 3). In dieser metaphorischen Bedeutung 'von Freude durchflutet werden' ist die Ausrichtung heteronom und exzentrisch, da die Emotionen den Akteur von außen ergreifen.. Heteronom/Exzentrisch.
 
+
 durchforschen: Material/Search 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) durch ein Gebiet/Objekt und informiert sich dabei (5), um informiert zu sein (Goal 5). Durchforschen bedeutet, einen Bereich gründlich und systematisch zu untersuchen, um Informationen zu gewinnen.. Autonom/Exzentrisch.
 
@@ -1033,17 +1208,20 @@ Begründung: Im archäologischen Kontext bedeutet durchforschen das systematisch
 durchforschen: Material/Criminal/Investigation 3/5/Goal 5/aut/ecc
 Begründung: Im kriminalistischen Kontext bedeutet durchforschen das systematische Untersuchen von Beweismitteln oder Tatorten (3/5), um Erkenntnisse über Straftaten zu gewinnen (Goal 5).. Autonom/Exzentrisch.
 
+
 durchforsten: Material/Search 3/5/Goal 5/aut/ecc
 Begründung: Akteur durchsucht (3/5) systematisch einen Bereich (z.B. Dokumente, Daten), um Informationen zu gewinnen und informiert zu sein (Goal 5). Die Aktivität beinhaltet eine gründliche, methodische Bewegung (3) durch einen Informationsbestand mit dem Ziel der Informationsgewinnung (5).. Autonom/Exzentrisch.
 
 durchforsten: Material/Forestry 3/Goal 2/aut/ecc
 Begründung: Im forstlichen Kontext bedeutet durchforsten das systematische Durchgehen (3) eines Waldbestandes, um bestimmte Bäume zu entfernen und dadurch einen gewünschten Waldzustand zu erreichen (Goal 2). Dies ist eine pflegende Maßnahme zur Steuerung des Waldwachstums.. Autonom/Exzentrisch.
 
+
 durchfragen: Material/Information 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich durch eine Reihe von Informationsquellen (3) und informiert sich dabei (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Informationsquellen anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 durchfragen: Material/Navigation 3/5/Goal 3/het/ecc
 Begründung: In einem Navigationskontext bedeutet durchfragen, dass der Akteur sich durch Befragen mehrerer Personen (3/5) an sein Ziel heranarbeitet, um eine Destination zu erreichen (Goal 3).. Heteronom/Exzentrisch.
+
 
 durchführen: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/bestimmt (2) über eine Bewegung/Anstreben (3), um einen gewünschten Zustand zu erreichen (Goal 2). Der Begriff 'durchführen' beschreibt den Vorgang, einen Plan, eine Aufgabe oder ein Projekt von Anfang bis Ende zu realisieren, wobei der Akteur den Prozess aktiv steuert (autonome Kontrolle) und nach außen gerichtet handelt.. Autonom/Exzentrisch.
@@ -1054,6 +1232,7 @@ Begründung: Im Kontext eines Projekts oder einer beruflichen Tätigkeit: Der Ak
 durchführen: Material/Event 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext von Veranstaltungen: Der Akteur verfügt/kontrolliert (2) den Ablauf und bewegt den Prozess vorwärts (3), um das Ereignis erfolgreich zu realisieren (Goal 2).. Autonom/Exzentrisch.
 
+
 durchgeben: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Empfänger informiert ist (Goal 5). Der Akteur selbst hat das Ziel, Anerkennung für diese Leistung zu bekommen (//Goal 4). Die Ausrichtung ist autonom (der Akteur entscheidet selbst über die Weitergabe) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
 
@@ -1062,6 +1241,7 @@ Begründung: In der IT-Bedeutung: Der Akteur bestimmt (2) und bewegt (3) Daten, 
 
 durchgeben: Material/Physical 3/1/Goal 2/aut/ecc
 Begründung: In der physischen Bedeutung: Der Akteur bewegt (3) ein Objekt und übergibt es (1), um einen gewünschten Zustand zu erreichen (Goal 2). Zum Beispiel ein Objekt durch eine Öffnung 'durchgeben'.. Autonom/Exzentrisch.
+
 
 durchgehen: Material/Analysis 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) durch etwas hindurch, während er sich informiert (5), um informiert zu sein (Goal 5). Dies bezieht sich auf das systematische Durcharbeiten/Prüfen von Informationen oder Unterlagen. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den extern vorgegebenen Informationen richten muss.. Heteronom/Exzentrisch.
@@ -1075,11 +1255,13 @@ Begründung: Bei 'durchgehen' im Sinne von 'etwas macht sich selbständig' (z.B.
 durchgehen: Interpersonal/Dispute 3/5/Goal 5//Goal -2/het/ecc
 Begründung: Im Sinne von 'etwas wird toleriert/durchgelassen, obwohl es nicht regelkonform ist', informiert sich der Akteur (3/5) über etwas (Goal 5), entscheidet sich aber gegen die Durchsetzung der Regeln gegenüber dem Antagonisten (//Goal -2).. Heteronom/Exzentrisch.
 
+
 durchgeistigen: Material/Cognitive 3/5/2/Goal 5/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) sich informierend (5) durch einen Sachverhalt, um verfügend (2) informiert zu sein (Goal 5) mit dem höheren Ziel, einen gewünschten geistigen Zustand zu erreichen (Goal 2). 'Durchgeistigen' bedeutet, etwas mit geistigem Inhalt zu durchdringen, intellektuell zu durchleuchten und zu einem tieferen Verständnis zu gelangen.. Autonom/Exzentrisch.
 
 durchgeistigen: Material/Creative 3/5/2/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) sich informierend (5) durch ein Werk oder einen Gegenstand, um verfügend (2) einen gewünschten Zustand herzustellen (Goal 2). In diesem kreativen Kontext bedeutet 'durchgeistigen', ein Werk bewusst mit intellektuellen oder spirituellen Qualitäten auszustatten.. Autonom/Exzentrisch.
+
 
 durchgreifen: Material/Leadership 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit entschiedener Bewegung/Aktion (3) einen gewünschten Zustand herzustellen (Goal 2), wobei gleichzeitig die Widerstandsbewegungen des Antagonisten unterbunden werden (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur bestimmend nach außen auf Untergebene einwirkt.. Autonom/Exzentrisch.
@@ -1090,6 +1272,7 @@ Begründung: Im Kontext einer Verteidigungssituation bedeutet durchgreifen, mit 
 durchgreifen: Material/Physical 3/1/Goal 3/het/ecc
 Begründung: In einer wörtlichen physischen Bedeutung kann durchgreifen bedeuten, eine Bewegung durch etwas hindurch zu vollziehen (3), dabei etwas zu erreichen/bekommen (1), um an ein Ziel zu gelangen (Goal 3).. Heteronom/Exzentrisch.
 
+
 durchhalten: Material/Persistence 3/Goal 2/aut/ecc
 Begründung: Eine Handlung kontinuierlich fortsetzen, indem der Akteur mit Bewegung/Anstreben (3) trotz Schwierigkeiten oder Hindernissen weitermacht, um einen gewünschten Zustand (Goal 2) zu erreichen oder aufrechtzuerhalten. Die Ausrichtung ist autonom/exzentrisch, da es eine selbstbestimmte Aktion ist, die nach außen wirkt.. Autonom/Exzentrisch.
 
@@ -1099,11 +1282,13 @@ Begründung: Einer Belastung über längere Zeit standhalten, indem der Akteur K
 durchhalten: Fight/Defense 3/Goal 2//Goal -3/aut/ecc
 Begründung: In einer Kampf- oder Wettbewerbssituation nicht aufgeben, indem der Akteur Kraft und Energie aufbringt (3), um einen gewünschten Zustand (Goal 2) zu bewahren und gleichzeitig die Wirkung des Gegners zu verhindern (//Goal -3).. Autonom/Exzentrisch.
 
+
 durchhassen: Interpersonal/Psychological/Fight 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) mental durch eine anhaltende Hasssituation hindurch, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er aktiv gegen die Ziele des Antagonisten (//Goal -2) kämpft. Es handelt sich um ein beharrliches, durchhaltendes Hassen, bei dem der Akteur eine autonome, nach außen gerichtete Position einnimmt (aut/ecc).. Autonom/Exzentrisch.
 
 durchhassen: Material/Fight/Dispute 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im materiellen Kontext von Konflikten bedeutet 'durchhassen' das beharrliche Durchhalten einer feindseligen Haltung über einen längeren Zeitraum, wobei der Akteur bewegt (3) einen gewünschten Zustand (Goal 2) erreicht und gleichzeitig gegen den gewünschten Zustand des Antagonisten (//Goal -2) kämpft.. Autonom/Exzentrisch.
+
 
 durchhören: Material/Medical/Analysis 5/3/2/Goal 5/het/ecc
 Begründung: Der Arzt informiert sich (5) durch systematisches Untersuchen/Bewegen (3) mit einem Stethoskop, über das er verfügt (2), um Kenntnis über den Gesundheitszustand zu erlangen (Goal 5). Die Heteronomie (het) ergibt sich aus der Anpassung an die vorhandenen Geräusche, die exzentrische Ausrichtung (ecc) aus dem Fokus auf den Körper des Patienten als externes Untersuchungsobjekt.. Heteronom/Exzentrisch.
@@ -1114,32 +1299,6 @@ Begründung: Etwas von Anfang bis Ende anhören (5/3), um vollständig informier
 durchhören: Material/IT/Process 5/3/2/Goal 5/het/ecc
 Begründung: Bei IT-Systemen systematisch alle Audioquellen oder -kanäle überprüfen, wobei man sich informiert (5), durch systematisches Durchgehen (3) mit Verfügung über die entsprechenden Tools (2), um einen vollständigen Überblick zu bekommen (Goal 5).. Heteronom/Exzentrisch.
 
-durchklicken: Material/IT 2/3/5/Goal 5/aut/ecc
-Begründung: Der Akteur verfügt (2) über eine Maus oder einen anderen Eingabemechanismus, bewegt (3) sich durch eine digitale Struktur (Webseiten, Menüs, Dateien), um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5).. Autonom/Exzentrisch.
-
-durchklicken: Material/IT/Process 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt (2) über eine Maus oder einen anderen Eingabemechanismus und bewegt (3) sich durch alle erforderlichen Schritte eines digitalen Prozesses, um einen gewünschten Zustand zu erreichen (Goal 2), z.B. einen Vorgang abzuschließen.. Autonom/Exzentrisch.
-
-durchkomponieren: Material/Music 2/3/5/Goal 5/Goal 2/aut/ecc
-Begründung: Der Akteur bestimmt/verfügt (2) über musikalisches Material, bewegt/bearbeitet (3) und informiert sich dabei (5), um ein vollständig ausgearbeitetes Musikstück zu schaffen (Goal 5 für die strukturierte Information und Goal 2 für den gewünschten Zustand der fertig komponierten Musik).. Autonom/Exzentrisch.
-
-durchkomponieren: Material/Creative 2/3/5/Goal 5/Goal 2/aut/ecc
-Begründung: Im allgemeineren kreativen Kontext: Der Akteur bestimmt/verfügt (2) über kreatives Material, bewegt/bearbeitet (3) und informiert sich dabei (5), um ein vollständig durchdachtes Werk zu schaffen (Goal 5 für die informationelle Komponente und Goal 2 für den gewünschten Endzustand des fertig strukturierten Werks).. Autonom/Exzentrisch.
-
-durchkosten: Material/Food 2/3/1/Goal 1/Goal 5/het/ecc
-Begründung: Beim Durchkosten verfügt der Akteur (2) über verschiedene Speisen/Getränke, bewegt sie (3) zum Mund und bekommt (1) sie, um einen Geschmack zu haben und gesättigt zu sein (Goal 1) sowie um über die Qualität/den Geschmack informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den äußeren Gegebenheiten des Geschmacks richtet.. Heteronom/Exzentrisch.
-
-durchkosten: Material/Testing 3/5/1/Goal 5/het/ecc
-Begründung: Im Kontext einer Qualitätsprüfung bedeutet Durchkosten das systematische Prüfen (3/5) und Aufnehmen (1) verschiedener Proben, um umfassend informiert zu sein (Goal 5) über deren Eigenschaften. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur seine Handlung an die externen Eigenschaften der zu testenden Proben anpasst.. Heteronom/Exzentrisch.
-
-durchkreuzen: Material/Fight/Strategy 3/Goal 2//Goal -3/aut/ecc
-Begründung: Der Akteur bewegt sich/führt eine aktion aus (3) um einen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig das Ziel/die Bewegung des Antagonisten verhindert (//Goal -3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf die Pläne des Antagonisten einwirkt. Bei 'durchkreuzen' werden strategisch die Bemühungen oder Pläne anderer gezielt vereitelt.. Autonom/Exzentrisch.
-
-durchkreuzen: Material/Form 3/Goal 2/aut/ecc
-Begründung: In der Bedeutung 'etwas mit einer Linie durchstreichen/ein Kreuz durch etwas ziehen' bewegt der Akteur ein Schreibwerkzeug (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und mit seinem Handeln auf ein Objekt einwirkt.. Autonom/Exzentrisch.
-
-durchkreuzen: Material/Navigation 3/1/Goal 3/aut/ecc
-Begründung: In der nautischen Bedeutung 'eine Route kreuzen/durchqueren' bewegt sich der Akteur (3) und bekommt (1) das Erreichen eines Ziels (Goal 3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt seine Richtung bestimmt und sich durch den Raum bewegt.. Autonom/Exzentrisch.
 
 durchkämmen: Material/Search 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) systematisch durch einen Bereich, um Informationen zu finden/sammeln (5), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist autonom (der Akteur entscheidet selbst) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
@@ -1150,11 +1309,44 @@ Begründung: Im Pflegekontext: Der Akteur bewegt (3) einen Kamm durch Haare, um 
 durchkämmen: Material/Criminal/Investigation 3/5/Goal 5/aut/ecc
 Begründung: Im kriminalistischen Kontext: Der Akteur bewegt sich (3) systematisch durch einen Bereich, um Beweise oder Hinweise zu finden (5), mit dem Ziel, relevante Informationen zu sammeln (Goal 5).. Autonom/Exzentrisch.
 
+
+durchklicken: Material/IT 2/3/5/Goal 5/aut/ecc
+Begründung: Der Akteur verfügt (2) über eine Maus oder einen anderen Eingabemechanismus, bewegt (3) sich durch eine digitale Struktur (Webseiten, Menüs, Dateien), um sich zu informieren (5) mit dem Ziel, informiert zu sein (Goal 5).. Autonom/Exzentrisch.
+
+durchklicken: Material/IT/Process 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur verfügt (2) über eine Maus oder einen anderen Eingabemechanismus und bewegt (3) sich durch alle erforderlichen Schritte eines digitalen Prozesses, um einen gewünschten Zustand zu erreichen (Goal 2), z.B. einen Vorgang abzuschließen.. Autonom/Exzentrisch.
+
+
+durchkomponieren: Material/Music 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) über musikalisches Material, bewegt/bearbeitet (3) und informiert sich dabei (5), um ein vollständig ausgearbeitetes Musikstück zu schaffen (Goal 5 für die strukturierte Information und Goal 2 für den gewünschten Zustand der fertig komponierten Musik).. Autonom/Exzentrisch.
+
+durchkomponieren: Material/Creative 2/3/5/Goal 5/Goal 2/aut/ecc
+Begründung: Im allgemeineren kreativen Kontext: Der Akteur bestimmt/verfügt (2) über kreatives Material, bewegt/bearbeitet (3) und informiert sich dabei (5), um ein vollständig durchdachtes Werk zu schaffen (Goal 5 für die informationelle Komponente und Goal 2 für den gewünschten Endzustand des fertig strukturierten Werks).. Autonom/Exzentrisch.
+
+
+durchkosten: Material/Food 2/3/1/Goal 1/Goal 5/het/ecc
+Begründung: Beim Durchkosten verfügt der Akteur (2) über verschiedene Speisen/Getränke, bewegt sie (3) zum Mund und bekommt (1) sie, um einen Geschmack zu haben und gesättigt zu sein (Goal 1) sowie um über die Qualität/den Geschmack informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den äußeren Gegebenheiten des Geschmacks richtet.. Heteronom/Exzentrisch.
+
+durchkosten: Material/Testing 3/5/1/Goal 5/het/ecc
+Begründung: Im Kontext einer Qualitätsprüfung bedeutet Durchkosten das systematische Prüfen (3/5) und Aufnehmen (1) verschiedener Proben, um umfassend informiert zu sein (Goal 5) über deren Eigenschaften. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur seine Handlung an die externen Eigenschaften der zu testenden Proben anpasst.. Heteronom/Exzentrisch.
+
+
+durchkreuzen: Material/Fight/Strategy 3/Goal 2//Goal -3/aut/ecc
+Begründung: Der Akteur bewegt sich/führt eine aktion aus (3) um einen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig das Ziel/die Bewegung des Antagonisten verhindert (//Goal -3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf die Pläne des Antagonisten einwirkt. Bei 'durchkreuzen' werden strategisch die Bemühungen oder Pläne anderer gezielt vereitelt.. Autonom/Exzentrisch.
+
+durchkreuzen: Material/Form 3/Goal 2/aut/ecc
+Begründung: In der Bedeutung 'etwas mit einer Linie durchstreichen/ein Kreuz durch etwas ziehen' bewegt der Akteur ein Schreibwerkzeug (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und mit seinem Handeln auf ein Objekt einwirkt.. Autonom/Exzentrisch.
+
+durchkreuzen: Material/Navigation 3/1/Goal 3/aut/ecc
+Begründung: In der nautischen Bedeutung 'eine Route kreuzen/durchqueren' bewegt sich der Akteur (3) und bekommt (1) das Erreichen eines Ziels (Goal 3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt seine Richtung bestimmt und sich durch den Raum bewegt.. Autonom/Exzentrisch.
+
+
 durchladen: Material/Military 2/1/2/Goal 3/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bekommt (1) ein geladenes Objekt (meist eine Waffe) in einen bestimmungsfähigen Zustand (2), um eine Wirkung zu erzielen (Goal 3). 'Durchladen' bezeichnet den Vorgang, eine Patrone aus dem Magazin in die Waffe zu befördern, um diese schussbereit zu machen.. Autonom/Exzentrisch.
 
 durchladen: Material/IT/Process 2/1/Goal 5/aut/ecc
 Begründung: Im IT-Kontext bedeutet 'durchladen', Daten in einen Speicher oder eine Anwendung komplett zu laden. Der Akteur verfügt über (2) und bekommt (1) Informationen/Daten, um informiert zu sein bzw. um Informationen verfügbar zu haben (Goal 5).. Autonom/Exzentrisch.
+
 
 durchlassen: Material/Control 2/4/1/Goal 2//Goal 3/aut/con
 Begründung: Der Akteur verfügt/kontrolliert (2) über einen Zugang und leistet (4) durch Geben von Freiraum (1) einen gewünschten Zustand für den Antagonisten (Goal 2), während der Akteur selbst das Ziel hat, dass der Antagonist seine Destination erreicht (//Goal 3). Der Akteur handelt selbstbestimmt (aut) in seinem Kontrollbereich (con), indem er den Durchgang/Zugang freigibt.. Autonom/Konzentrisch.
@@ -1165,6 +1357,7 @@ Begründung: In der IT-Umgebung bedeutet 'durchlassen' das Verfügen/Kontrollier
 durchlassen: Material/Security 2/4/3/Goal 2//Goal 3/aut/con
 Begründung: Im Sicherheitskontext bedeutet 'durchlassen' das Verfügen (2) über eine Kontrollstelle und das Leisten (4) einer Bewegungserlaubnis (3) für einen Antagonisten, um einen gewünschten Zustand herzustellen (Goal 2), damit der Antagonist sein Ziel erreichen kann (//Goal 3).. Autonom/Konzentrisch.
 
+
 durchlaufen: Material/Process 3/1/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) durch etwas und bekommt (1) dadurch das Erreichen eines Ziels/Endpunkts (Goal 3). Es handelt sich um einen Prozess, bei dem etwas von Anfang bis Ende durchquert oder absolviert wird.. Autonom/Exzentrisch.
 
@@ -1174,17 +1367,20 @@ Begründung: Im Ausbildungskontext bedeutet 'durchlaufen' einen Prozess oder ein
 durchlaufen: Material/IT/Process 3/Goal 3/het/ecc
 Begründung: Im IT-Kontext bedeutet 'durchlaufen', dass ein Programm oder Algorithmus eine Sequenz (z.B. Schleife) vollständig abarbeitet (3), um ein bestimmtes Ziel zu erreichen (Goal 3). Die heteronome Ausrichtung ergibt sich aus der Abhängigkeit von vorgegebenen Parametern.. Heteronom/Exzentrisch.
 
+
 durchleben: Material/Endurance 3/1/Goal 3/het/ecc
 Begründung: Der Akteur bewegt sich (3) durch einen Zeitraum oder eine Erfahrung und bekommt/empfängt (1) die damit verbundenen Eindrücke/Erfahrungen, mit dem Ziel, eine Wirkung zu erzielen oder am Ende anzukommen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da man sich an die gegebenen Umstände anpassen muss und die Erfahrung von außen kommt.. Heteronom/Exzentrisch.
 
 durchleben: Material/Emotional 3/1/Goal 3/Goal 2/het/ecc
 Begründung: Mit emotionalem Fokus: Der Akteur bewegt sich (3) durch eine emotionale Erfahrung und nimmt diese auf (1), um sowohl eine Wirkung zu erzielen (Goal 3) als auch einen neuen emotionalen Zustand zu erreichen (Goal 2). Diese Variante betont den transformativen Aspekt des Durchlebens.. Heteronom/Exzentrisch.
 
+
 durchleiden: Material/Endurance 1/3/Goal -3/het/ecc
 Begründung: Der Akteur bekommt (1) durch einen Prozess (3) eine negative Wirkung/Erfahrung (Goal -3), wobei er sich dieser Erfahrung anpassen muss (het) und die Erfahrung von außen auf ihn einwirkt (ecc). 'Durchleiden' bedeutet, einen schwierigen oder schmerzhaften Zustand über einen Zeitraum hinweg zu ertragen und zu erleben, wobei der Akteur eine negative Erfahrung passiv empfängt und erduldet.. Heteronom/Exzentrisch.
 
 durchleiden: Interpersonal/Emotional 1/3/Goal -3/het/ecc
 Begründung: Im emotionalen zwischenmenschlichen Kontext bedeutet 'durchleiden', eine emotional belastende Erfahrung zu bekommen (1) und zu durchlaufen (3), die eine negative Wirkung (Goal -3) auf den Akteur hat. Der Akteur ist der Erfahrung ausgeliefert (het/ecc) und kann nur reagieren, nicht kontrollieren.. Heteronom/Exzentrisch.
+
 
 durchlesen: Material/Book 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt (3) seine Aufmerksamkeit durch einen Text und nimmt dabei Informationen auf (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den externen Informationen orientiert und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -1195,6 +1391,7 @@ Begründung: Im Kontext von Dokumenten oder Akten bedeutet durchlesen das vollst
 durchlesen: Material/Office 3/5/Goal 5/Goal 4/het/ecc
 Begründung: Im beruflichen Kontext bedeutet durchlesen das Bewegen (3) durch einen Text zur Informationsaufnahme (5), um informiert zu sein (Goal 5) und letztlich eine berufliche Leistung zu erbringen (Goal 4).. Heteronom/Exzentrisch.
 
+
 durchleuchten: Material/Radiation 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt (3) Strahlung durch ein Objekt, um Informationen zu erhalten (5) mit dem Ziel, Kenntnis über die innere Struktur des Objekts zu erlangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von externen Gegebenheiten des zu durchleuchtenden Objekts abhängig ist und nach außen wirkt.. Heteronom/Exzentrisch.
 
@@ -1204,17 +1401,20 @@ Begründung: Im medizinischen Kontext bedeutet durchleuchten, Röntgenstrahlen d
 durchleuchten: Material/Surveillance 3/5/Goal 5/het/ecc
 Begründung: Im übertragenen Sinne bedeutet durchleuchten, jemandes Hintergrund oder eine Sache gründlich zu untersuchen (3/5), um alle relevanten Informationen zu erhalten (Goal 5).. Heteronom/Exzentrisch.
 
+
 durchlieben: Interpersonal/Relationship 3/1/Goal 1/het/ecc
 Begründung: Jemanden 'durchlieben' bedeutet, eine Person trotz schwieriger Phasen kontinuierlich zu lieben und emotional zu unterstützen. Der Akteur bewegt sich (3) auf den Antagonisten zu und bekommt (1) emotionale Nähe, um das Ziel des Nahseins/der Liebe zu erreichen (Goal 1). Die Ausrichtung ist heterenom (het), da der Akteur sich an den Bedürfnissen des Partners orientiert, und exzentrisch (ecc), da die Liebe nach außen auf eine andere Person gerichtet ist.. Heteronom/Exzentrisch.
 
 durchlieben: Interpersonal/Emotional 3/1/Goal 1/Goal 3/het/ecc
 Begründung: In einem tieferen emotionalen Kontext kann 'durchlieben' bedeuten, eine Person durch alle Höhen und Tiefen zu lieben und dabei sowohl emotionale Nähe zu erlangen (Goal 1) als auch eine transformative Wirkung auf die Beziehung zu erzielen (Goal 3). Der Akteur überwindet aktiv Hindernisse (3) und empfängt/gibt Liebe (1).. Heteronom/Exzentrisch.
 
+
 durchlöchern: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er etwas mit Löchern versieht, was gleichzeitig den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2). Der Antagonist ist das durchlöcherte Objekt oder dessen Besitzer.. Autonom/Exzentrisch.
 
 durchlöchern: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In übertragenem Sinne: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2), z.B. eine Argumentation mit kritischen Fragen durchlöchern. Dies dient dem Ziel des Akteurs, seinen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
 
 durchmachen: Material/Endurance 3/Goal 3/Goal 2/het/ecc
 Begründung: Durchmachen bedeutet, eine schwierige Phase oder Zeitspanne ohne Unterbrechung zu überstehen. Der Akteur bewegt/strebt (3) bis zum Ende durch eine Situation, um eine gewünschte Wirkung zu erzielen (Goal 3) und letztendlich einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronomisch (het), da man sich den Umständen anpassen muss, und exzentrisch (ecc), da man auf äußere Herausforderungen reagiert.. Heteronom/Exzentrisch.
@@ -1228,11 +1428,13 @@ Begründung: Im Sinne von 'etwas erleben/erfahren/erleiden' bedeutet durchmachen
 durchmachen: Material/Education/Training 3/5/Goal 5/Goal 2/het/ecc
 Begründung: Im Lernkontext bedeutet durchmachen, etwas vollständig zu bearbeiten oder durchzugehen. Der Akteur bewegt sich (3) durch Informationen (5), um informiert zu sein (Goal 5) und einen gewünschten Lernzustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 durchmessen: Material/Measurement 3/5/Goal 5/het/ecc
 Begründung: Beim Durchmessen bewegt (3) sich der Akteur durch einen Raum oder ein Gebiet und nimmt dabei Informationen (5) auf, um informiert zu sein über die Dimensionen oder Eigenschaften (Goal 5). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur sich an den Gegebenheiten des zu vermessenden Objekts orientieren muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
 
 durchmessen: Material/Scientific 3/5/2/Goal 5/het/ecc
 Begründung: In wissenschaftlichem Kontext bedeutet durchmessen, dass der Akteur ein Objekt systematisch untersucht (3/5), um Daten zu erheben und darüber zu verfügen (2), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom und exzentrisch, da die Eigenschaften des untersuchten Objekts die Messung bestimmen.. Heteronom/Exzentrisch.
+
 
 durchmischen: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Objekte und bewegt (3) diese durcheinander, um einen gewünschten Zustand der Vermischung zu erreichen (Goal 2). Die Bewegung erfolgt selbstbestimmt (aut) und richtet sich auf die zu mischenden Objekte im Außenbereich (ecc).. Autonom/Exzentrisch.
@@ -1243,6 +1445,14 @@ Begründung: In einem chemischen Kontext verfügt der Akteur (2) über Substanze
 durchmischen: Material/Gaming 2/3/Goal 2/aut/con
 Begründung: Beim Spielen (z.B. Karten) verfügt der Akteur (2) über die Spielelemente und bewegt (3) diese durcheinander, um einen zufälligen Zustand (Goal 2) zu erreichen. Da die Objekte im Verfügungsbereich des Akteurs bleiben, gilt aut/con.. Autonom/Konzentrisch.
 
+
+durchmögen: Interpersonal/Relationship 3/1/5/Goal 2/het/ecc
+Begründung: Jemanden 'durchmögen' bedeutet, eine Person trotz ihrer Fehler oder Schwächen zu akzeptieren und zu mögen. Der Akteur bewegt sich mental durch (3) Informationen/Eigenschaften des Antagonisten (5), bekommt (1) einen positiven Eindruck trotz negativer Aspekte, um einen gewünschten Zustand des Akzeptierens zu erreichen (Goal 2). Es ist heteronym und exzentrisch ausgerichtet, da der Akteur sich an den Eigenschaften des Antagonisten orientiert.. Heteronom/Exzentrisch.
+
+durchmögen: Material/Analysis 3/5/Goal 5/Goal 2/het/ecc
+Begründung: In einem analytischen Kontext kann 'durchmögen' bedeuten, Informationen oder Materialien durchgehen zu wollen (3/5), um Kenntnisse zu erlangen (Goal 5) und daraus einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur bewegt sich durch das Material und muss sich dabei an dessen Eigenschaften anpassen.. Heteronom/Exzentrisch.
+
+
 durchmustern: Material/Inspection 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3) sich zu informieren (5), um informiert zu sein (Goal 5). Beim Durchmustern wird etwas systematisch betrachtet und untersucht, um Informationen zu erlangen. Der Akteur nimmt dabei eine aktive Rolle ein (aut) und richtet seine Aufmerksamkeit nach außen auf das zu untersuchende Objekt (ecc).. Autonom/Exzentrisch.
 
@@ -1252,17 +1462,13 @@ Begründung: In der militärischen Bedeutung bestimmt/kontrolliert der Akteur (2
 durchmustern: Material/Classification 2/3/5/Goal 2/aut/ecc
 Begründung: In der Bedeutung des Sortierens bestimmt der Akteur (2) durch Bewegung (3) und Informationsaufnahme (5), um einen gewünschten Ordnungszustand zu erreichen (Goal 2). Beim Durchmustern in diesem Sinne werden Objekte systematisch begutachtet und nach bestimmten Kriterien eingeordnet.. Autonom/Exzentrisch.
 
-durchmögen: Interpersonal/Relationship 3/1/5/Goal 2/het/ecc
-Begründung: Jemanden 'durchmögen' bedeutet, eine Person trotz ihrer Fehler oder Schwächen zu akzeptieren und zu mögen. Der Akteur bewegt sich mental durch (3) Informationen/Eigenschaften des Antagonisten (5), bekommt (1) einen positiven Eindruck trotz negativer Aspekte, um einen gewünschten Zustand des Akzeptierens zu erreichen (Goal 2). Es ist heteronym und exzentrisch ausgerichtet, da der Akteur sich an den Eigenschaften des Antagonisten orientiert.. Heteronom/Exzentrisch.
-
-durchmögen: Material/Analysis 3/5/Goal 5/Goal 2/het/ecc
-Begründung: In einem analytischen Kontext kann 'durchmögen' bedeuten, Informationen oder Materialien durchgehen zu wollen (3/5), um Kenntnisse zu erlangen (Goal 5) und daraus einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur bewegt sich durch das Material und muss sich dabei an dessen Eigenschaften anpassen.. Heteronom/Exzentrisch.
 
 durchnähen: Material/Textile 3/Goal 2/aut/ecc
 Begründung: Beim Durchnähen bewegt der Akteur (3) eine Nadel mit Faden durch ein Textilmaterial, um einen gewünschten Zustand (Goal 2) herzustellen, nämlich die Verbindung oder Verstärkung von Materialteilen. Der Akteur handelt dabei autonom und auf die Umwelt (das Textilmaterial) ausgerichtet (aut/ecc).. Autonom/Exzentrisch.
 
 durchnähen: Material/Medical 3/Goal 2/aut/ecc
 Begründung: Im medizinischen Kontext bedeutet Durchnähen das Verbinden von Gewebe durch chirurgisches Nähen. Der Arzt/Chirurg bewegt (3) die Nadel durch das Gewebe, um einen gewünschten Zustand (Goal 2) der Wundschließung zu erreichen. Die Handlung erfolgt autonom und ist auf das Gewebe als Teil der Umwelt gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 durchorganisieren: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) und bewegt/gestaltet (3) Abläufe oder Strukturen, um einen gewünschten Zustand (Goal 2) zu erreichen. Beim Durchorganisieren wird ein Prozess, Projekt oder System vollständig strukturiert und geordnet, wobei der Akteur autonome Kontrolle ausübt (aut) und nach außen in die Umwelt wirkt (ecc).. Autonom/Exzentrisch.
@@ -1273,17 +1479,20 @@ Begründung: In einem beruflichen Kontext verfügt/kontrolliert der Akteur (2) u
 durchorganisieren: Material/Project 2/3/5/Goal 2/aut/ecc
 Begründung: Bei Projekten verfügt/kontrolliert der Akteur (2), bewegt/gestaltet (3) und informiert sich (5) über alle Aspekte, um einen gewünschten Zustand (Goal 2) zu erreichen. Die zusätzliche Informationskomponente (5) betont den Aspekt der projektspezifischen Planung und Informationsverarbeitung.. Autonom/Exzentrisch.
 
+
 durchpeitschen: Material/Leadership 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit starker Bewegung/Druck (3) einen gewünschten Zustand (Goal 2) zu erreichen, letztendlich um berufliche Anerkennung zu erhalten (Goal 4). Dabei treibt er andere an, etwas schnell und unter Druck zu erledigen - etwa Gesetzesvorlagen, Projekte oder Arbeiten.. Autonom/Exzentrisch.
 
 durchpeitschen: Material/Fight/Aggression 3/1/Goal 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) und führt einen Schlag aus, bekommt (1) eine Wirkung (Goal 3), um einen gewünschten Zustand (Goal 2) zu erreichen - physisches Durchpeitschen mit einer Peitsche oder ähnlichem Instrument.. Autonom/Exzentrisch.
 
+
 durchplanen: Material/Project 2/3/5/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegen/Anstreben (3) und Informieren (5), um einen gewünschten Zustand (Goal 2) zu erreichen. Beim Durchplanen bestimmt der Akteur eigenständig (aut) einen Ablauf, wobei er Informationen strukturiert und Abläufe durchdenkt, um einen optimalen Zustand zu erreichen. Die Tätigkeit ist nach außen gerichtet (ecc), da sie auf die Gestaltung von externen Prozessen abzielt.. Autonom/Exzentrisch.
 
 durchplanen: Material/Organization 2/3/5/Goal 2/Goal 5/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegen/Anstreben (3) und Informieren (5), um einen gewünschten Zustand (Goal 2) und Informiertheit (Goal 5) zu erreichen. Hier steht neben der Schaffung eines gewünschten Zustands auch das Ziel, alle relevanten Informationen vollständig erfasst zu haben, im Vordergrund.. Autonom/Exzentrisch.
+
 
 durchpressen: Material/Pressure 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt mit Kraft (3) ein Material durch eine Öffnung oder einen Engpass, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur bestimmt, wie das Material bewegt wird.. Autonom/Exzentrisch.
@@ -1294,20 +1503,24 @@ Begründung: Im Kontext von Flüssigkeiten: Der Akteur verfügt über (2) und be
 durchpressen: Material/Fight/Strategy 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im Kontext von Entscheidungsprozessen: Der Akteur bestimmt (2) und setzt mit Kraft eine Entscheidung oder einen Plan durch (3), um seinen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig den entgegengesetzten Wunsch des Antagonisten blockiert (//Goal -2).. Autonom/Exzentrisch.
 
+
 durchprobieren: Material/Testing 3/5/2/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich durch verschiedene Optionen (3), informiert sich über die Eigenschaften jeder Option (5), um zu bestimmen/kontrollieren (2), welche Option am besten funktioniert, mit dem Ziel, umfassend informiert zu sein (Goal 5). Die heteronome exzentrische Ausrichtung (het/ecc) ergibt sich daraus, dass der Akteur sich an die Eigenschaften der zu testenden Objekte anpassen muss und nach außen auf diese Objekte gerichtet ist.. Heteronom/Exzentrisch.
 
 durchprobieren: Material/Problem-Solving 3/5/2/Goal 2/het/ecc
 Begründung: Der Akteur bewegt sich systematisch durch verschiedene Lösungsansätze (3), informiert sich über deren Wirksamkeit (5), um zu bestimmen (2), welcher Ansatz funktioniert, mit dem übergeordneten Ziel, einen gewünschten Zustand zu erreichen (Goal 2). Die heteronome exzentrische Ausrichtung (het/ecc) entsteht, weil der Akteur sich an die Eigenschaften der Optionen anpassen muss und nach außen auf die Problemlösung gerichtet ist.. Heteronom/Exzentrisch.
 
+
 durchputzen: Material/Cleaning 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas gründlich durch Reinigungsbewegungen, um einen sauberen, gewünschten Zustand (Goal 2) zu erreichen. 'Durch-' impliziert eine vollständige, gründliche Reinigung. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
+
 
 durchqueren: Material/Navigation 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) durch ein Gebiet, um eine Destination zu erreichen (Goal 3). Es handelt sich um eine autonome Bewegung durch einen Raum oder ein Gebiet, wobei der Fokus auf dem vollständigen Durchmessen des Gebiets von einer Seite zur anderen liegt.. Autonom/Exzentrisch.
 
 durchqueren: Material/Expedition 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) durch ein schwieriges, unerschlossenes oder besonderes Gebiet (wie Wüste, Dschungel, Ozean) mit dem Ziel, die andere Seite zu erreichen (Goal 3). Hierbei liegt der Fokus auf dem explorativen Charakter der Durchquerung.. Autonom/Exzentrisch.
+
 
 durchrasen: Material/Driving 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) mit hoher Geschwindigkeit durch etwas hindurch, um eine Destination zu erreichen (Goal 3). Es handelt sich um eine autonome, nach außen gerichtete Handlung (aut/ecc), bei der der Akteur selbstbestimmt mit überhöhter Geschwindigkeit einen Bereich durchquert.. Autonom/Exzentrisch.
@@ -1318,6 +1531,7 @@ Begründung: Im Kontext von Fahrzeugsteuerung verfügt der Akteur (2) über ein 
 durchrasen: Material/Process 3/Goal 2/aut/ecc
 Begründung: In übertragenem Sinne kann 'durchrasen' auch bedeuten, dass der Akteur sich (3) besonders schnell durch einen Prozess oder eine Tätigkeit bewegt, um einen gewünschten Zustand zu erreichen (Goal 2), wie bei 'durch ein Buch rasen'.. Autonom/Exzentrisch.
 
+
 durchreiben: Material/Mechanical 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) ein Objekt mit Reibung durch etwas hindurch, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt und nach außen gerichtet handelt. Der Vorgang beschreibt eine mechanische Bearbeitung, bei der durch Reibungsbewegung ein Material durchtrennt oder abgerieben wird.. Autonom/Exzentrisch.
 
@@ -1327,8 +1541,10 @@ Begründung: In der textilen Bedeutung bezeichnet 'durchreiben' das ungewollte V
 durchreiben: Material/Cleaning 3/Goal 2/aut/ecc
 Begründung: Im Reinigungskontext bedeutet 'durchreiben' das gründliche Reinigen einer Oberfläche durch Reibbewegungen (3), um einen sauberen Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
 
+
 durchreisen: Material/Transportation 3/Goal 3/het/ecc
 Begründung: Beim Durchreisen bewegt sich (3) der Akteur durch ein Gebiet, um eine Destination zu erreichen (Goal 3). Es handelt sich um eine heteronome Aktivität, da der Akteur sich an vorgegebene Routen anpassen muss, und sie ist exzentrisch ausgerichtet, weil sie im Außenbereich stattfindet.. Heteronom/Exzentrisch.
+
 
 durchrühren: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
 Begründung: Der Akteur verfügt (2) über eine Substanz und bewegt (3) diese durch Rühren, um einen gewünschten Zustand (Goal 2) der gleichmäßigen Vermischung zu erreichen und letztlich ein Nahrungsmittel (Goal 1) zuzubereiten. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf die zu mischende Substanz einwirkt.. Autonom/Exzentrisch.
@@ -1336,11 +1552,13 @@ Begründung: Der Akteur verfügt (2) über eine Substanz und bewegt (3) diese du
 durchrühren: Material/Chemical/Process 2/3/Goal 2/aut/ecc
 Begründung: In einem chemischen Kontext verfügt (2) der Akteur über eine Substanz und bewegt (3) diese durch Rühren, um einen gewünschten homogenen Zustand (Goal 2) zu erreichen. Hier steht das Ergebnis der Vermischung im Vordergrund, nicht der Nahrungsmittelaspekt.. Autonom/Exzentrisch.
 
+
 durchsagen: Material/Communication 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), das eine Information ist (5), damit der Empfänger informiert ist (Goal 5), um letztendlich einen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbst entscheidet, was durchgesagt wird und die Information nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 durchsagen: Material/Public-Utilities 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: In einem dienstlichen Kontext bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), das eine Information ist (5), damit der Empfänger informiert ist (Goal 5), mit dem Ziel berufliche Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
 
 durchsaugen: Material/Cleaning 3/Goal 2/aut/ecc
 Begründung: Etwas durchsaugen bedeutet, dass der Akteur mit einer Bewegung (3) durch ein Objekt hindurch Schmutz entfernt, um einen gewünschten Reinigungszustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
@@ -1348,17 +1566,30 @@ Begründung: Etwas durchsaugen bedeutet, dass der Akteur mit einer Bewegung (3) 
 durchsaugen: Material/Fluids/Process 3/Goal 3/aut/ecc
 Begründung: Im technischen oder prozessbezogenen Kontext kann durchsaugen bedeuten, dass eine Flüssigkeit oder ein Gas durch etwas hindurchgezogen wird, wobei die Bewegung (3) darauf abzielt, einen Durchfluss oder eine Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
 
+
+durchsägen: Material/Woodworking 3/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) ein Sägewerkzeug durch ein Objekt, um einen gewünschten Zustand (Goal 2), nämlich ein durchtrenntes Material, zu erreichen. Die Tätigkeit ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf ein Material einwirkt.. Autonom/Exzentrisch.
+
+durchsägen: Material/Construction 3/Goal 2/aut/ecc
+Begründung: Im Baukontext bedeutet durchsägen das aktive Bewegen (3) eines Sägewerkzeugs, um gezielt einen Baustoff zu durchtrennen und damit einen gewünschten Zustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
+
+durchsägen: Material/Fight/Aggression 3/Goal 2//Goal -2/aut/ecc
+Begründung: In einem aggressiven Kontext kann durchsägen bedeuten, dass der Akteur etwas bewegt (3), um seinen gewünschten Zustand (Goal 2) zu erreichen und gleichzeitig den gewünschten Zustand des Antagonisten zu verhindern (//Goal -2), etwa wenn ein Gerät oder eine Konstruktion sabotiert wird.. Autonom/Exzentrisch.
+
+
 durchschauen: Material/Analysis 3/5/2/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt/durchdringt (3) durch Informationsaufnahme (5) Zusammenhänge, um Verfügung (2) über tieferes Verständnis zu bekommen, mit dem Ziel informiert zu sein (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt agiert und nach außen gerichtet ist, um verborgene Informationen zu analysieren.. Autonom/Exzentrisch.
 
 durchschauen: Interpersonal/Analysis 3/5/2/Goal 5//Goal -2/aut/ecc
 Begründung: In zwischenmenschlicher Bedeutung: Der Akteur durchdringt (3) mit seinem Blick/seiner Analyse (5) die Verschleierungen/Täuschungen einer Person, um Verfügung (2) über Wissen zu haben (Goal 5) und gleichzeitig die Täuschungsabsicht des Antagonisten zu vereiteln (//Goal -2).. Autonom/Exzentrisch.
 
+
 durchschimmern: Material/Lighting 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt (3) Licht durch ein nicht völlig undurchsichtiges Material, wodurch Informationen (5) sichtbar werden und der Beobachter informiert wird (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang von äußeren Lichtbedingungen abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 durchschimmern: Material/Transparency 5/Goal 5/het/ecc
 Begründung: Im übertragenen Sinne: Eine Information wird teilweise erkennbar (5), wodurch der Beobachter informiert wird (Goal 5). Wie beim 'Zwischen den Zeilen lesen' werden Informationen nicht direkt, sondern indirekt erkennbar.. Heteronom/Exzentrisch.
+
 
 durchschlagen: Material/Fight/Aggression 3/1/Goal 3//Goal -2/aut/ecc
 Begründung: Bei 'durchschlagen' bewegt der Akteur sich (3) kraftvoll und bekommt (1) eine Durchdringung/Wirkung (Goal 3), die gleichzeitig einen gewünschten Zustand des Antagonisten (z.B. eine Barriere) verhindert oder zerstört (//Goal -2). Dieser aggressive Akt ist autonom vom Akteur gesteuert und nach außen gerichtet.. Autonom/Exzentrisch.
@@ -1372,6 +1603,7 @@ Begründung: Im Sinne von 'sich durchschlagen' bedeutet es, sich durch Schwierig
 durchschlagen: Material/Fight/Defense 3/Goal 2//Goal -3/aut/ecc
 Begründung: Als Verteidigungsaktion bedeutet 'durchschlagen' eine kraftvolle Bewegung (3) für einen gewünschten Zustand (Goal 2) des Akteurs, während gleichzeitig die Bewegung/Wirkung eines Antagonisten verhindert wird (//Goal -3).. Autonom/Exzentrisch.
 
+
 durchschleifen: Material/Manufacturing 3/Goal 2/aut/ecc
 Begründung: Bei 'durchschleifen' bewegt/bearbeitet (3) der Akteur ein Material durch einen Schleifvorgang, um einen gewünschten Zustand der Oberflächenbeschaffenheit zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf das Material einwirkt.. Autonom/Exzentrisch.
 
@@ -1381,11 +1613,13 @@ Begründung: In der übertragenen Bedeutung im Bildungskontext bedeutet 'durchsc
 durchschleifen: Material/Electronics 3/Goal 3/aut/ecc
 Begründung: Im elektronischen Kontext bedeutet 'durchschleifen', dass der Akteur ein Signal durch eine Komponente leitet/bewegt (3), um eine bestimmte Wirkung zu erzielen (Goal 3), beispielsweise bei der Weitergabe eines Signals durch eine elektronische Schaltung.. Autonom/Exzentrisch.
 
+
 durchschneiden: Material/Mechanical 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) ein Schneidwerkzeug, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich einen Gegenstand in mehrere Teile zu trennen. Der Vorgang ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und etwas im Außenbereich bearbeitet.. Autonom/Exzentrisch.
 
 durchschneiden: Material/Transportation 2/3/Goal 3/aut/ecc
 Begründung: Im Kontext des Verkehrs bedeutet 'durchschneiden' das Bestimmen (2) einer Bewegung (3), um eine direkte Route durch ein Gebiet zu nehmen und damit schneller ein Ziel zu erreichen (Goal 3), etwa wenn ein Fahrzeug einen Platz oder eine Verkehrsfläche diagonal durchquert.. Autonom/Exzentrisch.
+
 
 durchsehen: Material/Inspection 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) durch etwas hindurch, um sich zu informieren (5), mit dem Ziel informiert zu sein (Goal 5). Beim Durchsehen prüft man etwas sorgfältig, indem man es von Anfang bis Ende betrachtet, um Informationen zu gewinnen.. Heteronom/Exzentrisch.
@@ -1395,6 +1629,7 @@ Begründung: Der Akteur bewegt sich (3) durch etwas hindurch, um sich zu informi
 
 durchsehen: Material/Vision 5/3/Goal 5/het/ecc
 Begründung: Der Akteur informiert sich (5) durch eine visuelle Bewegung (3) durch ein durchsichtiges Objekt, mit dem Ziel, etwas dahinter Liegendes zu erkennen (Goal 5). Dies bezieht sich auf das Hindurchschauen durch transparente Gegenstände.. Heteronom/Exzentrisch.
+
 
 durchsetzen: Material/Fight 3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) für einen gewünschten Zustand (Goal 2) und gegen die Ziele eines Antagonisten (//Goal -3). Es geht darum, den eigenen Willen gegen Widerstände zur Geltung zu bringen. Dies ist ein Prozess, bei dem der Akteur autonom (aut) und nach außen gerichtet (ecc) agiert, um seine Interessen durchzusetzen, wobei er aktiv die entgegengesetzten Ziele von Antagonisten bekämpft.. Autonom/Exzentrisch.
@@ -1408,11 +1643,13 @@ Begründung: Im politischen Kontext bedeutet 'durchsetzen', dass eine Person ode
 durchsetzen: Material/Business/Competition 3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Geschäftskontext bedeutet 'durchsetzen', dass ein Unternehmen seine Marktposition oder Strategie gegen Wettbewerber behauptet. Das Unternehmen bewegt sich (3) für einen gewünschten Zustand (Goal 2) und gegen die Ziele der Konkurrenz (//Goal -3).. Autonom/Exzentrisch.
 
+
 durchsickern: Material/Fluids/Process 3/1/Goal 3/het/ecc
 Begründung: Bei 'durchsickern' bewegt sich (3) eine Flüssigkeit durch ein Material und bekommt (1) langsam Zugang zur anderen Seite, um eine Wirkung/Destination zu erreichen (Goal 3). Der Vorgang ist heteronom, da er von den Eigenschaften des Materials abhängt, und exzentrisch, da die Flüssigkeit nach außen strebt.. Heteronom/Exzentrisch.
 
 durchsickern: Material/Information 3/1/Goal 5/het/ecc
 Begründung: Im übertragenen Sinne bedeutet 'durchsickern' von Informationen, dass sie sich (3) langsam verbreiten und bekannt werden (1), mit dem Ziel, dass andere davon erfahren (Goal 5). Der Prozess ist heteronom und exzentrisch, da er von externen Faktoren abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
 
 durchsieben: Material/Analysis 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt (3) Material, um Informationen zu gewinnen (5), mit dem Ziel, informiert zu sein (Goal 5). Beim Durchsieben wird Material bewegt und untersucht, um relevante Teile von irrelevanten zu trennen und dadurch Erkenntnisse zu gewinnen.. Autonom/Exzentrisch.
@@ -1420,11 +1657,13 @@ Begründung: Der Akteur bewegt (3) Material, um Informationen zu gewinnen (5), m
 durchsieben: Material/Selection 3/2/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt Material (3) und verfügt darüber (2), um einen gewünschten Zustand zu erreichen (Goal 2). In diesem Kontext bedeutet durchsieben, Material zu sortieren und auszuwählen, wobei der Fokus auf der Selektion bestimmter Teile liegt.. Autonom/Exzentrisch.
 
+
 durchsprechen: Material/Communication 2/3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt sich durch (3) Informationen, um sich zu informieren (5/Goal 5). 'Durchsprechen' bedeutet, ein Thema systematisch und vollständig zu besprechen, wobei der Akteur die Kontrolle über den Gesprächsverlauf hat (2) und gezielt durch die verschiedenen Aspekte des Themas geht (3), um ein umfassendes Verständnis zu erlangen (Goal 5).. Autonom/Exzentrisch.
 
 durchsprechen: Material/Analysis 3/5/2/Goal 5/aut/ecc
 Begründung: In einem analytischen Kontext bedeutet 'durchsprechen' das gezielte Durchgehen (3) und Informieren (5) über Details, um Verfügung (2) über Wissen und Erkenntnisse zu erlangen (Goal 5). Der Fokus liegt hier stärker auf dem analytischen Prozess als auf der Kontrolle des Gesprächs.. Autonom/Exzentrisch.
+
 
 durchspülen: Material/Fluids/Process 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) Flüssigkeit durch etwas hindurch, um einen gewünschten Reinigungszustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und die Bewegung nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -1438,6 +1677,7 @@ Begründung: Bei der Toilettenspülung bestimmt/verfügt der Akteur (2) über di
 durchspülen: Material/Medical 3/Goal 2/aut/ecc
 Begründung: Im medizinischen Kontext bewegt (3) der Akteur eine Flüssigkeit durch Körperteile oder medizinische Geräte, um einen gewünschten Zustand der Reinigung oder Funktionalität zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 durchstechen: Material/Fight/Aggression 3/1/Goal 3//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt (3) ein spitzes Objekt und bekommt (1) eine Wirkung (Goal 3), indem er etwas/jemanden durchsticht, wodurch er gleichzeitig einen gewünschten Zustand des Antagonisten verhindert oder beeinträchtigt (//Goal -2).. Autonom/Exzentrisch.
 
@@ -1446,6 +1686,7 @@ Begründung: Im Sinne von 'vertrauliche Informationen durchstechen/weitergeben':
 
 durchstechen: Material/Professions/Tailoring 3/Goal 2/aut/ecc
 Begründung: Im handwerklichen Kontext: Der Akteur bewegt (3) eine Nadel durch ein Material, um einen gewünschten Zustand (Goal 2) zu erreichen, beispielsweise beim Nähen oder anderen handwerklichen Tätigkeiten.. Autonom/Exzentrisch.
+
 
 durchstehen: Material/Endurance 3/Goal 2/het/ecc
 Begründung: Der Akteur bewegt/strebt an (3) trotz Schwierigkeiten eine Situation bis zum Ende zu bewältigen, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die äußeren Gegebenheiten anpassen muss, die er nicht vollständig kontrollieren kann.. Heteronom/Exzentrisch.
@@ -1456,6 +1697,7 @@ Begründung: Im psychologischen Kontext bedeutet 'durchstehen', dass der Akteur 
 durchstehen: Material/Fight/Defense 3/Goal 2//Goal -3/het/ecc
 Begründung: In einem Abwehr- oder Widerstandskontext bedeutet 'durchstehen', dass der Akteur durch Bewegung/Anstreben (3) einen gewünschten Zustand erreicht (Goal 2), wobei er gleichzeitig die negative Wirkung (//Goal -3) eines Antagonisten (z.B. eines Angreifers) bekämpft.. Heteronom/Exzentrisch.
 
+
 durchsteuern: Material/Control 2/Goal 3/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) über ein Fahrzeug oder System, um eine Destination/Wirkung zu erreichen (Goal 3), wobei der Prozess trotz Hindernissen oder schwieriger Phasen kontinuierlich fortgeführt wird. Die Ausrichtung ist autonom (der Akteur bestimmt den Prozess) und exzentrisch (nach außen auf eine Destination gerichtet).. Autonom/Exzentrisch.
 
@@ -1465,17 +1707,20 @@ Begründung: Der Akteur verfügt/kontrolliert (2) durch gezielte Bewegungen (3) 
 durchsteuern: Material/Management 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) durch aktives Eingreifen (3) einen komplexen Prozess, um einen gewünschten Zustand zu erreichen (Goal 2), wie bei der Führung einer Organisation durch eine Krise.. Autonom/Exzentrisch.
 
+
 durchstrahlen: Material/Radiation 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt (3) eine Strahlung durch ein Objekt, um Informationen (5) über das innere des Objekts zu erhalten (Goal 5). Die Aktion ist autonom vom Akteur gesteuert und nach außen auf das zu untersuchende Objekt gerichtet.. Autonom/Exzentrisch.
 
 durchstrahlen: Material/Medical 3/5/Goal 5/aut/ecc
 Begründung: Im medizinischen Kontext bewegt (3) der Akteur Strahlung durch einen Körper, um Informationen (5) über dessen innere Struktur zu erhalten (Goal 5). Dies geschieht zu diagnostischen Zwecken wie bei Röntgenaufnahmen.. Autonom/Exzentrisch.
 
+
 durchstreichen: Material/Writing 2/3/Goal -5/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt (3) ein Schreibgerät, um eine bereits vorhandene Information ungültig zu machen oder zu löschen (Goal -5). Es handelt sich um eine selbstbestimmte (aut) nach außen gerichtete (ecc) Aktivität, bei der der Akteur einen Strich durch geschriebenen Text zieht, um diesen als ungültig zu kennzeichnen oder zu entfernen.. Autonom/Exzentrisch.
 
 durchstreichen: Material/Correction 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt (3) ein Schreibinstrument, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Korrektur eines Textes durch das Markieren zu löschender Passagen. Im Kontext von Korrekturen liegt der Fokus auf der Herstellung eines verbesserten Zustands.. Autonom/Exzentrisch.
+
 
 durchstreifen: Material/Exploration 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) durch ein Gebiet, um sich zu informieren (5) mit dem Ziel, Kenntnis über das Gebiet zu erlangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Gegebenheiten des Gebiets anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -1486,6 +1731,7 @@ Begründung: In einem Suchkontext bewegt sich der Akteur (3) durch ein Gebiet, u
 durchstreifen: Material/Military 3/5/Goal 5/Goal 2/het/ecc
 Begründung: Im militärischen Kontext bewegt sich eine Einheit (3) durch ein Gebiet, um es zu erkunden (5) mit dem Ziel, Informationen zu sammeln (Goal 5) und Kontrolle über das Gebiet zu erlangen (Goal 2).. Heteronom/Exzentrisch.
 
+
 durchsuchen: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) und informiert sich (5), um Kenntnis zu erlangen (Goal 5). Der Vorgang ist heteronym (het), da man sich nach den Eigenschaften des zu durchsuchenden Objekts richten muss, und exzentrisch (ecc), da der Fokus nach außen gerichtet ist. Beim Durchsuchen geht man systematisch vor, um bestimmte Informationen oder Objekte zu finden.. Heteronom/Exzentrisch.
 
@@ -1495,14 +1741,6 @@ Begründung: Im Kontext einer amtlichen/polizeilichen Durchsuchung bestimmt der 
 durchsuchen: Material/IT/Security 3/5/Goal 5/het/ecc
 Begründung: Im IT-Kontext bedeutet durchsuchen das systematische Bewegen (3) durch Daten, um Informationen zu sammeln (5) mit dem Ziel, informiert zu sein (Goal 5). Die heteronyme Ausrichtung (het) ergibt sich aus der Anpassung an die Datenstruktur, während die exzentrische Komponente (ecc) die Ausrichtung nach außen in die Datenwelt beschreibt.. Heteronom/Exzentrisch.
 
-durchsägen: Material/Woodworking 3/Goal 2/aut/ecc
-Begründung: Der Akteur bewegt (3) ein Sägewerkzeug durch ein Objekt, um einen gewünschten Zustand (Goal 2), nämlich ein durchtrenntes Material, zu erreichen. Die Tätigkeit ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf ein Material einwirkt.. Autonom/Exzentrisch.
-
-durchsägen: Material/Construction 3/Goal 2/aut/ecc
-Begründung: Im Baukontext bedeutet durchsägen das aktive Bewegen (3) eines Sägewerkzeugs, um gezielt einen Baustoff zu durchtrennen und damit einen gewünschten Zustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
-
-durchsägen: Material/Fight/Aggression 3/Goal 2//Goal -2/aut/ecc
-Begründung: In einem aggressiven Kontext kann durchsägen bedeuten, dass der Akteur etwas bewegt (3), um seinen gewünschten Zustand (Goal 2) zu erreichen und gleichzeitig den gewünschten Zustand des Antagonisten zu verhindern (//Goal -2), etwa wenn ein Gerät oder eine Konstruktion sabotiert wird.. Autonom/Exzentrisch.
 
 durchtasten: Material/Search 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt (3) seine Hände, um Informationen (5) zu erhalten und informiert zu sein (Goal 5). Durchtasten ist eine methodische Untersuchung mittels Berührung, um durch physisches Erfühlen Informationen zu gewinnen.. Autonom/Exzentrisch.
@@ -1510,11 +1748,13 @@ Begründung: Der Akteur bewegt (3) seine Hände, um Informationen (5) zu erhalte
 durchtasten: Material/Medical/Analysis 3/5/Goal 5/het/ecc
 Begründung: In einem medizinischen Kontext bedeutet durchtasten das systematische Untersuchen (3) eines Körpers oder Körperteils, um Informationen (5) über dessen Beschaffenheit zu erhalten und diagnostisch informiert zu sein (Goal 5). Die Ausrichtung ist heteronom, da sich der Untersuchende an die Beschaffenheit des zu untersuchenden Körpers anpassen muss.. Heteronom/Exzentrisch.
 
+
 durchwaten: Material/Fluids 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) durch ein Gewässer oder eine flüssige Substanz, um eine Destination zu erreichen (Goal 3). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur einen äußeren Bereich durchquert.. Autonom/Exzentrisch.
 
 durchwaten: Material/Endurance 3/Goal 3/aut/ecc
 Begründung: In einer übertragenen Bedeutung kann 'durchwaten' auch bedeuten, sich mühsam durch etwas hindurchzuarbeiten, wie durch eine große Menge an Dokumenten oder Aufgaben, mit dem Ziel, zum Ende zu gelangen (Goal 3).. Autonom/Exzentrisch.
+
 
 durchwühlen: Material/Search 3/5/Goal 5/aut/ecc
 Begründung: Durchwühlen bedeutet, dass der Akteur autonom und exzentrisch (aut/ecc) durch Bewegung (3) aktiv nach Informationen sucht/forscht (5), um informiert zu sein (Goal 5). Beim Durchwühlen werden Objekte bewegt und durcheinander gebracht, um etwas zu finden oder zu suchen.. Autonom/Exzentrisch.
@@ -1524,6 +1764,7 @@ Begründung: Im Kontext einer Ermittlung bedeutet durchwühlen das intensive Dur
 
 durchwühlen: Material/Analysis 3/5/2/Goal 5/aut/ecc
 Begründung: Im analytischen Kontext bedeutet durchwühlen das systematische Durcharbeiten von Daten oder Unterlagen, wobei der Akteur durch aktive Bewegung (3) Informationen sucht (5) und diese ordnet/verfügbar macht (2), um zu einem umfassenden Informationsstand zu gelangen (Goal 5).. Autonom/Exzentrisch.
+
 
 durchziehen: Material/Persistence 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3) einen Vorgang kontinuierlich fortzuführen, um einen gewünschten Zustand zu erreichen (Goal 2). Die Aktivität erfordert Ausdauer und Beharrlichkeit, und erfolgt selbstbestimmt nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
@@ -1537,11 +1778,24 @@ Begründung: Der Akteur bewegt/strebt an (3) ein Training oder eine sportliche �
 durchziehen: Material/Project 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) und bewegt/strebt an (3) ein Projekt oder Vorhaben konsequent umzusetzen, um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 duschen: Material/Cleanliness/Personal 2/3/1/Goal 2/aut/con
 Begründung: Beim Duschen verfügt der Akteur (2) über die Dusche, bewegt (3) Wasser und bekommt (1) dadurch einen gewünschten Zustand der Sauberkeit (Goal 2). Die Aktivität ist autonom und nach innen gerichtet (aut/con), da der Akteur selbstbestimmt handelt und sich auf den eigenen Körper bezieht.. Autonom/Konzentrisch.
 
 duschen: Material/Medical/Cleaning 2/3/1/Goal 2/Goal 1/aut/con
 Begründung: Im medizinischen Kontext kann Duschen nicht nur der Sauberkeit (Goal 2), sondern auch dem körperlichen Wohlbefinden (Goal 1) dienen, etwa bei therapeutischen Anwendungen oder zur Erfrischung.. Autonom/Konzentrisch.
+
+
+dübeln: Material/Professions/Construction 3/1/Goal 2/aut/ecc
+Begründung: Der Akteur bewegt (3) Dübel und bringt sie in Position, bekommt (1) eine Verbindung zwischen Materialien, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine stabile Befestigung. Die Handlung ist selbstbestimmt (aut) und nach außen auf das Material gerichtet (ecc).. Autonom/Exzentrisch.
+
+dübeln: Material/Woodworking 3/1/Goal 2/aut/ecc
+Begründung: Im Tischlerhandwerk: Der Akteur bewegt (3) hölzerne Dübel und bringt sie in Position, bekommt (1) eine Verbindung zwischen Holzteilen, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine stabile Holzverbindung. Die Handlung ist selbstbestimmt (aut) und nach außen auf das Material gerichtet (ecc).. Autonom/Exzentrisch.
+
+
+düngen: Material/Agriculture 3/1/2/Goal 2/aut/ecc
+Begründung: Der Akteur strebt (3) das Bekommen (1) durch Einbringen von Nährstoffen in den Boden an, um über dessen Verfügbarkeit (2) einen gewünschten Zustand (Goal 2) zu erreichen, nämlich einen nährstoffreichen Boden für besseres Pflanzenwachstum. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf die Umwelt einwirkt.. Autonom/Exzentrisch.
+
 
 dynamisieren: Material/Stimulation 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3), einen gewünschten Zustand (Goal 2) zu erreichen, indem er etwas aktiver, lebhafter oder wirkungsvoller macht. Er handelt dabei selbstbestimmt (aut) und nach außen gerichtet (ecc), um eine Veränderung in der Umwelt zu bewirken.. Autonom/Exzentrisch.
@@ -1552,47 +1806,3 @@ Begründung: Im geschäftlichen Kontext bedeutet dynamisieren, dass der Akteur g
 dynamisieren: Interpersonal/Group 3/Goal 3/aut/ecc
 Begründung: In einem zwischenmenschlichen oder gruppenbezogenen Kontext bedeutet dynamisieren, dass der Akteur eine Gruppe oder soziale Situation in Bewegung bringt (3), um eine stärkere Wirkung oder Aktivität (Goal 3) bei den beteiligten Personen zu erzielen.. Autonom/Exzentrisch.
 
-dämmen: Material/Construction 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt über (2) und bewegt/verarbeitet (3) Dämmmaterial, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Isolation von Wärme, Kälte oder Schall. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf äußere Objekte einwirkt.. Autonom/Exzentrisch.
-
-dämmen: Material/Fluids 2/3/Goal 2//Goal -3/aut/ecc
-Begründung: Der Akteur verfügt über (2) und bewegt/setzt ein (3) Materialien, um einen gewünschten Zustand der Eindämmung (Goal 2) zu erreichen und gleichzeitig das Fließen/die Bewegung eines Antagonisten (Wasser, Flüssigkeit) zu verhindern (//Goal -3).. Autonom/Exzentrisch.
-
-dämmen: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/ecc
-Begründung: Der Akteur verfügt über (2) und bewegt/ergreift Maßnahmen (3), um einen gewünschten Kontrollzustand (Goal 2) zu erreichen und gleichzeitig die Ausbreitung eines antagonistischen Elements (z.B. Krankheit, Problem) zu verhindern (//Goal -3).. Autonom/Exzentrisch.
-
-dämmern: Material/Time 3/Goal 2/het/ecc
-Begründung: In der Bedeutung der Tageszeit bezieht sich 'dämmern' auf einen natürlichen Übergang zwischen Tageslicht und Dunkelheit. Es handelt sich um eine graduelle Bewegung/Veränderung (3) zu einem neuen Lichtzustand (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang nicht kontrollierbar ist und in der äußeren Umgebung stattfindet.. Heteronom/Exzentrisch.
-
-dämmern: Material/Cognitive 5/1/Goal 5/het/ecc
-Begründung: In der übertragenen Bedeutung 'jemandem dämmert etwas' handelt es sich um einen kognitiven Prozess, bei dem eine Person allmählich Informationen aufnimmt (5) und Erkenntnis bekommt (1), was zum Informiertsein führt (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Erkenntnisprozess oft nicht vollständig gesteuert werden kann.. Heteronom/Exzentrisch.
-
-dämonisieren: Material/Fight/Propaganda 2/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er negative Informationen gibt (1/5), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand (starke Ablehnung des Antagonisten durch Dritte) zu erreichen (//Goal 2).. Autonom/Exzentrisch.
-
-dämonisieren: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Im zwischenmenschlichen Kontext bedeutet dämonisieren, dass der Akteur bestimmt (2), eine Informationsleistung für den Antagonisten zu erbringen (4), indem er negative Eigenschaften übertreibt (1/5), um einen unerwünschten Zustand für den Antagonisten (sein Ansehen zu schädigen) zu bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand (soziale Isolierung des Antagonisten) zu erreichen (//Goal 2).. Autonom/Exzentrisch.
-
-dämonisieren: Material/Religious 2/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Im religiösen Kontext bedeutet dämonisieren, dass der Akteur bestimmt (2), eine Informationsleistung zum Nachteil des Antagonisten zu erbringen (4), indem er diesem dämonische/teuflische Eigenschaften zuschreibt (1/5), um einen unerwünschten Zustand für den Antagonisten zu bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten religiösen oder moralischen Zustand der Abgrenzung herzustellen (//Goal 2).. Autonom/Exzentrisch.
-
-dämpfen: Material/Sound 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegung/Einwirkung (3) über einen Klang/Geräusch, um einen gewünschten Zustand - nämlich eine geringere Lautstärke - zu erreichen (Goal 2). Die Aktivität ist autonom (der Akteur entscheidet) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
-
-dämpfen: Material/Pressure 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegung/Einwirkung (3) über Druck/Kraft, um einen gewünschten Zustand - nämlich eine Verringerung von Stärke oder Intensität - zu erreichen (Goal 2).. Autonom/Exzentrisch.
-
-dämpfen: Material/Emotional 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt/kontrolliert (2) durch Einwirkung (3) über Emotionen oder Stimmungen, um einen gewünschten Zustand - nämlich eine Verringerung der emotionalen Intensität - zu erreichen (Goal 2).. Autonom/Exzentrisch.
-
-dämpfen: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
-Begründung: Der Akteur verfügt/kontrolliert (2) durch Einwirkung/Bewegung (3) über Lebensmittel, um einen gewünschten Zustand des Garwerdens (Goal 2) zu erreichen und schließlich Nahrung bekommen zu haben (Goal 1).. Autonom/Exzentrisch.
-
-dübeln: Material/Professions/Construction 3/1/Goal 2/aut/ecc
-Begründung: Der Akteur bewegt (3) Dübel und bringt sie in Position, bekommt (1) eine Verbindung zwischen Materialien, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine stabile Befestigung. Die Handlung ist selbstbestimmt (aut) und nach außen auf das Material gerichtet (ecc).. Autonom/Exzentrisch.
-
-dübeln: Material/Woodworking 3/1/Goal 2/aut/ecc
-Begründung: Im Tischlerhandwerk: Der Akteur bewegt (3) hölzerne Dübel und bringt sie in Position, bekommt (1) eine Verbindung zwischen Holzteilen, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine stabile Holzverbindung. Die Handlung ist selbstbestimmt (aut) und nach außen auf das Material gerichtet (ecc).. Autonom/Exzentrisch.
-
-düngen: Material/Agriculture 3/1/2/Goal 2/aut/ecc
-Begründung: Der Akteur strebt (3) das Bekommen (1) durch Einbringen von Nährstoffen in den Boden an, um über dessen Verfügbarkeit (2) einen gewünschten Zustand (Goal 2) zu erreichen, nämlich einen nährstoffreichen Boden für besseres Pflanzenwachstum. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf die Umwelt einwirkt.. Autonom/Exzentrisch.
