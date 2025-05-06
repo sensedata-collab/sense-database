@@ -13,6 +13,7 @@ Begründung: Jemanden zu etwas machen (z.B. zum Chef machen): Der Akteur bestimm
 machen: Material/Process 2/3/Goal 3/aut/ecc
 Begründung: Etwas in Gang setzen/verursachen: Der Akteur bestimmt (2) und bewegt (3) etwas, um eine Wirkung zu erzielen (Goal 3), z.B. 'Lärm machen'.. Autonom/Exzentrisch.
 
+
 magnetisieren: Material/Physics 2/3/Goal 2/aut/ecc
 Begründung: Magnetisieren bedeutet, dass der Akteur bestimmt/verfügt (2) über einen Gegenstand und dessen Eigenschaften durch Bewegung/Anstreben (3) verändert, um einen gewünschten magnetischen Zustand herzustellen (Goal 2). Der Prozess erfordert eine direkte Einwirkung auf ein Objekt, um dessen Eigenschaften gezielt zu beeinflussen.. Autonom/Exzentrisch.
 
@@ -21,6 +22,7 @@ Begründung: In übertragenem Sinne bedeutet 'magnetisieren', eine starke Anzieh
 
 magnetisieren: Material/Paranormal 2/3/Goal 3/aut/ecc
 Begründung: Im parapsychologischen Kontext bedeutet 'magnetisieren', durch Bestimmen/Verfügen (2) und Bewegung/Anstreben (3) eine übernatürliche Wirkung (Goal 3) auf Gegenstände oder Personen auszuüben. Diese Bedeutung bezieht sich auf die historische Vorstellung des 'animalischen Magnetismus'.. Autonom/Exzentrisch.
+
 
 mahlen: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bearbeitet durch Bewegung (3) Getreide oder andere Substanzen, um einen gewünschten Zustand (Goal 2) des Mahlguts zu erreichen, mit dem übergeordneten Ziel der Nahrungsaufbereitung (Goal 1). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
@@ -31,11 +33,13 @@ Begründung: In einem industriellen oder handwerklichen Kontext bedeutet mahlen 
 mahlen: Material/Process 2/3/1/Goal 2/aut/ecc
 Begründung: Im Sinne des repetitiven, kontinuierlichen Zerkleinerns verfügt der Akteur (2) über eine Substanz, bearbeitet sie durch konstante Bewegung (3) und bekommt so (1) ein Ergebnis, um einen gewünschten Zustand der Substanz zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 mahnen: Material/Law/Compliance 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich eine Information (5), die einen unerwünschten Zustand für den Antagonisten bewirkt (Goal -2), um einen gewünschten Zustand für sich selbst zu erreichen, nämlich die Erfüllung einer Forderung (//Goal 2). Die Aktivität ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und sich an einen externen Adressaten richtet.. Autonom/Exzentrisch.
 
 mahnen: Interpersonal/Leadership 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet mahnen, jemanden an etwas zu erinnern oder zu ermahnen. Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich eine Information (5), die den Antagonisten informieren soll (Goal 5), um einen gewünschten Zustand für den Akteur zu erreichen (//Goal 2). Dies geschieht autonom und ist nach außen gerichtet.. Autonom/Exzentrisch.
+
 
 mailen: Material/IT/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen (5) gibt (1), damit der Empfänger informiert ist (Goal 5). Nach dem Leistungsaspekt (//), zielt der Akteur auf das Erreichen des eigenen Ziels: Anerkennung/Reaktion zu bekommen (Goal 4).. Autonom/Exzentrisch.
@@ -43,11 +47,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er In
 mailen: Material/Communication 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im nicht-beruflichen Kontext bestimmt der Akteur (2) eine Leistung (4) zu erbringen, indem er Informationen (5) gibt (1), damit der Empfänger informiert ist (Goal 5). Das Endziel des Akteurs ist, einen gewünschten Zustand zu erreichen (//Goal 2), z.B. eine Antwort oder Reaktion zu bekommen.. Autonom/Exzentrisch.
 
+
 malen: Material/Art 3/Goal 2/aut/ecc
 Begründung: Beim Malen bewegt der Akteur (3) mit Pinsel und Farbe Material auf einer Oberfläche, um einen gewünschten Zustand - ein Bild/Kunstwerk - zu erzeugen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
 
 malen: Interpersonal/Art-Action 3/Goal 3/aut/ecc
 Begründung: In der künstlerischen Kommunikation mit anderen Menschen ist Malen eine Bewegung (3), die darauf abzielt, bei Betrachtern eine bestimmte Wirkung zu erzielen (Goal 3). Der Fokus liegt hier auf dem expressiven, kommunikativen Aspekt des Malens.. Autonom/Exzentrisch.
+
 
 malträtieren: Material/Fight/Aggression 3/1/Goal 3//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich angreifend (3) und bekommt (1) eine Wirkung (Goal 3), wodurch er gleichzeitig einen gewünschten Zustand des Antagonisten verhindert (//Goal -2). Es handelt sich um eine aggressive Handlung, bei der der Akteur das Ziel hat, dem Antagonisten Schaden zuzufügen oder ihn in einen unerwünschten Zustand zu bringen.. Autonom/Exzentrisch.
@@ -55,17 +61,20 @@ Begründung: Der Akteur bewegt sich angreifend (3) und bekommt (1) eine Wirkung 
 malträtieren: Interpersonal/Psychological/Fight 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im übertragenen, psychologischen Sinne bedeutet malträtieren, jemanden zu beherrschen (2) und durch Druckausübung (3) einen gewünschten Zustand für sich zu erreichen (Goal 2), während man gezielt den Willen oder die psychische Verfassung des Antagonisten schwächt (//Goal -2).. Autonom/Exzentrisch.
 
+
 managen: Material/Management 2/Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur verfügt/bestimmt (2) über Prozesse, Ressourcen und Personen, um einen gewünschten Zustand zu erreichen (Goal 2) mit dem Ziel, geschäftlichen Erfolg zu erzielen (Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Manager eigenständig kontrolliert und nach außen auf die Organisation einwirkt.. Autonom/Exzentrisch.
 
 managen: Material/Project 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: In der Projektleitung bedeutet managen zusätzlich das aktive Steuern (2) und Bewegen (3) von Ressourcen und Aktivitäten, um ein Projektziel zu erreichen (Goal 2) und berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 mandatieren: Material/Authorization 2/4/1/5//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er ihm eine Befugnis/Vollmacht gibt (1) und ihn mit entsprechenden Informationen ausstattet (5), damit der Akteur seinen gewünschten Zustand erreicht (//Goal 2) und letztendlich geschäftliche Anerkennung/Bezahlung erhält (Goal 4). Die Aktivität ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt eine Vollmacht an einen anderen überträgt.. Autonom/Exzentrisch.
 
 mandatieren: Material/Political 2/4/1/5//Goal 2/Goal 4/aut/ecc
 Begründung: Im politischen Kontext bedeutet mandatieren, dass der Akteur (z.B. eine Regierung oder Partei) bestimmt (2), einem Antagonisten (z.B. einem Abgeordneten oder Beauftragten) eine Vertretungsbefugnis zu übertragen (4/1) und ihn mit den nötigen Informationen auszustatten (5), um den gewünschten politischen Zustand zu erreichen (//Goal 2) und dabei letztendlich Anerkennung für die eigene Position zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
 
 manipulieren: Interpersonal/Influence 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) und bewegt/lenkt (3) eine Situation, um einen gewünschten Zustand zu erreichen (Goal 2), während gleichzeitig die selbstbestimmte Wirkung des Antagonisten verhindert wird (//Goal -3). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt und aktiv auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -76,8 +85,6 @@ Begründung: Im technischen/materiellen Kontext bedeutet manipulieren das bestim
 manipulieren: Material/Criminal/IT 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im IT/Daten-Kontext bedeutet manipulieren das gezielte Verfügen (2) und Verändern (3) von Daten zur Erreichung eines gewünschten Zustands (Goal 2), während gleichzeitig der korrekte/gewünschte Zustand des manipulierten Systems beeinträchtigt wird (//Goal -2).. Autonom/Exzentrisch.
 
-manufacturieren: Material/Manufacturing 2/3/Goal 2/Goal 4/aut/ecc
-Begründung: Manufacturieren bedeutet, dass der Akteur bestimmt/verfügt (2) über Rohstoffe und Produktionsmittel und diese durch Bewegung/Transformation (3) bearbeitet, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Herstellung von Waren, mit dem höheren Ziel der beruflichen Anerkennung/Vergütung (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Aktivität nach außen in die Umwelt gerichtet ist.. Autonom/Exzentrisch.
 
 manövrieren: Material/Navigation 2/3/Goal 3/het/ecc
 Begründung: Manövrieren bedeutet, ein Fahrzeug oder Objekt durch geschicktes Steuern (2) und gezieltes Bewegen (3) zu einer bestimmten Position oder durch einen bestimmten Bereich zu führen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Faktoren wie Hindernisse, Verkehr oder Strömungen anpassen muss.. Heteronom/Exzentrisch.
@@ -88,11 +95,17 @@ Begründung: Im militärischen Kontext bedeutet manövrieren, Truppen oder Einhe
 manövrieren: Interpersonal/Strategy 2/3/Goal 2/het/ecc
 Begründung: Im übertragenen Sinne bedeutet manövrieren, in sozialen oder politischen Situationen strategisch zu taktieren (2), Positionen zu verändern (3), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da man sich an die Aktionen anderer Beteiligter anpassen muss.. Heteronom/Exzentrisch.
 
+
+manufacturieren: Material/Manufacturing 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Manufacturieren bedeutet, dass der Akteur bestimmt/verfügt (2) über Rohstoffe und Produktionsmittel und diese durch Bewegung/Transformation (3) bearbeitet, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Herstellung von Waren, mit dem höheren Ziel der beruflichen Anerkennung/Vergütung (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Aktivität nach außen in die Umwelt gerichtet ist.. Autonom/Exzentrisch.
+
+
 mappen: Material/Mapping 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Mappen bedeutet, Informationen zu untersuchen und zu sammeln (3/5), um sie zu strukturieren und in ein Ordnungssystem zu bringen (2), mit dem Ziel, informiert zu sein (Goal 5) und einen gewünschten Zustand der Informationsorganisation zu erreichen (Goal 2). Die heteronome exzentrische Ausrichtung (het/ecc) zeigt, dass sich der Akteur an externe Gegebenheiten anpasst und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
 
 mappen: Material/IT 2/3/5/Goal 5/Goal 2/het/ecc
 Begründung: Im IT-Kontext bedeutet mappen, bestehende Daten (2) mit Bewegung (3) zu untersuchen (5), um Informationen zu gewinnen (Goal 5) und einen organisierten Datenbestand zu erreichen (Goal 2). Hier steht die Verfügung über Daten am Anfang der Aktivität.. Heteronom/Exzentrisch.
+
 
 marginalisieren: Material/Status 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Marginalisieren bedeutet, dass der Akteur bestimmt (2) und mit Bewegung/Handlungen (3) einen gewünschten Zustand für sich herstellt (Goal 2), indem er gleichzeitig die Wirkungsmöglichkeiten des Antagonisten einschränkt (//Goal -3). Dabei agiert der Akteur selbstbestimmt (aut) und nach außen gerichtet (ecc), um den Antagonisten an den Rand zu drängen und dessen Einfluss zu verringern.. Autonom/Exzentrisch.
@@ -103,8 +116,10 @@ Begründung: Im politischen oder sozialen Kontext bedeutet marginalisieren, dass
 marginalisieren: Interpersonal/Influence 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet marginalisieren, dass der Akteur bestimmt (2) und handelt (3), um die eigene Position zu stärken (Goal 2), während er gleichzeitig die Bedeutung oder den Einfluss einer anderen Person in einer Gruppe oder Situation verringert (//Goal -3).. Autonom/Exzentrisch.
 
+
 marketieren: Material/Business/Marketing 2/4/1/5//Goal 3/Goal 4/aut/ecc
 Begründung: Marketieren bedeutet, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5) mit dem Ziel, eine Wirkung beim potentiellen Kunden zu erzielen (//Goal 3) und letztendlich Geld/Anerkennung zu bekommen (Goal 4). Es handelt sich um eine selbstbestimmte, nach außen gerichtete Aktivität (aut/ecc).. Autonom/Exzentrisch.
+
 
 markieren: Material/Marker 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Markieren bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich eine Information/Kennzeichnung (5), damit ein Objekt für andere erkennbar ist (Goal 5). Dies dient letztendlich dem Ziel des Akteurs, Anerkennung für diese Leistung zu erhalten (//Goal 4). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen handelt.. Autonom/Exzentrisch.
@@ -115,11 +130,13 @@ Begründung: Im sportlichen Kontext bedeutet markieren, dass der Akteur bestimmt
 markieren: Material/Territory 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Im Sinne von Territorium markieren bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich eine Kennzeichnung (5), um einen gewünschten Zustand, nämlich Besitzanspruch, herzustellen (Goal 2). Dies dient dem Ziel des Akteurs, Anerkennung für diesen Anspruch zu erhalten (//Goal 4).. Autonom/Exzentrisch.
 
+
 marodieren: Material/Fight/Aggression/War 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und nimmt/bekommt (1) Besitztümer/Güter zum eigenen Vorteil (Goal 2), wobei die Ziele des Antagonisten bekämpft werden (//Goal -2). Es handelt sich um eine Plünderung durch Soldaten oder bewaffnete Gruppen in einem Kriegsgebiet, bei der autonomes, nach außen gerichtetes Verhalten gezeigt wird.. Autonom/Exzentrisch.
 
 marodieren: Material/Criminal 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Als kriminelle Handlung bedeutet marodieren das umherziehen (3) und stehlen/plündern (1) von fremdem Eigentum (Goal 2), wobei die Besitzrechte der betroffenen Personen missachtet werden (//Goal -2). Im Unterschied zur militärischen Bedeutung fehlt hier der spezifische Kriegskontext.. Autonom/Exzentrisch.
+
 
 marschieren: Material/Movement 3/Goal 3/aut/ecc
 Begründung: Marschieren bedeutet, sich mit rhythmischer, geordneter Bewegung (3) fortzubewegen, um ein bestimmtes Ziel oder eine Destination zu erreichen (Goal 3). Der Akteur bestimmt dabei selbst seine Bewegung (aut) und wirkt nach außen in die Umwelt (ecc).. Autonom/Exzentrisch.
@@ -130,11 +147,13 @@ Begründung: Im militärischen Kontext bedeutet marschieren, dass Soldaten unter
 marschieren: Material/Fight/Protest 3/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Bei Protestmärschen bewegt sich der Akteur (3) zu einem Ziel (Goal 3), um einen gewünschten Zustand für sich selbst zu erreichen (Goal 2) und gleichzeitig gegen die Ziele eines Antagonisten (//Goal -2) zu demonstrieren.. Autonom/Exzentrisch.
 
+
 martern: Material/Fight/Aggression 3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Jemanden martern bedeutet, dass der Akteur mit Bewegung (3) eine Leistung für den Antagonisten (4) erbringt, indem er etwas gibt/zufügt (1), was eine unerwünschte negative Wirkung für den Antagonisten hat (Goal -3), um damit einen eigenen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 martern: Interpersonal/Psychological 3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Im übertragenen, psychologischen Sinne bedeutet martern, dass der Akteur durch seine Handlungen (3) gezielt eine Leistung (4) vollbringt, die dem Antagonisten seelische Qualen zufügt (1/Goal -3), um einen eigenen gewünschten emotionalen oder sozialen Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
+
 
 maskieren: Material/Appearance 2/3/Goal 2//Goal -5/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), nämlich etwas zu verbergen, was gleichzeitig verhindert, dass der Antagonist Informationen darüber erhält (//Goal -5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
@@ -145,17 +164,27 @@ Begründung: Im IT-Kontext bedeutet maskieren, Daten so zu manipulieren, dass be
 maskieren: Material/Deception 2/3/5/Goal 5//Goal -5/aut/ecc
 Begründung: In Zusammenhang mit Täuschung bedeutet maskieren, gezielt falsche Informationen zu präsentieren. Der Akteur bestimmt (2) durch aktives Gestalten (3) die Informationsauswahl (5), um selbst den Überblick zu behalten (Goal 5), während er verhindert, dass der Antagonist die wahren Informationen erhält (//Goal -5).. Autonom/Exzentrisch.
 
+
 massakrieren: Material/Fight/Aggression/War 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Massakrieren bedeutet, eine äußerst aggressive Bewegung (3) auszuführen, durch die der Akteur eine massive, tödliche Wirkung (1/Goal 3) erzielt und einen gewünschten Zustand der Vernichtung des Feindes (Goal 2) erreicht, während gleichzeitig der Zustand des Antagonisten zerstört wird (//Goal -2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur gezielt und mit voller Kontrolle handelt.. Autonom/Exzentrisch.
 
 massakrieren: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im allgemeineren Sinne bedeutet massakrieren, eine Person oder Gruppe brutal anzugreifen und zu töten, ohne den spezifischen Kriegskontext.. Autonom/Exzentrisch.
 
+
 massieren: Material/Physical/Movement 3/4/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur führt Bewegungen (3) aus, die eine Leistung für den Antagonisten darstellen (4), um einen gewünschten Zustand (Entspannung, Lockerung der Muskeln) zu erreichen (Goal 2). Nach der Leistung für den Antagonisten folgt das Ziel des Akteurs, Anerkennung oder Bezahlung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
 
 massieren: Material/Medical/Process 3/4/Goal 2//Goal 4/aut/ecc
 Begründung: Im medizinischen Kontext führt der Akteur gezielt therapeutische Bewegungen (3) aus, die eine Leistung für den Patienten (4) darstellen, um einen gewünschten gesundheitlichen Zustand zu erreichen (Goal 2). Der Akteur erhält dafür Anerkennung oder Bezahlung (//Goal 4).. Autonom/Exzentrisch.
+
+
+maßregeln: Material/Punishment 2/3/4/1/Goal -3//Goal 2/aut/ecc
+Begründung: Beim Maßregeln bestimmt der Akteur (2) mit einer strafenden Handlung (3) eine Leistung zu erbringen (4), bei der er dem Antagonisten etwas gibt (1), das eine negative Wirkung für diesen hat (Goal -3), um damit einen vom Akteur gewünschten Zustand herzustellen (//Goal 2) - nämlich die Wiederherstellung der Ordnung oder Sicherstellung zukünftigen regelkonformen Verhaltens.. Autonom/Exzentrisch.
+
+maßregeln: Material/Law/Compliance 2/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: In einem formellen, behördlichen oder rechtlichen Kontext bedeutet maßregeln, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er eine Zurechtweisung gibt (1) mit einer Information (5), die einen unerwünschten Zustand für den Antagonisten bewirkt (Goal -2), um den gewünschten Zustand des Akteurs zu erreichen (//Goal 2) - nämlich die Einhaltung von Regeln und Vorschriften.. Autonom/Exzentrisch.
+
 
 matchen: Material/Competition 3/1/Goal 3/Goal 2/het/ecc
 Begründung: Matchen bedeutet, dass der Akteur durch Bewegung/Anstreben (3) das Bekommen (1) einer Wirkung anstrebt (Goal 3), um einen gewünschten Zustand der Übereinstimmung zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Bedingungen anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -166,17 +195,20 @@ Begründung: Im sportlichen Kontext bedeutet matchen, dass der Akteur durch Bewe
 matchen: Material/IT 3/5/Goal 5/Goal 2/het/ecc
 Begründung: Im IT-Kontext bedeutet matchen das Abgleichen von Daten, wobei der Akteur durch Bewegung (3) und Informationsverarbeitung (5) Informationen gewinnt (Goal 5), um einen gewünschten Zustand der Übereinstimmung zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Prozess von externen Daten abhängt.. Heteronom/Exzentrisch.
 
+
 matchmachen: Interpersonal/Relationship 4/3/5/Goal 5//Goal 4/het/ecc
 Begründung: Eine Person leistet Dienste für Andere (4), indem sie aktiv (3) Kontakte (5) vermittelt, damit die Antagonisten zueinander finden und Kontakt haben (Goal 5). Der Akteur erhält dafür Anerkennung oder Bezahlung (//Goal 4). Die Tätigkeit ist heteronom und nach außen gerichtet, da sie auf die Bedürfnisse anderer Personen eingeht.. Heteronom/Exzentrisch.
 
 matchmachen: Material/Business/Competition 2/4/3/Goal 2//Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet matchmachen, bestimmend (2) eine Leistung zu erbringen (4), bei der durch Bewegung/Anstreben (3) ein gewünschter Zustand (Goal 2) für den Kunden erreicht wird, mit dem Ziel selbst Anerkennung/Bezahlung zu erhalten (//Goal 4). Hier geht es um das Zusammenbringen von passenden Angeboten und Nachfrage.. Autonom/Exzentrisch.
 
+
 materialisieren: Material/Physics 3/1/Goal 2/aut/ecc
 Begründung: Materialisieren bedeutet, dass etwas Gedachtes, Geplantes oder Abstraktes eine konkrete, physische Form annimmt. Der Akteur strebt an (3), etwas Konkretes zu bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2). Dies geschieht in autonomer und exzentrischer Weise, da der Vorgang aktiv nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 materialisieren: Material/Paranormal 3/1/Goal 2/aut/ecc
 Begründung: Im paranormalen Kontext bedeutet materialisieren, dass etwas Nichtstoffliches (z.B. ein Geist) in physischer Form erscheint. Hier bewegt sich (3) etwas aus einer nicht-materiellen Dimension und bekommt (1) stoffliche Form, um einen gewünschten materiellen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 mattieren: Material/Surface/Treatment 2/3/Goal 2/aut/ecc
 Begründung: Mattieren bedeutet, eine Oberfläche zu bearbeiten (3), um einen gewünschten matten Zustand herzustellen (Goal 2). Der Akteur verfügt (2) über die Oberfläche und bearbeitet sie, um ihre Erscheinung zu verändern. Es ist eine autonome, nach außen gerichtete Aktivität, da der Akteur einen externen Gegenstand bearbeitet.. Autonom/Exzentrisch.
@@ -186,6 +218,7 @@ Begründung: Im künstlerischen Kontext bedeutet mattieren, eine glänzende Ober
 
 mattieren: Fight/Games 3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Schachspiel bedeutet mattieren, den gegnerischen König in eine Position zu bringen (3), in der er schachmatt ist (Goal 2), wodurch die Bewegungsmöglichkeiten des Gegners blockiert werden (//Goal -3) und das Spiel gewonnen wird.. Autonom/Exzentrisch.
+
 
 mauern: Material/Professions/Construction 3/Goal 2/aut/ecc
 Begründung: Beim Mauern bewegt/bearbeitet (3) der Akteur Baumaterial, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine Mauer oder Wand zu erstellen. Die Tätigkeit ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt Material im Außenbereich bearbeitet.. Autonom/Exzentrisch.
@@ -203,11 +236,13 @@ Begründung: Im übertragenen Sinne bedeutet 'mauern', Informationen bewusst zur
 mauern: Material/Sports/Ball-Game 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im Sportkontext (besonders Fußball) bedeutet 'mauern', eine defensive Formation zu bilden. Die Spieler bestimmen (2) durch Positionierung (3) einen gewünschten Verteidigungszustand (Goal 2), um die Bewegung des Gegners zum Tor zu verhindern (//Goal -3). Die Ausrichtung ist autonom und nach innen gerichtet (aut/con), da die Spieler bewusst eine geschlossene Formation in ihrem Bereich bilden.. Autonom/Konzentrisch.
 
+
 mauscheln: Material/Deception 3/2/4/1/5/Goal 5//Goal 2/het/ecc
 Begründung: Mauscheln bedeutet, heimlich zu agieren (3) und zu bestimmen (2), welche Informationen (5) man gibt/leistet (4/1), damit der Antagonist informiert ist (Goal 5), mit dem Ziel für den Akteur, einen eigenen vorteilhaften Zustand zu erreichen (//Goal 2). Dies geschieht heterogen und nach außen gerichtet (het/ecc), da der Akteur sich an vorgegebene Umstände anpassen muss und nach außen wirkt.. Heteronom/Exzentrisch.
 
 mauscheln: Interpersonal/Deception 2/3/5/Goal 2//Goal -2/het/ecc
 Begründung: In zwischenmenschlichen Beziehungen bedeutet mauscheln auch, bestimmend (2) und aktiv (3) mit Informationen (5) zu handeln, um einen eigenen Vorteil zu erlangen (Goal 2), während man gleichzeitig die Interessen anderer untergräbt (//Goal -2). Dies geschieht heterogen und nach außen gerichtet (het/ecc).. Heteronom/Exzentrisch.
+
 
 maximieren: Material/Optimization 2/3/Goal 2/aut/ecc
 Begründung: Maximieren bedeutet, bestimmend (2) durch Anpassung und zielgerichtete Änderungen (3) einen gewünschten optimalen Zustand zu erreichen (Goal 2). Der Akteur nutzt Kontrolle über Parameter und bestimmende Bewegungen, um etwas auf den höchstmöglichen Wert zu bringen.. Autonom/Exzentrisch.
@@ -218,11 +253,6 @@ Begründung: Im wirtschaftlichen Kontext bedeutet maximieren, bestimmend (2) dur
 maximieren: Material/IT 2/3/Goal 2/aut/ecc
 Begründung: Im IT-Kontext bedeutet maximieren, über ein Fenster/eine Anwendung zu verfügen (2) und durch Betätigung eines Steuerelements (3) den gewünschten Zustand der Vollbildansicht zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
-maßregeln: Material/Punishment 2/3/4/1/Goal -3//Goal 2/aut/ecc
-Begründung: Beim Maßregeln bestimmt der Akteur (2) mit einer strafenden Handlung (3) eine Leistung zu erbringen (4), bei der er dem Antagonisten etwas gibt (1), das eine negative Wirkung für diesen hat (Goal -3), um damit einen vom Akteur gewünschten Zustand herzustellen (//Goal 2) - nämlich die Wiederherstellung der Ordnung oder Sicherstellung zukünftigen regelkonformen Verhaltens.. Autonom/Exzentrisch.
-
-maßregeln: Material/Law/Compliance 2/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: In einem formellen, behördlichen oder rechtlichen Kontext bedeutet maßregeln, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er eine Zurechtweisung gibt (1) mit einer Information (5), die einen unerwünschten Zustand für den Antagonisten bewirkt (Goal -2), um den gewünschten Zustand des Akteurs zu erreichen (//Goal 2) - nämlich die Einhaltung von Regeln und Vorschriften.. Autonom/Exzentrisch.
 
 mechanisieren: Material/Engineering 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Mechanisieren bedeutet, dass der Akteur bestimmt/verfügt (2) über die Bewegung/Transformation (3) von Arbeitsprozessen, um einen gewünschten automatisierten Zustand zu erreichen (Goal 2), letztendlich um Geld/Anerkennung zu bekommen (Goal 4). Es handelt sich um eine autonome, nach außen gerichtete Aktivität (aut/ecc), da der Akteur selbständig über die technische Umgestaltung entscheidet und diese in die Umwelt hinein wirkt.. Autonom/Exzentrisch.
@@ -230,11 +260,13 @@ Begründung: Mechanisieren bedeutet, dass der Akteur bestimmt/verfügt (2) über
 mechanisieren: Material/Manufacturing 2/3/Goal 2/aut/ecc
 Begründung: In der Herstellungskontext bedeutet mechanisieren, bestimmende (2) Bewegung/Transformation (3) einzusetzen, um einen gewünschten maschinell unterstützten Zustand (Goal 2) zu erreichen. Hier steht der technische Aspekt der Umwandlung manueller in maschinelle Prozesse im Vordergrund, ohne den geschäftlichen Aspekt zu betonen.. Autonom/Exzentrisch.
 
+
 meckern: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Meckern bedeutet, mit Bewegung (3) eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, eine negative Wirkung zu erzielen (//Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf den Antagonisten einwirkt. Es handelt sich um eine Kritikform, die auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
 
 meckern: Material/Animal 3/4/1/5/Goal 5/aut/ecc
 Begründung: In Bezug auf Tiere (speziell Ziegen) bedeutet meckern das Ausstoßen charakteristischer Laute. Der Akteur (das Tier) bewegt sich (3), um eine Leistung zu erbringen (4), indem es Informationen gibt (1/5), um informiert zu sein bzw. zu kommunizieren (Goal 5). Die tierische Kommunikation dient nicht der negativen Bewertung und enthält daher kein Goal -2.. Autonom/Exzentrisch.
+
 
 meditieren: Material/Religious 0/5/Goal 0/Goal 5/het/con
 Begründung: Beim Meditieren wartet der Akteur (0) bewusst auf Informationen (5), um einen Zustand der Erholung/inneren Ruhe zu erreichen (Goal 0) und gleichzeitig über die eigenen Gedanken/das Selbst informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/konzentrisch (het/con), da der Akteur sich nach inneren Gegebenheiten richtet und nach innen orientiert ist.. Heteronom/Konzentrisch.
@@ -242,11 +274,13 @@ Begründung: Beim Meditieren wartet der Akteur (0) bewusst auf Informationen (5)
 meditieren: Material/Psychological 0/5/Goal 0/het/con
 Begründung: In der psychologischen Bedeutung liegt der Fokus auf dem Meditieren als bewusstes Warten (0) und Aufnehmen innerer Wahrnehmungen (5), um primär einen Zustand der Ruhe und Erholung zu erreichen (Goal 0). Hier steht die therapeutische Wirkung im Vordergrund.. Heteronom/Konzentrisch.
 
+
 meeten: Interpersonal 3/5/1/Goal 5/aut/ecc
 Begründung: Meeten bedeutet, dass der Akteur aktiv auf jemanden zugeht (3), um einen Kontakt herzustellen (5), und durch dieses Treffen einen Kontakt bekommt (1), mit dem Ziel, dass ein Kontakt stattfindet (Goal 5). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 meeten: Material/Business 3/5/Goal 5/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet meeten, dass der Akteur eine Bewegung unternimmt (3), um einen Kontakt herzustellen (5), mit dem Ziel, dass ein Informationsaustausch stattfindet (Goal 5) und letztendlich geschäftliche Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
 
 meiden: Material/Avoidance 3/Goal 2//Goal -5/aut/ecc
 Begründung: Der Akteur bewegt sich (3) weg von etwas oder jemandem, um einen gewünschten Zustand (Goal 2) herzustellen, nämlich Abstand/Distanz zu wahren, und verhindert dadurch aktiv den Kontakt mit dem Antagonisten (//Goal -5). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf die Umwelt einwirkt.. Autonom/Exzentrisch.
@@ -257,6 +291,7 @@ Begründung: Im zwischenmenschlichen Kontext bewegt sich der Akteur (3) von eine
 meiden: Material/Fight/Defense 3/Goal 2//Goal -3/aut/ecc
 Begründung: In einem Verteidigungskontext bewegt sich der Akteur (3) von einer potentiellen Gefahr weg, um Sicherheit zu erlangen (Goal 2) und verhindert damit die Wirkung (//Goal -3) des Antagonisten. Die Handlung ist selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 meinen: Material/Cognitive 2/4/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im Sinne von 'eine Meinung vertreten/äußern': Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen (5) gibt, damit der Empfänger informiert ist (Goal 5). Dies dient letztlich dem Akteur, einen gewünschten Zustand (//Goal 2) zu erreichen, nämlich die eigene Position darzulegen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen kommuniziert.. Autonom/Exzentrisch.
 
@@ -265,6 +300,17 @@ Begründung: Im Sinne von 'jemanden mit einer Aussage meinen': Der Akteur strebt
 
 meinen: Material/Intention 2/Goal 2/aut/con
 Begründung: Im Sinne von 'beabsichtigen/vorhaben': Der Akteur verfügt/bestimmt (2) über einen gewünschten Zustand (Goal 2), den er erreichen will. Die Ausrichtung ist autonom und konzentrisch (aut/con), da es sich um eine innere Absicht handelt, die der Akteur selbst festlegt.. Autonom/Konzentrisch.
+
+
+meißeln: Material/Crafts 3/Goal 2/aut/ecc
+Begründung: Beim Meißeln bewegt der Akteur (3) einen Meißel, um ein Material zu bearbeiten und damit einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Tätigkeit (aut/ecc), bei der der Akteur aktiv Material formt oder abtrennt.. Autonom/Exzentrisch.
+
+meißeln: Material/Professions/Construction 3/Goal 2/aut/ecc
+Begründung: Im Kontext des Bauwesens/der Steinmetzkunst bedeutet meißeln das präzise Bearbeiten von Stein oder ähnlichen harten Materialien durch Bewegung (3) des Meißels, um eine gewünschte Form oder einen bestimmten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
+meißeln: Material/Art 3/Goal 2/Goal 3/aut/ecc
+Begründung: Im künstlerischen Kontext bedeutet meißeln das Bewegen (3) eines Werkzeugs, um nicht nur einen gewünschten Zustand (Goal 2) zu erreichen, sondern auch eine künstlerische Wirkung (Goal 3) zu erzielen, wie bei der Bildhauerei.. Autonom/Exzentrisch.
+
 
 meistern: Material/Skills 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegung/Anstreben (3) eine Herausforderung, um einen gewünschten Zustand zu erreichen (Goal 2). 'Meistern' bedeutet, durch eigene Fähigkeiten und Kontrolle eine schwierige Situation zu bewältigen.. Autonom/Exzentrisch.
@@ -275,14 +321,6 @@ Begründung: Im Kontext des Problemlösens bedeutet 'meistern', durch Kontrolle/
 meistern: Fight/Competition 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Wettkampfkontext bedeutet 'meistern', durch Kontrolle (2) und gezielte Aktionen (3) den eigenen gewünschten Zustand zu erreichen (Goal 2) und gleichzeitig die Wirkung des Gegners zu verhindern (//Goal -3).. Autonom/Exzentrisch.
 
-meißeln: Material/Crafts 3/Goal 2/aut/ecc
-Begründung: Beim Meißeln bewegt der Akteur (3) einen Meißel, um ein Material zu bearbeiten und damit einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Tätigkeit (aut/ecc), bei der der Akteur aktiv Material formt oder abtrennt.. Autonom/Exzentrisch.
-
-meißeln: Material/Professions/Construction 3/Goal 2/aut/ecc
-Begründung: Im Kontext des Bauwesens/der Steinmetzkunst bedeutet meißeln das präzise Bearbeiten von Stein oder ähnlichen harten Materialien durch Bewegung (3) des Meißels, um eine gewünschte Form oder einen bestimmten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
-
-meißeln: Material/Art 3/Goal 2/Goal 3/aut/ecc
-Begründung: Im künstlerischen Kontext bedeutet meißeln das Bewegen (3) eines Werkzeugs, um nicht nur einen gewünschten Zustand (Goal 2) zu erreichen, sondern auch eine künstlerische Wirkung (Goal 3) zu erzielen, wie bei der Bildhauerei.. Autonom/Exzentrisch.
 
 melden: Material/Information 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5). Dies dient dem Ziel des Akteurs, Anerkennung für seine Leistung zu bekommen (//Goal 4). Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Information nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -296,14 +334,17 @@ Begründung: Im Berichtswesen bedeutet 'melden' das Leisten (4) durch das Geben 
 melden: Interpersonal/Communication 3/5/Goal 5/het/ecc
 Begründung: Im Sinne von 'sich melden' bedeutet es, aktiv (3) Kontakt aufzunehmen (5), um einen Kommunikationskanal herzustellen (Goal 5). Die Ausrichtung ist heteronom (het), da man sich an die Erreichbarkeit des Anderen anpassen muss, und exzentrisch (ecc), da die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
+
 memen: Material/IT/Social 3/4/1/5/Goal 5//Goal 3/Goal 4/aut/ecc
 Begründung: Der Akteur bewegt sich (3) um für andere (4) etwas zu geben (1), nämlich Informationen (5) mit dem Ziel, dass der Antagonist informiert ist (Goal 5). Nach dem Wechsel zurück zum Akteur (//), zielt dieser auf eine virale Wirkung (Goal 3) und letztendlich auf Anerkennung (Goal 4) ab. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt agiert und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 memen: Material/Creative 2/3/5/Goal 5/Goal 3/aut/ecc
 Begründung: In der allgemeineren Bedeutung des kreativen Prozesses beinhaltet 'memen' das Verfügen über (2) und Bewegen/Transformieren (3) von Informationen (5), um Informationen zu verbreiten (Goal 5) und eine Wirkung zu erzielen (Goal 3). Hier ist keine direkte Leistung für einen Antagonisten involviert, sondern der kreative Akt des Meme-Erstellens selbst.. Autonom/Exzentrisch.
 
+
 memorieren: Material/Memory 3/5/2/Goal 5/het/ecc
 Begründung: Memorieren bedeutet, sich aktiv mit Informationen zu beschäftigen (3/5), um diese im Gedächtnis zu verankern und darüber verfügen zu können (2/Goal 5). Der Prozess ist heteronomer Natur, da er von externen Informationen abhängig ist, und nach außen gerichtet (het/ecc), weil er auf die Aufnahme von Inhalten aus der Umwelt zielt.. Heteronom/Exzentrisch.
+
 
 mentoren: Material/Education/Training 2/4/5/Goal 5//Goal 4/aut/ecc
 Begründung: Mentoren bedeutet, als erfahrene Person einem weniger erfahrenen Menschen Wissen und Fähigkeiten zu vermitteln und ihn anzuleiten. Der Akteur bestimmt (2) eine Leistung (4) in Form von Informationsvermittlung (5) zu erbringen, damit der Antagonist informiert ist (Goal 5). Nach dem Wechsel zurück zum Akteur (//), erhält dieser Anerkennung für seine Mentorentätigkeit (Goal 4). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Mentor selbstbestimmt handelt und nach außen auf den Mentee einwirkt.. Autonom/Exzentrisch.
@@ -311,14 +352,17 @@ Begründung: Mentoren bedeutet, als erfahrene Person einem weniger erfahrenen Me
 mentoren: Interpersonal/Leadership 2/4/5/Goal 5/Goal 2//Goal 4/aut/ecc
 Begründung: Im zwischenmenschlichen Führungskontext bedeutet mentoren, jemanden nicht nur fachlich anzuleiten (Informationen vermitteln), sondern auch persönlich zu fördern und zu entwickeln. Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen (5) vermittelt, damit der Mentee informiert ist (Goal 5) und einen gewünschten Entwicklungszustand erreicht (Goal 2). Der Mentor erhält dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
 
+
 mentorieren: Material/Education/Training 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: Mentorieren bedeutet, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Wissen und Erfahrung gibt (1) und Informationen vermittelt (5), damit der Antagonist (der Mentee) informiert ist (Goal 5). Nach dem Perspektivwechsel (//) verfolgt der Akteur das Ziel, einen gewünschten Zustand zu erreichen (Goal 2), nämlich die erfolgreiche Entwicklung des Mentees, und letztendlich Anerkennung für diese Leistung zu bekommen (Goal 4).. Autonom/Exzentrisch.
 
 mentorieren: Interpersonal/Leadership 2/4/1/5/Goal 5/Goal 2//Goal 4/aut/ecc
 Begründung: In der zwischenmenschlichen Führungsbeziehung bedeutet mentorieren, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er persönliche Unterstützung gibt (1) und sein Wissen teilt (5), damit der Mentee nicht nur informiert ist (Goal 5), sondern auch persönlich wächst und sich entwickelt (Goal 2). Letztendlich erhält der Mentor Anerkennung für seine Unterstützung (//Goal 4).. Autonom/Exzentrisch.
 
+
 merchandisen: Material/Business/Marketing 2/3/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung/Aktionen (3) eine Leistung zu erbringen (4), indem er Waren/Produkte gibt (1) und so präsentiert/informiert (5), dass ein gewünschter Zustand (bessere Verkäufe) erreicht wird (Goal 2), wodurch der Akteur geschäftlich Anerkennung/Geld bekommt (//Goal 4).. Autonom/Exzentrisch.
+
 
 merken: Material/Memory 5/2/Goal 5/het/ecc
 Begründung: Der Akteur nimmt Informationen auf (5) und speichert sie im Gedächtnis (2), um informiert zu sein/zu bleiben (Goal 5). Der Prozess ist heteronom (abhängig von externen Informationen) und nach außen gerichtet (ecc), da es um das Aufnehmen von Informationen aus der Umwelt geht.. Heteronom/Exzentrisch.
@@ -329,6 +373,7 @@ Begründung: In der Bedeutung 'bemerken/wahrnehmen' sucht (3) der Akteur nach In
 merken: Material/Marker 2/3/5/Goal 5/aut/ecc
 Begründung: In der Bedeutung 'markieren/kennzeichnen' bestimmt der Akteur (2) durch Bewegung (3) eine Information (5) anzubringen, um etwas kenntlich zu machen und damit informiert zu sein/zu bleiben (Goal 5).. Autonom/Exzentrisch.
 
+
 messen: Material/Measurement 3/5/2/Goal 5/het/ecc
 Begründung: Messen bedeutet, durch Bewegung (3) Informationen zu gewinnen (5) und darüber zu verfügen (2), um informiert zu sein (Goal 5). Der Akteur passt sich an die Eigenschaften des zu messenden Objekts an (het) und ist dabei nach außen gerichtet (ecc), da die Messaktivität auf externe Objekte ausgerichtet ist.. Heteronom/Exzentrisch.
 
@@ -338,11 +383,13 @@ Begründung: Im Sinne von 'sich mit jemandem messen' bedeutet es, durch Bewegung
 messen: Material/Tailoring 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Im Schneiderkontext bedeutet messen, durch Bewegung (3) Informationen zu gewinnen (5) und darüber zu verfügen (2), um informiert zu sein (Goal 5) mit dem weiteren Ziel, einen gewünschten Zustand (passendes Kleidungsstück) zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 messengern: Material/IT/Communication 3/5/1/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem Messenger-Dienst, informiert sich (5) und bekommt (1) Informationen, mit dem Ziel informiert zu sein (Goal 5). Dies geschieht in heteronomer und exzentrischer Ausrichtung (het/ecc), da der Akteur sich nach den technischen Möglichkeiten der Messenger-Plattform richten muss und nach außen kommuniziert.. Heteronom/Exzentrisch.
 
 messengern: Material/IT/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: In einer beruflichen Kontext bedeutet messengern, dass der Akteur bestimmt (2), eine Leistung für andere zu erbringen (4), indem er Informationen gibt (1/5), damit der Empfänger informiert ist (Goal 5), mit dem letztendlichen Ziel für den Akteur, Anerkennung zu bekommen (//Goal 4). Dies geschieht selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 metallisieren: Material/Metalworking 2/3/Goal 2/aut/ecc
 Begründung: Metallisieren bedeutet, dass der Akteur bestimmt/verfügt (2) und durch Bewegung/Transformation (3) einen gewünschten Zustand (Goal 2) erreicht, indem er eine Oberfläche mit einer dünnen Metallschicht überzieht. Dabei wird ein Grundmaterial durch einen aktiven Prozess mit Metall beschichtet, um dessen Eigenschaften zu verändern.. Autonom/Exzentrisch.
@@ -350,8 +397,10 @@ Begründung: Metallisieren bedeutet, dass der Akteur bestimmt/verfügt (2) und d
 metallisieren: Material/Chemical/Process 3/2/Goal 2/het/ecc
 Begründung: Metallisieren kann sich auch auf den chemischen oder elektrochemischen Prozess beziehen, bei dem durch Bewegung/Anstreben (3) und Verfügen über chemische Reaktionen (2) ein Objekt mit einer Metallschicht versehen wird, wobei der Akteur sich nach den Eigenschaften der Materialien und chemischen Gesetzmäßigkeiten richten muss (het).. Heteronom/Exzentrisch.
 
+
 metallspritzen: Material/Metalworking 3/Goal 2/aut/ecc
 Begründung: Beim Metallspritzen bewegt/bearbeitet (3) der Akteur geschmolzenes Metall, um es in eine gewünschte Form zu bringen und damit einen bestimmten Zustand zu erreichen (Goal 2). Der Prozess ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbständig auf das Material einwirkt.. Autonom/Exzentrisch.
+
 
 methodisieren: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Methodisieren bedeutet, einen Prozess oder Vorgang systematisch zu ordnen und zu strukturieren. Der Akteur verfügt/bestimmt (2) über einen Ablauf und bewegt/transformiert (3) bestehende Elemente, um einen gewünschten Zustand (Goal 2) der Ordnung und Systematik zu erreichen. Die Handlung erfolgt selbstbestimmt (aut) und wirkt nach außen auf die zu ordnenden Elemente (ecc).. Autonom/Exzentrisch.
@@ -359,11 +408,13 @@ Begründung: Methodisieren bedeutet, einen Prozess oder Vorgang systematisch zu 
 methodisieren: Material/Scientific 2/3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Im wissenschaftlichen Kontext bedeutet methodisieren, Informationen (5) systematisch zu ordnen und zu strukturieren (2/3), um sowohl informiert zu sein (Goal 5) als auch einen geordneten methodischen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 metropolisieren: Material/Geography 2/3/Goal 2/aut/ecc
 Begründung: Metropolisieren bedeutet, einen Ort oder eine Region in eine Metropole zu transformieren oder zur Metropole zu entwickeln. Der Akteur bestimmt (2) und bewegt/transformiert (3) eine Stadt oder Region, um einen gewünschten Zustand (Goal 2) - nämlich den Status einer Metropole - zu erreichen. Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und nach außen gerichtet (ecc), da die Transformation im Außenbereich stattfindet.. Autonom/Exzentrisch.
 
 metropolisieren: Material/Urban-Development 2/3/Goal 2/Goal 3/aut/ecc
 Begründung: In der Stadtentwicklung bedeutet metropolisieren, bewusst Urbanisierungsprozesse zu steuern, um die Wirkung einer Metropole zu erzielen. Der Akteur bestimmt (2) und bewegt/transformiert (3) städtische Strukturen für einen gewünschten Zustand (Goal 2) mit dem Ziel, eine spezifische metropolitane Wirkung (Goal 3) zu erreichen.. Autonom/Exzentrisch.
+
 
 metzeln: Material/Fight/Aggression/War 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Metzeln bedeutet, mit großer Gewalt und in großer Zahl zu töten oder niederzumetzeln. Der Akteur bewegt sich (3) und bekommt (1) einen gewünschten Zustand (Goal 2), während er gleichzeitig die gewünschten Zustände der Antagonisten verhindert (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
@@ -371,11 +422,13 @@ Begründung: Metzeln bedeutet, mit großer Gewalt und in großer Zahl zu töten 
 metzeln: Material/Fight/Aggression/Brawl 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: In einem weniger organisierten Kontext bedeutet metzeln ein brutales, blutiges Kämpfen mit dem Ziel, viele Gegner zu verletzen oder zu töten. Der Akteur bewegt sich aggressiv (3) und bekommt (1) einen gewünschten Zustand der Überlegenheit (Goal 2), während er die Ziele der Gegner bekämpft (//Goal -2).. Autonom/Exzentrisch.
 
+
 meucheln: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) eine Wirkung (Goal 3) und einen gewünschten Zustand (Goal 2), während er gleichzeitig den Zustand des Antagonisten verschlechtert (//Goal -2). Meucheln bedeutet heimtückisch töten, wobei der Täter durch hinterhältige Aktionen (3/1) sein Ziel erreicht, jemanden zu töten (Goal 3/Goal 2), was für das Opfer den Tod bedeutet (//Goal -2).. Autonom/Exzentrisch.
 
 meucheln: Material/Criminal/Activities 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Als kriminelle Handlung bedeutet meucheln das heimliche, hinterhältige Töten einer Person. Der Täter bewegt sich (3) und bekommt (1) eine tödliche Wirkung (Goal 3) und einen für ihn gewünschten Zustand (Goal 2), während er das Leben des Opfers beendet (//Goal -2).. Autonom/Exzentrisch.
+
 
 meutern: Material/Fight/Protest 3/Goal 3//Goal -2/aut/ecc
 Begründung: Meutern bedeutet, dass eine Gruppe (wie Soldaten oder Seeleute) sich aktiv und bewusst gegen eine bestehende Führung/Autorität auflehnt (3), um eine Wirkung zu erzielen (Goal 3), wobei sie gleichzeitig den etablierten Machtanspruch und die Ordnung der Führung bekämpft (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc) gegen die Autorität.. Autonom/Exzentrisch.
@@ -386,6 +439,7 @@ Begründung: In der maritimen Bedeutung steht meutern für die Revolte von Seele
 meutern: Material/Military 3/Goal 3//Goal -2/aut/ecc
 Begründung: Im militärischen Kontext bedeutet meutern, dass Soldaten sich gemeinsam gegen ihre Befehlshaber auflehnen. Sie streben aktiv (3) eine Wirkung an (Goal 3), die darauf abzielt, die militärische Befehlsstruktur und Autorität zu untergraben (//Goal -2).. Autonom/Exzentrisch.
 
+
 migrieren: Material/Population 3/Goal 3/Goal 2/het/ecc
 Begründung: Migrieren bedeutet, dass der Akteur eine Bewegung (3) durchführt, um eine Destination zu erreichen (Goal 3) mit dem übergeordneten Ziel, einen neuen, gewünschten Lebenszustand zu erreichen (Goal 2). Die Ausrichtung ist heterenom/exzentrisch (het/ecc), da die Bewegung nach außen gerichtet ist und von externen Bedingungen abhängt.. Heteronom/Exzentrisch.
 
@@ -395,11 +449,13 @@ Begründung: Im IT-Kontext bedeutet migrieren das Bewegen (3) und Verfügbarmach
 migrieren: Material/Animal 3/Goal 3/het/ecc
 Begründung: Bei Tieren bezeichnet migrieren eine saisonale Wanderung, bei der eine Bewegung (3) durchgeführt wird, um eine bestimmte Destination zu erreichen (Goal 3). Die Ausrichtung ist heterenom/exzentrisch (het/ecc), da die Bewegung nach außen gerichtet ist und von natürlichen Bedingungen abhängt.. Heteronom/Exzentrisch.
 
+
 mikroskopieren: Material/Scientific 3/5/2/Goal 5/het/ecc
 Begründung: Der Akteur bewegt (3) Untersuchungsobjekte und sucht gezielt nach Informationen (5), verfügt über einen Apparat (2), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Vorgang von den Eigenschaften des Untersuchungsobjekts abhängig ist und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 mikroskopieren: Material/Medical/Analysis 3/5/2/Goal 5/het/ecc
 Begründung: Im medizinischen Kontext bewegt (3) der Akteur Proben und sucht nach Informationen (5), verfügt über ein Mikroskop (2), um diagnostische Erkenntnisse zu gewinnen (Goal 5).. Heteronom/Exzentrisch.
+
 
 mildern: Material/Effect 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über eine Situation und bewegt/verändert (3) sie, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine Verringerung der Intensität oder Stärke. Die Kodierung erfolgt mit Goal 2, da es sich um das Erreichen eines gewünschten Zustands handelt, nicht um eine negative Entwicklung.. Autonom/Exzentrisch.
@@ -410,8 +466,10 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet 'mildern', dass der Akteur
 mildern: Material/Pain 2/3/1/Goal 2/het/ecc
 Begründung: Bei der Linderung von Schmerzen oder Beschwerden verfügt der Akteur (2) über Mittel, die durch ihre Wirkung (3) eine Besserung bewirken, die der Betroffene bekommt (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Orientierung ist heteronom/exzentrisch, da die Wirkung von externen Faktoren abhängt.. Heteronom/Exzentrisch.
 
+
 mimisieren: Material/IT 2/3/Goal 2/aut/ecc
 Begründung: Mimisieren bedeutet in der IT, dass der Akteur bestimmt (2) und eine Bewegung durchführt (3), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich ein Fenster oder eine Anwendung zu verkleinern und in der Taskleiste abzulegen. Dies geschieht autonom und ist nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 mindfullnessen: Material/Psychology 5/2/Goal 5/Goal 2/het/ecc
 Begründung: Mindfullnessen (Achtsamkeit praktizieren) bedeutet, sich bewusst informieren (5) über den eigenen mentalen Zustand und Gedanken, um diese Informationen zu kontrollieren/verfügen (2), mit dem Ziel informiert zu sein über den eigenen mentalen Zustand (Goal 5) und dadurch einen gewünschten mentalen Zustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
@@ -419,11 +477,13 @@ Begründung: Mindfullnessen (Achtsamkeit praktizieren) bedeutet, sich bewusst in
 mindfullnessen: Material/Cognitive 5/2/Goal 5/Goal 0/het/ecc
 Begründung: Als Entspannungstechnik bedeutet Mindfullnessen, sich bewusst informieren (5) über den gegenwärtigen Moment und Gedanken, um diese zu kontrollieren (2), mit dem Ziel informiert zu sein über den Moment (Goal 5) und letztlich einen Zustand der Ruhe/Erholung zu erreichen (Goal 0).. Heteronom/Exzentrisch.
 
+
 minen: Material/Mining 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) mineralische Ressourcen durch Abbau, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich das Verfügbarmachen von Rohstoffen. Die Tätigkeit ist autonom (aut) und auf die Umwelt gerichtet (ecc). Der Berg- oder Minenarbeiter gräbt selbstbestimmt nach Rohstoffen in der äußeren Umgebung.. Autonom/Exzentrisch.
 
 minen: Material/Warfare 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: In der militärischen Bedeutung bedeutet 'minen': Ein Gebiet mit Minen bestücken/verminen. Der Akteur bestimmt (2) und bewegt (3) Sprengkörper, um einen gewünschten Schutzzustand herzustellen (Goal 2) und gleichzeitig die Bewegungsfreiheit des Antagonisten einzuschränken (//Goal -3). Dies ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
+
 
 minen (Kryptowährung): Material/IT/Process 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Beim Mining von Kryptowährungen bestimmt/verfügt (2) der Akteur über Computer-Hardware, um durch Bewegen/Verarbeiten von Daten (3) einen gewünschten Zustand zu erreichen - nämlich das Erzeugen neuer Kryptowährungseinheiten (Goal 2) - mit dem übergeordneten Ziel, Geld/Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen in die Blockchain-Umwelt einwirkt.. Autonom/Exzentrisch.
@@ -431,17 +491,20 @@ Begründung: Beim Mining von Kryptowährungen bestimmt/verfügt (2) der Akteur �
 minen (Kryptowährung): Material/IT/Finance 3/5/2/Goal 2/Goal 4/aut/ecc
 Begründung: In einer stärker auf den finanziellen Aspekt ausgerichteten Betrachtung bewegt/bearbeitet (3) der Akteur Daten und Informationen (5), um die Verfügung (2) über Kryptowährungen zu erlangen (Goal 2) mit dem Ziel der finanziellen Vergütung (Goal 4).. Autonom/Exzentrisch.
 
+
 minieren: Material/Mining 3/Goal 2/aut/ecc
 Begründung: Minieren bedeutet, durch Bewegung/Anstreben (3) in Gestein oder Erde nach Rohstoffen zu suchen und diese zu gewinnen, um einen gewünschten Zustand (Goal 2) des Rohstoffbesitzes zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und in die äußere Umgebung eingreift.. Autonom/Exzentrisch.
 
 minieren: Material/Military 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: In der militärischen Bedeutung bedeutet minieren das Anbringen von Minen oder Sprengladungen. Der Akteur bewegt sich (3) und platziert (1) Minen, um einen gewünschten Zustand (Goal 2) zu erreichen, und bekämpft gleichzeitig das Bewegungsziel des Gegners (//Goal -3).. Autonom/Exzentrisch.
 
+
 minimieren: Material/Limitation 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt/modifiziert (3) etwas, um einen gewünschten Zustand der Verringerung zu erreichen (Goal 2). Dies ist eine autonome, nach außen gerichtete Handlung (aut/ecc). Minimieren bedeutet, durch kontrollierte Handlung die Größe, den Umfang oder die Auswirkung von etwas zu reduzieren - ob Kosten, Risiken oder andere Faktoren.. Autonom/Exzentrisch.
 
 minimieren: Material/IT 2/3/Goal 2/aut/con
 Begründung: In der IT-Umgebung bedeutet minimieren, ein Fenster/Programm zu verkleinern, indem der Akteur bestimmt (2) und eine Bewegungshandlung ausführt (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Dies geschieht im eigenen Kontrollbereich (aut/con).. Autonom/Konzentrisch.
+
 
 mischen: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Beim Mischen bestimmt der Akteur (2) die Bewegung (3) verschiedener Materialien, um einen gewünschten Zustand (Goal 2) zu erreichen, in dem die einzelnen Bestandteile zu einem Gemisch werden. Die Ausrichtung ist autonom/exzentrisch, da der Akteur eigenständig auf die zu mischenden Materialien einwirkt.. Autonom/Exzentrisch.
@@ -455,6 +518,7 @@ Begründung: Im Kochkontext bedeutet Mischen das Bestimmen (2) über die Bewegun
 mischen: Material/Game 2/3/Goal 2/aut/ecc
 Begründung: Bei Spielen (z.B. Kartenmischen) bedeutet Mischen das kontrollierte (2) Bewegen (3) von Spielelementen, um einen gewünschten Zustand (Goal 2) der Zufälligkeit zu erreichen.. Autonom/Exzentrisch.
 
+
 missachten: Interpersonal/Respect 2/3//Goal -5/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch sein Verhalten (3), dass der Antagonist nicht die gewünschte Aufmerksamkeit/Beachtung erhält (//Goal -5). Es handelt sich um eine bewusste Entscheidung des Akteurs, die Kontaktbemühungen oder den Wunsch nach Beachtung des Antagonisten zu ignorieren und abzuwehren.. Autonom/Exzentrisch.
 
@@ -464,11 +528,13 @@ Begründung: Im Kontext von Regeln oder Vorschriften bedeutet missachten, dass d
 missachten: Material/Law/Compliance 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im rechtlichen Kontext bedeutet missachten, dass der Akteur bewusst (2) gegen Gesetze oder Vorschriften verstößt (3), um seine eigenen Interessen durchzusetzen (Goal 2), wobei er die rechtlichen Anforderungen des Antagonisten aktiv bekämpft (//Goal -2).. Autonom/Exzentrisch.
 
+
 missbilligen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Missbilligen bedeutet, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er ihm eine Information gibt (1/5), die den Zustand des Antagonisten als nicht gewünscht/unakzeptabel kennzeichnet (Goal -2). Dadurch erreicht der Akteur seinen eigenen gewünschten Zustand (//Goal 2), nämlich seine Ablehnung auszudrücken. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
 
 missbilligen: Interpersonal/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet missbilligen, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er ihm eine Information gibt (1/5), die den zwischenmenschlichen Status des Antagonisten als nicht akzeptabel kennzeichnet (Goal -2). Dadurch erreicht der Akteur seinen eigenen sozialen Zustand (//Goal 2), nämlich Distanz oder Abgrenzung zu schaffen.. Autonom/Exzentrisch.
+
 
 missbrauchen: Material/Criminal 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur verfügt über/kontrolliert (2) etwas oder jemanden und bewegt/strebt an (3), einen für sich gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig die gewünschten Zustände des Antagonisten bekämpft (//Goal -2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
@@ -482,11 +548,13 @@ Begründung: Im Kontext von Abhängigkeit (z.B. Substanzmissbrauch) bedeutet es,
 missbrauchen: Interpersonal/Sex 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im sexuellen Kontext bedeutet missbrauchen, dass der Akteur seine Macht/Kontrolle (2) über jemanden ausnutzt und aktiv handelt (3), um eigene Befriedigung zu erreichen (Goal 2), während er die Selbstbestimmung des Antagonisten verletzt (//Goal -2).. Autonom/Exzentrisch.
 
+
 missdeuten: Material/Interpretation 3/5/2/Goal -5/het/ecc
 Begründung: Missdeuten bedeutet, dass der Akteur Informationen falsch auslegt oder interpretiert. Der Akteur bewegt sich (3) zu Informationen hin (5) und verfügt (2) über sie auf eine Weise, die zu einem unzutreffenden Informationsstand führt (Goal -5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von externen Informationen abhängig ist und seine Interpretation nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 missdeuten: Interpersonal/Communication 3/5/2/Goal -5//Goal -2/het/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet missdeuten, dass der Akteur die Aussagen oder Handlungen einer anderen Person falsch interpretiert (3/5/2/Goal -5), was potenziell zu einem Missverständnis führt und den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2).. Heteronom/Exzentrisch.
+
 
 misshandeln: Material/Fight/Aggression 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Misshandeln bedeutet, dass der Akteur durch aktive Bewegung (3) und direkten Eingriff (1) einen eigenen gewünschten Zustand (Goal 2) erreicht, während er gleichzeitig eine negative Wirkung (//Goal -3) beim Antagonisten verursacht. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc). Die Kodierung beinhaltet den Aspekt der aggressiven Handlung gegen den Körper oder die Psyche einer anderen Person mit der Absicht, Schaden zuzufügen.. Autonom/Exzentrisch.
@@ -494,11 +562,13 @@ Begründung: Misshandeln bedeutet, dass der Akteur durch aktive Bewegung (3) und
 misshandeln: Interpersonal/Psychological/Fight 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im psychologischen Kontext bedeutet misshandeln, dass der Akteur bestimmt (2) mit psychologischem Druck (3) einen eigenen gewünschten Zustand (Goal 2) herbeiführt, während er eine negative Wirkung (//Goal -3) beim Antagonisten verursacht. Dies bezieht sich auf emotionale oder psychische Misshandlung, bei der der Akteur durch Kontrolle und psychischen Druck das Wohlbefinden des Antagonisten beeinträchtigt.. Autonom/Exzentrisch.
 
+
 missionieren: Interpersonal/Religious 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Beim Missionieren bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er religiöse Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), mit dem übergeordneten Ziel für den Akteur (//Goal 2), einen gewünschten religiösen Zustand (Bekehrung/Glaubensänderung) zu erreichen.. Autonom/Exzentrisch.
 
 missionieren: Material/Religious 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im institutionellen/beruflichen religiösen Kontext bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er religiöse Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), mit dem Ziel für den Akteur (//Goal 4), Anerkennung/Erfolg innerhalb der religiösen Organisation zu bekommen.. Autonom/Exzentrisch.
+
 
 misstrauen: Interpersonal/Psychological -0/Goal -0/aut/ecc
 Begründung: Misstrauen bedeutet, dass der Akteur eine negative Voreinstellung (Goal -0) einnimmt und aktiv Vertrauen verweigert (-0). Der Akteur vermeidet aufgrund von Ängsten oder negativen Erfahrungen eine vertrauensvolle Haltung gegenüber einer anderen Person oder Situation. Diese Haltung ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da sie sich auf etwas oder jemanden außerhalb des Akteurs bezieht.. Autonom/Exzentrisch.
@@ -506,17 +576,20 @@ Begründung: Misstrauen bedeutet, dass der Akteur eine negative Voreinstellung (
 misstrauen: Material/Security 5/3/Goal 5/Goal 2/het/ecc
 Begründung: Im Sicherheitskontext bedeutet Misstrauen, dass man Informationen (5) kritisch untersucht (3), um informiert zu sein (Goal 5) mit dem Ziel, einen gewünschten (sicheren) Zustand herzustellen oder zu bewahren (Goal 2). Diese Bedeutung ist heteronomer Natur (het), da sie von äußeren Umständen abhängig ist, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 missverstehen: Material/Communication 5/3/Goal -5/het/ecc
 Begründung: Der Akteur nimmt Informationen auf (5) und verarbeitet/interpretiert sie (3), erreicht aber nicht das Ziel informiert zu sein (Goal -5), da er die Information falsch interpretiert. Die Ausrichtung ist heteronom/exzentrisch, weil der Akteur von externen Informationen abhängig ist und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
 
 missverstehen: Interpersonal/Communication 5/3/Goal -5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet missverstehen, dass der Akteur die Kommunikation eines anderen Menschen aufnimmt (5), sie verarbeitet (3), aber nicht zum korrekten Verständnis gelangt (Goal -5). Die interpersonelle Dimension steht im Vordergrund, da es um den Kontakt zwischen Menschen geht.. Heteronom/Exzentrisch.
 
+
 mit jemandem teilen: Material/Sharing-Economy 4/1/Goal 2//Goal 4/het/ecc
 Begründung: Mit jemandem teilen bedeutet, dass der Akteur eine Leistung (4) für einen Antagonisten erbringt, indem er etwas gibt/abgibt (1), damit der Antagonist über dieses Objekt verfügen kann (Goal 2). Letztendlich führt diese Handlung zur Anerkennung des Akteurs (//Goal 4). Die Ausrichtung ist heteronom/eccentric, da der Akteur sich nach dem Bedarf des Anderen richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
 mit jemandem teilen: Interpersonal/Relationship 4/1/Goal 1//Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext kann Teilen auch bedeuten, dass der Akteur etwas mit jemandem teilt (4/1), um Nähe zu schaffen (Goal 1 vor //), was gleichzeitig auch dem Akteur selbst Nähe verschafft (//Goal 1). Hier steht der gemeinsame emotionale Nutzen im Vordergrund, nicht der materielle Besitz.. Heteronom/Exzentrisch.
+
 
 mit jemandem verschmelzen: Interpersonal 3/1/Goal 1/aut/ecc
 Begründung: Beim Verschmelzen mit jemandem bewegt sich der Akteur (3) auf einen Antagonisten zu, um Nähe zu bekommen (1) mit dem Ziel, Verbundenheit/Nähe zu erleben (Goal 1). Die Ausrichtung ist autonom (aut), da der Akteur die Verschmelzung selbst anstrebt, und exzentrisch (ecc), da sie auf eine andere Person gerichtet ist.. Autonom/Exzentrisch.
@@ -527,6 +600,7 @@ Begründung: Im sexuellen Kontext bedeutet Verschmelzen, dass der Akteur sich be
 mit jemandem verschmelzen: Material/Chemical/Process 3/1/Goal 2/aut/ecc
 Begründung: Im materiellen Kontext bedeutet Verschmelzen einen Prozess, bei dem durch Bewegung (3) und Zusammenführen (1) ein neuer gewünschter Zustand (Goal 2) erreicht wird, wie beim Legieren von Metallen.. Autonom/Exzentrisch.
 
+
 mitgehen: Material/Transportation 3/Goal 3/het/ecc
 Begründung: Der Akteur bewegt sich (3) zusammen mit einer anderen Person oder Gruppe, um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom (het), da der Akteur sich an der Bewegungsrichtung anderer orientiert, und exzentrisch (ecc), da die Bewegung nach außen in Richtung eines Ziels gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -536,17 +610,20 @@ Begründung: Im Sinne von 'etwas stehlen' oder 'unerlaubt mitnehmen' bewegt sich
 mitgehen: Interpersonal/Support 4/3/Goal 3//Goal 4/het/ecc
 Begründung: Im Sinne von 'jemanden begleiten, um zu helfen' leistet der Akteur etwas für den Antagonisten (4), indem er sich mit ihm bewegt (3), damit dieser sein Ziel erreicht (Goal 3), während der Akteur selbst Anerkennung erhält (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Handlung an den Bedürfnissen des Anderen ausgerichtet ist.. Heteronom/Exzentrisch.
 
+
 mitgestalten: Material/Creative 2/4/3/Goal 2//Goal 4/aut/ecc
 Begründung: Beim Mitgestalten verfügt (2) der Akteur über eigene Ideen und leistet (4) einen Beitrag durch Bewegung/Bearbeitung (3), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er schlussendlich Anerkennung erhält (//Goal 4). Der Akteur ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da er kreativ auf etwas einwirkt.. Autonom/Exzentrisch.
 
 mitgestalten: Material/Cooperation 2/4/3/Goal 2//Goal 2/Goal 4/het/ecc
 Begründung: In kooperativen Kontexten bedeutet mitgestalten, dass der Akteur selbstbestimmt (2) eine Leistung (4) durch Bewegung/Bearbeitung (3) erbringt, um sowohl einen gewünschten Zustand für den Antagonisten (Goal 2) als auch einen gemeinsamen gewünschten Zustand nach dem Wechsel (//Goal 2) zu erreichen, wobei Anerkennung (Goal 4) das Endziel ist. Hier passt der Akteur sich auch an andere Gestalter an (het).. Heteronom/Exzentrisch.
 
+
 mithören: Material/Surveillance 5/Goal 5/het/ecc
 Begründung: Mithören bedeutet, dass der Akteur sich informiert (5), indem er Gespräche oder Kommunikation anderer Personen verfolgt, mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich nach externen Informationsquellen richten muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 mithören: Material/IT/Security 5/1/Goal 5/het/ecc
 Begründung: Im Kontext von digitaler Überwachung oder Abhörmaßnahmen bedeutet mithören, dass der Akteur sich informiert (5) und Informationen bekommt (1), die eigentlich für andere bestimmt sind, mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Informationsquellen richten muss.. Heteronom/Exzentrisch.
+
 
 mitmachen: Material/Participation 4/1/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur leistet für den Antagonisten (4) durch Teilnahme an einer Aktivität (1), damit der Antagonist seinen gewünschten Zustand erreicht (Goal 2). Nach dem Perspektivwechsel (//) erhält der Akteur dafür Anerkennung oder eine andere Form der Vergütung (Goal 4). Die Ausrichtung ist heteronom und exzentrisch, da sich der Akteur an die Vorgaben des Antagonisten anpasst und nach außen wirkt.. Heteronom/Exzentrisch.
@@ -557,6 +634,7 @@ Begründung: In einem Gruppenkontext bedeutet mitmachen auch, dass der Akteur ei
 mitmachen: Interpersonal/Social 4/3/5/Goal 5//Goal 1/het/ecc
 Begründung: Im sozialen Kontext bedeutet mitmachen, dass der Akteur sich in eine soziale Interaktion einbringt (4), sich dabei aktiv bewegt (3) und an kommunikativen Prozessen teilnimmt (5), um Kontakt herzustellen (Goal 5). Für den Akteur führt dies zu einem Gefühl von Nähe und Zugehörigkeit (//Goal 1).. Heteronom/Exzentrisch.
 
+
 mitnehmen: Material/Transportation 3/1/Goal 3/aut/ecc
 Begründung: Mitnehmen bedeutet, dass der Akteur eine Bewegung (3) ausführt und dabei etwas bekommt/mit sich nimmt (1), um eine Destination zu erreichen (Goal 3). Der Akteur bewegt sich selbst und ein Objekt zu einem Ziel, wobei das Objekt in seinen Verfügungsbereich übergeht.. Autonom/Exzentrisch.
 
@@ -565,6 +643,7 @@ Begründung: Im übertragenen Sinne bedeutet 'mitnehmen' im Sinne von 'jemanden 
 
 mitnehmen: Material/Transportation 2/4/3/1/Goal 3//Goal 4/aut/ecc
 Begründung: Im Kontext des Personentransports bedeutet 'mitnehmen', dass der Akteur bestimmt (2), eine Leistung (4) für einen Antagonisten zu erbringen, indem er ihn durch Bewegung (3) zu einer Destination mitnimmt (1/Goal 3), wobei der Akteur dafür Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
+
 
 mitreißen: Interpersonal/Emotions 3/1/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3) zu erreichen/bekommen (1), dass andere von seiner Begeisterung/Emotion mitgerissen werden und dadurch eine Wirkung bei den anderen erzielt wird (Goal 3). Dies geschieht selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
@@ -575,6 +654,7 @@ Begründung: Im physischen Sinne bedeutet mitreißen, dass der Akteur durch sein
 mitreißen: Material/Fluids 3/1/Goal 3/het/ecc
 Begründung: Im Kontext von Flüssigkeiten bedeutet mitreißen, dass etwas durch eine Strömung bewegt (3) und mitgenommen wird (1), um eine bestimmte Wirkung/Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom und nach außen gerichtet (het/ecc), da die Bewegung von externen Kräften abhängig ist.. Heteronom/Exzentrisch.
 
+
 mitspielen: Fight/Games 4/3/Goal 3//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) durch Bewegung (3) eine spielerische Aktivität für einen Antagonisten (Mitspieler/Spielleiter), um eine gemeinsame Wirkung zu erzielen (Goal 3) und dabei Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Spielregeln anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
 
@@ -584,11 +664,13 @@ Begründung: Im Wettbewerbskontext bedeutet mitspielen, dass der Akteur eine Lei
 mitspielen: Interpersonal 4/1/Goal 2//Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'mitspielen' häufig 'sich fügen/anpassen' - der Akteur leistet (4) durch Akzeptanz (1) einen Beitrag zum gewünschten Zustand des Antagonisten (Goal 2), um selbst Nähe/Zugehörigkeit zu erfahren (//Goal 1).. Heteronom/Exzentrisch.
 
+
 mitteilen: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm (1) Informationen gibt (5), damit dieser informiert ist (Goal 5). Nach dem Perspektivwechsel (//), ist das Ziel des Akteurs, Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 mitteilen: Interpersonal/Communication 4/1/5/Goal 5//Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext kann 'mitteilen' auch bedeuten, dass der Akteur dem Antagonisten (4) Informationen gibt (1/5), damit dieser informiert ist (Goal 5), mit dem Ziel für den Akteur (//), Nähe oder emotionale Verbindung zu erhalten (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur die Bedürfnisse des Empfängers berücksichtigen muss.. Heteronom/Exzentrisch.
+
 
 mitwirken: Material/Cooperation 4/3/Goal 2//Goal 4/het/ecc
 Begründung: Mitwirken bedeutet, dass der Akteur eine Leistung (4) für einen Antagonisten erbringt, indem er mit Bewegung/Anstreben (3) zur Realisierung eines gewünschten Zustands beiträgt (Goal 2). Der Akteur tut dies mit dem eigenen Ziel (nach //), Anerkennung zu erhalten (Goal 4). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an den Vorgaben des gemeinsamen Projekts orientiert und nach außen wirkt.. Heteronom/Exzentrisch.
@@ -599,6 +681,7 @@ Begründung: In einem Gruppen- oder Projektkontext bedeutet mitwirken, dass der 
 mitwirken: Material/Performing-Arts 4/3/5/Goal 5//Goal 4/het/ecc
 Begründung: Im künstlerischen Kontext bedeutet mitwirken, dass der Akteur eine Leistung (4) durch Bewegung (3) und Informationsvermittlung (5) erbringt, mit dem Ziel, das Publikum zu informieren/unterhalten (Goal 5), während der Akteur selbst Anerkennung erhält (//Goal 4).. Heteronom/Exzentrisch.
 
+
 mobben: Interpersonal/Fight/Dispute 2/3/5/Goal 2//Goal -3/Goal -2/aut/ecc
 Begründung: Mobben bedeutet, dass der Akteur bestimmt (2) durch bewusste Angriffe (3) und wiederholte Kontaktaufnahmen (5) einen gewünschten Zustand der Machtausübung für sich zu erreichen (Goal 2), während er gleichzeitig die Wirkungsmöglichkeiten des Antagonisten einschränkt (//Goal -3) und den Zustand des Antagonisten verschlechtert (//Goal -2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
@@ -607,6 +690,7 @@ Begründung: Im Arbeitskontext bedeutet Mobben, dass der Akteur bestimmt (2) dur
 
 mobben: Interpersonal/Group 2/3/5/Goal 2//Goal -3/Goal -2/aut/ecc
 Begründung: Im Gruppenkontext bedeutet Mobben, dass eine Gruppe bestimmt (2) durch kollektive Angriffe (3) und wiederholte negative Kontaktaufnahmen (5) ihre Gruppenmacht zu stärken (Goal 2), während sie gleichzeitig die soziale Wirkungsmöglichkeit des Opfers einschränkt (//Goal -3) und dessen psychologischen Zustand verschlechtert (//Goal -2).. Autonom/Exzentrisch.
+
 
 mobilisieren: Material/Military 2/3/Goal 3/Goal 2/aut/ecc
 Begründung: Eine Autorität/Institution verfügt (2) über Bewegung (3) von Streitkräften, um eine Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand der Einsatzbereitschaft herzustellen (Goal 2). Bei der militärischen Mobilisierung bestimmt eine Autorität die Bewegung von Truppen für den Zweck der Einsatzbereitschaft.. Autonom/Exzentrisch.
@@ -620,11 +704,13 @@ Begründung: Im politischen Sinne bedeutet mobilisieren, Menschen zu aktivieren 
 mobilisieren: Material/Finance 2/3/Goal 2/aut/ecc
 Begründung: Im finanziellen Kontext bedeutet mobilisieren, Ressourcen/Kapital verfügbar zu machen (2) und in Bewegung zu setzen (3), um einen gewünschten wirtschaftlichen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 mobilitätsmanagen: Material/Transportation 2/3/Goal 3/Goal 2/aut/ecc
 Begründung: Mobilitätsmanagen bedeutet das Verfügen über (2) und Steuern von Bewegungsmitteln und -prozessen (3), um das Erreichen von Destinationen (Goal 3) mit dem übergeordneten Ziel eines optimierten Zustands des Verkehrssystems (Goal 2) zu verbinden. Es handelt sich um eine autonome, nach außen gerichtete Aktivität, die Transportwege, Verkehrsmittel und Personenströme koordiniert.. Autonom/Exzentrisch.
 
 mobilitätsmanagen: Material/Management 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: In der beruflichen Bedeutung bezeichnet mobilitätsmanagen das Verfügen über (2) und organisieren von Bewegungsabläufen (3) für einen gewünschten Zustand (Goal 2) mit dem Endziel der Anerkennung/Vergütung für die Managementleistung (Goal 4). Diese Bedeutung fokussiert auf den professionellen Aspekt des Mobilitätsmanagements.. Autonom/Exzentrisch.
+
 
 modellieren: Material/Creative 3/Goal 2/aut/ecc
 Begründung: Beim Modellieren bewegt/bearbeitet (3) der Akteur Material gezielt, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine dreidimensionale Form oder ein Modell zu schaffen. Die Tätigkeit ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt mit externen Materialien arbeitet.. Autonom/Exzentrisch.
@@ -635,11 +721,13 @@ Begründung: In der IT bedeutet Modellieren das Bewegen/Bearbeiten (3) von Infor
 modellieren: Material/Fashion 4/3/Goal 3//Goal 4/aut/ecc
 Begründung: Als Tätigkeit eines Fotomodells bedeutet Modellieren eine Leistung für Andere (4) durch Bewegung/Posieren (3), um eine Wirkung zu erzielen (Goal 3), mit dem Ziel Anerkennung und Bezahlung zu erhalten (//Goal 4). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da das Modell selbstbestimmt agiert, um Außenwirkung zu erzielen.. Autonom/Exzentrisch.
 
+
 modeln: Material/Creative 3/Goal 2/aut/ecc
 Begründung: Beim Modeln bewegt/formt (3) der Akteur ein Material (z.B. Ton, Lehm) in eine gewünschte Form oder Gestalt, um einen bestimmten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein außenliegendes Material einwirkt.. Autonom/Exzentrisch.
 
 modeln: Material/Fashion 3/5/Goal 3/Goal 2/Goal 4/aut/ecc
 Begründung: In der Bedeutung als Tätigkeit eines Mannequins oder Fotomodells bewegt sich (3) der Akteur und präsentiert sich (5), um eine bestimmte Wirkung (Goal 3) und einen gewünschten Zustand (Goal 2) zu erzielen, mit dem Endziel, geschäftlich Anerkennung und Bezahlung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
 
 moderieren: Material/Media 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen (1/5) gibt, damit der Antagonist (z.B. das Publikum) informiert ist (Goal 5), was letztendlich dem Akteur Anerkennung und Bezahlung einbringt (//Goal 4). Der Moderator lenkt und leitet die Kommunikation in einer Sendung, Veranstaltung oder Diskussion.. Autonom/Exzentrisch.
@@ -657,6 +745,7 @@ Begründung: In zwischenmenschlichen Diskussionen bedeutet moderieren, als vermi
 moderieren: Material/Fight/Dispute 2/4/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im Konfliktkontext bedeutet moderieren, bestimmend (2) eine Leistung für die Konfliktparteien zu erbringen (4), indem man durch Informationsvermittlung (5) einen unerwünschten Zustand (Konflikt) für die Antagonisten (Goal -2) reduziert. Das eigene Ziel des Moderators ist die Herstellung eines gewünschten friedlichen Zustands (//Goal 2).. Autonom/Exzentrisch.
 
+
 modernisieren: Material/Technological 2/3/Goal 2/aut/ecc
 Begründung: Modernisieren bedeutet, bestehende Objekte, Systeme oder Einrichtungen durch gezielte Veränderungen (2/3) auf einen neueren, zeitgemäßeren Stand zu bringen, um einen besseren, aktuelleren Zustand zu erreichen (Goal 2). Der Akteur verfügt über die Kontrolle (2) und trifft autonome Entscheidungen darüber, wie die Transformation durch Veränderung/Bewegung (3) erfolgen soll, wobei die Aktivität nach außen auf das zu modernisierende Objekt gerichtet ist (aut/ecc).. Autonom/Exzentrisch.
 
@@ -665,6 +754,7 @@ Begründung: Im IT-Kontext bedeutet modernisieren, bestehende Systeme oder Softw
 
 modernisieren: Material/Organization 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im organisatorischen Kontext bedeutet modernisieren, bestehende Strukturen, Prozesse oder Arbeitsmethoden durch gezielte Veränderungen (2/3) zu aktualisieren, um einen besseren Zustand (Goal 2) zu erreichen, der letztendlich zu besserer Leistungsfähigkeit und wirtschaftlichem Erfolg führt (Goal 4).. Autonom/Exzentrisch.
+
 
 modifizieren: Material/Adaptation 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/bestimmt (2) über etwas und führt Bewegungen/Änderungen (3) durch, um einen gewünschten Zustand (Goal 2) zu erreichen. Dies ist eine selbstgesteuerte (aut) und nach außen gerichtete (ecc) Aktivität, bei der bestehende Strukturen oder Eigenschaften angepasst werden, ohne sie komplett zu verändern.. Autonom/Exzentrisch.
@@ -675,6 +765,7 @@ Begründung: Im IT-Kontext bedeutet bestehenden Code, Daten oder Software-Eigens
 modifizieren: Material/Document 2/3/Goal 5/aut/ecc
 Begründung: Bei Dokumenten bedeutet modifizieren, dass der Akteur über ein bestehendes Dokument verfügt (2) und Änderungen daran vornimmt (3), um einen gewünschten neuen Dokument zu erreichen (Goal 5). Der Akteur entscheidet selbst über die Änderungen (aut) und wirkt auf das externe Objekt ein (ecc).. Autonom/Exzentrisch.
 
+
 modulieren: Material/Sound 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Modulieren bedeutet, dass der Akteur bestimmt/verfügt (2) über eine Bewegung/Veränderung (3), um einen gewünschten Zustand (Goal 2) bei einem Signal oder einer Welle zu erreichen, wodurch auch Informationen (Goal 5) übertragen werden. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf etwas außerhalb einwirkt.. Autonom/Exzentrisch.
 
@@ -683,6 +774,7 @@ Begründung: Im technischen Kontext bedeutet modulieren, eine Trägerwelle durch
 
 modulieren: Material/Music 2/3/Goal 2/aut/ecc
 Begründung: In der Musik bedeutet modulieren, bestimmt (2) die Tonart zu wechseln oder zu verändern (3), um einen neuen klanglichen Zustand (Goal 2) zu erreichen. Der Akteur steuert den Übergang zwischen verschiedenen Tonarten kontrolliert.. Autonom/Exzentrisch.
+
 
 mogeln: Material/Deception 3/5/2/Goal 2//Goal -2/aut/ecc
 Begründung: Beim Mogeln bewegt/nutzt (3) der Akteur Informationen (5), um bestimmend (2) einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Dies geschieht selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
@@ -693,11 +785,13 @@ Begründung: Im Kontext von Spielen bedeutet Mogeln, dass der Akteur durch Beweg
 mogeln: Interpersonal/Deception 3/5/Goal 5//Goal -2/aut/ecc
 Begründung: In zwischenmenschlichen Beziehungen kann Mogeln bedeuten, dass der Akteur durch Manipulation (3) von Informationen (5) eine Täuschung herbeiführt (Goal 5), um einen nachteiligen Zustand für den Antagonisten zu bewirken (//Goal -2).. Autonom/Exzentrisch.
 
+
 montieren: Material/Construction 3/Goal 2/aut/ecc
 Begründung: Beim Montieren bewegt (3) der Akteur Einzelteile zu einem funktionsfähigen Ganzen zusammen, um einen gewünschten Zustand zu erreichen (Goal 2). Die Tätigkeit erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da das zu bearbeitende Objekt als im Außenbereich befindlich betrachtet wird.. Autonom/Exzentrisch.
 
 montieren: Material/Manufacturing 3/Goal 2/Goal 4/aut/ecc
 Begründung: In der Fertigungsindustrie bedeutet Montieren das Bewegen (3) und Zusammenfügen von Teilen zu einem fertigen Produkt, um einen gewünschten Zustand zu erreichen (Goal 2) mit dem übergeordneten Ziel, im beruflichen Kontext Anerkennung/Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
 
 moralisieren: Interpersonal/Religious 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Moralisieren bedeutet, dass der Akteur bestimmt (2), eine Leistung (4) für den Antagonisten zu erbringen, indem er ihm Informationen gibt (1/5), die einen unerwünschten moralischen Zustand beim Antagonisten aufzeigen sollen (Goal -2), mit dem eigenen Ziel, einen gewünschten Zustand der moralischen Überlegenheit zu erreichen (//Goal 2). Der Akteur belehrt den Antagonisten über moralisches Verhalten, oft ungefragt und von einer Position vermeintlicher moralischer Überlegenheit aus.. Autonom/Exzentrisch.
@@ -705,11 +799,13 @@ Begründung: Moralisieren bedeutet, dass der Akteur bestimmt (2), eine Leistung 
 moralisieren: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In einem weltlichen Kontext bedeutet moralisieren, dass der Akteur bestimmt (2), eine Leistung (4) für den Antagonisten zu erbringen, indem er ihm kritische Informationen gibt (1/5), die auf moralische Verfehlungen hinweisen (Goal -2), um selbst einen Zustand moralischer Überlegenheit zu erreichen (//Goal 2). Hier steht der Aspekt der moralischen Kritik im Vordergrund, nicht der religiöse Kontext.. Autonom/Exzentrisch.
 
+
 morden: Material/Criminal/Activities 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) eine Wirkung (Goal 3), die zum gewünschten Zustand des Tötens führt (Goal 2) und gleichzeitig den gewünschten Lebenszustand des Antagonisten verhindert (//Goal -2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
 
 morden: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: In einem Kampfkontext bedeutet morden, aggressiv (3) eine tödliche Wirkung herbeizuführen (1/Goal 3), um einen gewünschten Zustand zu erreichen (Goal 2), wobei gezielt das Leben des Antagonisten beendet wird (//Goal -2).. Autonom/Exzentrisch.
+
 
 murren: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 2/het/ecc
 Begründung: Murren bedeutet, dass der Akteur seinen Unmut oder seine Unzufriedenheit auf zurückhaltende Weise äußert (3/4/1/5). Der Akteur bewegt sich auf den Antagonisten zu (3), leistet durch diese Äußerung etwas für ihn (4), indem er ihm (1) Informationen über seinen Unmut gibt (5), mit dem Ziel, dem Antagonisten einen unerwünschten Zustand zu vermitteln (Goal -2). Nach dem Umschalter (//) folgt das eigentliche Ziel des Akteurs: einen gewünschten Zustand für sich selbst zu erreichen (Goal 2), nämlich seinen Unmut loszuwerden. Die Ausrichtung ist heteronym/exzentrisch (het/ecc), da der Akteur sich an die Situation anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -717,11 +813,13 @@ Begründung: Murren bedeutet, dass der Akteur seinen Unmut oder seine Unzufriede
 murren: Material/Emotions 4/1/5/Goal -2//Goal 2/het/ecc
 Begründung: In einem emotionalen Kontext bedeutet murren das leise, oft undeutliche Äußern von Unzufriedenheit ohne direkten Adressaten. Der Akteur leistet (4) durch das Geben (1) einer emotionalen Information (5), die einen negativen Zustand ausdrückt (Goal -2), um für sich selbst einen gewünschten Zustand (//Goal 2) zu erreichen, nämlich die Entlastung durch das Ausdrücken der Emotion.. Heteronom/Exzentrisch.
 
+
 musizieren: Interpersonal/Art-Action 3/4/Goal 3//Goal 4/aut/ecc
 Begründung: Musizieren bedeutet, dass der Akteur autonom eine Bewegung ausführt (3), die eine Leistung für andere darstellt (4), um eine künstlerische Wirkung zu erzielen (Goal 3), wobei der Akteur letztendlich Anerkennung und Wertschätzung erhält (//Goal 4). Der Übergang von der Leistung für andere zurück zu den Zielen des Akteurs wird durch // markiert.. Autonom/Exzentrisch.
 
 musizieren: Material/Music 2/3/Goal 3/Goal 5/aut/ecc
 Begründung: In einem materiellen Kontext bedeutet musizieren, dass der Akteur ein Instrument kontrolliert/bedient (2) und durch Bewegung (3) eine akustische Wirkung erzielt (Goal 3), die gleichzeitig Informationen in Form von Klängen/Musik vermittelt (Goal 5).. Autonom/Exzentrisch.
+
 
 mühen: Material/Struggle 3/Goal 2/het/ecc
 Begründung: Mühen bedeutet, mit Anstrengung und Bewegung/Aktivität (3) auf einen gewünschten Zustand (Goal 2) hinzuarbeiten. Man muss sich dabei an äußere Gegebenheiten anpassen (het) und ist nach außen gerichtet (ecc), um trotz Widerständen ein Ziel zu erreichen.. Heteronom/Exzentrisch.
@@ -731,3 +829,4 @@ Begründung: Im Sinne von 'sich abmühen' bedeutet es, eine Bewegung/Anstrengung
 
 mühen: Interpersonal/Struggle 3/Goal 2//Goal -3/het/ecc
 Begründung: Im zwischenmenschlichen Kontext kann 'mühen' bedeuten, dass man sich anstrengt (3), um einen gewünschten Zustand (Goal 2) zu erreichen, während man gegen den Widerstand oder die Einflussnahme anderer Personen (//Goal -3) ankämpft.. Heteronom/Exzentrisch.
+
