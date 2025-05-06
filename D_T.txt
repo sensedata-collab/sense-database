@@ -4,11 +4,13 @@ Begründung: Tabellarisieren bedeutet, Daten oder Informationen in eine übersic
 tabellarisieren: Material/IT/Documentation 2/3/5/Goal 5/aut/ecc
 Begründung: Im IT-Kontext bedeutet tabellarisieren das Organisieren von Daten in strukturierte Tabellen innerhalb einer Datenbank oder einem Dokument. Der Akteur verfügt (2) über Daten, bewegt/strukturiert (3) diese in ein tabellarisches Format, um Informationen (5) übersichtlicher darzustellen und zugänglicher zu machen (Goal 5).. Autonom/Exzentrisch.
 
+
 tabellieren: Material/Documentation 2/3/Goal 5/het/ecc
 Begründung: Tabellieren bedeutet, dass der Akteur Daten strukturiert in Tabellenform anordnet (2/3), um übersichtliche Informationen zu schaffen (Goal 5). Die Aktivität ist heteronom, da sie sich nach vorgegebenen Daten richtet, und exzentrisch, weil eine nach außen gerichtete Dokumentation erstellt wird.. Heteronom/Exzentrisch.
 
 tabellieren: Material/IT/Documentation 2/3/Goal 5/het/ecc
 Begründung: Im IT-Kontext bezeichnet tabellieren das systematische Anordnen von Daten in Tabellen innerhalb einer Software oder Datenbank, wobei der Akteur die Daten strukturiert (2/3), um sie in einem geordneten Format verfügbar zu machen (Goal 5).. Heteronom/Exzentrisch.
+
 
 tadeln: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die kritisch sind und einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), nämlich Korrektur des Verhaltens oder der Leistung des Antagonisten. Die Ausrichtung ist autonom/exzentrisch, da der Akteur aus eigener Initiative heraus handelt und auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -16,11 +18,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er In
 tadeln: Material/Education 2/4/1/5/Goal -2//Goal 2/Goal 4/aut/ecc
 Begründung: Im Bildungskontext tadelt der Lehrende (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die kritisch sind und dem Lernenden eine negative Rückmeldung geben (Goal -2). Dies dient dem pädagogischen Ziel, einen gewünschten Zustand zu erreichen (//Goal 2) und professionelle Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 tafeln: Material/Food 2/1/Goal 1/aut/con
 Begründung: Tafeln bedeutet, zu speisen/essen, insbesondere in einem festlichen oder gehobenen Kontext. Der Akteur bestimmt/verfügt (2) über Nahrung und bekommt (1) diese, um gesättigt zu sein (Goal 1). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt im eigenen Bereich (am Tisch) handelt.. Autonom/Konzentrisch.
 
 tafeln: Material/Hospitality 3/1/Goal 1/het/ecc
 Begründung: In der Bedeutung 'an einer großen Tafel teilnehmen/schmausen' bewegt sich (3) der Akteur zu einer Veranstaltung, um Nahrung zu bekommen (1) und gesättigt zu sein (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an die Gegebenheiten der Veranstaltung anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
 
 tagen: Material/Meeting 3/5/Goal 5/aut/ecc
 Begründung: Eine Tagung/Konferenz abhalten bedeutet, dass Teilnehmer sich aktiv bewegen/zusammenkommen (3) und sich gegenseitig informieren (5), um den Zustand des Informiertseins zu erreichen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da die Teilnehmer selbstbestimmt (aut) in einem äußeren Kontext (ecc) agieren.. Autonom/Exzentrisch.
@@ -31,6 +35,7 @@ Begründung: In der Bedeutung 'es tagt/es wird Tag' beschreibt das Wort einen na
 tagen: Material/Government 2/5/Goal 5/Goal 2/aut/ecc
 Begründung: Im Kontext eines Parlaments oder Gerichts bedeutet tagen, dass in einer bestimmenden Funktion (2) Informationen ausgetauscht werden (5), um informiert zu sein (Goal 5) und letztlich gewünschte Zustände (Urteile, Gesetze) zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 taggen: Material/Marker 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Markierungen gibt (1) mit Informationsgehalt (5), damit der Antagonist (z.B. ein Objekt oder eine Datei) als informiert gilt (Goal 5). Nach dem Wechsel (durch //) kommt das Ziel des Akteurs: die geschäftliche Anerkennung (Goal 4).. Autonom/Exzentrisch.
 
@@ -40,11 +45,13 @@ Begründung: In der IT-Welt bedeutet taggen das Hinzufügen von Metadaten oder S
 taggen: Material/Criminal 2/3/1/5/Goal 5/aut/ecc
 Begründung: Im Sinne von Graffiti-Sprayen bedeutet taggen das Anbringen einer persönlichen Markierung. Der Akteur bestimmt (2) mit Bewegung (3) das Geben (1) einer Information (5), um einen informatorischen Zustand zu erreichen (Goal 5).. Autonom/Exzentrisch.
 
+
 takeln: Material/Maritime 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) über Takelage, Seile oder Tauwerk und bearbeitet/bewegt (3) diese durch fachgerechtes Verbinden, Verknoten oder Befestigen, um einen gewünschten Zustand (Goal 2) an Bord eines Schiffes zu erreichen. Es handelt sich um eine seemännische Tätigkeit, bei der der Akteur autonom handelt (aut) und sich auf Objekte außerhalb seines unmittelbaren Körperbereichs richtet (ecc).. Autonom/Exzentrisch.
 
 takeln: Material/Crafts 2/3/Goal 2/aut/ecc
 Begründung: Im handwerklichen Kontext bedeutet takeln das fachgerechte Verbinden und Befestigen von Fäden, Schnüren oder ähnlichen Materialien, wobei der Akteur über das Material verfügt (2), es bewegend verarbeitet (3), um einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
 
 taktieren: Material/Fight/Strategy 2/3/Goal 2/aut/ecc
 Begründung: Taktieren bedeutet, strategisch zu bestimmen (2) und zu handeln/bewegen (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur agiert selbstbestimmt (aut) und nach außen gerichtet (ecc), da er seine Handlungen in Reaktion auf externe Umstände oder Gegner anpasst, aber die Kontrolle behält. Es handelt sich um eine kalkulierte Vorgehensweise, bei der man seine Schritte planvoll einsetzt, um einen Vorteil zu erlangen oder ein Ziel zu erreichen.. Autonom/Exzentrisch.
@@ -55,17 +62,20 @@ Begründung: Im politischen Kontext bedeutet taktieren, berechnend vorzugehen un
 taktieren: Material/Business/Negotiation 2/3/Goal 2/aut/ecc
 Begründung: Im Geschäftsleben bedeutet taktieren, bei Verhandlungen strategisch vorzugehen, indem man bewusst bestimmt (2), welche Schritte man unternimmt (3), um einen vorteilhaften Verhandlungsabschluss zu erreichen (Goal 2). Der Akteur behält die Kontrolle über seine Handlungen (aut), während er sein Verhalten auf die Geschäftssituation ausrichtet (ecc).. Autonom/Exzentrisch.
 
+
 talentieren: Material/Skills 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er eine Fähigkeit oder ein Talent ausbildet. 'Talentieren' bedeutet, eine Begabung oder Veranlagung zu einer Fertigkeit zu entwickeln.. Autonom/Exzentrisch.
 
 talentieren: Interpersonal/Psychological 2/3/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext kann 'talentieren' bedeuten, dass der Akteur bestimmt (2) und bewegt/bestärkt (3) eine Person, um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die Entwicklung oder Förderung des Talents dieser Person.. Autonom/Exzentrisch.
 
+
 talentscouten: Material/Selection 3/5/2/Goal 5/Goal 2/Goal 4/het/ecc
 Begründung: Talentscouten bedeutet, aktiv nach Personen mit besonderen Fähigkeiten zu suchen (3/5), um Informationen über sie zu erhalten (Goal 5) und sie unter Vertrag zu nehmen/zu verpflichten (2/Goal 2), mit dem übergeordneten Ziel eines geschäftlichen Nutzens (Goal 4). Die Aktivität ist heteronom/exzentrisch, da der Scout sich an die Gegebenheiten der Umwelt anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
 
 talentscouten: Material/Sports 3/5/2/Goal 5/Goal 2/Goal 4/het/ecc
 Begründung: Im sportlichen Kontext bedeutet Talentscouten die gezielte Suche nach (3/5) vielversprechenden Sportlern, um Informationen über ihre Leistungen zu sammeln (Goal 5) und sie für ein Team zu gewinnen (2/Goal 2), mit dem Ziel des sportlichen und wirtschaftlichen Erfolgs (Goal 4).. Heteronom/Exzentrisch.
+
 
 tangieren: Material/Contracts 3/Goal 3/het/ecc
 Begründung: Tangieren bedeutet, dass der Akteur etwas berührt oder streift (3), um eine Wirkung zu erzielen (Goal 3), wobei er sich an die Gegebenheiten des Objekts anpassen muss (het) und nach außen gerichtet ist (ecc). Es beschreibt den physischen Kontakt zwischen einem Akteur und einem Objekt an dessen Randbereich.. Heteronom/Exzentrisch.
@@ -76,11 +86,13 @@ Begründung: In der Mathematik bedeutet tangieren, dass eine Linie einen Kreis o
 tangieren: Interpersonal/Influence 3/Goal 3/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet tangieren, dass ein Thema oder eine Angelegenheit jemanden betrifft oder berührt (3), um eine Wirkung auf diese Person zu erzielen (Goal 3). Der Akteur bestimmt selbst, inwiefern er auf den Anderen einwirkt (aut), wobei die Handlung nach außen gerichtet ist (ecc).. Autonom/Exzentrisch.
 
+
 tapezieren: Material/Interior-Design 3/Goal 2/aut/ecc
 Begründung: Tapezieren bedeutet, dass der Akteur autonom (aut) Wände oder andere Oberflächen mit Tapeten versieht, indem er die Tapete bewegt und anbringt (3), um einen gewünschten Zustand der Wandverkleidung herzustellen (Goal 2). Diese Aktivität ist nach außen gerichtet (ecc), da sie eine Veränderung der Umgebung bewirkt.. Autonom/Exzentrisch.
 
 tapezieren: Material/Professions/Construction 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext beinhaltet Tapezieren, dass ein Maler oder Tapezierer als Teil seiner beruflichen Tätigkeit Wände mit Tapeten versieht (3/Goal 2), mit dem übergeordneten Ziel, für diese Dienstleistung Geld und Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
 
 targeten: Material/Fight/Strategy 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: Jemanden oder etwas als Ziel (Target) auswählen und anvisieren. Der Akteur bewegt sich aktiv (3) auf Informationen zu (5), um eine spezifische Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand herzustellen (Goal 2). Dies geschieht selbstbestimmt (aut) und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
@@ -91,6 +103,7 @@ Begründung: Im Marketingkontext bedeutet 'targeten', eine bestimmte Zielgruppe 
 targeten: Material/Military 3/5/Goal 3//Goal -2/aut/ecc
 Begründung: Im militärischen Kontext bedeutet 'targeten', ein feindliches Ziel für einen Angriff auszuwählen. Der Akteur bewegt sich (3) auf Informationen zu (5), um eine Wirkung zu erzielen (Goal 3), während gleichzeitig der gewünschte Zustand des Antagonisten verhindert werden soll (//Goal -2).. Autonom/Exzentrisch.
 
+
 targetieren: Material/Military/Positioning 3/5/Goal 3/aut/ecc
 Begründung: Targetieren bedeutet, ein militärisches Ziel (als Angriffsziel) anvisieren oder ins Visier nehmen. Der Akteur bewegt (3) sich auf ein informationelles Ziel zu (5), um eine bestimmte Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf das Ziel einwirkt.. Autonom/Exzentrisch.
 
@@ -100,17 +113,20 @@ Begründung: Im Marketing-Kontext bedeutet targetieren, eine bestimmte Zielgrupp
 targetieren: Material/IT/Navigation 3/5/Goal 3/het/ecc
 Begründung: In der IT bedeutet targetieren, ein digitales Ziel zu identifizieren und anzusteuern. Der Akteur bewegt sich (3) auf relevante Informationen zu (5), um eine bestimmte Wirkung oder ein Ziel zu erreichen (Goal 3). Die Ausrichtung ist heterenom, da dies oft nach externen Parametern erfolgt.. Heteronom/Exzentrisch.
 
+
 tarieren: Material/Balance 2/3/Goal 2/het/ecc
 Begründung: Tarieren bedeutet, durch gezielte Einstellung/Verfügung (2) und Bewegen/Anpassen (3) eines Gegengewichts einen ausgewogenen Zustand (Goal 2) herzustellen. Der Akteur passt sich dabei an die äußeren Bedingungen des zu tarierenden Objekts an (het) und wirkt auf die äußere Welt ein (ecc). Der Vorgang wird typischerweise bei Messgeräten, Waagen oder anderen technischen Geräten durchgeführt, um Messwerte zu neutralisieren oder ein Gleichgewicht zu erreichen.. Heteronom/Exzentrisch.
 
 tarieren: Material/Measurement 2/3/Goal 2/Goal 5/het/ecc
 Begründung: Im Kontext von Präzisionsmessungen bedeutet tarieren das Einstellen/Verfügen (2) und Justieren/Bewegen (3) von Messgeräten, um einen Nullpunkt oder Referenzwert zu erreichen (Goal 2) mit dem höheren Ziel, genaue Messinformationen zu erhalten (Goal 5).. Heteronom/Exzentrisch.
 
+
 tarnen: Material/Military/Stealth 2/3/Goal 2//Goal -5/aut/ecc
 Begründung: Tarnen bedeutet, dass der Akteur bestimmt (2) und durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) für sich selbst herstellt, nämlich nicht gesehen zu werden, wodurch das Informationsgewinnungsziel des Antagonisten verhindert wird (//Goal -5). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
 
 tarnen: Interpersonal/Deception 3/Goal 2//Goal -5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet tarnen, dass der Akteur durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) für sich selbst erreicht, nämlich die eigene wahre Identität oder Absicht zu verbergen, wodurch das Informationsgewinnungsziel des Antagonisten verhindert wird (//Goal -5). Dies ist eine Form der Täuschung.. Autonom/Exzentrisch.
+
 
 tasten: Material/Sensory 3/5/Goal 5/het/ecc
 Begründung: Beim Tasten bewegt (3) der Akteur seine Hände oder Finger, um durch Berührung Informationen zu sammeln (5), mit dem Ziel, über etwas informiert zu sein (Goal 5). Da der Akteur sich an die Beschaffenheit des zu ertastenden Objekts anpassen muss und nach außen gerichtet ist, ist die Ausrichtung heteronomisch/exzentrisch (het/ecc).. Heteronom/Exzentrisch.
@@ -121,17 +137,20 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet tasten das vorsichtige Ber
 tasten: Material/IT 2/3/5/Goal 5/het/ecc
 Begründung: Im IT-Kontext bedeutet tasten das Benutzen einer Tastatur, wobei man verfügt (2) über die Tasten und sie bewegt (3), um Informationen einzugeben oder abzurufen (5), mit dem Ziel, informiert zu sein oder Informationen zu übermitteln (Goal 5). Die Ausrichtung ist heteronomisch/exzentrisch, da der Akteur sich an die Tastatur und das System anpassen muss.. Heteronom/Exzentrisch.
 
+
 tattooieren: Material/Art 3/2/Goal 2/aut/ecc
 Begründung: Tätowieren bedeutet, durch das Bewegen (3) einer Nadel und Einbringen von Farbstoffen, dauerhaft verfügbare (2) Muster auf der Haut zu erzeugen, um einen gewünschten dekorativen Zustand (Goal 2) zu erreichen. Der Vorgang ist autonom und nach außen gerichtet, da der Tätowierer selbstbestimmt ein Muster in die Haut einbringt.. Autonom/Exzentrisch.
 
 tattooieren: Material/Appearance 3/2/Goal 2/Goal 5/aut/ecc
 Begründung: Als Körpermodifikation zur visuellen Selbstdarstellung bedeutet Tätowieren das Bewegen (3) einer Nadel, um verfügbare (2) Muster auf der Haut zu erzeugen, mit dem Ziel eines gewünschten ästhetischen Zustands (Goal 2) und der visuellen Information für andere (Goal 5).. Autonom/Exzentrisch.
 
+
 tauchbaden: Material/Fluids 3/1/Goal 2/het/ecc
 Begründung: Tauchbaden bedeutet, dass der Akteur sich bewegt (3), indem er ins Wasser eintaucht, dort etwas bekommt (1), nämlich die Berührung mit Wasser, um einen gewünschten Zustand zu erreichen (Goal 2), beispielsweise Erfrischung oder Reinigung. Die Ausrichtung ist heteronom (het), da der Akteur sich an die Gegebenheiten des Wassers anpassen muss, und nach außen gerichtet (ecc), da die Interaktion mit der umgebenden Flüssigkeit stattfindet.. Heteronom/Exzentrisch.
 
 tauchbaden: Material/Sports 3/1/Goal 2/Goal 3/het/ecc
 Begründung: Als sportliche Aktivität bedeutet Tauchbaden, dass der Akteur sich bewegt (3), indem er ins Wasser eintaucht und dort etwas bekommt (1), nämlich die Berührung mit Wasser, um sowohl einen gewünschten Zustand zu erreichen (Goal 2) als auch eine bestimmte Distanz oder Tiefe zu erreichen (Goal 3). Die Ausrichtung ist heteronom (het), da der Akteur sich an die Eigenschaften des Wassers anpassen muss, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 tauchen: Material/Water/Process 3/Goal 3/het/ecc
 Begründung: Tauchen bedeutet, sich (3) unter Wasser zu bewegen/anzustreben, um eine bestimmte Tiefe oder Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Taucher sich an die Bedingungen des Wassers anpassen muss und die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -145,6 +164,7 @@ Begründung: Im finanziellen Kontext bedeutet 'tauchen' (wie bei 'Kurse tauchen'
 tauchen: Material/Stealth 3/Goal 2/het/ecc
 Begründung: Im übertragenen Sinne bedeutet 'tauchen' auch 'untertauchen'/sich verstecken, wobei sich jemand (3) bewegt, um einen gewünschten Zustand des Verstecktseins zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 taufen: Material/Religious/Ceremony 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Taufen bedeutet, dass der Akteur (z.B. ein Priester) bestimmt (2) eine Leistung (4) für einen Antagonisten zu erbringen, indem er Wasser gibt/überträgt (1) und symbolische/religiöse Informationen vermittelt (5), um einen gewünschten Zustand (Aufnahme in die religiöse Gemeinschaft) herzustellen (Goal 2). Nach der Übergabe dieser religiösen Handlung erhält der Akteur Anerkennung für die Ausführung seiner religiösen Pflicht (//Goal 4).. Autonom/Exzentrisch.
 
@@ -153,6 +173,7 @@ Begründung: Im maritimen Kontext bedeutet taufen, dass der Akteur bestimmt (2) 
 
 taufen: Interpersonal/Ceremony 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet taufen, dass der Akteur bestimmt (2) eine symbolische Leistung (4) zu erbringen, indem er jemandem oder etwas einen Namen gibt/zuweist (1/5), mit dem Ziel, dass der Name bekannt wird und Verwendung findet (Goal 5). Der Akteur erhält für diese Namensgebung Anerkennung (//Goal 4).. Autonom/Exzentrisch.
+
 
 taumeln: Material/Physical/Movement 3/Goal -3/het/ecc
 Begründung: Taumeln bedeutet eine unsichere, schwankende Bewegung (3) ausführen, die nicht zu einer gewünschten Zielposition führt, sondern eine nicht kontrollierte Wirkung (Goal -3) hat. Die Ausrichtung ist heteronom (het), da die Person nicht die volle Kontrolle über die Bewegung hat, und exzentrisch (ecc), da die Bewegung im äußeren Raum stattfindet.. Heteronom/Exzentrisch.
@@ -163,6 +184,7 @@ Begründung: Im Kontext eines Unfalls oder einer Beeinträchtigung bedeutet taum
 taumeln: Interpersonal/Psychological 3/Goal -3/het/ecc
 Begründung: Im übertragenen Sinne kann taumeln auch eine psychologische Unsicherheit oder Orientierungslosigkeit bedeuten, bei der eine Person eine ungerichtete mentale Bewegung (3) durchführt, die nicht zu einem gewünschten Ziel führt (Goal -3), wobei die Person dieser Situation ausgeliefert ist (het/ecc).. Heteronom/Exzentrisch.
 
+
 tauschen: Material/Sharing-Economy 2/4/1/Goal 2//Goal 2/Goal 4/het/ecc
 Begründung: Tauschen bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er etwas gibt (1), um einen gewünschten Zustand herzustellen (//Goal 2), wobei sowohl der Akteur als auch der Antagonist einen Vorteil erhalten (//Goal 2/Goal 4). Die Aktivität ist heteronym (het), da sie von der Kooperation des Tauschpartners abhängt, und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
@@ -171,6 +193,7 @@ Begründung: Im geschäftlichen Kontext bedeutet Tauschen den Austausch von Ware
 
 tauschen: Material/Position 2/3/Goal 2/aut/ecc
 Begründung: In der Bedeutung 'Plätze tauschen' oder 'Positionen tauschen' bestimmt der Akteur (2) eine Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Hier liegt kein Geben im Sinne eines Tauschobjekts vor, sondern nur ein Wechsel der Positionen.. Autonom/Exzentrisch.
+
 
 taxieren: Material/Measurement 3/5/Goal 5/Goal 2/het/ecc
 Begründung: Der Akteur untersucht/prüft (3/5) einen Gegenstand oder eine Situation durch genaues Betrachten und Abschätzen, um Informationen zu gewinnen (Goal 5) mit dem höheren Ziel, einen gewünschten Zustand (korrekte Bewertung) herzustellen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den äußeren Gegebenheiten des zu taxierenden Objekts orientieren muss.. Heteronom/Exzentrisch.
@@ -181,11 +204,37 @@ Begründung: In der Bedeutung des Festsetzens einer Steuer oder Abgabe bestimmt 
 taxieren: Interpersonal 3/5/Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet taxieren, eine Person mustern/abschätzen (3/5), um Kontakt bzw. Informationen über diese Person zu gewinnen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv und selbstbestimmt den Antagonisten betrachtet.. Autonom/Exzentrisch.
 
+
+tätigen: Material/Financial-Transactions 2/3/1/Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur verfügt (2) über Bewegung (3) und gibt (1) Geld aus, um einen gewünschten Zustand zu erreichen (Goal 2) mit dem Endziel, geschäftlichen Erfolg zu erzielen (Goal 4). Das Wort bezieht sich auf die Durchführung von Geldtransaktionen, insbesondere im geschäftlichen Kontext.. Autonom/Exzentrisch.
+
+tätigen: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
+Begründung: Der Akteur verfügt (2) über seine Ressourcen und bewegt/aktiviert sie (3), um einen gewünschten geschäftlichen Zustand zu erreichen (Goal 2) mit dem Endziel, Anerkennung/Geld zu bekommen (Goal 4). Dies bezieht sich auf allgemeine geschäftliche Handlungen, die nicht unbedingt finanzielle Transaktionen beinhalten.. Autonom/Exzentrisch.
+
+
+tätscheln: Interpersonal/Gesture 3/4/1/Goal 3//Goal 4/aut/ecc
+Begründung: Tätscheln bedeutet, dass der Akteur eine zärtliche, sanfte Bewegung (3) ausführt, die eine Leistung (4) für den Antagonisten darstellt, indem er diesem eine Berührung gibt (1), um eine positive Wirkung (Goal 3) zu erzielen, was letztlich dem Akteur selbst die Anerkennung (//Goal 4) einbringt. Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Initiative ergreift und nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+tätscheln: Material/Animals/Training 3/4/1/Goal 3//Goal 4/aut/ecc
+Begründung: Im Kontext der Tierhaltung bedeutet tätscheln, dass der Akteur sanfte Berührungen (3) als positive Verstärkung (4) für ein Tier ausführt, indem er diesem eine Berührung gibt (1), um eine positive Wirkung bei dem Tier zu erzielen (Goal 3), mit dem Ziel selbst Anerkennung zu erhalten oder das gewünschte Verhalten zu fördern (//Goal 4).. Autonom/Exzentrisch.
+
+
+täuschen: Material/Deception 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Täuschen bedeutet, dass der Akteur mit Bewegung/Anstreben (3) das Geben (4/1)  von falschen Informationen (5) durchführt, um einen unerwünschten Zustand für den Antagonisten herzustellen (Goal -2), indem dieser in die Irre geführt wird, was gleichzeitig ein gewünschter Zustand für ihn ist (//Goal 2). Der Akteur agiert selbstbestimmt (aut) und nach außen gerichtet (ecc), da er aktiv auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+täuschen: Interpersonal/Deception 3/5/Goal 3//Goal -5/aut/ecc
+Begründung: Im zwischenmenschlichen Bereich bedeutet täuschen, dass der Akteur durch Bewegung/Anstreben (3) und die Manipulation von Informationen (5) eine Wirkung für sich selbst erzielt (Goal 3) und gleichzeitig dem Antagonisten einen korrekten Informationsstand verwehrt (//Goal -5). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+täuschen: Fight/Sport 3/Goal 3//Goal -3/aut/ecc
+Begründung: Im sportlichen Wettkampf bedeutet täuschen eine Bewegung (3) mit dem Ziel, eine Wirkung zu erzielen (Goal 3), während gleichzeitig die Wirkung des Gegners verhindert wird (//Goal -3), indem dieser in die falsche Richtung gelenkt wird. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+
 teambuilden: Material/Group 2/3/5/Goal 2/Goal 5/aut/ecc
 Begründung: Teambuilden bedeutet, dass der Akteur bestimmt (2) und aktiv mit Bewegung (3) Kontakte und Informationsaustausch (5) fördert, um einen gewünschten Zustand des Zusammenhalts (Goal 2) und gegenseitiger Kenntnis (Goal 5) zu erreichen. Der Prozess ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da er aktiv die Gruppendynamik gestaltet.. Autonom/Exzentrisch.
 
 teambuilden: Interpersonal/Group 2/3/5/Goal 2/Goal 5/aut/ecc
 Begründung: Auf der zwischenmenschlichen Ebene bedeutet Teambuilden, dass der Akteur bestimmt (2) und aktiv (3) Kontakte (5) zwischen Teammitgliedern fördert, um eine funktionierende Gruppenstruktur (Goal 2) mit starken sozialen Bindungen und gegenseitigem Kennenlernen (Goal 5) zu erreichen.. Autonom/Exzentrisch.
+
 
 teasern: Material/Marketing 3/4/1/5/Goal 5/Goal 3//Goal 4/aut/ecc
 Begründung: Im Marketing bedeutet 'teasern', durch Bewegung (3) eine Leistung (4) zu erbringen, indem man Informationen (1/5) gibt, die zunächst nur teilweise informieren (Goal 5), um eine Wirkung beim Publikum zu erzielen (Goal 3). Diese Leistung dient letztendlich dem Ziel, geschäftlich Anerkennung/Geld zu bekommen (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
@@ -193,11 +242,13 @@ Begründung: Im Marketing bedeutet 'teasern', durch Bewegung (3) eine Leistung (
 teasern: Interpersonal/Entertainment 3/4/1/5/Goal 5/Goal 3//Goal 4/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'teasern', jemanden durch Bewegung (3) mit einer Leistung (4) zu necken, indem man Informationen (1/5) gibt, die neugierig machen (Goal 5), um eine Reaktion (Goal 3) zu erzielen. Dies dient dem Ziel, Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf andere einwirkt.. Autonom/Exzentrisch.
 
+
 technisieren: Material/Technological 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung/Transformation (3) einen Prozess oder Gegenstand mit technischen Mitteln zu versehen oder zu einem gewünschten, technisch verbesserten Zustand zu führen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf die Umwelt einwirkt, um sie technisch zu verändern.. Autonom/Exzentrisch.
 
 technisieren: Material/Scientific/Process 2/3/5/Goal 2/Goal 5/aut/ecc
 Begründung: In einem wissenschaftlichen Kontext bedeutet technisieren, bestimmend (2) durch Bewegung/Transformation (3) und Informationsverarbeitung (5) einen Prozess zu einem gewünschten technischen Zustand zu führen (Goal 2), wobei auch die informationelle Komponente des Prozesses (Goal 5) verbessert wird.. Autonom/Exzentrisch.
+
 
 teilen: Material/Distribution 2/4/1/Goal 2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) als Leistung für einen Antagonisten (4) etwas zu geben (1), um einen gewünschten Zustand für den Antagonisten zu erreichen (Goal 2 vor //), was gleichzeitig dem eigenen Wunschzustand entspricht (Goal 2 nach //). Beim Teilen geht es um das willentliche Aufteilen und Verteilen von etwas zwischen Akteur und Antagonist, wobei beide einen Nutzen davon haben.. Autonom/Exzentrisch.
@@ -211,11 +262,13 @@ Begründung: Der Akteur verfügt (2) und bewegt/trennt (3) ein Ganzes in separat
 teilen: Interpersonal/Communication 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für einen Antagonisten (4) zu erbringen, indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), was dem eigenen gewünschten Zustand entspricht (Goal 2). Dies bezieht sich auf das Mitteilen von persönlichen Erlebnissen oder Gedanken.. Autonom/Exzentrisch.
 
+
 teilhaben: Material/Participation 1/Goal 2/het/ecc
 Begründung: Teilhaben bedeutet, dass der Akteur etwas bekommt (1), um einen gewünschten Zustand zu erreichen (Goal 2). Es ist heteronom/exzentrisch (het/ecc), weil der Akteur von externen Gegebenheiten abhängig ist und nach außen gerichtet agiert. Der Akteur bekommt Zugang zu etwas, ohne es aktiv zu bestimmen oder zu kontrollieren.. Heteronom/Exzentrisch.
 
 teilhaben: Interpersonal/Involvement 5/1/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet teilhaben, dass der Akteur Kontakt (5) bekommt (1), um in einer sozialen Situation eingebunden zu sein (Goal 5). Dies kann sich auf Teilhabe an Gemeinschaften, Gesprächen oder sozialen Ereignissen beziehen.. Heteronom/Exzentrisch.
+
 
 teilnehmen: Material/Participation 3/1/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) zu einer Veranstaltung/einem Event und bekommt dort (1) Informationen/Erfahrungen (5), mit dem Ziel, informiert zu sein oder Erfahrungen zu sammeln (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Teilnehmer sich nach den Gegebenheiten der Veranstaltung richten muss und nach außen orientiert ist.. Heteronom/Exzentrisch.
@@ -226,14 +279,17 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet teilnehmen, sich in eine G
 teilnehmen: Material/Business/Cooperation 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Im geschäftlichen Kontext bedeutet teilnehmen, eine Leistung (4) durch Bewegung (3) zu erbringen und etwas (1) beizutragen, mit dem Ziel, einen gewünschten geschäftlichen Zustand für den Antagonisten zu erreichen (Goal 2), während der Akteur selbst Anerkennung und/oder Bezahlung erhält (//Goal 4).. Heteronom/Exzentrisch.
 
+
 telefonieren: Material/Telecommunications 3/5/1/Goal 5/het/ecc
 Begründung: Telefonieren bedeutet, dass der Akteur eine Bewegung (3) ausführt (Wählen, Anrufen), um sich zu informieren (5) und Informationen zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom, da der Akteur sich an externe Umstände anpassen muss, und exzentrisch, weil die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 telefonieren: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: In beruflichen Kontexten bedeutet telefonieren, eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), damit der Gesprächspartner informiert ist (Goal 5), mit dem letztendlichen Ziel, Anerkennung oder Vergütung zu erhalten (//Goal 4).. Heteronom/Exzentrisch.
 
+
 teleportieren: Material/Science-Fiction/Transportation 3/1/Goal 3/aut/ecc
 Begründung: Teleportieren bezeichnet eine fiktionale Transportmethode, bei der ein Objekt oder eine Person ohne physische Bewegung durch den dazwischenliegenden Raum von einem Ort zum anderen versetzt wird. Der Akteur bewegt sich (3) und bekommt (1) eine neue Position, wodurch das Ziel der Bewegung - das Erreichen einer Destination (Goal 3) - unmittelbar realisiert wird. Der Prozess ist autonom und nach außen gerichtet (aut/ecc), da er eine Ortsveränderung in die Umgebung bewirkt.. Autonom/Exzentrisch.
+
 
 terminieren: Material/IT/Process 2/3/Goal 2/aut/ecc
 Begründung: Im IT-Kontext bedeutet 'terminieren', dass der Akteur bestimmt/verfügt (2) und eine Bewegung/einen Prozess aktiv beendet (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt autonom und exzentrisch (aut/ecc), da er selbstbestimmt auf externe Prozesse einwirkt.. Autonom/Exzentrisch.
@@ -247,11 +303,13 @@ Begründung: In der Bedeutung 'einen Termin festlegen' verfügt der Akteur (2) �
 terminieren: Material/Fight/Defense 3/Goal 2//Goal -2/aut/ecc
 Begründung: In der Bedeutung 'jemanden ausschalten/eliminieren' bewegt/strebt der Akteur an (3), um einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig die Ziele des Antagonisten bekämpft (//Goal -2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc).. Autonom/Exzentrisch.
 
+
 terrorisieren: Material/Fight/Aggression 2/3/4/1/5/Goal -3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch aggressive Bewegung (3) eine Leistung (4) zu erbringen, indem er dem Antagonisten etwas gibt (1), nämlich Informationen (5), die eine negative Wirkung für den Antagonisten erzeugen (Goal -3). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand der Machtausübung zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 terrorisieren: Interpersonal/Psychological 2/3/4/1/5/Goal -3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch psychologischen Druck (3) eine Leistung (4) zu erbringen, indem er dem Antagonisten beängstigende Informationen/Eindrücke gibt (1/5), die eine negative emotionale Wirkung für den Antagonisten erzeugen (Goal -3). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand der psychologischen Dominanz zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+
 
 testen: Material/Testing 3/5/2/Goal 5/Goal 2/aut/ecc
 Begründung: Beim Testen bewegt sich der Akteur (3) informationssuchend (5) um Verfügungswissen (2) zu erlangen, mit dem Ziel informiert zu sein (Goal 5) und einen gewünschten Zustand zu erreichen (Goal 2) - nämlich Gewissheit über die Qualität oder Funktionsfähigkeit des Testobjekts. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf das externe Testobjekt einwirkt.. Autonom/Exzentrisch.
@@ -262,11 +320,13 @@ Begründung: Im beruflichen Kontext bedeutet Testen, dass der Akteur gezielt (3)
 testen: Material/IT/Process 3/5/2/Goal 5/Goal 3/aut/ecc
 Begründung: Im IT-Kontext bedeutet Testen, dass der Akteur systematisch (3) Informationen sammelt (5) und über sie verfügt (2), um informiert zu sein (Goal 5) mit dem höheren Ziel, eine bestimmte Wirkung (funktionierende Software) zu erreichen (Goal 3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt auf das externe Testobjekt einwirkt.. Autonom/Exzentrisch.
 
+
 testieren: Material/Legal 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er ein Dokument gibt (1) mit Informationen (5), um einen rechtlich gewünschten Zustand (Goal 2) herzustellen, wobei er letztlich auch berufliche Anerkennung erhält (//Goal 4). Dies bezieht sich auf das rechtsgültige Bestätigen oder Testament Errichten.. Autonom/Exzentrisch.
 
 testieren: Material/Education 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er ein Bestätigungsdokument gibt (1) mit Informationen (5), um einen Studierenden zu informieren (Goal 5), wobei er letztlich auch berufliche Anerkennung erhält (//Goal 4). Dies bezieht sich auf das Bescheinigen der Teilnahme an universitären Lehrveranstaltungen.. Autonom/Exzentrisch.
+
 
 texten: Material/IT/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Texten bedeutet, dass der Akteur eine Leistung erbringt (4), indem er Informationen gibt (1/5), damit der Empfänger informiert ist (Goal 5). Das Endziel für den Akteur ist Anerkennung oder Vergütung für diese Leistung zu bekommen (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet kommuniziert.. Autonom/Exzentrisch.
@@ -277,17 +337,20 @@ Begründung: In der Bedeutung des kreativen Textschreibens bewegt der Akteur (3)
 texten: Material/Business/Marketing 2/3/5/Goal 3/Goal 4/aut/ecc
 Begründung: Im Werbekontext bedeutet texten das Erstellen von Werbetexten, wobei der Akteur bestimmt (2), wie durch Bewegung von Informationen (3/5) eine Wirkung (Goal 3) erzielt werden soll, mit dem Endziel der beruflichen Vergütung (Goal 4).. Autonom/Exzentrisch.
 
+
 thematisieren: Material/Information 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Thematisieren bedeutet, bestimmend (2) eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), was dem Zweck des Akteurs dient, einen gewünschten Zustand zu erreichen (//Goal 2). Der Akteur macht ein Thema zum Gegenstand der Betrachtung und bringt es aktiv in die Diskussion ein, um eigene Ziele zu erreichen.. Autonom/Exzentrisch.
 
 thematisieren: Material/Discussion 3/4/1/5/Goal 5//Goal 3/aut/ecc
 Begründung: In einem Diskussionskontext bedeutet thematisieren, aktiv (3) eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), um eine bestimmte Wirkung zu erzielen (//Goal 3). Hier liegt der Schwerpunkt auf der beabsichtigten Wirkung bei anderen, indem ein Thema strategisch in den Mittelpunkt gestellt wird.. Autonom/Exzentrisch.
 
+
 theoretisieren: Material/Scientific 3/5/2/Goal 5/aut/ecc
 Begründung: Theoretisieren bedeutet, abstrakte Überlegungen anzustellen (3/5), indem man Informationen und Gedanken bewegt/untersucht (3), sich informiert (5) und über diese Informationen verfügt (2), um Erkenntnisse zu gewinnen (Goal 5). Der Akteur geht dabei selbstbestimmt (aut) und nach außen gerichtet (ecc) vor, da er neue Gedankenmodelle entwickelt, die über den bestehenden Wissensstand hinausgehen.. Autonom/Exzentrisch.
 
 theoretisieren: Material/Philosophy 3/5/2/Goal 5/Goal 2/aut/ecc
 Begründung: Im philosophischen Kontext bedeutet theoretisieren, Informationen zu bewegen/untersuchen (3), sich zu informieren (5) und über Gedanken zu verfügen (2), um nicht nur informiert zu sein (Goal 5), sondern auch einen gewünschten Erklärungszustand zu erreichen (Goal 2), der ein kohärentes Gedankengebäude darstellt.. Autonom/Exzentrisch.
+
 
 therapieren: Material/Medical/Process 2/3/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit gezielten Bewegungen (3) eine Leistung (4) für den Antagonisten zu erbringen, bei der er etwas gibt (1), um einen gewünschten Zustand beim Antagonisten herzustellen (Goal 2 vor //). Nach dem Umschalter folgt das eigene Ziel des Akteurs, nämlich berufliche Anerkennung zu erhalten (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Arzt selbstbestimmt handelt und nach außen auf den Patienten einwirkt.. Autonom/Exzentrisch.
@@ -300,11 +363,13 @@ Begründung: Therapieren bedeutet, dass der Akteur (Arzt/Therapeut) bewegt/anstr
 therapieren: Interpersonal/Psychological 3/4/1/Goal 2//Goal 4/het/ecc
 Begründung: Im psychologischen Kontext bedeutet therapieren, dass der Akteur (Psychotherapeut) aktiv anstrebt (3) eine Leistung zu erbringen (4) und dem Patienten psychologische Unterstützung zu geben (1), um einen verbesserten mentalen Zustand zu erreichen (Goal 2). Die Anerkennung und Bezahlung für diese Leistung folgt als Goal des Therapeuten (//Goal 4). Auch hier ist die Ausrichtung heteronom/exzentrisch, da der Therapeut auf die individuellen Bedürfnisse des Patienten eingeht.. Heteronom/Exzentrisch.
 
+
 threaden: Material/IT 2/3/5/Goal 5/aut/ecc
 Begründung: In der IT-Umgebung bedeutet 'threaden' das Erstellen und Verwalten von Thread-Strukturen, wobei Informationen (5) in einem bestimmten Ablauf oder einer Struktur organisiert werden. Der Akteur bestimmt (2) und bewegt/transformiert (3) Informationen (5), um einen informativen Zusammenhang herzustellen (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen in die Umwelt wirkt.. Autonom/Exzentrisch.
 
 threaden: Material/Textile 3/Goal 2/aut/ecc
 Begründung: Im textilen Kontext bedeutet 'threaden' das Einfädeln oder Durchziehen eines Fadens, wobei der Akteur durch Bewegung (3) einen gewünschten Zustand (Goal 2) herstellt. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen in die Umwelt wirkt.. Autonom/Exzentrisch.
+
 
 throtteln: Material/Machine-System 2/3/Goal 3/aut/con
 Begründung: Den Durchfluss oder die Leistung einer Maschine/eines Motors durch Anpassen der Drosselklappe/des Reglers (2) kontrolliert verändern (3), um eine bestimmte Wirkung oder Leistungsabgabe zu erreichen (Goal 3). Der Akteur verfügt über die Kontrolle (2) des Systems und verändert dessen Bewegungs-/Durchflussparameter (3), um eine gewünschte Wirkung zu erzielen.. Autonom/Konzentrisch.
@@ -315,11 +380,13 @@ Begründung: Im IT-Kontext bedeutet 'throtteln', die Datenübertragungsrate oder
 throtteln: Material/Network 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im Netzwerkbereich bedeutet 'throtteln' das bewusste Einschränken der Bandbreite oder Geschwindigkeit (2/3), um einen gewünschten Systemzustand zu erreichen (Goal 2) und übermäßigen Ressourcenverbrauch durch andere Nutzer zu verhindern (//Goal -3).. Autonom/Konzentrisch.
 
+
 thumbnailen: Material/IT/Process 3/Goal 2/het/ecc
 Begründung: Der Akteur bewegt/bearbeitet (3) Bilddaten, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine verkleinerte Vorschauversion eines Bildes zu erstellen. Dies geschieht heteronom (het), da der Akteur sich an vorgegebene Bildformate und technische Anforderungen anpassen muss, und ist nach außen gerichtet (ecc), da das Ergebnis für die weitere Verwendung bestimmt ist.. Heteronom/Exzentrisch.
 
 thumbnailen: Material/Photography 3/2/Goal 5/het/ecc
 Begründung: In der Fotografie kann thumbnailen bedeuten, Bilder zu bewegen (3) und zu verarbeiten (2), um Vorschaubilder zu erstellen, die der Information (Goal 5) dienen. Die Aktivität ist heteronom ausgerichtet, da sie sich an Standards und Anforderungen anpassen muss (het) und nach außen gerichtet (ecc), da die Thumbnails dazu dienen, anderen Nutzern Informationen über die vollständigen Bilder zu vermitteln.. Heteronom/Exzentrisch.
+
 
 tippen: Material/IT 2/3/Goal 5/aut/ecc
 Begründung: Der Akteur verfügt (2) über Tasten auf einer Tastatur und bewegt (3) seine Finger, um Informationen einzugeben (Goal 5). Die Aktivität ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt handelt und die Tastatur im Außenbereich liegt.. Autonom/Exzentrisch.
@@ -333,11 +400,13 @@ Begründung: Als 'jemanden tippen' im Sinne von 'antippen, um Aufmerksamkeit zu 
 tippen: Material/Criminal/Investigation 3/5/Goal 5/het/ecc
 Begründung: Im Kontext 'auf jemanden tippen' im Sinne von 'jemanden verdächtigen/vermuten' sucht der Akteur (3) nach Informationen (5), um informiert zu sein (Goal 5). Heteronome Ausrichtung, da die Entscheidung von äußeren Faktoren abhängt.. Heteronom/Exzentrisch.
 
+
 tischlern: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Tischlern bedeutet, Holz zu bearbeiten (3) mit dem Ziel, einen gewünschten Zustand (Goal 2) zu erreichen. Die Tätigkeit erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da der Akteur auf das Holz als externes Material einwirkt. Es umfasst verschiedene Holzbearbeitungstechniken, um Möbel oder andere Holzprodukte herzustellen.. Autonom/Exzentrisch.
 
 tischlern: Material/Professions/Construction 3/Goal 2/Goal 4/aut/ecc
 Begründung: Als berufliche Tätigkeit beinhaltet Tischlern die Bearbeitung von Holz (3), um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem übergeordneten Ziel, Geld und Anerkennung zu bekommen (Goal 4). Diese berufliche Variante beinhaltet das handwerkliche Arbeiten als Tischler/Schreiner.. Autonom/Exzentrisch.
+
 
 titrieren: Material/Chemical/Process 3/5/2/Goal 5/het/ecc
 Begründung: Titrieren ist ein chemisches Analyseverfahren, bei dem der Akteur eine Flüssigkeit (Titrant) zu einer anderen Flüssigkeit (Probe) bewegt/zufügt (3) und dabei gleichzeitig Informationen (5) über die Konzentration oder Zusammensetzung sammelt, um schließlich über diese Daten zu verfügen (2) und letztendlich informiert zu sein (Goal 5). Der Prozess ist heteronym und exzentrisch (het/ecc), da der Akteur sich nach den externen Reaktionsbedingungen richten muss.. Heteronom/Exzentrisch.
@@ -349,6 +418,7 @@ titrieren: Material/Chemical/Process 2/3/Goal 5/het/ecc
 Begründung: Titrieren ist ein chemisches Verfahren, bei dem der Akteur die Verfügungsgewalt (2) über Chemikalien und Labormaterial besitzt und diese bewegt/anstrebt (3), um Informationen über die Konzentration einer Substanz zu erhalten (Goal 5). Der Prozess ist heteronom und nach außen gerichtet (het/ecc), da der Akteur sich an die chemischen Reaktionen anpassen muss und die Ergebnisse von externen Faktoren abhängig sind.. Heteronom/Exzentrisch.
 titrieren: Material/Scientific/Process 2/3/5/Goal 5/het/ecc
 Begründung: Im wissenschaftlichen Kontext bedeutet titrieren eine präzise Messmethode, bei der der Akteur Verfügungsgewalt über Messgeräte (2) hat, Flüssigkeiten bewegt (3) und dies mit einer Informationssuche verbindet (5), um genaue Daten zu erhalten (Goal 5). Der Vorgang ist heteronom/exzentrisch, da er sich streng an wissenschaftliche Parameter halten muss.. Heteronom/Exzentrisch.
+
 
 toben: Interpersonal/Psychological 3/Goal 3/aut/ecc
 Begründung: Toben bedeutet, sich intensiv und mit hoher Energie zu bewegen (3), um eine emotionale Wirkung zu erzielen (Goal 3). Es ist ein autonomes Verhalten (aut) und nach außen gerichtet (ecc), da die Bewegung im Außenbereich stattfindet und sichtbar ist. Die Bewegung dient dem emotionalen Ausdruck und der Energieentladung.. Autonom/Exzentrisch.
@@ -362,20 +432,24 @@ Begründung: Im Kontext aggressiven Verhaltens bedeutet toben, sich aufgeregt un
 toben: Material/Weather 3/Goal 3/het/ecc
 Begründung: Im Kontext von Wetterphänomenen ('der Sturm tobt') beschreibt es eine intensive Bewegung (3) mit dem Ziel einer starken Wirkung (Goal 3). Die Ausrichtung ist heteronym (het), da es nicht willentlich gesteuert wird, und exzentrisch (ecc), da es im Außenbereich stattfindet.. Heteronom/Exzentrisch.
 
+
 tolerieren: Interpersonal/Tolerance 2/4/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er einen gewünschten Zustand für den Antagonisten ermöglicht (Goal 2), wodurch er selbst Anerkennung erhält (Goal 4). Tolerieren bedeutet, bewusst die Entscheidung zu treffen, etwas oder jemanden trotz möglicher Ablehnung zu dulden oder zu akzeptieren. Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt an, dass sich der Akteur an den Antagonisten anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 tolerieren: Material/Tolerance 2/Goal 2/het/ecc
 Begründung: Im technischen oder materiellen Kontext bedeutet tolerieren, Abweichungen innerhalb bestimmter Grenzen zuzulassen. Der Akteur verfügt (2) über die Entscheidung, bestimmte Abweichungen zuzulassen, um einen gewünschten Zustand (Goal 2) zu erreichen. Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt die Anpassung an externe Parameter.. Heteronom/Exzentrisch.
 
+
 tomographieren: Material/Medical/Analysis 3/5/Goal 5/het/ecc
 Begründung: Tomographieren bedeutet, mittels eines bildgebenden Verfahrens (wie CT oder MRT) Schnittbilder des Körperinneren zu erzeugen. Dabei bewegt (3) der Akteur ein Gerät, um Informationen (5) zu erhalten und damit informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von externen Faktoren abhängig ist und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
+
 
 torpedieren: Material/Fight/Obstruction 3/Goal 2//Goal -3/aut/ecc
 Begründung: Torpedieren im übertragenen Sinne bedeutet, durch aggressives Bewegen/Anstreben (3) einen gewünschten Zustand für den Akteur zu erreichen (Goal 2), während gleichzeitig die Wirkung/das Ziel des Antagonisten verhindert wird (//Goal -3). Der Akteur arbeitet aktiv gegen die Interessen des Antagonisten, um dessen Vorhaben zu vereiteln.. Autonom/Exzentrisch.
 
 torpedieren: Material/Fight/Aggression/War 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im militärischen Kontext bedeutet torpedieren, mit einem Torpedo anzugreifen. Der Akteur bewegt (3) und bekommt (1) eine Wirkung (Goal 3), die zu einem gewünschten Zustand (Zerstörung des Ziels) führt (Goal 2), während der gewünschte Zustand des Antagonisten (intaktes Schiff) verhindert wird (//Goal -2).. Autonom/Exzentrisch.
+
 
 totalisieren: Material/Mathematics 3/5/Goal 2/het/ecc
 Begründung: Der Akteur bewegt/bearbeitet (3) Zahlen oder Daten und informiert sich dabei (5), um einen gewünschten Zustand (Goal 2) - nämlich die Gesamtsumme - zu erhalten. Die Ausrichtung ist heteronom (het), da der Akteur sich nach den vorgegebenen Zahlen richten muss, und nach außen gerichtet (ecc), da er über die externen Daten Auskunft erhält.. Heteronom/Exzentrisch.
@@ -386,6 +460,7 @@ Begründung: Im geschäftlichen Kontext bedeutet totalisieren, dass der Akteur b
 totalisieren: Material/Politics 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im politischen Sinne bedeutet totalisieren, dass der Akteur bestimmt/verfügt (2) und mit Bewegung/Anstreben (3) einen vollständigen Kontrollzustand herstellt (Goal 2), während gleichzeitig die Freiheit oder Bewegung anderer (des Antagonisten) eingeschränkt wird (//Goal -3).. Autonom/Exzentrisch.
 
+
 touren: Material/Tourism 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) selbstbestimmt (aut) nach außen gerichtet (ecc), um eine Destination zu erreichen (Goal 3). 'Touren' bezeichnet das Reisen zu touristischen Zwecken, wobei das Erreichen verschiedener Ziele im Vordergrund steht.. Autonom/Exzentrisch.
 
@@ -395,11 +470,23 @@ Begründung: Im Radsport-Kontext bedeutet 'touren' das Fahrradfahren über läng
 touren: Material/Entertainment 3/5/Goal 3/Goal 4/aut/ecc
 Begründung: In der Unterhaltungsbranche bedeutet 'touren' das Reisen von Künstlern, um an verschiedenen Orten aufzutreten. Der Akteur bewegt sich (3) zu verschiedenen Orten, informiert (5) das Publikum, erreicht Destinationen (Goal 3) mit dem übergeordneten Ziel, Anerkennung und Bezahlung zu bekommen (Goal 4).. Autonom/Exzentrisch.
 
+
+töten: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Mit einer Bewegung/Handlung (3) wird das Bekommen (1) einer Wirkung (Goal 3) erreicht, die zum gewünschten Zustand (Goal 2) des Akteurs führt, während gleichzeitig der gewünschte Zustand des Antagonisten (Weiterleben) verhindert wird (//Goal -2).. Autonom/Exzentrisch.
+
+töten: Material/Animal 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im Kontext der Tierhaltung: Durch gezielte Bewegung/Handlung (3) wird das Bekommen (1) einer Wirkung (Goal 3) erreicht, die zum gewünschten Zustand (Goal 2) führt, während das Leben des Tieres beendet wird (//Goal -2).. Autonom/Exzentrisch.
+
+töten: Material/Fight/Aggression/War 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
+Begründung: Im militärischen Kontext: Durch gezielte Bewegung/Handlung (3) wird das Bekommen (1) einer Wirkung (Goal 3) erreicht, die zum gewünschten taktischen Zustand (Goal 2) führt, während der Feind eliminiert wird (//Goal -2).. Autonom/Exzentrisch.
+
+
 traben: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Traben ist eine gleichmäßige, leicht federnde Fortbewegungsart zwischen Gehen und Laufen. Der Akteur führt eine selbstbestimmte Bewegung (3) aus, um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom (aut), da der Akteur selbst die Bewegung bestimmt, und exzentrisch (ecc), da die Bewegung in den Außenraum gerichtet ist.. Autonom/Exzentrisch.
 
 traben: Material/Sports/Horse-Riding 2/3/Goal 3/aut/ecc
 Begründung: In der Reitsport-Bedeutung bezeichnet 'traben' das Reiten eines Pferdes im Trab, wobei der Reiter das Pferd kontrolliert (2) und dessen Bewegung (3) steuert, um eine bestimmte Gangart und Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom (aut), da der Reiter die Bewegung bestimmt, und exzentrisch (ecc), da die Bewegung in den Außenraum gerichtet ist.. Autonom/Exzentrisch.
+
 
 tracen: Material/Trace 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) auf der Suche nach Informationen (5), um informiert zu sein (Goal 5). Beim Tracen wird ein Weg, eine Spur oder ein Signal nachverfolgt, um dessen Verlauf oder Ursprung zu ermitteln. Es handelt sich um eine heteronome exzentrische Aktivität, da man sich dabei an vorgegebenen externen Spuren orientieren muss.. Heteronom/Exzentrisch.
@@ -410,6 +497,7 @@ Begründung: Im IT-Kontext bedeutet Tracen das systematische Verfolgen von Daten
 tracen: Material/Criminal/Investigation 3/5/Goal 5/het/ecc
 Begründung: Im Kontext der Ermittlungsarbeit bedeutet Tracen das methodische Nachverfolgen von Beweisen oder Verdächtigen (3/5), um Informationen über deren Bewegungen oder Handlungen zu erhalten (Goal 5). Diese Tätigkeit erfordert eine Anpassung an vorhandene Spuren (het/ecc).. Heteronom/Exzentrisch.
 
+
 tracken: Material/Surveillance 3/5/Goal 5/het/ecc
 Begründung: Tracken bedeutet, die Bewegung (3) von etwas oder jemandem zu verfolgen, um Informationen (5) darüber zu erhalten, wo sich das Objekt oder die Person befindet (Goal 5). Es ist heteronomisch, da man sich an den Bewegungen des Ziels orientieren muss, und exzentrisch, da die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -418,6 +506,7 @@ Begründung: Im digitalen Kontext bedeutet tracken das Verfolgen von Nutzeraktiv
 
 tracken: Material/Military/Stealth 3/5/Goal 5/het/ecc
 Begründung: Im militärischen Kontext bedeutet tracken das Verfolgen (3) eines Ziels mit Sensoren oder Aufklärungsmitteln, um Informationen (5) über Position, Bewegung und Verhalten zu gewinnen (Goal 5). Die Aktivität passt sich an die Bewegungen des Ziels an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 tragen: Material/Clothing 2/Goal 2/aut/con
 Begründung: Tragen von Kleidung bedeutet, dass der Akteur über Kleidungsstücke verfügt (2), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur bestimmt selbst (aut) und agiert in seinem eigenen Bereich (con).. Autonom/Konzentrisch.
@@ -431,6 +520,7 @@ Begründung: Im übertragenen Sinne von Verantwortung tragen bedeutet es, dass d
 tragen: Material/Support 2/3/Goal 2/aut/ecc
 Begründung: Im Sinne von etwas stützen/halten bedeutet tragen, dass der Akteur bestimmend (2) und mit Bewegung/Kraft (3) einen gewünschten Zustand (Goal 2) aufrechterhält, beispielsweise wenn eine Säule ein Dach trägt.. Autonom/Exzentrisch.
 
+
 trainen: Material/Sports/Training 2/3/4/Goal 3//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) und bewegt/strebt an (3), eine Leistung (4) für den Antagonisten zu erbringen, damit dieser eine Destination/Wirkung erreicht (Goal 3). Nach diesem Leistungsteil folgt das eigene Ziel des Akteurs, Anerkennung zu bekommen (//Goal 4). Bei 'trainen' geht es darum, jemanden durch strukturierte Übungen zu einer Leistungssteigerung zu führen.. Autonom/Exzentrisch.
 
@@ -439,6 +529,7 @@ Begründung: In einem Bildungskontext bedeutet trainen, dass der Akteur bestimmt
 
 trainen: Material/Animal/Training 2/3/4/Goal 2//Goal 4/aut/ecc
 Begründung: Beim Trainieren von Tieren bestimmt/verfügt der Akteur (2), bewegt/strebt an (3), eine Leistung (4) für das Tier zu erbringen, damit dieses einen gewünschten Zustand erreicht (Goal 2), etwa ein bestimmtes Verhalten zeigt. Das Endziel des Trainers ist die Anerkennung seiner Arbeit (//Goal 4).. Autonom/Exzentrisch.
+
 
 trainieren: Material/Sports/Training 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur verfügt (2) über Trainingsmethoden und setzt Bewegungen/Anstrengungen (3) ein, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei das übergeordnete Ziel die Anerkennung/der Erfolg (Goal 4) ist. Die Ausrichtung ist autonom (der Akteur bestimmt das Training) und exzentrisch (nach außen gerichtet auf körperliche Aktivitäten).. Autonom/Exzentrisch.
@@ -449,11 +540,13 @@ Begründung: Im Bildungskontext bedeutet trainieren, dass der Akteur als Trainer
 trainieren: Material/Animal/Training 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Beim Tiertraining verfügt/bestimmt der Akteur (2) durch Bewegungen/Anstrengungen (3), um einen gewünschten Zustand (Goal 2) zu erreichen, der gleichzeitig unerwünschte Verhaltensweisen des Tieres als Antagonist verhindert (//Goal -3).. Autonom/Exzentrisch.
 
+
 traktieren: Material/Fight/Aggression 3/4/1/Goal -3//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und leistet etwas für den Antagonisten (4), indem er ihm etwas gibt (1), was zu einer negativen Wirkung für den Antagonisten führt (Goal -3). Nach dem Perspektivwechsel (//) folgt der gewünschte Zustand des Akteurs (Goal 2). Das Traktieren ist ein aggressives, wiederholtes Einwirken auf jemanden mit der Absicht, ihn zu malträtieren oder zu verletzen.. Autonom/Exzentrisch.
 
 traktieren: Material/Hospitality 2/4/1/Goal 1//Goal 4/aut/ecc
 Begründung: In einer wohlwollenden Bedeutung kann 'traktieren' auch bedeuten, jemanden großzügig mit Speisen und Getränken zu bewirten. Der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er ihm etwas gibt (1), damit dieser gesättigt wird (Goal 1). Das End-Goal des Akteurs nach dem Perspektivwechsel (//) ist Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
 
 trampeln: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Beim Trampeln bewegt (3) der Akteur seine Füße mit intensivem Druck auf den Boden, um eine bestimmte Wirkung/Destination zu erreichen (Goal 3). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc), da die Bewegung auf den Untergrund einwirkt.. Autonom/Exzentrisch.
@@ -464,11 +557,13 @@ Begründung: Im übertragenen Sinne bedeutet 'auf jemandem herumtrampeln', dass 
 trampeln: Material/Fight/Aggression 3/Goal 3//Goal -2/aut/ecc
 Begründung: Im aggressiven Kontext bedeutet trampeln, dass der Akteur eine aggressive Bewegung (3) ausführt, um eine Wirkung zu erzielen (Goal 3), mit dem Ziel, einen unerwünschten Zustand beim Antagonisten hervorzurufen (//Goal -2), etwa durch Trampeln auf etwas, um es zu zerstören.. Autonom/Exzentrisch.
 
+
 trampen: Material/Transportation 3/Goal 3/het/ecc
 Begründung: Trampen bedeutet, sich durch Anhalten von fremden Fahrzeugen (het/ecc) und Mitfahren bewegen (3), um eine Destination zu erreichen (Goal 3). Der Akteur strebt und bewegt sich zu einem bestimmten Ziel, wobei er auf die Hilfe anderer Verkehrsteilnehmer angewiesen ist (heteronome Ausrichtung).. Heteronom/Exzentrisch.
 
 trampen: Material/Sharing-Economy 0/3/1/Goal 3/het/ecc
 Begründung: In der Bedeutung des organisierten Mitfahrens wartet der Akteur (0) auf eine Bewegungsgelegenheit (3), um kostenlos mitzufahren/zu bekommen (1) und sein Ziel zu erreichen (Goal 3). Die heteronome Ausrichtung (het/ecc) unterstreicht die Abhängigkeit von anderen Verkehrsteilnehmern.. Heteronom/Exzentrisch.
+
 
 transactieren: Material/Financial-Transactions 2/4/1/Goal 2//Goal 2/Goal 4/het/ecc
 Begründung: Transactieren bezeichnet eine finanzielle Transaktion, bei der der Akteur bestimmt (2), eine Leistung zu erbringen (4) und etwas zu geben (1), um einen gewünschten Zustand herzustellen (Goal 2), wobei nach dem Wechsel (//) sowohl der Antagonist als auch der Akteur einen gewünschten Zustand (Goal 2) erreichen und der Akteur dabei geschäftliche Anerkennung/Vergütung erhält (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Bedingungen anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
@@ -476,11 +571,13 @@ Begründung: Transactieren bezeichnet eine finanzielle Transaktion, bei der der 
 transactieren: Material/Business 2/4/1/5/Goal 2//Goal 2/Goal 4/het/ecc
 Begründung: In einem breiteren geschäftlichen Kontext kann transactieren auch den Austausch von Informationen (5) beinhalten, wie bei Geschäftsverhandlungen oder Vertragsabschlüssen, bei denen bestimmte Informationen übermittelt werden müssen, um den Geschäftsvorgang abzuschließen.. Heteronom/Exzentrisch.
 
+
 transactionieren: Material/Financial-Transactions 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er etwas gibt/überträgt (1), um einen gewünschten Zustand (Goal 2) für den Antagonisten herzustellen. Nach dem Rollenwechsel (angezeigt durch //) erhält der Akteur selbst Anerkennung/Vergütung (Goal 4). Im Finanzkontext bedeutet 'transactionieren' eine festgelegte Übertragung von Werten durchführen.. Autonom/Exzentrisch.
 
 transactionieren: Material/IT/Finance 2/3/1/Goal 2/Goal 5/aut/ecc
 Begründung: In der digitalen Finanzwelt kann 'transactionieren' auch bedeuten, dass der Akteur bestimmt (2) mit Bewegung/Anstreben (3) etwas zu bekommen (1), um einen gewünschten Zustand (Goal 2) mit Informationsvermerk (Goal 5) zu erreichen. Dies bezieht sich auf die digitale Verarbeitung und Protokollierung von Finanztransaktionen.. Autonom/Exzentrisch.
+
 
 transferieren: Material/Finance 2/3/4/1/Goal 2//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit einer Bewegung (3) eine Leistung für einen Antagonisten zu erbringen (4), indem er etwas gibt (1), um einen gewünschten Zustand (Goal 2) für den Empfänger zu erreichen. Nach dem Umschalter folgen die Ziele des Akteurs: einen gewünschten Zustand erreichen (Goal 2) und berufliche Anerkennung/Vergütung erlangen (Goal 4). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
@@ -490,6 +587,7 @@ Begründung: In der IT bedeutet transferieren, bestimmt (2) mit einer Bewegung (
 
 transferieren: Material/Medical 2/3/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im medizinischen Kontext bedeutet transferieren, bestimmt (2) einen Patienten zu bewegen (3) als Leistung (4) und ihm damit eine neue Position zu geben (1), um einen gewünschten Zustand zu erreichen (Goal 2). Das Endziel des Akteurs ist berufliche Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
 
 transformieren: Material/Transformation 3/Goal 2/aut/ecc
 Begründung: Transformieren bedeutet, etwas durch gezielte Bewegung oder Bearbeitung (3) umzuwandeln, um einen neuen gewünschten Zustand (Goal 2) zu erreichen. Der Prozess wird selbstbestimmt (aut) und auf ein äußeres Objekt gerichtet (ecc) durchgeführt.. Autonom/Exzentrisch.
@@ -503,6 +601,7 @@ Begründung: In der Wissenschaft bedeutet transformieren, durch gezielte Manipul
 transformieren: Material/Mathematics 3/Goal 2/aut/ecc
 Begründung: In der Mathematik bedeutet transformieren, durch gezielte Operationen (3) eine mathematische Darstellung in eine andere Form zu überführen, um einen gewünschten mathematischen Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 transitionieren: Material/Transformation 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/verändert (3) einen Zustand/Eigenschaften, um einen gewünschten neuen Zustand zu erreichen (Goal 2). Transitionieren bedeutet, etwas von einem Zustand in einen anderen zu überführen, wobei der Akteur autonom (aut) handelt und die Wirkung nach außen (ecc) gerichtet ist.. Autonom/Exzentrisch.
 
@@ -512,17 +611,20 @@ Begründung: Im sozialen/geschlechtlichen Kontext: Der Akteur durchläuft selbst
 transitionieren: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: In technischen oder wissenschaftlichen Kontexten: Der Akteur kontrolliert (2) einen Übergangs- oder Umwandlungsprozess (3), um einen spezifischen Zielzustand (Goal 2) zu erreichen. Dies kann sich auf chemische, physikalische oder technische Übergangsprozesse beziehen.. Autonom/Exzentrisch.
 
+
 transparieren: Material/Transparency 3/Goal 5/het/ecc
 Begründung: Transparieren bedeutet, dass etwas durchscheinend ist oder Licht hindurchlässt, wodurch Informationen (Goal 5) sichtbar werden. Die Bewegung/das Durchscheinen (3) des Lichts erfolgt heteronym (het), da der Akteur sich an die physikalischen Eigenschaften des Materials anpassen muss, und ist nach außen gerichtet (ecc), da die Information durch das Material hindurch nach außen dringt.. Heteronom/Exzentrisch.
 
 transparieren: Material/Light 3/5/Goal 5/het/ecc
 Begründung: Im technisch-optischen Sinne bedeutet transparieren auch das aktive Sichtbarmachen (3/5) von Informationen durch Lichtdurchlässigkeit, um Informiertheit zu erreichen (Goal 5). Der Vorgang erfolgt heteronym und exzentrisch, da er von den Materialeigenschaften abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
+
 transportieren: Material/Transportation 2/4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur bestimmt (2) als Dienstleistung (4) die Bewegung (3) von etwas, damit der Antagonist es bekommt (1), um einen gewünschten Zustand zu erreichen (Goal 2), wodurch der Akteur letztendlich Anerkennung oder Bezahlung erhält (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an äußere Bedingungen anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
 
 transportieren: Material/Logistics 2/4/3/1/Goal 3//Goal 4/het/ecc
 Begründung: Im logistischen Kontext liegt der Fokus auf dem Erreichen einer Destination (Goal 3) anstelle eines gewünschten Zustands. Der Akteur organisiert (2) als Dienstleistung (4) die Bewegung (3) von Waren zum Zielort, wo sie übergeben werden (1), um einen Transportauftrag zu erfüllen und dafür Vergütung zu erhalten (//Goal 4).. Heteronom/Exzentrisch.
+
 
 trappen: Material/Sports 3/Goal 3/aut/ecc
 Begründung: Im sportlichen Kontext bedeutet 'trappen' eine autonome Bewegung (3) mit dem Ziel, eine bestimmte Destination oder Wirkung zu erreichen (Goal 3). Der Akteur bewegt sich in einer bestimmten Gangart, die durch regelmäßige, kraftvolle Schritte gekennzeichnet ist. Es handelt sich um eine zielgerichtete Fortbewegung zu Fuß, die ein bestimmtes Bewegungsmuster verfolgt.. Autonom/Exzentrisch.
@@ -533,11 +635,13 @@ Begründung: Im Jagdkontext bedeutet 'trappen' das Suchen und Aufspüren (3/5) v
 trappen: Material/Animals/Hobby 2/3/Goal 2/aut/ecc
 Begründung: Im Bereich der Tierhaltung kann 'trappen' das Fangen bzw. Einfangen von Tieren bedeuten. Der Akteur bestimmt (2) und bewegt sich (3), um einen gewünschten Zustand herbeizuführen (Goal 2) - nämlich das Tier unter Kontrolle zu bringen.. Autonom/Exzentrisch.
 
+
 tratschen: Interpersonal/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Beim Tratschen leistet der Akteur (4) durch das Geben (1) von Informationen (5) eine kommunikative Handlung, damit der Antagonist informiert ist (Goal 5). Gleichzeitig erhält der Akteur selbst nach dem Umschalter (//) soziale Anerkennung (Goal 4) für diese Tätigkeit. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Reaktionen anderer richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
 tratschen: Material/Social 4/1/5/Goal -2//Goal 4/het/ecc
 Begründung: In der Bedeutung des Klatsches/Gerüchte verbreiten leistet der Akteur (4) durch das Geben (1) von Informationen (5) eine Handlung, die den Ruf oder die Situation des Besprochenen (nicht des direkten Gesprächspartners) negativ beeinflusst (Goal -2). Nach dem Umschalter (//) erhält der Akteur soziale Anerkennung oder Aufmerksamkeit (Goal 4).. Heteronom/Exzentrisch.
+
 
 trauen: Interpersonal/Psychological 5/1/Goal 5/Goal 0/het/ecc
 Begründung: Jemandem trauen bedeutet, durch Informationsaufnahme im Kontakt (5) etwas zu bekommen (1), wodurch ein Kontakt/eine Beziehung entsteht (Goal 5) mit dem übergeordneten Ziel der Zuversicht/des Vertrauens (Goal 0). Die Ausrichtung ist heteronom/exzentrisch, da man sich nach dem Anderen richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
@@ -548,17 +652,27 @@ Begründung: Als religiöse Handlung (trauen = Trauung durchführen) leistet der
 trauen: Interpersonal/Relationship 4/1/Goal 2//Goal 1/het/ecc
 Begründung: Sich trauen (= heiraten) bedeutet, dass der Akteur eine Leistung (4) des Gebens (1) erbringt, damit der Antagonist in einen gewünschten Zustand (Goal 2) kommt, während der Akteur nach dem Wechsel Nähe/Liebe erhält (//Goal 1).. Heteronom/Exzentrisch.
 
+
 trauern: Interpersonal/Emotional 3/1/Goal 1/het/ecc
 Begründung: Trauern ist ein emotionaler Prozess, bei dem der Akteur eine Bewegung/ein Anstreben (3) nach dem Bekommen (1) von emotionaler Nähe zu einer verlorenen Person/Sache ausführt, mit dem Ziel dieser Nähe (Goal 1) - obwohl dies physisch nicht mehr möglich ist. Der Prozess ist heteronym (het), da er durch den Verlust ausgelöst wird und nach außen (ecc) gerichtet, da er sich auf ein äußeres Objekt/eine Person bezieht.. Heteronom/Exzentrisch.
 
 trauern: Material/Emotions 3/1/Goal 2/het/ecc
 Begründung: Im Sinne eines psychologischen Verarbeitungsprozesses bedeutet Trauern auch die Bewegung (3) hin zum Bekommen (1) eines neuen Zustands der Akzeptanz (Goal 2). Der Akteur strebt durch die Trauerarbeit einen gewünschten Zustand (Bewältigung des Verlusts) an, wobei er sich den äußeren Umständen anpassen muss (het/ecc).. Heteronom/Exzentrisch.
 
+
 traumatisieren: Interpersonal/Psychological 3/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich auf den Antagonisten zu (3) und gibt/leistet (4/1) ihm etwas, das zu einem unerwünschten Zustand für den Antagonisten führt (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2). Der Prozess ist autonom und exzentrisch ausgerichtet (aut/ecc), da der Akteur aktiv auf den Antagonisten einwirkt und ihn in seinem psychischen Zustand negativ beeinflusst.. Autonom/Exzentrisch.
 
 traumatisieren: Material/Psychological 3/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: In einem materiellen Kontext bedeutet traumatisieren, dass der Akteur durch sein Handeln (3) eine Leistung erbringt (4), die dem Antagonisten etwas gibt (1), was zu einem unerwünschten psychischen Zustand führt (Goal -2). Dies dient dem gewünschten Zustand des Akteurs (//Goal 2). Der Unterschied zur interpersonellen Bedeutung liegt im Kontext - hier geht es um traumatisierende Ereignisse oder Situationen, nicht um direkte zwischenmenschliche Einwirkung.. Autonom/Exzentrisch.
+
+
+träumen: Material/Psychological 0/5/Goal 5/het/con
+Begründung: Beim Träumen befindet sich der Akteur in einem Zustand des Wartens/Ruhens (0), während er passiv Informationen aufnimmt (5), mit dem Ziel, diese Informationen zu haben/zu verarbeiten (Goal 5). Der Prozess ist heteronom, da der Träumende nicht bewusst die Inhalte steuert, und nach innen gerichtet (con), da es sich um einen internen mentalen Prozess handelt.. Heteronom/Konzentrisch.
+
+träumen: Interpersonal/Psychological 0/5/Goal 5/Goal 2/het/con
+Begründung: Im übertragenen Sinne bedeutet 'träumen' auch das Fantasieren über Wünsche und Ziele (Tagträumen). Hierbei wartet/ruht der Akteur (0) während er sich Informationen über eine gewünschte Zukunft vorstellt (5), mit dem Ziel, diese Informationen zu haben (Goal 5) und letztendlich einen gewünschten Zustand mental vorwegzunehmen (Goal 2).. Heteronom/Konzentrisch.
+
 
 treffen: Material/Meeting 3/1/Goal 3/het/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) durch das Zusammentreffen mit dem Anderen das Erreichen einer Destination/Wirkung (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich auf den Außenbereich ausrichten und an äußere Gegebenheiten (Ort, Zeit) anpassen muss.. Heteronom/Exzentrisch.
@@ -571,6 +685,7 @@ Begründung: Im Kampfkontext bedeutet treffen, dass der Akteur durch Bewegung (3
 
 treffen: Interpersonal/Decision 2/Goal 2/aut/con
 Begründung: Eine Entscheidung treffen bedeutet, dass der Akteur bestimmt/kontrolliert (2), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/konzentrisch, da der Entscheidungsprozess im Innenbereich stattfindet.. Autonom/Konzentrisch.
+
 
 treiben: Material/Process 3/Goal 3/aut/ecc
 Begründung: In seiner grundlegenden Bedeutung bezeichnet 'treiben' eine autonome Bewegung (3) mit dem Ziel, eine bestimmte Wirkung zu erzielen (Goal 3). Der Akteur bewegt etwas vorwärts oder voran, um eine Destination oder Wirkung zu erreichen.. Autonom/Exzentrisch.
@@ -590,6 +705,7 @@ Begründung: Bei Flüssigkeiten oder schwimmenden Objekten: Etwas bewegt sich (3
 treiben: Interpersonal/Psychological 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im übertragenen Sinne: Der Akteur bestimmt (2) und bewegt (3) jemanden zu etwas, um einen gewünschten Zustand zu erreichen (Goal 2) und gegen den Willen des Antagonisten zu wirken (//Goal -3), wie bei 'jemanden zur Verzweiflung treiben'.. Autonom/Exzentrisch.
 
+
 trennen: Material/Separation 2/3/Goal 2/aut/ecc
 Begründung: Trennen bedeutet, dass der Akteur bestimmt/verfügt (2) und mit Bewegung/Anstreben (3) bewusst eine Separation durchführt, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), da er aktiv einen Eingriff in die physische Welt vornimmt.. Autonom/Exzentrisch.
 
@@ -598,6 +714,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet trennen, dass der Akteur b
 
 trennen: Material/Fluids 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext von Flüssigkeiten oder flüssigen Substanzen bedeutet trennen, dass der Akteur bestimmt (2) und durch Bewegung/Prozess (3) eine Separation von verschiedenen Bestandteilen vornimmt, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
 
 treten: Material/Physical 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt seinen Fuß/Bein (3) mit dem Ziel, eine Wirkung zu erzielen (Goal 3). Tretwirkung ist eine Bewegung, die auf eine Destination/Wirkung abzielt.. Autonom/Exzentrisch.
@@ -617,6 +734,7 @@ Begründung: Der Akteur bewegt sich (3) und kommt an einem Ort an (1), um eine D
 treten: Material/Social 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich aktiv (3) und bekommt (1) eine Position in einer Organisation (Goal 2), wie in 'in einen Verein eintreten'.. Autonom/Exzentrisch.
 
+
 triangulieren: Material/Measurement 3/5/Goal 5/het/ecc
 Begründung: Triangulieren bedeutet eine Ortsvermessungsmethode, bei der durch Bewegen (3) zwischen verschiedenen Standpunkten und Informationsaufnahme (5) an diesen Punkten ein zu vermessender Ort genau bestimmt wird (Goal 5). Der Akteur passt sich dabei an vorgegebene geometrische Prinzipien an und ist nach außen auf den zu vermessenden Punkt gerichtet (het/ecc).. Heteronom/Exzentrisch.
 
@@ -625,6 +743,7 @@ Begründung: Im übertragenen Sinne bedeutet triangulieren, durch die Bewegung z
 
 triangulieren: Interpersonal/Psychological 3/5/Goal 5/het/ecc
 Begründung: In der Psychologie bezeichnet Triangulierung den Vorgang, bei dem eine Person sich zwischen zwei anderen Personen bewegt (3) und Informationen sammelt (5), um ein vollständigeres Verständnis einer Situation zu erlangen (Goal 5). Dies geschieht z.B. in Familiendynamiken oder bei der Konfliktlösung.. Heteronom/Exzentrisch.
+
 
 tricksen: Material/Deception 3/5/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Beim Tricksen bewegt/strebt der Akteur (3) mit Hilfe von Informationen (5) eine Wirkung an (Goal 3), um einen gewünschten Zustand zu erreichen (Goal 2), während gleichzeitig das Ziel des Antagonisten verhindert wird (//Goal -2). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), um den Antagonisten durch Täuschung zu übervorteilen.. Autonom/Exzentrisch.
@@ -635,11 +754,13 @@ Begründung: Im zwischenmenschlichen Bereich bedeutet Tricksen, durch gezielte B
 tricksen: Material/Fight/Games 3/5/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im Spielkontext bedeutet Tricksen, durch clevere Bewegungen (3) und Täuschungsmanöver (5) eine spielentscheidende Wirkung (Goal 3) zu erzielen, um einen Vorteil (Goal 2) zu erlangen und gleichzeitig die Erfolgsaussichten des Gegenspielers zu mindern (//Goal -2).. Autonom/Exzentrisch.
 
+
 triefen: Material/Fluids/Process 3/Goal 3/het/ecc
 Begründung: Bei 'triefen' bewegt sich (3) eine Flüssigkeit von oben nach unten oder tropft von einer Oberfläche herab mit dem Ziel, eine Bewegungswirkung zu erreichen (Goal 3). Die Ausrichtung ist heteronom (het), da der Prozess der Schwerkraft folgt und nicht selbstgesteuert ist, sowie exzentrisch (ecc), da die Bewegung nach außen in die Umwelt gerichtet ist.. Heteronom/Exzentrisch.
 
 triefen: Material/Medical 3/Goal -3/het/ecc
 Begründung: Im medizinischen Kontext bedeutet 'triefen' das ungewollte Austreten von Flüssigkeit (z.B. aus einer Wunde oder entzündeten Augen). Hier bewegt sich (3) eine Körperflüssigkeit ungewollt, was zu einer unerwünschten Wirkung führt (Goal -3).. Heteronom/Exzentrisch.
+
 
 triggern: Material/Stimulation 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3), um eine bestimmte Wirkung/Reaktion auszulösen (Goal 3). Das Auslösen eines Vorgangs oder einer Reaktion durch einen gezielten Reiz ist eine autonome, nach außen gerichtete Aktivität.. Autonom/Exzentrisch.
@@ -649,6 +770,7 @@ Begründung: Im psychologischen Kontext bedeutet 'triggern', dass der Akteur ein
 
 triggern: Material/IT 3/Goal 3/aut/ecc
 Begründung: In der IT bedeutet 'triggern', dass der Akteur eine Aktion initiiert (3), die einen automatisierten Prozess auslöst (Goal 3). Der Akteur handelt autonom und seine Handlung ist nach außen auf das System gerichtet.. Autonom/Exzentrisch.
+
 
 trimmen: Material/Appearance 3/Goal 2/aut/ecc
 Begründung: Beim Trimmen bewegt (3) der Akteur etwas, um einen gewünschten Zustand (Goal 2) zu erreichen, etwa durch Kürzen, Stutzen oder Formen. Der Akteur handelt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da er auf ein Objekt einwirkt. Das Wesentliche ist die gezielte Formgebung oder Anpassung durch Bewegung.. Autonom/Exzentrisch.
@@ -662,6 +784,7 @@ Begründung: Beim Tiertrimmen bestimmt (2) der Akteur durch gezielte Bewegungen 
 trimmen: Material/Hairstyling 3/Goal 2/aut/ecc
 Begründung: Im Friseurbereich bedeutet Trimmen das präzise Bewegen (3) von Schere oder Trimmer, um Haar in eine gewünschte Form zu bringen (Goal 2). Dies ist eine fachspezifische Anwendung der grundlegenden Formgebungstätigkeit.. Autonom/Exzentrisch.
 
+
 trinken: Material/Fluids/Food 2/1/Goal 1/aut/con
 Begründung: Trinken bedeutet, dass der Akteur verfügt (2) über ein Getränk und es in den Mund nimmt, um es zu bekommen (1), mit dem Ziel der Befriedigung eines Bedürfnisses (Goal 1). Dies geschieht selbstbestimmt (aut) im eigenen Bereich (con).. Autonom/Konzentrisch.
 
@@ -671,11 +794,13 @@ Begründung: Im Kontext von Alkoholabhängigkeit bedeutet trinken, dass der Akte
 trinken: Material/Social-Activities 2/1/Goal 5/Goal 1/aut/ecc
 Begründung: Im sozialen Kontext ('etwas trinken gehen') bedeutet trinken, dass der Akteur über Getränke verfügt (2) und sie zu sich nimmt (1), wobei neben der Befriedigung (Goal 1) auch der soziale Kontakt und Informationsaustausch (Goal 5) im Vordergrund steht.. Autonom/Exzentrisch.
 
+
 triumphieren: Fight/Competition 3/1/Goal 2/Goal 3/aut/ecc
 Begründung: Triumphieren bedeutet, dass der Akteur durch eigene Bewegung/Anstreben (3) einen Sieg bekommt (1), wodurch er einen gewünschten Zustand (Goal 2) mit einer erfolgreichen Wirkung (Goal 3) erreicht. Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur aktiv handelt und sein Sieg nach außen wirkt.. Autonom/Exzentrisch.
 
 triumphieren: Interpersonal/Psychological 3/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet triumphieren, dass der Akteur durch seine Handlung (3) eine Wirkung erzielt (Goal 3) und einen gewünschten Zustand für sich erreicht (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 trockenbauen: Material/Construction 2/3/Goal 2/aut/ecc
 Begründung: Trockenbauen bedeutet, dass der Akteur verfügt (2) über Baumaterialien und bewegt/bearbeitet diese (3), um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich die Errichtung von Innenwänden, Decken oder anderen Bauteilen ohne Verwendung von Wasser oder Mörtel. Die Tätigkeit ist autonom und nach außen gerichtet.. Autonom/Exzentrisch.
@@ -683,11 +808,13 @@ Begründung: Trockenbauen bedeutet, dass der Akteur verfügt (2) über Baumateri
 trockenbauen: Material/Professions/Construction 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Als berufliche Tätigkeit beinhaltet Trockenbauen das Verfügen (2) über Baumaterialien und die Bearbeitung dieser (3), um einen gewünschten Zustand zu erreichen (Goal 2) und letztendlich durch diese Leistung Geld/Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 trollen: Interpersonal/Deception 3/5/Goal -2//Goal 3/aut/ecc
 Begründung: Trollen bedeutet, dass der Akteur durch gezieltes bewegen (3) in Kommunikationsräumen und suchen (5) von Angriffsflächen einen unerwünschten Zustand beim Antagonisten (//Goal -2) hervorruft, um dadurch die eigene Wirkung (Goal 3) zu erzielen. Der Akteur bestimmt selbst (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
 
 trollen: Material/Fishing 2/3/Goal 3/aut/ecc
 Begründung: Im Angelkontext bedeutet trollen das Fischen durch Schleppangeln, wobei der Akteur über die Geschwindigkeit und Route verfügt (2), sich bewegt (3), um ein Ziel zu erreichen (Goal 3). Der Akteur bestimmt selbst (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
+
 
 trommeln: Material/Musical 3/Goal 3/aut/ecc
 Begründung: Trommeln bedeutet, durch Bewegung (3) der Hände/Schlägel auf einem Schlaginstrument eine klangliche Wirkung zu erzielen (Goal 3). Der Akteur bewegt sich dabei selbstbestimmt (aut) und nach außen gerichtet (ecc), um den gewünschten Klang zu erzeugen.. Autonom/Exzentrisch.
@@ -698,11 +825,13 @@ Begründung: Im übertragenen Sinne bedeutet trommeln auch, durch wiederholte Be
 trommeln: Material/Gesture 3/Goal 3/aut/ecc
 Begründung: Als Geste bedeutet trommeln, mit den Fingern wiederholt auf eine Oberfläche zu schlagen (3), um Ungeduld oder Nervosität auszudrücken (Goal 3). Dabei bewegt sich der Akteur selbstbestimmt (aut) nach außen (ecc).. Autonom/Exzentrisch.
 
+
 tropfen: Material/Fluids/Process 3/Goal 3/het/ecc
 Begründung: Tropfen bedeutet, dass Flüssigkeit sich bewegt (3) mit dem Goal, eine bestimmte Wirkung/Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Vorgang von externen Faktoren wie Schwerkraft bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 tropfen: Material/Medical 2/3/Goal 2/het/ecc
 Begründung: In medizinischem Kontext bedeutet tropfen das gezielte Dosieren/Verabreichen von Flüssigkeit, wobei der Akteur das Tropfen kontrolliert (2), eine Bewegung stattfindet (3), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Prozess von äußeren Bedingungen abhängig ist.. Heteronom/Exzentrisch.
+
 
 trotzen: Interpersonal/Psychological/Resistance 3/Goal 2//Goal -2/aut/ecc
 Begründung: Trotzen bedeutet, sich aktiv zu bewegen (3) gegen den Willen eines Antagonisten, um einen eigenen gewünschten Zustand durchzusetzen (Goal 2), wobei gleichzeitig der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -710,23 +839,20 @@ Begründung: Trotzen bedeutet, sich aktiv zu bewegen (3) gegen den Willen eines 
 trotzen: Material/Weather 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: In der Bedeutung 'den Elementen trotzen' bestimmt der Akteur (2) mit Bewegung (3) einen gewünschten Zustand für sich (Goal 2) und bekämpft gleichzeitig die Wirkung der Naturgewalten (//Goal -3).. Autonom/Exzentrisch.
 
+
 troubleshooten: Material/IT/Problem-Solving 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Troubleshooten bedeutet, systematisch Fehler oder Probleme in einem (IT-)System zu analysieren und zu beheben. Der Akteur bewegt sich (3) zu einem Problem und informiert sich (5) über dessen Natur, um Kontrolle (2) über die Situation zu erlangen, mit dem Ziel informiert zu sein (Goal 5) und letztendlich einen gewünschten Zustand (Fehlerfreiheit) herzustellen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Gegebenheiten anpassen muss und nach außen gerichtet arbeitet.. Heteronom/Exzentrisch.
 
 troubleshooten: Material/Technical/Problem-Solving 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Im technischen, nicht-IT Kontext bedeutet troubleshooten ebenso die systematische Fehlersuche und -behebung in technischen Geräten oder Systemen. Der Akteur geht dem Problem nach (3), informiert sich (5), um Kontrolle über die Situation zu erlangen (2), mit dem Ziel, informiert zu sein (Goal 5) und den korrekten Zustand wiederherzustellen (Goal 2).. Heteronom/Exzentrisch.
 
-träumen: Material/Psychological 0/5/Goal 5/het/con
-Begründung: Beim Träumen befindet sich der Akteur in einem Zustand des Wartens/Ruhens (0), während er passiv Informationen aufnimmt (5), mit dem Ziel, diese Informationen zu haben/zu verarbeiten (Goal 5). Der Prozess ist heteronom, da der Träumende nicht bewusst die Inhalte steuert, und nach innen gerichtet (con), da es sich um einen internen mentalen Prozess handelt.. Heteronom/Konzentrisch.
-
-träumen: Interpersonal/Psychological 0/5/Goal 5/Goal 2/het/con
-Begründung: Im übertragenen Sinne bedeutet 'träumen' auch das Fantasieren über Wünsche und Ziele (Tagträumen). Hierbei wartet/ruht der Akteur (0) während er sich Informationen über eine gewünschte Zukunft vorstellt (5), mit dem Ziel, diese Informationen zu haben (Goal 5) und letztendlich einen gewünschten Zustand mental vorwegzunehmen (Goal 2).. Heteronom/Konzentrisch.
 
 trösten: Interpersonal/Support 4/3/1/Goal -0//Goal 4/het/ecc
 Begründung: Trösten bedeutet, dass der Akteur eine Leistung (4) für den Antagonisten erbringt, indem er durch beruhigende Bewegungen (3) emotionale Nähe gibt (1), um das negative Vorausgefühl/die negative Stimmung des Antagonisten zu mindern (Goal -0). Der Akteur erhält dafür Anerkennung (//Goal 4).. Heteronom/Exzentrisch.
 
 trösten: Interpersonal/Emotional 4/1/5/Goal 2//Goal 4/het/ecc
 Begründung: In einer anderen Bedeutung kann trösten auch bedeuten, dass der Akteur eine Leistung (4) erbringt, indem er dem Antagonisten etwas gibt (1), nämlich Informationen/Worte (5), um einen gewünschten emotionalen Zustand bei ihm herzustellen (Goal 2). Der Akteur erhält dafür Anerkennung (//Goal 4).. Heteronom/Exzentrisch.
+
 
 trüben: Material/Fluids/Process 3/Goal -5/het/ecc
 Begründung: Trüben bedeutet, dass der Akteur eine Flüssigkeit durch Bewegung/Einwirkung (3) in einen Zustand versetzt, bei dem die Durchsichtigkeit verringert wird, was zu einer Beeinträchtigung der Informationsgewinnung führt (Goal -5). Der Prozess ist heteronom/exzentrisch, da der Akteur auf äußere Substanzen einwirkt und sich an deren Eigenschaften anpassen muss.. Heteronom/Exzentrisch.
@@ -736,6 +862,7 @@ Begründung: Im übertragenen Sinne bedeutet trüben, dass etwas (z.B. Ereigniss
 
 trüben: Interpersonal/Psychological 3/Goal -5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet trüben, dass der Akteur eine Beziehung oder Stimmung durch sein Verhalten (3) negativ beeinflusst, was zu einer Verschlechterung der Kommunikation und des Kontakts führt (Goal -5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur auf andere Menschen einwirkt und sich an deren Reaktionen anpassen muss.. Heteronom/Exzentrisch.
+
 
 tun: Material 3/Goal 2/aut/ecc
 Begründung: Tun bezeichnet das aktive Handeln (3), um einen gewünschten Zustand zu erreichen (Goal 2). Es ist autonom, da der Akteur selbstbestimmt handelt, und exzentrisch, da es eine nach außen gerichtete Aktivität ist.. Autonom/Exzentrisch.
@@ -749,14 +876,17 @@ Begründung: Im zwischenmenschlichen Bereich kann 'tun' auch bedeuten, auf ander
 tun: Material/Work 3/Goal 2/Goal 4/aut/ecc
 Begründung: In beruflicher Hinsicht bedeutet 'tun' das aktive Handeln/Bewegen (3), um einen gewünschten Zustand zu erreichen (Goal 2) mit dem Endziel, Anerkennung oder Bezahlung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 tuscheln: Interpersonal/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Beim Tuscheln leistet der Akteur (4) etwas für einen Antagonisten, indem er ihm leise Informationen gibt (1/5), damit dieser informiert ist (Goal 5 vor //). Das Ganze geschieht, um soziale Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Antagonisten anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 tuscheln: Material/Secretive 3/4/1/5/Goal 5//Goal 2/het/ecc
 Begründung: In einem heimlichen Kontext bedeutet Tuscheln, dass der Akteur bewusst leise spricht (3) und eine Leistung erbringt (4), indem er Informationen gibt (1/5), um den Antagonisten zu informieren (Goal 5), mit dem Ziel für sich selbst einen gewünschten Zustand der Geheimhaltung zu erreichen (//Goal 2).. Heteronom/Exzentrisch.
 
+
 tutorieren: Material/Education 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Tutorieren bedeutet, als Tutor zu arbeiten, indem man bestimmt (2), eine Leistung für den Lernenden erbringt (4) durch das Geben (1) von Informationen (5), damit der Lernende informiert ist (Goal 5), wodurch der Tutor letztendlich Anerkennung und/oder Bezahlung erhält (//Goal 4).. Autonom/Exzentrisch.
+
 
 twittern: Material/IT/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) das Geben (1) von Informationen (5), damit andere informiert sind (Goal 5), mit dem eigenen Ziel der Anerkennung/Aufmerksamkeit (//Goal 4). Die Aktivität findet auf einer digitalen Plattform statt, ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
@@ -764,14 +894,17 @@ Begründung: Der Akteur leistet (4) das Geben (1) von Informationen (5), damit a
 twittern: Material/IT/Social 3/5/Goal 5/Goal 4/aut/ecc
 Begründung: In einer zweiten Bedeutung kann twittern als das aktive Teilen (3) von Informationen (5) verstanden werden, um sowohl Informationsvermittlung (Goal 5) als auch Anerkennung/Aufmerksamkeit zu erlangen (Goal 4), ohne spezifischen Fokus auf den Dienstleistungsaspekt.. Autonom/Exzentrisch.
 
+
 typisieren: Material/Classification 2/3/5/Goal 5/aut/ecc
 Begründung: Beim Typisieren verfügt/bestimmt der Akteur (2) durch Bewegung/Anstreben (3) über das Informieren (5), um informiert zu sein (Goal 5). Es handelt sich um einen Prozess, bei dem Objekte oder Personen anhand bestimmter Merkmale kategorisiert und in Typen eingeteilt werden, wodurch eine strukturierte Information entsteht.. Autonom/Exzentrisch.
 
 typisieren: Material/Scientific 2/3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Im wissenschaftlichen Kontext bedeutet Typisieren das Ordnen und Kategorisieren nach bestimmten Kriterien (2/3/5), um nicht nur informiert zu sein (Goal 5), sondern auch einen gewünschten systematischen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 typografieren: Material/Printing 2/3/Goal 2/aut/ecc
 Begründung: Typografieren bedeutet, Texte mit bestimmten Schriften, Schriftgrößen und typografischen Gestaltungselementen zu setzen. Der Akteur verfügt (2) über die typografischen Mittel und bewegt/bearbeitet (3) das Material, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Tätigkeit erfolgt selbstbestimmt und ist nach außen gerichtet.. Autonom/Exzentrisch.
+
 
 tyrannisieren: Interpersonal/Power 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Tyrannisieren bedeutet, andere Menschen zu unterdrücken und zu beherrschen. Der Akteur bestimmt (2) und setzt mit aktiver Bewegung/Handlung (3) seinen gewünschten Zustand der Machtausübung durch (Goal 2), wobei gleichzeitig die Selbstbestimmung und Handlungsfreiheit des Antagonisten aktiv behindert wird (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und seine Macht nach außen auf andere ausübt.. Autonom/Exzentrisch.
@@ -779,32 +912,3 @@ Begründung: Tyrannisieren bedeutet, andere Menschen zu unterdrücken und zu beh
 tyrannisieren: Material/Fight/Power-Politics 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im politischen oder institutionellen Kontext bedeutet tyrannisieren, dass ein Machthaber seine Untergebenen mit Willkür und Gewalt beherrscht. Der machtausübende Akteur bestimmt (2) und setzt aktiv (3) seinen gewünschten Zustand der Unterdrückung durch (Goal 2), während er die Handlungsfreiheit und Rechte der Untergebenen einschränkt (//Goal -3).. Autonom/Exzentrisch.
 
-tätigen: Material/Financial-Transactions 2/3/1/Goal 2/Goal 4/aut/ecc
-Begründung: Der Akteur verfügt (2) über Bewegung (3) und gibt (1) Geld aus, um einen gewünschten Zustand zu erreichen (Goal 2) mit dem Endziel, geschäftlichen Erfolg zu erzielen (Goal 4). Das Wort bezieht sich auf die Durchführung von Geldtransaktionen, insbesondere im geschäftlichen Kontext.. Autonom/Exzentrisch.
-
-tätigen: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
-Begründung: Der Akteur verfügt (2) über seine Ressourcen und bewegt/aktiviert sie (3), um einen gewünschten geschäftlichen Zustand zu erreichen (Goal 2) mit dem Endziel, Anerkennung/Geld zu bekommen (Goal 4). Dies bezieht sich auf allgemeine geschäftliche Handlungen, die nicht unbedingt finanzielle Transaktionen beinhalten.. Autonom/Exzentrisch.
-
-tätscheln: Interpersonal/Gesture 3/4/1/Goal 3//Goal 4/aut/ecc
-Begründung: Tätscheln bedeutet, dass der Akteur eine zärtliche, sanfte Bewegung (3) ausführt, die eine Leistung (4) für den Antagonisten darstellt, indem er diesem eine Berührung gibt (1), um eine positive Wirkung (Goal 3) zu erzielen, was letztlich dem Akteur selbst die Anerkennung (//Goal 4) einbringt. Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Initiative ergreift und nach außen gerichtet handelt.. Autonom/Exzentrisch.
-
-tätscheln: Material/Animals/Training 3/4/1/Goal 3//Goal 4/aut/ecc
-Begründung: Im Kontext der Tierhaltung bedeutet tätscheln, dass der Akteur sanfte Berührungen (3) als positive Verstärkung (4) für ein Tier ausführt, indem er diesem eine Berührung gibt (1), um eine positive Wirkung bei dem Tier zu erzielen (Goal 3), mit dem Ziel selbst Anerkennung zu erhalten oder das gewünschte Verhalten zu fördern (//Goal 4).. Autonom/Exzentrisch.
-
-täuschen: Material/Deception 3/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Täuschen bedeutet, dass der Akteur mit Bewegung/Anstreben (3) das Geben (4/1)  von falschen Informationen (5) durchführt, um einen unerwünschten Zustand für den Antagonisten herzustellen (Goal -2), indem dieser in die Irre geführt wird, was gleichzeitig ein gewünschter Zustand für ihn ist (//Goal 2). Der Akteur agiert selbstbestimmt (aut) und nach außen gerichtet (ecc), da er aktiv auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
-
-täuschen: Interpersonal/Deception 3/5/Goal 3//Goal -5/aut/ecc
-Begründung: Im zwischenmenschlichen Bereich bedeutet täuschen, dass der Akteur durch Bewegung/Anstreben (3) und die Manipulation von Informationen (5) eine Wirkung für sich selbst erzielt (Goal 3) und gleichzeitig dem Antagonisten einen korrekten Informationsstand verwehrt (//Goal -5). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
-
-täuschen: Fight/Sport 3/Goal 3//Goal -3/aut/ecc
-Begründung: Im sportlichen Wettkampf bedeutet täuschen eine Bewegung (3) mit dem Ziel, eine Wirkung zu erzielen (Goal 3), während gleichzeitig die Wirkung des Gegners verhindert wird (//Goal -3), indem dieser in die falsche Richtung gelenkt wird. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
-
-töten: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
-Begründung: Mit einer Bewegung/Handlung (3) wird das Bekommen (1) einer Wirkung (Goal 3) erreicht, die zum gewünschten Zustand (Goal 2) des Akteurs führt, während gleichzeitig der gewünschte Zustand des Antagonisten (Weiterleben) verhindert wird (//Goal -2).. Autonom/Exzentrisch.
-
-töten: Material/Animal 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
-Begründung: Im Kontext der Tierhaltung: Durch gezielte Bewegung/Handlung (3) wird das Bekommen (1) einer Wirkung (Goal 3) erreicht, die zum gewünschten Zustand (Goal 2) führt, während das Leben des Tieres beendet wird (//Goal -2).. Autonom/Exzentrisch.
-
-töten: Material/Fight/Aggression/War 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
-Begründung: Im militärischen Kontext: Durch gezielte Bewegung/Handlung (3) wird das Bekommen (1) einer Wirkung (Goal 3) erreicht, die zum gewünschten taktischen Zustand (Goal 2) führt, während der Feind eliminiert wird (//Goal -2).. Autonom/Exzentrisch.
