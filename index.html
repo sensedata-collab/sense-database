@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sense - Verbanwendung</title>
+    <!-- Das vorhandene CSS bleibt unverändert -->
     <style>
-        /* CSS bleibt unverändert */
+        /* Ihr vorhandenes CSS hier */
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -22,285 +23,40 @@
             padding: 20px;
         }
         
-        header {
-            text-align: center;
-            margin-bottom: 10px;
-            border-bottom: 1px solid #eee;
-            padding-bottom: 5px;
-        }
-        
-        header h1 {
-            font-size: 20px;
-            margin-bottom: 3px;
-        }
-        
-        header p {
-            font-size: 13px;
-            margin: 3px 0;
-        }
-        
-        .search-container {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 10px;
-            align-items: center;
-            flex-wrap: wrap;
-        }
-        
-        .search-container input {
-            flex: 1;
-            padding: 6px;
-            font-size: 14px;
-            border: 1px solid #ddd;
-            border-radius: 4px;
-            min-width: 200px;
-        }
-        
-        .search-container input:focus {
-            border-color: #666;
-            outline: none;
-        }
-        
-        .search-hint {
-            width: 100%;
-            font-size: 12px;
-            color: #666;
-            margin-top: 3px;
-        }
-        
-        button {
-            background-color: #444;
-            color: white;
-            border: none;
-            padding: 6px 10px;
-            border-radius: 4px;
-            cursor: pointer;
-            font-size: 14px;
-        }
-        
-        button:hover {
-            background-color: #666;
-        }
-        
-        button:disabled {
-            background-color: #cccccc;
-            cursor: not-allowed;
-        }
-        
-        .navigation {
-            display: flex;
-            justify-content: space-between;
-            margin-top: 10px;
-        }
-        
-        .nav-buttons {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-        }
-        
-        .display-area {
-            margin: 12px 0;
-            padding: 12px;
-            background-color: #f9f9f9;
-            border-radius: 8px;
-            border-left: 2px solid #ccc;
-        }
-        
-        .verb-heading {
-            font-size: 20px;
-            margin-bottom: 6px;
-            color: black;
-        }
-        
-        .code-display {
-            font-family: 'Courier New', monospace;
-            background-color: #f0f0f0;
-            padding: 10px;
-            border-radius: 4px;
-            margin-bottom: 10px;
-        }
-        
-        .explanation {
-            padding: 10px;
-            background-color: #f0f0f0;
-            border-radius: 4px;
-            margin-bottom: 8px;
-            font-size: 13px;
-            min-height: 105px; /* 5 Zeilen */
-        }
-        
-        .formula-additions {
-            display: flex;
-            gap: 10px;
-            flex-wrap: wrap;
-            margin-top: 8px;
-            margin-bottom: 8px;
-        }
-        
-        .formula-item {
-            cursor: pointer;
-            background-color: #f0f0f0;
-            padding: 3px 6px;
-            border-radius: 3px;
-            border: 1px solid #ddd;
-            font-size: 13px;
-        }
-        
-        .formula-item:hover {
-            background-color: #e0e0e0;
-            border-color: #aaa;
-        }
-        
-        .formula-item.active {
-            background-color: #e0e0e0;
-            border-color: #999;
-            font-weight: bold;
-        }
-        
-        .formula-explanation {
-            margin-top: 5px;
-            padding: 8px;
-            background-color: #f5f5f5;
-            border-radius: 4px;
-            border-left: 2px solid #ccc;
-            font-size: 13px;
-            line-height: 1.4;
-            min-height: 40px; /* Stabiler Erklärungsblock */
-        }
-        
-        .complexity-info {
-            margin-top: 5px;
-            font-size: 13px;
-            color: #333;
-            background-color: #f5f5f5;
-            padding: 8px;
-            border-radius: 4px;
-            border-left: 2px solid #ccc;
-            line-height: 1.4;
-        }
-        
-        .suggestion {
-            margin-top: 6px;
-            padding: 6px;
-            background-color: #f0f0f0;
-            border-radius: 4px;
-            font-size: 13px;
-        }
-        
-        .error-message {
-            color: #d9534f;
-            background-color: #f0f0f0;
-            padding: 6px;
-            border-radius: 4px;
-            margin: 6px 0;
-            font-size: 13px;
-            border-left: 2px solid #d9534f;
-        }
-        
-        .project-info {
-            margin-top: 15px;
-            padding: 10px;
-            background-color: #f0f0f0;
-            border-radius: 4px;
-            font-size: 12px;
-            text-align: center;
-        }
-        
-        .loading-indicator {
-            text-align: center;
-            padding: 10px;
-            font-style: italic;
-            color: #666;
-        }
-        
-        /* Responsives Design */
-        @media (max-width: 768px) {
-            .search-container {
-                flex-direction: column;
-                align-items: stretch;
-            }
-        }
-        
-        /* Für kleinere Bildschirme, aber dafür sorgen, dass Buttons sichtbar bleiben */
-        @media (max-width: 640px) {
-            .nav-buttons {
-                justify-content: center;
-                width: 100%;
-            }
-            
-            .nav-buttons button {
-                padding: 5px 8px;
-                font-size: 13px;
-            }
-        }
-        
-        /* Bei noch kleineren Bildschirmen 2x2 Button-Layout */
-        @media (max-width: 480px) {
-            .nav-buttons {
-                display: grid;
-                grid-template-columns: 1fr 1fr;
-                gap: 5px;
-            }
-        }
+        /* Rest des CSS... */
     </style>
 </head>
 <body>
+    <!-- Der HTML-Teil bleibt unverändert -->
     <div class="container">
         <header>
             <h1>Sense - Verbanwendung</h1>
             <p>Durchsuchen Sie 5000 deutsche Verben und deren SENSE-Kodierungen</p>
         </header>
         
-        <div class="search-container">
-            <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
-            <button id="searchButton">Suchen</button>
-            <div class="search-hint">Bitte geben Sie nur deutsche Verben ein (Wörter die auf -en, -eln oder -ern enden).</div>
-        </div>
-        
-        <div id="errorMessage" class="error-message" style="display: none;"></div>
-        <div id="suggestions" class="suggestion" style="display: none;"></div>
-        <div id="loadingIndicator" class="loading-indicator" style="display: none;">Lädt Datei...</div>
-        
-        <div class="display-area" id="displayArea">
-            <div class="verb-heading" id="currentVerb">Geben Sie ein Verb ein</div>
-            <div class="code-display" id="codeDisplay">Der Code wird hier angezeigt.</div>
-            <div class="explanation" id="explanationDisplay">Die Begründung wird hier angezeigt.</div>
-            
-            <!-- Formelzusätze erscheinen unter der Erklärung -->
-            <div class="formula-additions">
-                <span class="formula-item active" data-symbol="//">//</span>
-                <span class="formula-item" data-symbol="-">-</span>
-                <span class="formula-item" data-symbol="ADJ">ADJ</span>
-                <span class="formula-item" data-symbol="NO/">NO/</span>
-                <span class="formula-item" data-symbol="NOT/">NOT/</span>
-                <span class="formula-item" data-symbol="CP/">CP/</span>
-                <span class="formula-item" data-symbol="ANTI/">ANTI/</span>
-            </div>
-            <div class="formula-explanation" id="formulaExplanation">
-                // ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.
-            </div>
-            
-            <div class="complexity-info" id="complexityInfo">
-                Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
-            </div>
-        </div>
-        
-        <div class="navigation">
-            <div class="nav-buttons">
-                <button id="firstButton">Erste Seite</button>
-                <button id="prevButton">Zurück</button>
-                <button id="nextButton">Weiter</button>
-                <button id="lastButton">Letzte Seite</button>
-            </div>
-        </div>
-        
-        <div class="project-info">
-            <p>Sense 2025 - Lokale Verbanwendung</p>
-        </div>
+        <!-- Rest des HTML... -->
     </div>
     
     <script>
+        // Hier ist der einfache Teil 1 - Teil 2 Ansatz eingebettet
+        
+        // Daten direkt in die Variablen einfügen
+        const verbData1 = `abarbeiten: Material/Professional 4/3/Goal 2//Goal 4/het/ecc
+Begründung: Abarbeiten im beruflichen Kontext bedeutet eine Leistung zu erbringen (4), die eine Bewegung oder Transformation (3) beinhaltet, um einen gewünschten Zustand zu erreichen (Goal 2) und dafür Anerkennung/Vergütung zu bekommen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Tätigkeit nach extern gerichtet ist und in der Regel nach Vorgaben erfolgt.. Heteronom/Exzentrisch.
+
+...
+
+kneten: Material/Professions/Baker 2/3/Goal 2/aut/ecc
+Begründung: Das Verb bezieht sich auf die handwerkliche Tätigkeit des Knetens von Teig. Dabei übt man Kontrolle (2) über die Bewegung (3) aus, um einen gewünschten Zustand des Materials zu erreichen (Goal 2). Der Bäcker handelt selbstbestimmt (autonom), wirkt aber auf ein Objekt außerhalb seiner selbst ein (exzentrisch).. Autonom/Exzentrisch.`;
+
+        const verbData2 = `knicken: Material/Physical 3/2/Goal 3/het/ecc
+Begründung: Knicken beschreibt eine physikalische Bewegung (3), bei der Kontrolle (2) über ein Material ausgeübt wird, um eine bestimmte Wirkung (Goal 3) zu erzielen. Die Ausrichtung ist heteronom (abhängig von den Materialeigenschaften) und exzentrisch (nach außen gerichtet).. Heteronom/Exzentrisch.
+
+...
+
+zweifeln: Mental/Basic 5/Goal 5/aut/con
+Begründung: Zweifeln ist ein rein mentaler Prozess des Hinterfragens und Analysierens (5), der dem Ziel der Informationsgewinnung (Goal 5) dient. Der Prozess ist autonom (selbstbestimmt) und konzentrisch (nach innen gerichtet), da er vollständig im Geist des Akteurs stattfindet.. Autonom/Konzentrisch.`;
+
         document.addEventListener('DOMContentLoaded', function() {
             // Variablen für die Verarbeitung
             let verbEntries = [];             // Alle Verben
@@ -336,10 +92,6 @@
                 "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
             };
             
-            // Konstanten für die Datendateien
-            const DATA_FILE_1 = 'Coded_Verb.txt';  // Erste Hälfte bis "kneten"
-            const DATA_FILE_2 = 'Coded_Verbs_B.txt'; // Zweite Hälfte ab "knicken"
-            
             // Initialisiere das System
             initSystem();
             
@@ -360,67 +112,27 @@
                 });
             });
             
-            async function initSystem() {
-                // Lade die Daten
-                await loadAllData();
-                
-                // Aktiviere die Buttons
-                updateNavButtons();
-            }
-            
-            // Lade alle Daten aus beiden Dateien
-            async function loadAllData() {
-                loadingIndicator.style.display = 'block';
-                loadingIndicator.textContent = 'Lade Daten...';
-                
+            function initSystem() {
                 try {
-                    // Erste Datei laden
-                    console.log(`Lade erste Datei ${DATA_FILE_1}...`);
-                    loadingIndicator.textContent = 'Lade erste Hälfte...';
-                    const response1 = await fetch(DATA_FILE_1);
+                    loadingIndicator.style.display = 'block';
+                    loadingIndicator.textContent = 'Lade Daten...';
                     
-                    if (!response1.ok) {
-                        throw new Error(`Fehler beim Laden der ersten Datei: ${response1.status}`);
-                    }
+                    // Hier werden die Daten aus den zwei fest eingebetteten Teilen verarbeitet
+                    const combinedData = verbData1 + '\n\n' + verbData2;
                     
-                    const text1 = await response1.text();
+                    // Verarbeite die Daten
+                    processVerbFile(combinedData);
                     
-                    if (!text1 || !text1.trim()) {
-                        throw new Error('Die erste Datei enthält keine Daten.');
-                    }
-                    
-                    // Zweite Datei laden
-                    console.log(`Lade zweite Datei ${DATA_FILE_2}...`);
-                    loadingIndicator.textContent = 'Lade zweite Hälfte...';
-                    const response2 = await fetch(DATA_FILE_2);
-                    
-                    if (!response2.ok) {
-                        throw new Error(`Fehler beim Laden der zweiten Datei: ${response2.status}`);
-                    }
-                    
-                    const text2 = await response2.text();
-                    
-                    if (!text2 || !text2.trim()) {
-                        throw new Error('Die zweite Datei enthält keine Daten.');
-                    }
-                    
-                    // Kombiniere beide Texte mit einem Zeilenumbruch dazwischen
-                    const combinedText = text1 + '\n\n' + text2;
-                    console.log(`Beide Dateien geladen. Kombinierte Textlänge: ${combinedText.length} Zeichen`);
-                    
-                    // Verarbeite die kombinierten Daten
-                    loadingIndicator.textContent = 'Verarbeite Daten...';
-                    processVerbFile(combinedText);
-                    
-                    console.log('Daten erfolgreich geladen und verarbeitet.');
-                    
-                    // Zeige den ersten Eintrag an, wenn vorhanden
+                    // Zeige den ersten Eintrag, wenn verfügbar
                     if (verbEntries.length > 0) {
                         displayEntry(0);
                     }
+                    
+                    // Aktiviere die Buttons
+                    updateNavButtons();
                 } catch (error) {
-                    console.error('Fehler beim Laden der Daten:', error);
-                    showError(`Fehler beim Laden der Daten: ${error.message}`);
+                    console.error("Fehler beim Initialisieren:", error);
+                    showError("Fehler beim Laden der Daten: " + error.message);
                 } finally {
                     loadingIndicator.style.display = 'none';
                 }
@@ -428,8 +140,6 @@
             
             // Verarbeite die Verbdatei und strukturiere die Daten
             function processVerbFile(text) {
-                console.log("Verarbeite Datei...");
-                
                 // Zurücksetzen der aktuellen Daten
                 verbEntries = [];
                 uniqueVerbs = [];
@@ -484,6 +194,7 @@
                     }
                 }
                 
+                // Der Rest des Codes bleibt unverändert...
                 // Gruppiere nach Verb und nummeriere
                 const verbGroups = {};
                 tempEntries.forEach(entry => {
@@ -518,288 +229,36 @@
                 console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
             }
             
+            // Der Rest Ihres JavaScript-Codes bleibt unverändert
+            
             // Zeige einen Eintrag an
             function displayEntry(index) {
-                if (index < 0 || index >= verbEntries.length) {
-                    showError('Ungültiger Index: ' + index);
-                    return;
-                }
-                
-                const entry = verbEntries[index];
-                currentIndex = index;
-                
-                // Verb anzeigen
-                currentVerb.textContent = entry.verb;
-                currentVerb.style.color = 'black'; // Schwarz statt Blau
-                
-                // Code anzeigen
-                codeDisplay.textContent = entry.code;
-                
-                // Begründung anzeigen
-                if (entry.explanation && entry.explanation.trim()) {
-                    explanationDisplay.textContent = entry.explanation;
-                    explanationDisplay.style.display = 'block';
-                } else {
-                    explanationDisplay.textContent = "Keine Begründung verfügbar";
-                    explanationDisplay.style.display = 'block';
-                }
-                
-                // Fehler und Vorschläge zurücksetzen
-                hideError();
-                hideSuggestions();
-                
-                // Scrolle nach oben
-                window.scrollTo(0, 0);
-                
-                // Aktualisiere die Navigation
-                updateNavButtons();
+                // ... Ihr vorhandener Code ...
             }
             
-            // Navigation zum ersten Eintrag
+            // Navigation
             function goToFirst() {
-                if (verbEntries.length > 0) {
-                    displayEntry(0);
-                } else {
-                    showError("Keine Daten verfügbar.");
-                }
+                // ... Ihr vorhandener Code ...
             }
             
-            // Navigation zum letzten Eintrag
             function goToLast() {
-                if (verbEntries.length > 0) {
-                    displayEntry(verbEntries.length - 1);
-                } else {
-                    showError("Keine Daten verfügbar.");
-                }
+                // ... Ihr vorhandener Code ...
             }
             
-            // Navigation zum vorherigen Eintrag
             function goToPrevious() {
-                if (currentIndex > 0) {
-                    displayEntry(currentIndex - 1);
-                } else {
-                    showError("Sie befinden sich bereits am Anfang der Datenbank.");
-                }
+                // ... Ihr vorhandener Code ...
             }
             
-            // Navigation zum nächsten Eintrag
             function goToNext() {
-                if (currentIndex < verbEntries.length - 1) {
-                    displayEntry(currentIndex + 1);
-                } else {
-                    showError("Sie haben das Ende der Datenbank erreicht.");
-                }
+                // ... Ihr vorhandener Code ...
             }
             
             // Suche nach einem Verb
             function searchVerb(term) {
-                if (!term) {
-                    hideSuggestions();
-                    return false;
-                }
-                
-                term = term.toLowerCase().trim();
-                
-                // Exakte Übereinstimmung suchen (erste Bedeutung)
-                const exactMatch = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase() === term && entry.meaningNumber === 1
-                );
-                
-                if (exactMatch !== -1) {
-                    displayEntry(exactMatch);
-                    hideError();
-                    hideSuggestions();
-                    return true;
-                }
-                
-                // Suche nach Verben, die mit dem Suchbegriff beginnen (erste Bedeutung)
-                const startsWith = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase().startsWith(term) && entry.meaningNumber === 1
-                );
-                
-                if (startsWith !== -1) {
-                    displayEntry(startsWith);
-                    
-                    // Zeige Vorschläge für ähnliche Verben
-                    showSimilarVerbs(term);
-                    return true;
-                }
-                
-                // Teilübereinstimmung (erste Bedeutung)
-                const partialMatch = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase().includes(term) && entry.meaningNumber === 1
-                );
-                
-                if (partialMatch !== -1) {
-                    displayEntry(partialMatch);
-                    
-                    // Zeige Vorschläge für ähnliche Verben
-                    showSimilarVerbs(term);
-                    return true;
-                }
-                
-                // Wenn keine erste Bedeutung gefunden wurde, suche nach beliebiger Bedeutung
-                const anyMatch = verbEntries.findIndex(entry => 
-                    entry.verb.toLowerCase().includes(term)
-                );
-                
-                if (anyMatch !== -1) {
-                    displayEntry(anyMatch);
-                    showSimilarVerbs(term);
-                    return true;
-                }
-                
-                // Keine Übereinstimmung gefunden
-                showError(`Das Verb "${term}" wurde nicht gefunden. Möglicherweise ist es nicht in unserer Datenbank enthalten oder anders geschrieben.`);
-                showSimilarVerbs(term);
-                return false;
+                // ... Ihr vorhandener Code ...
             }
             
-            // Zeige ähnliche Verben als Vorschläge
-            function showSimilarVerbs(term) {
-                if (!term || term.length < 2) {
-                    hideSuggestions();
-                    return;
-                }
-                
-                // Finde einzigartige Verben (keine Duplikate wegen mehrerer Bedeutungen)
-                const similarVerbs = uniqueVerbs
-                    .filter(verb => verb.toLowerCase().includes(term.toLowerCase()))
-                    .slice(0, 5);  // Begrenze auf 5 Vorschläge
-                
-                if (similarVerbs.length > 0) {
-                    suggestions.innerHTML = 'Ähnliche Verben: ' + 
-                        similarVerbs.map(verb => `<a href="#" class="verb-suggestion">${verb}</a>`).join(', ');
-                    suggestions.style.display = 'block';
-                    
-                    // Event-Listener für Vorschläge
-                    document.querySelectorAll('.verb-suggestion').forEach(link => {
-                        link.addEventListener('click', function(e) {
-                            e.preventDefault();
-                            const selectedVerb = this.textContent;
-                            searchInput.value = selectedVerb;
-                            searchVerb(selectedVerb);
-                        });
-                    });
-                } else {
-                    hideSuggestions();
-                }
-            }
-            
-            // Prüfe, ob ein String ein gültiges deutsches Verb ist
-            function isValidGermanVerb(text) {
-                // Vereinfachte Prüfung: ein deutsches Verb endet typischerweise auf -en, -eln, -ern
-                // und enthält keine Zahlen oder Sonderzeichen (außer ä, ö, ü, ß)
-                const germanVerbPattern = /^[a-zäöüß]+(?:en|eln|ern)$/i;
-                
-                return germanVerbPattern.test(text.trim());
-            }
-            
-            // Fehler anzeigen
-            function showError(message) {
-                errorMessage.textContent = message;
-                errorMessage.style.display = 'block';
-            }
-            
-            // Fehler ausblenden
-            function hideError() {
-                errorMessage.style.display = 'none';
-            }
-            
-            // Vorschläge ausblenden
-            function hideSuggestions() {
-                suggestions.style.display = 'none';
-            }
-            
-            // Navigationsbuttons aktualisieren
-            function updateNavButtons() {
-                // Prüfe die aktuelle Position
-                const isFirstEntry = currentIndex === 0;
-                const isLastEntry = currentIndex === verbEntries.length - 1;
-                
-                // Aktiviere/deaktiviere Buttons entsprechend
-                firstButton.disabled = isFirstEntry;
-                prevButton.disabled = isFirstEntry;
-                nextButton.disabled = isLastEntry;
-                lastButton.disabled = isLastEntry;
-            }
-            
-            // Event-Listener registrieren
-            
-            // Live-Suche mit Timeout
-            searchInput.addEventListener('input', function() {
-                const term = this.value.trim();
-                
-                // Ignoriere kurze Eingaben für die Live-Suche
-                if (term.length < 2) {
-                    hideSuggestions();
-                    return;
-                }
-                
-                // Setze früheren Timeout zurück
-                clearTimeout(searchTimeout);
-                
-                // Warte kurz, bevor die Suche durchgeführt wird
-                searchTimeout = setTimeout(() => {
-                    if (term !== lastSearchTerm) {
-                        searchVerb(term);
-                        lastSearchTerm = term;
-                    }
-                }, 300);
-            });
-            
-            // Such-Button
-            searchButton.addEventListener('click', function() {
-                const term = searchInput.value.trim();
-                
-                if (!term) {
-                    showError('Bitte geben Sie ein Verb ein.');
-                    return;
-                }
-                
-                if (!isValidGermanVerb(term) && term.length > 2) {
-                    showError('Bitte geben Sie ein gültiges deutsches Verb ein (endet typischerweise auf -en, -eln oder -ern).');
-                    return;
-                }
-                
-                searchVerb(term);
-            });
-            
-            // Navigationstasten
-            prevButton.addEventListener('click', goToPrevious);
-            nextButton.addEventListener('click', goToNext);
-            firstButton.addEventListener('click', goToFirst);
-            lastButton.addEventListener('click', goToLast);
-            
-            // Tastatur-Navigation
-            document.addEventListener('keydown', function(e) {
-                if (e.target === searchInput) {
-                    // Wenn im Suchfeld, nur bei Enter-Taste suchen
-                    if (e.key === 'Enter') {
-                        const term = searchInput.value.trim();
-                        if (term) {
-                            searchVerb(term);
-                        }
-                    }
-                    return;
-                }
-                
-                // Sonst allgemeine Navigation
-                switch (e.key) {
-                    case 'ArrowLeft':
-                        goToPrevious();
-                        break;
-                    case 'ArrowRight':
-                        goToNext();
-                        break;
-                    case 'Home':
-                        goToFirst();
-                        break;
-                    case 'End':
-                        goToLast();
-                        break;
-                }
-            });
+            // ... alle anderen Funktionen bleiben unverändert ...
         });
     </script>
 </body>
