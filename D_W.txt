@@ -7,6 +7,7 @@ Begründung: In der Bedeutung als Wachdienst ausführen beinhaltet wachen das Be
 wachen: Material/Physical 1/Goal 0/het/con
 Begründung: Im Sinne von 'aufwachen' oder 'erwachen' bedeutet wachen das Bekommen (1) eines wachen/erholten Zustands (Goal 0). Die Ausrichtung ist heteronom und konzentrisch, da es sich um einen vom Körper bestimmten, nach innen gerichteten Prozess handelt.. Heteronom/Konzentrisch.
 
+
 wachrütteln: Interpersonal/Psychological 3/4/5/Goal 5//Goal 2/aut/ecc
 Begründung: Mit 'wachrütteln' bewegt (3) der Akteur sich auf andere zu, um eine Leistung zu erbringen (4), die informiert (5) und zu einem Aufmerksamkeitszustand führt (Goal 5), mit dem Ziel, dass der Antagonist einen gewünschten Zustand der Wachheit/Bewusstheit erreicht (//Goal 2). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
@@ -15,6 +16,7 @@ Begründung: Im physischen Sinne bedeutet 'wachrütteln', jemanden durch Bewegun
 
 wachrütteln: Material/Stimulation 3/4/1/Goal 3//Goal 2/aut/ecc
 Begründung: Im stimulierenden Sinne bedeutet 'wachrütteln', durch aktives Bewegen (3) eine Leistung zu erbringen (4), die dem Antagonisten etwas gibt (1), um eine Wirkung zu erzielen (Goal 3) mit dem Ziel, dass der Antagonist aus seiner Lethargie erwacht (//Goal 2).. Autonom/Exzentrisch.
+
 
 wachsen: Material/Biological/Process 3/Goal 2/het/ecc
 Begründung: Wachsen bezeichnet einen biologischen Prozess, bei dem sich ein Organismus (Pflanze, Tier, Mensch) durch autonome Bewegung (3) in Richtung eines gewünschten Zustands (Goal 2) entwickelt. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Wachstumsprozess von natürlichen Faktoren abhängig ist und nach außen gerichtet stattfindet.. Heteronom/Exzentrisch.
@@ -25,6 +27,7 @@ Begründung: In Bezug auf Zahlen, Werte oder abstrakte Größen bedeutet wachsen
 wachsen: Material/Plants 3/1/Goal 2/het/ecc
 Begründung: Bezogen auf Pflanzen bedeutet wachsen, dass diese durch Bewegung/Entwicklung (3) und Aufnahme von Nährstoffen und Wasser (1) einen gewünschten Endzustand (Goal 2) erreichen. Der Prozess ist heteronom und exzentrisch, da er von Umweltbedingungen abhängig und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
+
 wagen: Material/Risk 3/Goal 2/het/ecc
 Begründung: Etwas wagen bedeutet, sich (3) mit einem bewussten Risiko auf etwas einzulassen, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an die Unsicherheit der Situation anpassen muss und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
 
@@ -33,6 +36,7 @@ Begründung: Im geschäftlichen Kontext bedeutet wagen, eine riskante Unternehmu
 
 wagen: Material/Transportation 3/1/Goal 2/het/ecc
 Begründung: Einen Wagen als Transportmittel einsetzen bedeutet, etwas durch Bewegung (3) zu bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
 
 wahren: Material/Preservation 2/3/Goal 2/aut/con
 Begründung: Wahren bedeutet, durch Bestimmen/Verfügen (2) und Bewegungen/Aktivitäten (3) einen gewünschten Zustand (Goal 2) zu erhalten oder zu schützen. Der Akteur handelt dabei selbstbestimmt (aut) im eigenen Verfügungsbereich (con), um den Status oder die Eigenschaften von etwas zu bewahren oder zu erhalten.. Autonom/Konzentrisch.
@@ -43,6 +47,7 @@ Begründung: Im rechtlichen Kontext bedeutet 'wahren' das Aufrechterhalten (2/3)
 wahren: Interpersonal/Respect 2/3/Goal 2/aut/con
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'wahren' das Aufrechterhalten (2/3) von Distanz, Grenzen oder Würde (Goal 2), wobei der Akteur selbstbestimmt (aut) innerhalb seines Verfügungsbereichs (con) handelt, um angemessene Verhaltensstandards zu sichern.. Autonom/Konzentrisch.
 
+
 wahrnehmen: Material/Sensory 5/1/Goal 5/het/ecc
 Begründung: Wahrnehmen bedeutet, Informationen aufzunehmen (5) und zu bekommen (1), mit dem Ziel, informiert zu sein (Goal 5). Es ist heteronom/exzentrisch ausgerichtet, da der Akteur sich nach äußeren Reizen richtet und seine Aufmerksamkeit nach außen lenkt.. Heteronom/Exzentrisch.
 
@@ -52,11 +57,13 @@ Begründung: Im kognitiven Sinne bedeutet wahrnehmen, aktiv Informationen zu ver
 wahrnehmen: Material/Responsibility 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Im Sinne von 'eine Aufgabe/Termin wahrnehmen' bedeutet es, eine Leistung zu erbringen (4) und über etwas zu verfügen (2), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), mit dem Ziel, Anerkennung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
 
+
 walken: Material/Sports 3/Goal 3/aut/ecc
 Begründung: Walken (Nordic Walking) ist eine sportliche Aktivität, bei der sich der Akteur selbstbestimmt (aut) nach außen gerichtet (ecc) mit gezielten Bewegungen (3) fortbewegt, um eine bestimmte Strecke zurückzulegen oder ein Ziel zu erreichen (Goal 3).. Autonom/Exzentrisch.
 
 walken: Material/Textile 3/Goal 2/aut/ecc
 Begründung: In der Textilverarbeitung bedeutet walken das intensive Bearbeiten (3) von Wolle oder anderen Stoffen durch Bewegung und Druck, um deren Beschaffenheit zu verändern und einen gewünschten Zustand (Goal 2) wie Verfilzung oder Verdichtung zu erreichen.. Autonom/Exzentrisch.
+
 
 walzen: Material/Manufacturing 2/3/Goal 2/aut/ecc
 Begründung: Walzen bedeutet, durch Verfügen (2) über ein Material und dessen gezielte Bearbeitung/Bewegung (3) einen gewünschten Zustand (Goal 2) zu erreichen, wobei das Material durch Druck flacher oder glatter gemacht wird. Es ist eine autonome Aktivität, die nach außen auf ein Material gerichtet ist (aut/ecc).. Autonom/Exzentrisch.
@@ -70,6 +77,7 @@ Begründung: Als Tanzform bedeutet walzen, die Kontrolle über die eigenen Tanzb
 walzen: Material/Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Im übertragenen Sinne: Einen Gegner walzen bedeutet, mit aggressiver Bewegung (3) den Gegner zu bekommen/packen (1), um einen gewünschten Zustand für sich zu erreichen (Goal 2) und gleichzeitig den gewünschten Zustand des Gegners zu verhindern (//Goal -2).. Autonom/Exzentrisch.
 
+
 wandeln: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Im physischen Sinne bedeutet 'wandeln' ein langsames, gemächliches Gehen (3), mit dem Ziel, eine bestimmte Strecke zurückzulegen oder ein Ziel zu erreichen (Goal 3). Der Akteur bewegt sich eigenständig (aut) in seiner Umgebung (ecc).. Autonom/Exzentrisch.
 
@@ -78,6 +86,7 @@ Begründung: Im Sinne von 'umwandeln' oder 'verwandeln' bedeutet es, bestimmend 
 
 wandeln: Material/Religious 3/Goal 3/Goal 5/het/ecc
 Begründung: Im spirituellen/religiösen Sinne bedeutet 'wandeln' sich in einer bestimmten Weise zu verhalten oder zu leben (3), mit dem Ziel der spirituellen Entwicklung (Goal 3) und dem Erhalt spiritueller Erkenntnis (Goal 5). Die Ausrichtung ist heteronom (het), da man sich nach religiösen Vorschriften richtet, und exzentrisch (ecc), da dies nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
 
 wandern: Material/Recreation 3/Goal 3/aut/ecc
 Begründung: Wandern bezeichnet eine autonome Bewegung (3) des Akteurs zu Fuß über längere Strecken, meist in der Natur, mit dem Ziel, eine bestimmte Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt in die Umwelt hinein aktiv wird.. Autonom/Exzentrisch.
@@ -88,11 +97,13 @@ Begründung: Als Freizeitaktivität dient Wandern nicht nur dem Erreichen einer 
 wandern: Material/Physical/Movement 3/Goal 3/het/ecc
 Begründung: Als nomadisches oder migratorisches Wandern (z.B. Völkerwanderung oder Migration) bezeichnet es eine Bewegung (3) des Akteurs zu einer Destination (Goal 3), wobei die Ausrichtung heteronom ist, da der Akteur meist aufgrund äußerer Umstände zum Wandern veranlasst wird.. Heteronom/Exzentrisch.
 
+
 wappnen: Material/Protection 2/3/Goal 2/aut/ecc
 Begründung: Sich wappnen bedeutet, dass der Akteur bestimmt (2) über schützende Maßnahmen, die mit Bewegung (3) verbunden sind, um einen gewünschten Schutz-Zustand (Goal 2) zu erreichen. Der Akteur handelt selbstbestimmt (aut) und richtet seine Handlung nach außen (ecc), um sich gegen potentielle Gefahren zu schützen.. Autonom/Exzentrisch.
 
 wappnen: Material/Fight/Preparation 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Kampfkontext bedeutet sich wappnen, dass der Akteur bestimmt (2) und Vorkehrungen trifft (3), um einen geschützten Zustand (Goal 2) zu erreichen, der gleichzeitig die negative Wirkung (//Goal -3) eines Antagonisten abwehren soll. Der Akteur handelt selbstbestimmt (aut) mit Ausrichtung nach außen (ecc).. Autonom/Exzentrisch.
+
 
 warnen: Material/Safety 4/1/5/Goal 5//Goal 2/het/ecc
 Begründung: Der Akteur leistet für den Antagonisten (4) eine Informationsübergabe (1/5), damit dieser informiert ist (Goal 5) über eine potenzielle Gefahr. Nach dem Wechsel (//) dient dies dem Ziel des Akteurs, einen sicheren Zustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
@@ -103,6 +114,7 @@ Begründung: In Notfallsituationen kann warnen auch bedeuten, dass der Akteur be
 warnen: Material/Fight/Defense 3/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Im Verteidigungskontext kann warnen bedeuten, dass der Akteur mit bewegter Anstrengung (3) eine Leistung für den Antagonisten erbringt (4), indem er Informationen gibt (1/5), damit dieser informiert ist (Goal 5) über eine drohende Konsequenz. Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 warpen: Material/Science-Fiction/Transportation 3/Goal 3/aut/ecc
 Begründung: In der Science-Fiction beschreibt 'warpen' das Verzerren oder Krümmen der Raumzeit, um mit überlichtschneller Geschwindigkeit zu reisen. Der Akteur bewegt sich (3) mit dem Ziel, eine Destination zu erreichen (Goal 3), wobei dies autonom und nach außen gerichtet geschieht (aut/ecc). Die Aktion ist essentiell eine fortgeschrittene Form der Fortbewegung.. Autonom/Exzentrisch.
 
@@ -111,6 +123,7 @@ Begründung: In der Seefahrt bedeutet 'warpen' das Bewegen (3) eines Schiffes du
 
 warpen: Material/Textile 2/3/Goal 2/aut/ecc
 Begründung: In der Textilherstellung bedeutet 'warpen' das Anordnen (2) und Bewegen (3) von Fäden in Längsrichtung, um einen gewünschten Zustand für das Weben vorzubereiten (Goal 2).. Autonom/Exzentrisch.
+
 
 warten: Material/Time 0/Goal 0/het/con
 Begründung: Warten bedeutet, in einem Zustand der Inaktivität zu verharren (0) mit dem Ziel, einen Basiszustand der Erholung zu haben (Goal 0), wobei man sich an äußere Zeitvorgaben anpasst (het) und nach innen gerichtet ist (con). Es ist eine passive Aktivität, bei der man auf eine Gelegenheit wartet, etwas zu tun.. Heteronom/Konzentrisch.
@@ -127,6 +140,7 @@ Begründung: Als 'jemanden bedienen' bedeutet warten, eine Leistung für einen A
 warten: Material/Expectation 0/1/Goal 5/het/ecc
 Begründung: Im Sinne von 'auf eine Nachricht warten' bedeutet es, in einem Wartezustand zu sein (0) für das Bekommen (1) von Informationen (Goal 5), wobei man sich an äußere Gegebenheiten anpasst (het) und nach außen gerichtet ist (ecc).. Heteronom/Exzentrisch.
 
+
 waschen: Material/Cleaning 2/3/Goal 2/aut/ecc
 Begründung: Waschen bedeutet, dass der Akteur verfügt (2) über Reinigungsmittel und Wasser und durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) der Sauberkeit eines Objekts erreicht. Der Akteur handelt autonom und die Tätigkeit ist nach außen gerichtet, da ein Objekt bearbeitet wird (aut/ecc).. Autonom/Exzentrisch.
 
@@ -135,6 +149,7 @@ Begründung: Sich waschen bedeutet, dass der Akteur über Reinigungsmittel und W
 
 waschen: Material/Cleaning/Clothing 2/3/Goal 2/Goal 1/aut/ecc
 Begründung: Kleidung waschen bedeutet, über Waschmittel und Wasser zu verfügen (2) und durch Bewegung/Bearbeitung (3) einen gewünschten Zustand der Sauberkeit (Goal 2) herzustellen, damit die Kleidung wieder tragbar und dadurch 'konsumierbar' wird (Goal 1).. Autonom/Exzentrisch.
+
 
 watchen: Material/Surveillance 5/Goal 5/het/ecc
 Begründung: Watchen (umgangssprachlich für beobachten/überwachen) bedeutet, dass der Akteur sich informiert (5), um informiert zu sein (Goal 5). Es hat eine heteronome, nach außen gerichtete Ausrichtung (het/ecc), da der Akteur sich an externe Gegebenheiten anpasst und seine Aufmerksamkeit nach außen richtet.. Heteronom/Exzentrisch.
@@ -145,11 +160,54 @@ Begründung: In der IT-Kontext bedeutet watchen das Überwachen von Prozessen, S
 watchen: Interpersonal/Surveillance 5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet watchen, dass der Akteur eine andere Person beobachtet oder überwacht, um Kontakt zu haben bzw. zu behalten (Goal 5). Hier steht nicht die Information, sondern der Kontakt im Vordergrund.. Heteronom/Exzentrisch.
 
+
 waterboarden: Material/Punishment 2/3/4/1/Goal -2//Goal 2/aut/ecc
 Begründung: Waterboarden ist eine Foltermethode, bei der der Akteur bestimmt (2) und durch Bewegung (3) eine Leistung für den Antagonisten erbringt (4), indem er Wasser gibt/aufbringt (1), um einen unerwünschten Zustand für den Antagonisten zu erzeugen (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), z.B. Informationen zu erzwingen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur die Kontrolle hat und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
 waterboarden: Material/Fight/Intelligence-Operations 2/3/4/1/Goal -2/Goal -5//Goal 5/Goal 2/aut/ecc
 Begründung: Im Kontext von Verhörmethoden der Geheimdienste ist Waterboarden eine Technik, bei der der Akteur bestimmt (2) und durch Bewegung (3) eine Leistung für den Antagonisten erbringt (4), indem er Wasser gibt/aufbringt (1), um einen unerwünschten Zustand zu erzeugen (Goal -2) und die Informationsverweigerung des Antagonisten zu überwinden (Goal -5), mit dem Ziel, Informationen zu erlangen (//Goal 5) und einen gewünschten Zustand herzustellen (Goal 2).. Autonom/Exzentrisch.
+
+
+wägen: Material/Measurement 2/3/Goal 5/het/ecc
+Begründung: Beim Wägen bestimmt der Akteur (2) durch die Bewegung (3) eines Gegenstandes auf einer Waage, wie schwer dieser ist, um Informationen über sein Gewicht zu erhalten (Goal 5). Der Prozess ist heteronom, da er sich an den Eigenschaften des zu wägenden Objekts orientieren muss, und exzentrisch, da die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+wägen: Material/Analysis 3/5/Goal 2/het/ecc
+Begründung: In der übertragenen Bedeutung von 'abwägen' bedeutet wägen das Bewegen/Anstreben (3) und Informieren (5), um einen gewünschten Zustand der Entscheidungsfindung zu erreichen (Goal 2). Der Prozess ist heteronom, da er von den zu beurteilenden Faktoren abhängt, und exzentrisch, da er nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+
+wähnen: Material/Psychological 3/5/2/Goal 5/het/ecc
+Begründung: Wähnen bedeutet etwas irrtümlich anzunehmen oder zu glauben. Der Akteur strebt an (3), Informationen zu suchen/aufzunehmen (5) und darüber zu verfügen (2), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externen Informationen orientiert, diese jedoch falsch interpretiert.. Heteronom/Exzentrisch.
+
+wähnen: Material/Hypothesis 3/5/2/Goal 5/Goal -5/het/ecc
+Begründung: In der spezifischeren Bedeutung als 'irrtümlich annehmen' bewegt sich der Akteur (3) zu Informationen hin (5), um über sie zu verfügen (2), mit dem Ziel informiert zu sein (Goal 5), erreicht aber tatsächlich einen Fehlinformationszustand (Goal -5). Dies betont den Aspekt der falschen Hypothesenbildung.. Heteronom/Exzentrisch.
+
+
+währen: Material/Time 0/Goal 0/het/con
+Begründung: Währen bedeutet andauern oder fortbestehen (0) über eine Zeitspanne hinweg, ohne dass aktiv etwas getan wird. Es ist ein passives Warten (0) auf den Abschluss eines Zeitraums, wobei der Akteur sich heteronym an die äußeren Zeitumstände anpassen muss (het) und sich in einem Zustand des Verharrens befindet (con), mit dem Ziel, einen Basiszustand zu haben (Goal 0).. Heteronom/Konzentrisch.
+
+währen: Material/Process 0/Goal 2/het/con
+Begründung: In der Bedeutung des Andauerns eines Prozesses oder Zustands bezeichnet 'währen' das Fortbestehen (0) eines gewünschten oder vorgegebenen Zustands (Goal 2), wobei der Akteur sich passiv verhält (het/con) und der Prozess von selbst weiterläuft.. Heteronom/Konzentrisch.
+
+
+wärmen: Material/Temperature 3/Goal 2/aut/ecc
+Begründung: Wärmen bedeutet durch aktive Bewegung (3) einen gewünschten Zustand (Goal 2) der höheren Temperatur herbeizuführen. Der Akteur bewegt Wärmeenergie autonom (aut) in Richtung eines Objekts (ecc).. Autonom/Exzentrisch.
+
+wärmen: Material/Heating-System 2/3/Goal 2/aut/ecc
+Begründung: Im Kontext eines Heizsystems bedeutet wärmen das Bestimmen/Kontrollieren (2) und Bewegen (3) von Wärmeenergie, um einen gewünschten Wärmezustand (Goal 2) zu erreichen. Der Akteur verfügt über das Heizgerät und steuert es aktiv.. Autonom/Exzentrisch.
+
+wärmen: Interpersonal/Emotional 4/1/Goal 1//Goal 4/het/ecc
+Begründung: Im übertragenen Sinne bedeutet jemanden emotional wärmen, dass man eine Leistung für den Antagonisten erbringt (4) und ihm etwas gibt (1), damit er Nähe/Wohlbefinden erfährt (Goal 1), wofür der Akteur Anerkennung erwartet (//Goal 4).. Heteronom/Exzentrisch.
+
+
+wässern: Material/Agriculture 3/1/Goal 2/aut/ecc
+Begründung: Wässern bedeutet, Wasser (1) zu Pflanzen zu bewegen (3), um einen gewünschten Zustand (Goal 2) der Pflanzen zu erreichen. Der Akteur handelt autonom und nach außen gerichtet (aut/ecc), da er aktiv Wasser zu den Pflanzen bringt.. Autonom/Exzentrisch.
+
+wässern: Material/Cooking 3/1/Goal 2/aut/ecc
+Begründung: In der Küche bedeutet wässern, Lebensmittel (wie Stockfisch oder Hülsenfrüchte) in Wasser einzulegen (3/1), um einen gewünschten Zustand (Goal 2) zu erreichen, beispielsweise um Salz zu entziehen oder sie aufquellen zu lassen.. Autonom/Exzentrisch.
+
+wässern: Material/Fluids/Process 3/1/Goal 2/Goal 1/aut/ecc
+Begründung: Wässern kann auch bedeuten, eine Flüssigkeit mit Wasser zu verdünnen (3/1), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei das Endprodukt konsumiert werden soll (Goal 1).. Autonom/Exzentrisch.
+
 
 weben: Material/Textile 3/Goal 2/aut/ecc
 Begründung: Weben bezeichnet das Bewegen (3) von Fäden durch einen Webstuhl oder manuell, um einen gewünschten Zustand (Goal 2) - nämlich ein Textil/Gewebe zu erzeugen. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), da er die Fäden bearbeitet, die zu Beginn noch nicht erschlossen sind.. Autonom/Exzentrisch.
@@ -157,11 +215,14 @@ Begründung: Weben bezeichnet das Bewegen (3) von Fäden durch einen Webstuhl od
 weben: Material/Professions/Tailoring 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext bezeichnet weben die Bewegung (3) von Fäden, um einen gewünschten Zustand (Goal 2) - ein Textil - herzustellen, mit dem Endziel einer Vergütung/Anerkennung (Goal 4).. Autonom/Exzentrisch.
 
+
 webhosten: Material/IT 2/4/1/Goal 5//Goal 4/aut/ecc
 Begründung: Webhosten bedeutet, dass der Akteur bestimmt (2), eine Leistung für Andere zu erbringen (4), indem er ihnen eine Infrastruktur gibt (1), damit diese Informationen veröffentlichen können (Goal 5). Das Endziel des Akteurs ist, für diese Dienstleistung Geld und/oder Anerkennung zu bekommen (//Goal 4). Der Prozess ist autonom und nach außen gerichtet (aut/ecc), da der Webhost-Anbieter eigenständig entscheidet und seine Leistung für externe Kunden erbringt.. Autonom/Exzentrisch.
 
+
 websurfen: Material/IT 3/5/1/Goal 5/het/ecc
 Begründung: Beim Websurfen bewegt sich der Akteur (3) durch das Internet, informiert sich (5) und bekommt (1) verschiedene Inhalte, mit dem Ziel, Informationen zu erhalten und informiert zu sein (Goal 5). Der Vorgang ist heteronom (het), da der Akteur sich an die vorgegebenen Strukturen des Internets anpassen muss, und nach außen gerichtet (ecc), da die Informationen aus externen Quellen stammen.. Heteronom/Exzentrisch.
+
 
 wechseln: Material/Substitution 2/3/1/Goal 2/het/ecc
 Begründung: Der Akteur verfügt (2) über einen Gegenstand, bewegt (3) ihn und bekommt (1) einen anderen, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Vorgang ist heteronom und exzentrisch, da der Akteur sich an externe Gegebenheiten anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
@@ -175,6 +236,7 @@ Begründung: Beim Wechseln von Kleidung verfügt der Akteur (2) über die Kleidu
 wechseln: Material/Position 3/Goal 3/aut/ecc
 Begründung: Im Sinne von den Standort/die Position wechseln bewegt sich der Akteur (3) zu einem neuen Standort, um ein Ziel zu erreichen (Goal 3). Der Vorgang ist autonom und exzentrisch, da selbstbestimmt und nach außen gerichtet.. Autonom/Exzentrisch.
 
+
 wechselwirken: Material/Physics 3/Goal 3/het/ecc
 Begründung: Wechselwirken bezeichnet einen physikalischen Prozess, bei dem zwei oder mehr Objekte/Kräfte sich gegenseitig beeinflussen und dabei Wirkung ausüben (3) mit dem Ziel, eine spezifische Wirkung zu erreichen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Prozess durch äußere Gegebenheiten bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -183,6 +245,7 @@ Begründung: Im übertragenen Sinne bezeichnet wechselwirken das gegenseitige Be
 
 wechselwirken: Interpersonal/Influence 3/1/Goal 3/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet wechselwirken, dass Menschen sich gegenseitig beeinflussen (3) und voneinander Wirkungen empfangen/bekommen (1), um letztendlich eine gegenseitige Wirkung zu erzielen (Goal 3).. Heteronom/Exzentrisch.
+
 
 wecken: Interpersonal 3/Goal 3/Goal 5/aut/ecc
 Begründung: Wecken bedeutet, jemanden aus dem Schlaf in den wachen Zustand zu bringen. Der Akteur bewegt/strebt an (3), um eine Wirkung (Goal 3) beim Antagonisten zu erzielen, nämlich dessen Aufwachen und dadurch Kontaktfähigkeit (Goal 5). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf den Schlafenden einwirkt.. Autonom/Exzentrisch.
@@ -193,6 +256,7 @@ Begründung: Im allgemeineren Sinne bedeutet 'wecken' etwas anzuregen oder zu st
 wecken: Material/Food/Cooking 3/Goal 2/aut/ecc
 Begründung: In der Bedeutung 'Brötchen backen/herstellen' bewegt der Akteur (3) Zutaten, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Bäcker den Teig aktiv bearbeitet und formt.. Autonom/Exzentrisch.
 
+
 wegbeißen: Material/Animal/Aggression 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur (Tier) bewegt sich (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er einen anderen durch Beißen vertreibt. Gleichzeitig verhindert er den gewünschten Zustand des Antagonisten (//Goal -2), an diesem Ort zu bleiben. Ein aggressiver Akt, bei dem ein Tier einen Eindringling durch Beißen vertreibt.. Autonom/Exzentrisch.
 
@@ -202,11 +266,13 @@ Begründung: Im übertragenen Sinne: Eine Person vertreibt jemanden aggressiv au
 wegbeißen: Interpersonal/Dispute 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im metaphorischen Sinne: Jemanden durch scharfe Bemerkungen oder verbale Aggression aus einer Position oder einem sozialen Umfeld verdrängen. Der Akteur bewegt sich (3) zu einem gewünschten Zustand (Goal 2) und verhindert gleichzeitig den gewünschten Zustand des Antagonisten (//Goal -2).. Autonom/Exzentrisch.
 
+
 wegblicken: Interpersonal/Avoidance 3/5/Goal 2//Goal -5/aut/ecc
 Begründung: Wegblicken bedeutet, dass der Akteur bewusst seine Blickrichtung (3) ändert, um sich nicht zu informieren (5), mit dem Ziel, einen gewünschten Zustand für sich selbst zu erreichen (Goal 2), nämlich keinen Blickkontakt mit dem Antagonisten zu haben, wodurch der mögliche Kontakt des Antagonisten verhindert wird (//Goal -5).. Autonom/Exzentrisch.
 
 wegblicken: Material/Physical 3/Goal 5/het/ecc
 Begründung: In einer neutralen, körperlichen Bedeutung kann wegblicken auch einfach das Bewegen (3) des Blicks in eine andere Richtung bedeuten, um woanders Informationen aufzunehmen (Goal 5), ohne dass damit eine bewusste Vermeidung eines Kontakts verbunden ist.. Heteronom/Exzentrisch.
+
 
 wegbringen: Material/Transportation 3/1/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas und übergibt es (1), um eine Destination/Wirkung zu erreichen (Goal 3). Es handelt sich um eine autonome, nach außen gerichtete Aktivität, bei der der Akteur einen Gegenstand von einem Ort zu einem anderen transportiert.. Autonom/Exzentrisch.
@@ -217,11 +283,13 @@ Begründung: Im Kontext der Entsorgung bedeutet wegbringen das Bewegen (3) und �
 wegbringen: Material/Criminal 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Im kriminellen Kontext bedeutet wegbringen das Bewegen (3) und Übergeben (1) einer Person gegen ihren Willen, um einen vom Akteur gewünschten Zustand zu erreichen (Goal 2) und gleichzeitig die Bewegungsfreiheit des Antagonisten einzuschränken (//Goal -3).. Autonom/Exzentrisch.
 
+
 wegdrängen: Material/Fight/Defense 3/Goal 2//Goal -3/aut/ecc
 Begründung: Wegdrängen bedeutet, dass der Akteur durch eine aktive Bewegung (3) einen für ihn gewünschten Zustand erreicht (Goal 2), indem er das angestrebte Ziel eines Antagonisten verhindert (//Goal -3). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
 wegdrängen: Interpersonal/Psychological 3/Goal 2//Goal -3/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet wegdrängen, dass der Akteur einen Antagonisten durch soziale oder psychologische Druckausübung (3) verdrängt, um einen eigenen gewünschten Zustand zu erreichen (Goal 2), während er die Ziele des Antagonisten behindert (//Goal -3).. Autonom/Exzentrisch.
+
 
 wegducken: Fight/Defense 3/Goal 2//Goal -3/aut/ecc
 Begründung: Sich wegducken bedeutet, dass der Akteur eine Bewegung (3) ausführt, um einen gewünschten Zustand zu erreichen (Goal 2), nämlich nicht getroffen zu werden, und dabei gleichzeitig die Wirkung des Angriffs des Antagonisten verhindert (//Goal -3). Es ist eine autonome (aut) und nach außen gerichtete (ecc) Handlung, da der Akteur selbstbestimmt agiert und die Bewegung in Bezug auf eine externe Bedrohung erfolgt.. Autonom/Exzentrisch.
@@ -235,11 +303,13 @@ Begründung: Der Akteur bewegt sich (3) weg von einer möglichen Gefahr, um eine
 wegducken: Interpersonal/Psychological 3/Goal 2//Goal -3/het/ecc
 Begründung: Im übertragenen Sinne bedeutet wegducken, dass der Akteur sich einer Verantwortung, Konfrontation oder unangenehmen Situation entzieht (3), um einen gewünschten Zustand für sich selbst zu erreichen (Goal 2) und verhindert damit eine Wirkung oder Einflussnahme des Antagonisten (//Goal -3). Die Ausrichtung bleibt heteronom/exzentrisch, da der Akteur auf externe Umstände reagiert.. Heteronom/Exzentrisch.
 
+
 wegekeln: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) in Richtung des Antagonisten, um eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich unangenehme Informationen/Verhalten (5), mit dem Ziel, einen unerwünschten Zustand für den Antagonisten zu erzeugen (Goal -2), damit der Akteur letztendlich einen gewünschten Zustand (//Goal 2), nämlich die Abwesenheit des Antagonisten, erreicht.. Autonom/Exzentrisch.
 
 wegekeln: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In einem materiellen oder institutionellen Kontext bewegt sich der Akteur (3) in Richtung des Antagonisten, um eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich unangenehme Informationen/Verhalten (5), mit dem Ziel, einen unerwünschten Zustand für den Antagonisten zu erzeugen (Goal -2), damit der Akteur letztendlich einen gewünschten Zustand (//Goal 2), nämlich die Entfernung des Antagonisten aus einer Position oder einem Ort, erreicht.. Autonom/Exzentrisch.
+
 
 wegfahren: Material/Transportation 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) fort, mit dem Ziel, eine Destination zu erreichen oder eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom (der Akteur bestimmt selbst) und exzentrisch (nach außen gerichtet, in die Umwelt hinein).. Autonom/Exzentrisch.
@@ -247,17 +317,20 @@ Begründung: Der Akteur bewegt sich (3) fort, mit dem Ziel, eine Destination zu 
 wegfahren: Material/Driving 2/3/Goal 3/aut/ecc
 Begründung: In der spezifischeren Bedeutung des Wegfahrens mit einem Fahrzeug bestimmt der Akteur (2) die Bewegung des Fahrzeugs (3), um eine Destination zu erreichen (Goal 3). Die Steuerung des Fahrzeugs fällt unter Verfügung (2).. Autonom/Exzentrisch.
 
+
 weggehen: Material/Departure 3/Goal 3/aut/ecc
 Begründung: Weggehen bedeutet, dass der Akteur eine Bewegung (3) ausführt, um eine Destination zu erreichen (Goal 3), wobei er dies selbstbestimmt (aut) und nach außen gerichtet (ecc) tut. Der Akteur bewegt sich von einem Ort weg zu einem anderen Ort hin.. Autonom/Exzentrisch.
 
 weggehen: Interpersonal/Relationship 3/Goal 3//Goal -1/aut/ecc
 Begründung: In zwischenmenschlichen Beziehungen bedeutet weggehen, dass der Akteur sich durch Bewegung (3) entfernt, um sein Ziel des Weggehens zu erreichen (Goal 3), gleichzeitig aber auch die Nähe zum Antagonisten verringert wird (//Goal -1). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 weghören: Material/Avoidance 0/-5/Goal 2/aut/con
 Begründung: Weghören bedeutet, dass der Akteur bewusst untätig bleibt (0) und die Informationsaufnahme (/-5) verweigert, um einen gewünschten persönlichen Zustand zu erreichen (Goal 2). Der Akteur entscheidet selbst (aut), im eigenen Bereich zu bleiben (con), indem er akustische Informationen ignoriert.. Autonom/Konzentrisch.
 
 weghören: Interpersonal/Avoidance 3/-5/Goal 2//Goal -5/aut/con
 Begründung: Im zwischenmenschlichen Kontext bedeutet weghören, dass der Akteur aktiv (3) die Informationsaufnahme (/-5) vermeidet, um einen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig den Kontakt mit dem Antagonisten verhindert (//Goal -5).. Autonom/Konzentrisch.
+
 
 weglassen: Material/Limitation 2/Goal 2/aut/con
 Begründung: Beim Weglassen verfügt/bestimmt der Akteur (2) autonom, dass etwas nicht einbezogen wird, um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur hat die Kontrolle über das, was weggelassen wird, und trifft eine bewusste Entscheidung im eigenen Kontrollbereich (aut/con).. Autonom/Konzentrisch.
@@ -268,6 +341,7 @@ Begründung: Im Sinne des bewussten Vermeidens bestimmt der Akteur (2) mit einer
 weglassen: Material/Editing 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext der Bearbeitung von Texten oder anderen Medien bedeutet weglassen eine bewusste Entscheidung (2), durch Bearbeitung (3) bestimmte Elemente zu entfernen, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 weglaufen: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Weglaufen bedeutet, dass der Akteur eine Bewegung (3) ausführt, um eine bestimmte Destination zu erreichen oder eine Wirkung zu erzielen (Goal 3), nämlich sich von einem Ort zu entfernen. Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
@@ -276,6 +350,7 @@ Begründung: Im Kontext einer Bedrohungssituation bedeutet weglaufen, dass der A
 
 weglaufen: Interpersonal/Avoidance 3/Goal 3//Goal -5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet weglaufen, dass der Akteur eine Bewegung (3) ausführt, um eine Distanz zu erreichen (Goal 3), wodurch der Kontakt mit dem Antagonisten vermieden wird (//Goal -5).. Autonom/Exzentrisch.
+
 
 weglegen: Material/Storage 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über einen Gegenstand und bewegt (3) ihn an einen bestimmten Ort, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich den Gegenstand an einem bestimmten Ort aufzubewahren. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Bewegung nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -286,11 +361,13 @@ Begründung: Im beruflichen Kontext: Der Akteur verfügt (2) über ein Dokument 
 weglegen: Material/Tidiness 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext des Aufräumens: Der Akteur verfügt (2) über einen Gegenstand und bewegt (3) ihn an seinen bestimmten Platz, um einen ordentlichen Zustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
 
+
 weglocken: Interpersonal 3/1/Goal 3//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt (3) einen Antagonisten durch Anreize, sodass dieser das Angebot annimmt (1), mit dem Ziel, ihn zu einer bestimmten Destination zu bewegen (Goal 3), was gleichzeitig verhindert, dass der Antagonist an seinem ursprünglichen Ort bleibt (//Goal -2). Die Ausrichtung ist autonom/eccentric, da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
 weglocken: Material/Deception 2/3/5/Goal 3//Goal -2/aut/ecc
 Begründung: In einem täuschenden Kontext bedeutet weglocken, dass der Akteur bestimmt (2) durch geschickte Bewegung (3) und Informationen (5), jemanden zu einer anderen Destination zu führen (Goal 3), wodurch verhindert wird, dass der Antagonist an seinem ursprünglichen Ort bleibt (//Goal -2).. Autonom/Exzentrisch.
+
 
 wegnehmen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem Objekt hin, um es zu bekommen (1), mit dem Ziel, einen gewünschten Zustand der Verfügbarkeit für sich selbst herzustellen (Goal 2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
@@ -301,17 +378,20 @@ Begründung: Im Kontext eines Diebstahls bewegt sich der Akteur (3) zum Objekt h
 wegnehmen: Interpersonal/Power 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Im zwischenmenschlichen Machtkontext bewegt sich der Akteur (3) auf etwas zu, das einer anderen Person gehört, um es zu bekommen (1), mit dem Ziel der Verfügung darüber (Goal 2), während dem Antagonisten die Verfügungsgewalt entzogen wird (//Goal -2).. Autonom/Exzentrisch.
 
+
 wegordnen: Material/Tidiness 2/3/Goal 2/aut/ecc
 Begründung: Beim Wegordnen verfügt/bestimmt der Akteur (2) über Gegenstände und bewegt sie (3) an einen anderen Ort, um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Ordnung im Außenbereich herstellt.. Autonom/Exzentrisch.
 
 wegordnen: Material/Storage 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: In einem spezifischen Ablage- oder Archivierungskontext bedeutet Wegordnen auch, dass der Akteur Gegenstände oder Dokumente bestimmt (2) und bewegt (3), um einen geordneten Zustand (Goal 2) zu erreichen, wobei zusätzlich die spätere Auffindbarkeit und Informationsverfügbarkeit (Goal 5) sichergestellt wird.. Autonom/Exzentrisch.
 
+
 wegpacken: Material/Storage 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über ein Objekt und bewegt es (3) an einen Aufbewahrungsort, um einen gewünschten Zustand der Ordnung/Aufbewahrung zu erreichen (Goal 2). Dies ist eine autonome, nach außen gerichtete Aktivität (aut/ecc).. Autonom/Exzentrisch.
 
 wegpacken: Material/Tidiness 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext des Aufräumens verfügt der Akteur (2) über Gegenstände und bewegt sie (3), um einen ordentlichen Zustand herzustellen (Goal 2). Die Handlung ist selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 wegputzen: Material/Cleaning 3/1/Goal 2/aut/ecc
 Begründung: Wegputzen bedeutet, etwas durch Putzbewegungen (3) zu entfernen, wodurch man einen sauberen Zustand bekommt (1) und damit den gewünschten Zustand der Reinheit erreicht (Goal 2). Die Handlung ist selbstbestimmt (aut) und nach außen auf die Umgebung gerichtet (ecc).. Autonom/Exzentrisch.
@@ -322,6 +402,7 @@ Begründung: Im Kontext von Essen bedeutet wegputzen, Speisen oder Getränke sch
 wegputzen: Material/Waste-Disposal 3/1/Goal 2/aut/ecc
 Begründung: Im Kontext der Entsorgung bedeutet wegputzen, unerwünschtes Material zu beseitigen. Der Akteur bewegt (3) und entfernt Abfall/Unrat, bekommt dadurch (1) einen gewünschten sauberen Zustand (Goal 2).. Autonom/Exzentrisch.
 
+
 wegräumen: Material/Tidiness 2/3/Goal 2/aut/ecc
 Begründung: Beim Wegräumen bestimmt der Akteur (2) über Gegenstände, die durch Bewegung (3) an einen anderen Ort gebracht werden, um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und Objekte aus seiner Umgebung bewegt.. Autonom/Exzentrisch.
 
@@ -330,6 +411,7 @@ Begründung: Im Reinigungskontext bedeutet wegräumen, Schmutz oder unerwünscht
 
 wegräumen: Material/Obstacle 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Sinne von 'ein Hindernis beseitigen' bestimmt der Akteur (2) durch Bewegung (3) einen gewünschten freien Zustand zu erreichen (Goal 2) und verhindert gleichzeitig das Blockieren des Weges durch den Antagonisten (//Goal -3).. Autonom/Exzentrisch.
+
 
 wegschaffen: Material/Transportation 2/3/1/Goal 2/aut/ecc
 Begründung: Wegschaffen bedeutet, bestimmend (2) etwas durch Bewegung (3) woanders hinzubringen und damit in Besitz zu nehmen/zu bekommen (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur agiert dabei autonom und die Handlung ist nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
@@ -340,6 +422,7 @@ Begründung: Im Kontext der Müllentsorgung bedeutet wegschaffen, bestimmend (2)
 wegschaffen: Material/Criminal 2/3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Im kriminellen Kontext bedeutet wegschaffen, bestimmend (2) etwas/jemanden durch Bewegung (3) an einen anderen Ort zu bringen und dort zu platzieren (1), um einen gewünschten Zustand für den Akteur (Goal 2) zu erreichen und gleichzeitig den gewünschten Zustand eines Antagonisten zu verhindern (//Goal -2).. Autonom/Exzentrisch.
 
+
 wegschicken: Material/Direction 2/4/5//Goal 3/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (5), damit der Antagonist eine Destination erreicht/sich von hier entfernt (//Goal 3). Dies dient letztlich der Anerkennung/dem Zweck des Akteurs (Goal 4).. Autonom/Exzentrisch.
 
@@ -349,11 +432,13 @@ Begründung: Im zwischenmenschlichen Kontext: Der Akteur bestimmt (2) durch sein
 wegschicken: Material/Postal 2/4/3/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im Postversand-Kontext: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas transportiert (3) und abgibt (1), damit ein gewünschter Zustand erreicht wird (Goal 2), mit dem Endziel der beruflichen Anerkennung (Goal 4).. Autonom/Exzentrisch.
 
+
 wegschließen: Material/Security 2/3/Goal 2//Goal -3/aut/con
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand (Goal 2), der gleichzeitig die Bewegungsfreiheit des Antagonisten einschränkt (//Goal -3). Der Akteur verfügt autonom über einen Gegenstand oder eine Person im eigenen Kontrollbereich (aut/con), um sie wegzuschließen und damit unzugänglich zu machen.. Autonom/Konzentrisch.
 
 wegschließen: Material/Criminal/Activities 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im strafrechtlichen Kontext bedeutet wegschließen, dass jemand inhaftiert wird. Der Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand der Sicherung (Goal 2), während gleichzeitig die Bewegungsfreiheit des Antagonisten (Gefangenen) eingeschränkt wird (//Goal -3).. Autonom/Konzentrisch.
+
 
 wegsehen: Material/Avoidance -5/Goal 2/aut/ecc
 Begründung: Wegsehen bedeutet, absichtlich den Blick abzuwenden und Informationen zu vermeiden (nicht informieren, daher -5), um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur bestimmt selbst (aut) dieses Verhalten und es ist nach außen gerichtet (ecc), da er sich aktiv von äußeren Reizen abwendet.. Autonom/Exzentrisch.
@@ -364,6 +449,7 @@ Begründung: Im übertragenen Sinne bedeutet wegsehen, bewusst Probleme oder das
 wegsehen: Material/Physical 3/-5/Goal 2/aut/ecc
 Begründung: In der physischen Bedeutung bewegt (3) der Akteur seinen Blick weg und vermeidet bewusst das Aufnehmen von Informationen (-5), um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 wegsperren: Material/Restraint 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand (Goal 2) herzustellen und bekämpft gleichzeitig die Bewegungsfreiheit des Antagonisten (//Goal -3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), indem er den Antagonisten an einem verschlossenen Ort unterbringt und seine Bewegungsfreiheit einschränkt.. Autonom/Exzentrisch.
 
@@ -372,6 +458,7 @@ Begründung: Im strafrechtlichen Kontext bedeutet wegsperren das Inhaftieren ein
 
 wegsperren: Material/Secure 2/3/Goal 2/aut/ecc
 Begründung: Bei Gegenständen bedeutet wegsperren das Verschließen und Aufbewahren an einem sicheren Ort. Der Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand der Sicherheit (Goal 2). Da kein Antagonist mit eigenem Willen betroffen ist, entfällt hier der Teil nach //.. Autonom/Exzentrisch.
+
 
 wegstecken: Material/Storage 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3), etwas an einem bestimmten Ort zu verstauen, um einen gewünschten Zustand (Goal 2) zu erreichen. Das Objekt wird durch autonome, nach außen gerichtete Bewegung (aut/ecc) in einen Aufbewahrungsort gebracht.. Autonom/Exzentrisch.
@@ -382,11 +469,13 @@ Begründung: Im übertragenen Sinne: Der Akteur verarbeitet (3) und nimmt an (1)
 wegstecken: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/con
 Begründung: Im Kontext einer Kampfsituation: Der Akteur bestimmt (2) durch kontrollierte Bewegung (3) eine Abwehraktion, um einen gewünschten Schutzstatus zu erreichen (Goal 2) und gleichzeitig die Wirkung des Angriffs eines Antagonisten zu verhindern (//Goal -3).. Autonom/Konzentrisch.
 
+
 wegstellen: Material/Tidiness 2/3/Goal 2/aut/ecc
 Begründung: Wegstellen bedeutet, dass der Akteur bestimmt (2) und bewegt (3) ein Objekt, um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2). Der Akteur verfügt selbstbestimmt (aut) über das Objekt und die Handlung ist nach außen gerichtet (ecc), da das Objekt an einen anderen Ort gestellt wird.. Autonom/Exzentrisch.
 
 wegstellen: Material/Storage 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext der Aufbewahrung bedeutet wegstellen, dass der Akteur ein Objekt bestimmend (2) bewegt (3), um es an einem dafür vorgesehenen Ort aufzubewahren und damit einen gewünschten Zustand der Verfügbarkeit für später zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 wegstoßen: Material/Fight/Aggression 3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt (3) etwas oder jemanden, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei die Bewegungsfreiheit oder das Ziel des Antagonisten beeinträchtigt wird (//Goal -3). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur aktiv und selbstbestimmt handelt, um etwas von sich wegzubewegen.. Autonom/Exzentrisch.
@@ -397,6 +486,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet wegstoßen, eine Person em
 wegstoßen: Material/Physical 3/Goal 2/aut/ecc
 Begründung: In der einfachsten physischen Bedeutung ist wegstoßen eine Bewegung (3), um einen gewünschten Zustand (Goal 2) zu erreichen, etwa wenn ein Objekt wegbewegt wird, ohne dass ein Antagonist im Spiel ist. Die Handlung ist autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 wegtragen: Material/Transportation 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) und entnimmt/bekommt (1) etwas, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei die Entfernung eines Objekts von seinem bisherigen Standort im Vordergrund steht. Die Handlung ist autonom (selbstbestimmt) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
 
@@ -406,11 +496,13 @@ Begründung: Im Kontext der Reinigung bedeutet wegtragen das Entfernen (3) und B
 wegtragen: Material/Emergency 3/1/Goal 2/aut/ecc
 Begründung: In Notfallsituationen bedeutet wegtragen das Bewegen (3) und Entfernen (1) einer Person aus einer Gefahrenzone, um einen sicheren Zustand (Goal 2) herzustellen.. Autonom/Exzentrisch.
 
+
 wegweisen: Material/Navigation 2/4/1/5/3//Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er Informationen gibt (1/5) bezüglich einer Bewegung (3), damit der Antagonist sein Ziel erreicht (//Goal 3). Der Akteur übt autonom Einfluss aus (aut) und richtet sich nach außen (ecc).. Autonom/Exzentrisch.
 
 wegweisen: Material/Authorities 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im behördlichen Kontext bedeutet wegweisen, dass der Akteur bestimmt und durchsetzt (2/3), einen gewünschten Zustand herzustellen (Goal 2), indem er die Bewegungsfreiheit des Antagonisten einschränkt (//Goal -3) und ihn eines Ortes verweist.. Autonom/Exzentrisch.
+
 
 wegwischen: Material/Cleaning 3/Goal 2/aut/ecc
 Begründung: Beim Wegwischen bewegt der Akteur (3) seine Hand oder ein Tuch, um eine Oberfläche zu reinigen und damit einen gewünschten Zustand (Goal 2) herzustellen. Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen auf seine Umgebung (ecc).. Autonom/Exzentrisch.
@@ -421,6 +513,7 @@ Begründung: Im übertragenen Sinne kann 'wegwischen' auch eine Geste bedeuten, 
 wegwischen: Interpersonal/Psychological 3/Goal 2//Goal -5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext kann 'wegwischen' bedeuten, dass der Akteur einen Einwand oder eine Aussage eines Antagonisten mit einer bestimmten Bewegung/Geste (3) abtut, um seinen eigenen gewünschten Zustand (Goal 2) durchzusetzen und gleichzeitig die Kontaktaufnahme oder Information des Antagonisten zu blockieren (//Goal -5).. Autonom/Exzentrisch.
 
+
 wehen: Material/Weather 3/Goal 3/het/ecc
 Begründung: Wind weht bedeutet, dass Luft sich bewegt (3) mit dem Ziel, eine Destination zu erreichen bzw. eine Wirkung zu erzielen (Goal 3). Dies geschieht heteronom und exzentrisch (het/ecc), da der Wind sich nach äußeren Gegebenheiten richtet und nach außen bewegt.. Heteronom/Exzentrisch.
 
@@ -430,6 +523,7 @@ Begründung: Im medizinischen Kontext bezeichnet 'Wehen' die Kontraktionen der G
 wehen: Material/Gesture 3/Goal 3/aut/ecc
 Begründung: Im Sinne von 'mit etwas wehen/winken' (z.B. mit einem Tuch) bedeutet es eine vom Akteur ausgeführte Bewegung (3), um eine Wirkung zu erzielen (Goal 3). Im Gegensatz zum Naturphänomen ist diese Handlung autonom und exzentrisch (aut/ecc), da sie selbstbestimmt nach außen gerichtet ist.. Autonom/Exzentrisch.
 
+
 wehren: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/con
 Begründung: Beim Wehren bestimmt der Akteur (2) mit Bewegung (3) einen gewünschten Zustand für sich (Goal 2) und bekämpft gleichzeitig das Bewegungsziel des Antagonisten (//Goal -3). Die Ausrichtung ist autonom/konzentrisch, da der Akteur selbstbestimmt handelt und seine Abwehr auf den eigenen Bereich konzentriert ist.. Autonom/Konzentrisch.
 
@@ -438,6 +532,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet wehren, dass der Akteur be
 
 wehren: Fight/Defense 1/3/Goal 2//Goal -3/aut/con
 Begründung: In einem direkten Kampfkontext kann wehren auch bedeuten, dass der Akteur nach einem Angriff (1) mit Gegenbewegung (3) seinen gewünschten Zustand erreichen will (Goal 2) und dabei das Ziel des Angreifers vereitelt (//Goal -3).. Autonom/Konzentrisch.
+
 
 weichen: Material/Physical/Movement 3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) für einen gewünschten Zustand (Goal 2), dabei vermeidet/verhindert er das Bewegungsziel des Antagonisten (//Goal -3). Der Akteur verändert autonom (aut) seine Position nach außen gerichtet (ecc), um einem Hindernis oder einer Person aus dem Weg zu gehen.. Autonom/Exzentrisch.
@@ -451,11 +546,13 @@ Begründung: Im Sinne von 'einweichen': Ein Material bewegt sich (3) und nimmt F
 weichen: Interpersonal/Psychological 3/Goal 2//Goal -3/het/ecc
 Begründung: Im übertragenen Sinne 'nachgeben': Der Akteur gibt nach/zieht sich zurück (3) für einen gewünschten Zustand (Goal 2) und verhindert damit das durchsetzungsorientierte Ziel des Antagonisten (//Goal -3). Dies geschieht heteronom (het), da der Akteur auf den Druck des Antagonisten reagiert.. Heteronom/Exzentrisch.
 
+
 weichklopfen: Material/Food/Cooking 3/Goal 2/Goal 1/aut/ecc
 Begründung: Mit Bewegen/Anstreben (3) durch Klopfen wird ein gewünschter Zustand (Goal 2) erreicht, nämlich Fleisch oder andere Lebensmittel weich zu machen, um es letztendlich essen und verdauen zu können (Goal 1). Die Tätigkeit ist autonom (der Akteur bestimmt die Handlung) und nach außen auf das Objekt gerichtet (ecc).. Autonom/Exzentrisch.
 
 weichklopfen: Interpersonal/Psychological 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet 'weichklopfen' jemanden durch wiederholte Einwirkung (2/3) gefügig zu machen, um einen gewünschten Zustand zu erreichen (Goal 2) und gleichzeitig den Widerstand des Antagonisten zu brechen (//Goal -3). Die Handlung ist autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 weilen: Material/Time 0/3/Goal 0/het/con
 Begründung: Weilen bedeutet, an einem Ort zu verweilen/zu bleiben für eine gewisse Zeit. Der Akteur wartet (0) mit minimaler Bewegung (3) für den Zweck der Erholung/Pause (Goal 0). Die Ausrichtung ist heteronom (het), da man sich den Gegebenheiten des Ortes anpasst, und nach innen gerichtet (con), da es eine ruhige, passive Aktivität ist.. Heteronom/Konzentrisch.
@@ -463,11 +560,13 @@ Begründung: Weilen bedeutet, an einem Ort zu verweilen/zu bleiben für eine gew
 weilen: Material/Social 0/5/Goal 5/het/con
 Begründung: In einem sozialen Kontext kann 'weilen' bedeuten, sich bei jemandem oder in Gesellschaft aufzuhalten, wobei das Warten (0) mit dem Informationsaustausch/Kontakt (5) verbunden ist, um informiert zu sein/in Kontakt zu sein (Goal 5).. Heteronom/Konzentrisch.
 
+
 weinen: Material/Emotions 3/1/Goal 2/het/ecc
 Begründung: Der Akteur bewegt (3) Tränen und bekommt (1) Emotional-Erleichterung, um einen gewünschten emotionalen Zustand herzustellen (Goal 2). Die Ausrichtung ist heteronom (het), da man sich den Emotionen hingibt, und nach außen gerichtet (ecc), da die Tränen aus dem Körper befördert werden.. Heteronom/Exzentrisch.
 
 weinen: Interpersonal/Emotions 3/4/1/5/Goal 2//Goal 4/het/ecc
 Begründung: Als Kommunikationsmittel bedeutet Weinen, dass der Akteur durch Bewegung (3) eine Leistung für einen Antagonisten erbringt (4), indem er Tränen gibt (1) und damit Informationen über seinen emotionalen Zustand vermittelt (5), um einen gewünschten Zustand (Erleichterung, Mitgefühl) zu erreichen (Goal 2) und letztlich Anerkennung/Aufmerksamkeit zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
+
 
 weisen: Material/Leadership 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Information gibt (1/5), damit der Antagonist informiert ist (Goal 5). Dies dient dem eigenen Ziel des Akteurs (//Goal 2), einen gewünschten Zustand zu erreichen, wobei der Akteur selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
@@ -478,6 +577,7 @@ Begründung: Bei 'den Weg weisen' bestimmt der Akteur (2) eine Leistung zu erbri
 weisen: Material/Direction 2/3/5/Goal 2/aut/ecc
 Begründung: Im Sinne von 'aufweisen/aufzeigen' bestimmt der Akteur (2) mit Bewegung (3) auf etwas zu zeigen und eine Information zu vermitteln (5), um einen gewünschten Zustand zu erreichen (Goal 2), wobei der Akteur selbstbestimmt (aut) und nach außen gerichtet (ecc) handelt.. Autonom/Exzentrisch.
 
+
 weiterbestehen: Material/Persistence 2/Goal 2/aut/con
 Begründung: Weiterbestehen bedeutet, dass ein Zustand oder eine Entität seine Existenz fortsetzt, was Verfügung/Kontrolle (2) über den eigenen Zustand beinhaltet, um einen gewünschten Zustand der Kontinuität (Goal 2) zu realisieren. Die Ausrichtung ist autonom/konzentrisch (aut/con), da ein selbstbestimmtes Bleiben im eigenen Bereich stattfindet.. Autonom/Konzentrisch.
 
@@ -487,11 +587,13 @@ Begründung: Im geschäftlichen Kontext bedeutet weiterbestehen, dass ein Untern
 weiterbestehen: Interpersonal/Relationship 2/Goal 2/aut/con
 Begründung: Bei zwischenmenschlichen Beziehungen bedeutet weiterbestehen, dass die Beziehung fortgesetzt wird, wobei der gewünschte Zustand der Kontinuität (Goal 2) durch gegenseitige Verfügung/Kontrolle über die Beziehung (2) aufrechterhalten wird.. Autonom/Konzentrisch.
 
+
 weiterbilden: Material/Education/Training 2/3/5/1/Goal 5/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über Bewegen/Anstreben (3) von Informationen (5), die er bekommt (1), um informiert zu sein (Goal 5) mit dem höheren Ziel, einen gewünschten Zustand der verbesserten Fähigkeiten/Kenntnisse zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen auf neue Informationen zugeht.. Autonom/Exzentrisch.
 
 weiterbilden: Material/Education/Training 4/1/5/Goal 5/Goal 2//Goal 4/aut/ecc
 Begründung: In der beruflichen Bedeutung: Der Akteur leistet für einen Antagonisten (4) das Geben (1) von Informationen (5), damit dieser informiert ist (Goal 5) und einen verbesserten Zustand erreicht (Goal 2), mit dem Ziel für den Akteur, Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen vermittelt.. Autonom/Exzentrisch.
+
 
 weiterbringen: Material/Progress 3/Goal 2/Goal 3/aut/ecc
 Begründung: Etwas oder jemanden weiterbringen bedeutet, durch Bewegung/Anstreben (3) einen verbesserten Zustand zu erreichen (Goal 2) und dabei Fortschritt in Richtung eines Ziels zu bewirken (Goal 3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), um die Sache oder Person voranzubringen.. Autonom/Exzentrisch.
@@ -502,6 +604,7 @@ Begründung: Im physischen Sinne bedeutet weiterbringen, etwas durch Bewegen (3)
 weiterbringen: Interpersonal/Development 4/3/Goal 2//Goal 4/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet weiterbringen, jemandem zu helfen (4) durch Bewegung/Förderung (3), um dessen Entwicklung zu einem besseren Zustand zu ermöglichen (Goal 2), was Anerkennung einbringt (//Goal 4). Der Akteur leistet etwas für den Antagonisten (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 weiterentwickeln: Material/Progress 3/Goal 2/aut/ecc
 Begründung: Weiterentwickeln bedeutet, etwas Bestehendes durch Bewegung/Anstreben (3) zu transformieren, um einen verbesserten Zustand zu erreichen (Goal 2). Der Akteur handelt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da er aktiv auf die Veränderung und Verbesserung eines Objekts oder Systems einwirkt.. Autonom/Exzentrisch.
 
@@ -511,11 +614,13 @@ Begründung: Im wissenschaftlichen Kontext bedeutet weiterentwickeln, durch Bewe
 weiterentwickeln: Interpersonal/Development 3/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet weiterentwickeln, durch Bewegung/Anstreben (3) auf die Verbesserung einer Person einzuwirken, um einen gewünschten Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 weiterfahren: Material/Transportation 3/Goal 3/aut/ecc
 Begründung: Weiterfahren bedeutet, eine Bewegung (3) fortzusetzen, um eine Destination zu erreichen (Goal 3). Der Akteur bewegt sich autonom (aut) und nach außen gerichtet (ecc) im Raum, um zu einem Ziel zu gelangen.. Autonom/Exzentrisch.
 
 weiterfahren: Material/Driving 2/Goal 3/aut/ecc
 Begründung: Als Fahrer eines Fahrzeugs bedeutet weiterfahren, die Kontrolle über das Fahrzeug (2) beizubehalten, um eine Destination zu erreichen (Goal 3). Der Akteur verfügt selbstbestimmt (aut) über das Fahrzeug und ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 weiterführen: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Weiterführen bedeutet, dass der Akteur bestimmt (2) und mit Bewegung/Anstreben (3) einen Prozess fortsetzt, um einen gewünschten Zustand zu erreichen (Goal 2). Der Akteur hat dabei Kontrolle über den Vorgang (aut) und wirkt nach außen (ecc), um den Prozess in eine bestimmte Richtung zu lenken.. Autonom/Exzentrisch.
@@ -526,6 +631,7 @@ Begründung: Im Bildungskontext bedeutet weiterführen, dass der Akteur bestimmt
 weiterführen: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet weiterführen, dass der Akteur bestimmt (2) und mit Bewegung/Anstreben (3) eine Geschäftstätigkeit fortsetzt, um einen gewünschten Zustand (Goal 2) mit dem Endziel der Anerkennung und finanziellen Vergütung (Goal 4) zu erreichen.. Autonom/Exzentrisch.
 
+
 weitergeben: Material/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Beim Weitergeben bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er etwas (Information oder Objekt) gibt (1), das informationellen Wert hat (5), damit der Antagonist informiert ist (Goal 5). Damit erfüllt der Akteur seine Aufgabe und erhält Anerkennung (//Goal 4). Die Ausrichtung ist autonom (aut), da der Akteur selbst entscheidet, und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
@@ -534,6 +640,7 @@ Begründung: Im materiellen Kontext bedeutet weitergeben, dass der Akteur bestim
 
 weitergeben: Material/Inheritance 2/4/1/Goal 2//Goal 2/aut/ecc
 Begründung: Im Kontext der Weitergabe von Traditionen oder Erbstücken bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), damit der Antagonist darüber verfügen kann (Goal 2). Der Akteur erreicht damit seinen eigenen gewünschten Zustand (//Goal 2), nämlich dass das Weitergereichte erhalten bleibt.. Autonom/Exzentrisch.
+
 
 weitergehen: Material/Movement 3/Goal 3/aut/ecc
 Begründung: Weitergehen bedeutet, dass der Akteur selbstbestimmt eine Bewegung (3) fortsetzt, um eine Destination zu erreichen oder eine räumliche Wirkung zu erzielen (Goal 3). Der Akteur bewegt sich eigenständig und zielgerichtet im Außenbereich weiter.. Autonom/Exzentrisch.
@@ -544,6 +651,7 @@ Begründung: In einem übertragenen Sinne bedeutet weitergehen, dass nach einer 
 weitergehen: Material/Progress 3/Goal 2/aut/ecc
 Begründung: Weitergehen im Sinne von Fortschritt machen bedeutet, dass der Akteur bestimmte Schritte (3) unternimmt, um einen gewünschten Zustand zu erreichen (Goal 2), etwa bei der Bewältigung einer Aufgabe oder eines Projekts.. Autonom/Exzentrisch.
 
+
 weiterkommen: Material/Progress 3/1/Goal 3/aut/ecc
 Begründung: Weiterkommen bedeutet, dass der Akteur sich (durch eigene Anstrengung) bewegt (3) und dadurch ein fortgeschrittenes Stadium erreicht/bekommt (1) mit dem Ziel, eine bestimmte Destination/Wirkung zu erreichen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
@@ -552,6 +660,7 @@ Begründung: Im beruflichen Kontext bedeutet weiterkommen, dass der Akteur durch
 
 weiterkommen: Interpersonal/Development 3/1/Goal 2/aut/ecc
 Begründung: In der persönlichen Entwicklung bedeutet weiterkommen, dass der Akteur durch Anstrengung (3) einen verbesserten Zustand erreicht (1), um einen gewünschten Entwicklungszustand zu realisieren (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Entwicklung nach außen gerichtet ist.. Autonom/Exzentrisch.
+
 
 weiterlaufen: Material/Movement 3/Goal 3/aut/ecc
 Begründung: Weiterlaufen bedeutet, eine bereits begonnene Bewegung (3) fortzusetzen, mit dem Ziel, eine Destination oder Wirkung zu erreichen (Goal 3). Der Akteur bewegt sich selbstbestimmt (aut) in Richtung eines externen Ziels (ecc).. Autonom/Exzentrisch.
@@ -562,6 +671,7 @@ Begründung: Im technischen Kontext bedeutet weiterlaufen, dass eine Maschine od
 weiterlaufen: Material/Process 0/3/Goal 3/het/ecc
 Begründung: Bei Prozessen bedeutet weiterlaufen, dass etwas seinen Verlauf nimmt (0 für warten/nichtstun), während eine Bewegung/Entwicklung (3) stattfindet, mit dem Ziel einer Wirkung (Goal 3). Der Akteur passt sich an den Prozess an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 weiterleiten: Material/Communication 4/3/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Der Akteur leistet eine Service-Funktion (4) indem er sich bewegend (3) etwas (Information/Nachricht) gibt (1) und informiert (5), damit der Empfänger informiert ist (Goal 5). Letztendlich dient dies dem Erhalt von Anerkennung/Vergütung für den Akteur (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Bedingungen richten muss und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
@@ -571,11 +681,13 @@ Begründung: Im IT-Kontext bestimmt der Akteur (2) eine Leistung zu erbringen (4
 weiterleiten: Material/Logistics 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Bei der Logistik-Bedeutung leistet der Akteur einen Dienst (4), bei dem er physische Gegenstände bewegend (3) weitergibt (1), damit der Empfänger über diese verfügen kann (Goal 2). Letztendlich dient dies der Anerkennung/Vergütung für den Akteur (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch aufgrund der externen Anforderungen und Ausrichtung nach außen.. Heteronom/Exzentrisch.
 
+
 weiterreichen: Material/Distribution 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) durch Bewegung (3) und Übergabe (1) einen Dienst, damit der Antagonist über etwas verfügen kann (Goal 2). Der Akteur erwartet dafür Anerkennung (//Goal 4). Der Akteur passt sich an den Antagonisten an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
 weiterreichen: Material/Communication 4/3/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) durch Bewegung (3) die Übergabe (1) einer Information (5), damit der Antagonist informiert ist (Goal 5). Der Akteur erwartet dafür Anerkennung (//Goal 4). Es handelt sich um eine heteronome, nach außen gerichtete Handlung (het/ecc).. Heteronom/Exzentrisch.
+
 
 weitersagen: Material/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbringen (4), indem er ihm etwas gibt (1), nämlich eine Information (5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter (//) folgt das eigene Ziel des Akteurs, Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -583,11 +695,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten zu erbr
 weitersagen: Material/IT/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im digitalen Kontext bedeutet weitersagen das Bestimmen (2), eine Information aktiv weiterzuleiten (4/1/5), damit andere informiert sind (Goal 5), wobei der Akteur Anerkennung oder soziale Bestätigung erhält (//Goal 4).. Autonom/Exzentrisch.
 
+
 weitertragen: Material/Transportation 3/1/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) ein Objekt und bringt es (1) zu einem weiter entfernten Ziel (Goal 3). Das 'weiter' im Begriff impliziert eine Fortführung der Bewegung zu einer Destination, die über den ursprünglichen Punkt hinausgeht.. Autonom/Exzentrisch.
 
 weitertragen: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet 'weitertragen' auch, Informationen weiterzugeben. Der Akteur leistet (4) für den Antagonisten, indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach dem Wechsel zum Akteur (//), erhält dieser Anerkennung (Goal 4).. Autonom/Exzentrisch.
+
 
 weitertreiben: Material/Process 3/Goal 3/aut/ecc
 Begründung: Etwas weitertreiben bedeutet, die Bewegung/das Anstreben (3) eines Prozesses fortzusetzen, um eine bestimmte Destination/Wirkung zu erreichen (Goal 3). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), da er aktiv auf ein Ziel hinarbeitet.. Autonom/Exzentrisch.
@@ -601,11 +715,13 @@ Begründung: Im übertragenen Sinne kann weitertreiben bedeuten, einen Konflikt 
 weitertreiben: Interpersonal/Psychological 2/3/Goal 3/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet weitertreiben, jemanden zu bestimmen/kontrollieren (2), eine Handlung oder ein Verhalten fortzusetzen (3), um eine bestimmte Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
 
+
 weiterverarbeiten: Material/Processing 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt (2) über ein Material und bewegt/transformiert es (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um einen autonomen (aut) nach außen gerichteten (ecc) Prozess, bei dem bereits vorhandenes Material in einem zusätzlichen Verarbeitungsschritt behandelt wird.. Autonom/Exzentrisch.
 
 weiterverarbeiten: Material/IT/Process 2/3/Goal 2/aut/ecc
 Begründung: Im IT-Kontext bedeutet weiterverarbeiten, dass der Akteur über Daten verfügt (2) und diese bearbeitet/transformiert (3), um einen gewünschten Zustand zu erreichen (Goal 2). Der Fokus liegt hier auf der digitalen Verarbeitung von Informationen in einem weiteren Prozessschritt.. Autonom/Exzentrisch.
+
 
 weiterverfolgen: Material/Pursuit 3/Goal 3/aut/ecc
 Begründung: Weiterverfolgen bedeutet, dass der Akteur eine Bewegung/Anstreben (3) fortsetzt, um ein bestimmtes Ziel zu erreichen bzw. eine Wirkung zu erzielen (Goal 3). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), da er eine zielgerichtete Bewegung in Richtung einer Destination oder eines Ergebnisses fortsetzt.. Autonom/Exzentrisch.
@@ -619,6 +735,7 @@ Begründung: Im Kontext einer Ermittlung bedeutet weiterverfolgen, dass der Akte
 weiterverfolgen: Material/Project 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext bedeutet weiterverfolgen, dass ein Akteur eine Projektaktivität fortsetzt (3), um einen gewünschten Zustand zu erreichen (Goal 2) und letztendlich Anerkennung oder Vergütung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 wellen: Material/Fluids/Process 3/Goal 3/aut/ecc
 Begründung: Das Verb 'wellen' im Sinne von Wasser oder Flüssigkeiten, die eine wellenförmige Bewegung machen, beinhaltet eine autonome Bewegung (3), die eine Wirkung erzielt (Goal 3). Der Akteur bewegt sich selbstständig in einer wellenförmigen Art und erreicht dadurch eine Destination bzw. erzielt eine Wirkung.. Autonom/Exzentrisch.
 
@@ -628,11 +745,13 @@ Begründung: Im Kontext von Haarstyling bedeutet 'wellen' das Formen von Haaren 
 wellen: Material/Textile 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext der Textilverarbeitung bedeutet 'wellen' das Formen eines Stoffes in Wellenform. Der Akteur verfügt (2) über den Stoff und bewegt ihn (3), um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 wellnessen: Material/Health 3/Goal 2/het/ecc
 Begründung: Wellnessen bedeutet, Wellness-Anwendungen durchzuführen oder zu nutzen, wobei der Akteur entsprechende Bewegungen/Aktivitäten (3) anstrebt, um einen gewünschten Zustand des körperlichen und geistigen Wohlbefindens zu erreichen (Goal 2). Die Ausrichtung ist heteronom (het), da der Akteur sich an vorgegebene Wellness-Anwendungen anpassen muss, und exzentrisch (ecc), da die Aktivitäten auf den äußeren Bereich gerichtet sind.. Heteronom/Exzentrisch.
 
 wellnessen: Material/Recreation 3/Goal 2/Goal 1/het/ecc
 Begründung: Als Freizeitaktivität bedeutet wellnessen, Wellness-Aktivitäten durchzuführen (3), um sowohl einen gewünschten Zustand des Wohlbefindens (Goal 2) als auch ein Gefühl der Befriedigung und Entspannung zu erreichen (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Wellnessangebote und -strukturen anpasst.. Heteronom/Exzentrisch.
+
 
 wenden: Material/Direction 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) die Bewegung (3) eines Objekts, um einen gewünschten Zustand (Goal 2) zu erreichen, indem er die Richtung oder Orientierung ändert. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf ein Objekt einwirkt.. Autonom/Exzentrisch.
@@ -649,6 +768,7 @@ Begründung: Im kommunikativen Sinne bedeutet sich an jemanden wenden, dass der 
 wenden: Interpersonal/Relationship 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet 'das Blatt wenden', dass der Akteur eine Situation aktiv verändert (3) für einen gewünschten Zustand (Goal 2), was gleichzeitig die bestehende ungünstige Situation bekämpft (//Goal -2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc).. Autonom/Exzentrisch.
 
+
 werben: Material/Marketing 3/4/1/5/Goal 3//Goal 4/aut/ecc
 Begründung: Der Akteur bewegt sich (3) in Richtung potenzieller Kunden, leistet etwas für sie (4) durch das Geben (1) von Informationen (5), um eine Wirkung bei ihnen zu erzielen (Goal 3), mit dem Endziel für den Akteur, geschäftliche Anerkennung und Geld zu bekommen (//Goal 4).. Autonom/Exzentrisch.
 
@@ -657,6 +777,7 @@ Begründung: Im zwischenmenschlichen Bereich bedeutet werben, dass der Akteur au
 
 werben: Material/Recruitment 3/4/1/5/Goal 3//Goal 4/aut/ecc
 Begründung: Im Rekrutierungskontext bedeutet werben, aktiv auf potenzielle Mitarbeiter zuzugehen (3), für sie eine Leistung zu erbringen (4) durch das Geben (1) von Informationen (5), um sie zu überzeugen (Goal 3), mit dem Ziel für den Akteur, geschäftliche Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
 
 werfen: Material/Fight/Sports 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) ein Objekt durch die Luft, um eine bestimmte Wirkung oder ein Ziel zu erreichen (Goal 3). Die Handlung ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur die Bewegung selbst initiiert und kontrolliert, die in den Außenraum wirkt.. Autonom/Exzentrisch.
@@ -667,14 +788,17 @@ Begründung: In einem aggressiven Kontext bewegt (3) der Akteur ein Objekt, um e
 werfen: Material/Waste-Disposal 3/Goal 2/aut/ecc
 Begründung: Im Kontext der Entsorgung bewegt (3) der Akteur etwas in einen Abfallbehälter, um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 werkeln: Material/Crafts 3/Goal 2/aut/ecc
 Begründung: Werkeln bedeutet, dass der Akteur durch eigenständige Bewegungen und Handgriffe (3) kleine, meist handwerkliche Arbeiten ausführt, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Tätigkeit ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt agiert und auf Objekte in der Umwelt einwirkt.. Autonom/Exzentrisch.
 
 werkeln: Material/Professions/Construction 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext bedeutet werkeln, dass der Akteur durch handwerkliche Bewegungen (3) einen gewünschten Zustand herstellt (Goal 2), wobei diese Tätigkeit auch der beruflichen Anerkennung oder Vergütung dient (Goal 4).. Autonom/Exzentrisch.
 
+
 werkzeugschleifen: Material/Metalworking 3/Goal 2/aut/ecc
 Begründung: Werkzeugschleifen bezeichnet den Prozess, bei dem ein Werkzeug durch Bewegung/Anstreben (3) gegen eine Schleifscheibe bearbeitet wird, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich ein scharfes oder präzise geformtes Werkzeug. Der Prozess ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt ein Objekt im Außenbereich bearbeitet.. Autonom/Exzentrisch.
+
 
 werten: Material/Evaluation 2/3/5/Goal 5/het/ecc
 Begründung: Werten bedeutet, dass der Akteur Verfügungsgewalt über Informationen (2) ausübt, diese analysiert (3) und dabei Informationen (5) verarbeitet, um zu einem informierten Urteil zu gelangen (Goal 5). Die Ausrichtung ist heterozentrisch/exzentrisch, da der Akteur sich nach externen Informationen richtet und auf Objekte oder Situationen außerhalb seiner direkten Kontrolle bezieht.. Heteronom/Exzentrisch.
@@ -685,11 +809,13 @@ Begründung: In einem analytischen Kontext bedeutet werten, Informationen zu ver
 werten: Material/Financial-Transactions 2/3/Goal 2/het/ecc
 Begründung: Im finanziellen Kontext bedeutet werten die Bestimmung des Wertes eines Objekts (2), wobei durch analytische Betrachtung (3) ein gewünschter Zustand der Wertzuordnung (Goal 2) erreicht wird.. Heteronom/Exzentrisch.
 
+
 wertschätzen: Interpersonal/Respect 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Wertschätzen bedeutet, dass der Akteur bestimmt (2), eine Leistung für den Antagonisten zu erbringen (4), indem er eine positive Bewertung gibt (1/5), um beim Antagonisten einen gewünschten Zustand herzustellen (Goal 2) und letztlich selbst Anerkennung zu erlangen (//Goal 4). Der Akteur drückt aktiv und autonom (aut) seine Wertschätzung nach außen aus (ecc).. Autonom/Exzentrisch.
 
 wertschätzen: Material/Value 2/3/5/Goal 2/het/ecc
 Begründung: In materieller Bedeutung heißt wertschätzen, den Wert eines Objekts zu bestimmen (2) durch Untersuchung (3) und Informationsverarbeitung (5), um einen gewünschten Zustand der Bewertung zu erreichen (Goal 2). Der Akteur passt sich dabei an die Eigenschaften des zu bewertenden Objekts an (het) und richtet seine Bewertung nach außen (ecc).. Heteronom/Exzentrisch.
+
 
 wertschöpfen: Material/Economics 3/2/Goal 2/Goal 4/aut/ecc
 Begründung: Wertschöpfen bedeutet, durch aktive Bearbeitung (3) und Bestimmung von Ressourcen (2) einen wirtschaftlichen Mehrwert zu erzeugen (Goal 2), was letztendlich der Erzielung von finanziellen Erträgen dient (Goal 4). Der Akteur bewegt/transformiert Ausgangsstoffe zu wertvolleren Produkten/Dienstleistungen in einem ökonomischen Kontext.. Autonom/Exzentrisch.
@@ -697,11 +823,13 @@ Begründung: Wertschöpfen bedeutet, durch aktive Bearbeitung (3) und Bestimmung
 wertschöpfen: Material/Business 3/1/Goal 2/Goal 4/aut/ecc
 Begründung: Im Unternehmenskontext bedeutet wertschöpfen, durch gezieltes Handeln (3) einen Mehrwert zu bekommen (1), der zu einem gewünschten wirtschaftlichen Zustand führt (Goal 2) und letztlich Gewinne/Anerkennung generiert (Goal 4).. Autonom/Exzentrisch.
 
+
 wetteifern: Material/Fight/Competition 3/Goal 3/Goal 2/aut/ecc
 Begründung: Beim Wetteifern bewegt sich/strebt der Akteur (3) an, um eine Wirkung zu erzielen (Goal 3) mit dem höheren Ziel des Erfolgs/Gewinnens (Goal 2). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur mit anderen in Konkurrenz tritt.. Autonom/Exzentrisch.
 
 wetteifern: Interpersonal/Competition 3/Goal 3/Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet wetteifern, sich anzustrengen/zu bewegen (3), um eine Wirkung zu erzielen (Goal 3) mit dem Ziel, Erfolg/Anerkennung zu erreichen (Goal 2), wobei der Fokus auf dem sozialen Vergleich und persönlicher Rivalität liegt.. Autonom/Exzentrisch.
+
 
 wettern: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Wettern bedeutet, sich energisch und emotional gegen etwas auszusprechen. Der Akteur bewegt sich (3) mit einer Leistung (4) durch das Geben (1) von Informationen (5), die den Zustand des Antagonisten verschlechtern sollen (Goal -2), um eine Wirkung (//Goal 3) für den Akteur zu erzielen. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
@@ -709,8 +837,10 @@ Begründung: Wettern bedeutet, sich energisch und emotional gegen etwas auszuspr
 wettern: Material/Weather 3/Goal 3/het/ecc
 Begründung: In einer selteneren Bedeutung kann 'wettern' auch das Durchlassen von Wettereinflüssen (wie Luft) bedeuten, z.B. 'ein Bergwerk wettern' (belüften). Hier bewegt (3) der Akteur etwas, um eine Wirkung zu erzielen (Goal 3), wobei er sich an die Umgebungsbedingungen anpassen muss (het/ecc).. Heteronom/Exzentrisch.
 
+
 whatsappen: Material/IT/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Beim Whatsappen leistet der Akteur (4) durch das Geben (1) von Informationen (5) eine Kommunikationshandlung, damit der Empfänger informiert ist (Goal 5). Nach dem Umschalter // folgt das Ziel des Akteurs, die soziale Anerkennung bzw. Kommunikationsbestätigung zu erhalten (Goal 4). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externe Gegebenheiten anpassen muss und nach außen gerichtet kommuniziert.. Heteronom/Exzentrisch.
+
 
 wichtig machen: Interpersonal/Status 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Sich wichtig machen bedeutet, dass der Akteur sich bewegt/anstrengt (3) und Kontakte sucht (5), um eine besondere Wirkung zu erzielen (Goal 3) und dadurch Aufmerksamkeit/Beachtung zu erhalten (Goal 5). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf andere wirkt.. Autonom/Exzentrisch.
@@ -718,11 +848,13 @@ Begründung: Sich wichtig machen bedeutet, dass der Akteur sich bewegt/anstrengt
 wichtig machen: Interpersonal/Appearance 3/5/1/Goal 3/aut/ecc
 Begründung: Als alternative Bedeutung kann 'wichtig machen' sich auf das Hervorheben der eigenen Bedeutung im beruflichen oder sozialen Kontext beziehen. Der Akteur bewegt sich (3), sucht Kontakt (5) und bekommt (1) dadurch eine Wirkung (Goal 3) - nämlich als wichtiger zu erscheinen, als er eigentlich ist.. Autonom/Exzentrisch.
 
+
 wichtigmachen: Interpersonal/Status 3/5/Goal 3/Goal 5/aut/ecc
 Begründung: Sich wichtigmachen bedeutet, dass der Akteur sich durch eigene Bewegung (3) und Kontaktsuche (5) so darstellt, dass er eine Wirkung auf andere erzielt (Goal 3) und dadurch Aufmerksamkeit/Kontakt bekommt (Goal 5). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), um von anderen als wichtig wahrgenommen zu werden.. Autonom/Exzentrisch.
 
 wichtigmachen: Interpersonal/Superiority 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: In einer anderen Bedeutung kann 'wichtigmachen' auch das Streben nach einer überlegenen Position bedeuten. Der Akteur bewegt sich (3) und sucht Kontakt (5), um eine Wirkung zu erzielen (Goal 3) mit dem Ziel, einen gewünschten Zustand der Überlegenheit zu erreichen (Goal 2).. Autonom/Exzentrisch.
+
 
 wichtigtun: Interpersonal/Status 3/4/1/5/Goal 3/Goal 2//Goal 4/aut/ecc
 Begründung: Sich wichtig machen bedeutet, dass der Akteur mit einer Selbstdarstellung (3) eine Leistung für andere (4) durch das Geben (1) von Informationen (5) vortäuscht, um eine Wirkung zu erzielen (Goal 3) und einen gewünschten Status zu erreichen (Goal 2). Nach dem Umschalter folgt das eigene Ziel des Akteurs, Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
@@ -730,17 +862,20 @@ Begründung: Sich wichtig machen bedeutet, dass der Akteur mit einer Selbstdarst
 wichtigtun: Interpersonal/Appearance 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: In einer einfacheren Form bedeutet wichtigtun, dass der Akteur durch sein Auftreten (3) und die Art, wie er sich präsentiert (5), eine Wirkung (Goal 3) erzielen will, um als wichtig wahrgenommen zu werden (Goal 2), ohne dabei eine direkte Leistung für andere vorzutäuschen.. Autonom/Exzentrisch.
 
+
 widerlegen: Material/Argument 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) auf eine gegnerische Position zu, leistet für den Antagonisten (4) das Geben (1) von Informationen (5), mit dem Ziel einen unerwünschten Zustand für den Antagonisten herzustellen (Goal -2), nämlich dass dessen Behauptung als falsch erkannt wird. Das eigentliche Ziel des Akteurs nach dem Umschalter (//Goal 2) ist einen gewünschten Zustand zu erreichen, nämlich dass die eigene Position als richtig anerkannt wird. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
 
 widerlegen: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Im Kontext einer Auseinandersetzung bewegt sich der Akteur (3) auf eine gegnerische Position zu, leistet für den Antagonisten (4) das Geben (1) von Gegeninformationen (5), mit dem Ziel dessen Position als unhaltbar darzustellen (Goal -2), damit die eigene Position als richtig anerkannt wird (//Goal 2).. Autonom/Exzentrisch.
 
+
 widerreden: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Widerreden bedeutet, dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken sollen (Goal -2), mit dem eigenen Ziel, einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2). Dies geschieht selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 widerreden: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In der interpersonellen Bedeutung kann widerreden eine stärkere Bewegungskomponente (3) beinhalten, indem man aktiv auf jemanden zugeht, um dessen Aussagen entgegenzutreten. Der Akteur bewegt sich (3) auf den Antagonisten zu, um eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die den Standpunkt des Antagonisten untergraben sollen (Goal -2), um den eigenen Standpunkt durchzusetzen (//Goal 2).. Autonom/Exzentrisch.
+
 
 widersetzen: Interpersonal/Resistance 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Sich widersetzen bedeutet, dass der Akteur bestimmt (2) und Widerstand leistet (3), um seinen gewünschten Zustand der Selbstbestimmung zu erreichen (Goal 2) und gleichzeitig den gewünschten Zustand des Antagonisten zu verhindern (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gegen den Willen eines Antagonisten agiert.. Autonom/Exzentrisch.
@@ -751,11 +886,13 @@ Begründung: Im Kontext einer physischen Auseinandersetzung bedeutet widersetzen
 widersetzen: Material/Law/Compliance 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im rechtlichen Kontext bedeutet widersetzen, dass der Akteur bestimmt (2) und gegen eine Anordnung vorgeht (3), um seine eigene Selbstbestimmung durchzusetzen (Goal 2) und die Durchsetzung einer rechtlichen Vorgabe zu verhindern (//Goal -2).. Autonom/Exzentrisch.
 
+
 widersprechen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Widersprechen bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2), mit dem Ziel, einen eigenen gewünschten Zustand durchzusetzen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
 
 widersprechen: Interpersonal/Dispute 3/5/Goal 2//Goal -2/aut/ecc
 Begründung: Im interpersonellen Kontext kann widersprechen bedeuten, auf jemanden zuzugehen (3) und Kontakt aufzunehmen (5), um einen eigenen Standpunkt durchzusetzen (Goal 2) und dabei den Standpunkt des Antagonisten zu bekämpfen (//Goal -2).. Autonom/Exzentrisch.
+
 
 widerstehen: Interpersonal/Resistance 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Widerstehen bedeutet, dass der Akteur bestimmt (2) und durch Bewegung/Aktivität (3) einen gewünschten Zustand für sich erreicht (Goal 2), indem er die Wirkung/den Einfluss eines Antagonisten bekämpft (//Goal -3). Die Ausrichtung ist autonom (der Akteur entscheidet sich aktiv zum Widerstand) und exzentrisch (nach außen gerichtet gegen den Einfluss).. Autonom/Exzentrisch.
@@ -766,6 +903,7 @@ Begründung: Im Sinne von Versuchungen widerstehen bedeutet, dass der Akteur bes
 widerstehen: Material/Struggle 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im physischen Sinne bedeutet widerstehen, dass der Akteur bestimmt (2) und durch Bewegung/Anstrengung (3) einen gewünschten stabilen Zustand für sich erreicht (Goal 2), während er einer äußeren physischen Kraft entgegenwirkt (//Goal -3).. Autonom/Exzentrisch.
 
+
 wiederbeleben: Material/Medical/Process 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) und gibt (1) Energie/Maßnahmen, um einen gewünschten Zustand (Goal 2) wiederherzustellen, nämlich das Leben/die Vitalfunktionen. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur die Handlung selbstbestimmt durchführt und auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
 
@@ -775,17 +913,20 @@ Begründung: Im übertragenen Sinne: Etwas Verlassenes, Aufgegebenes oder in Ver
 wiederbeleben: Interpersonal/Relationship 3/1/Goal 2/aut/ecc
 Begründung: Eine Beziehung oder Freundschaft wiederbeleben bedeutet, durch aktives Vorgehen (3) und Einbringen von Engagement (1) einen gewünschten Zustand (Goal 2) wiederherzustellen. Die Handlung ist selbstbestimmt und auf den Antagonisten gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
+
 wiedererkennen: Material/Memory 3/5/1/Goal 5/het/ecc
 Begründung: Wiedererkennen bedeutet, dass der Akteur aktiv nach Informationen sucht (3/5), indem er eine bereits gespeicherte Information mit einer wahrgenommenen vergleicht und eine Übereinstimmung bekommt (1), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach äußeren Merkmalen richten muss.. Heteronom/Exzentrisch.
 
 wiedererkennen: Interpersonal 3/5/1/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet wiedererkennen, dass der Akteur eine Person aktiv identifiziert (3/5) und die Kenntnis über die Identität bekommt (1), um den Kontakt herzustellen (Goal 5). Auch hier ist die Ausrichtung heteronom/exzentrisch, da der Akteur sich nach äußeren Merkmalen richten muss.. Heteronom/Exzentrisch.
 
+
 wiederfinden: Material/Search 3/5/1/Goal 5/het/ecc
 Begründung: Wiederfinden bedeutet, etwas Verlorenes oder Vermisstes durch aktive Bewegung/Suche (3) mit dem Ziel der Informationsgewinnung (5) zu bekommen (1), um letztendlich über die Information zu verfügen, wo sich etwas befindet (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externen Bedingungen orientieren muss und nach außen gerichtet sucht.. Heteronom/Exzentrisch.
 
 wiederfinden: Interpersonal/Search 3/5/1/Goal 5/Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet wiederfinden, eine Person durch aktive Suche (3/5) zu finden und wieder Kontakt (1) herzustellen, mit dem doppelten Ziel, sowohl Wissen über den Verbleib der Person zu erlangen (Goal 5) als auch die emotionale Nähe wiederherzustellen (Goal 1).. Heteronom/Exzentrisch.
+
 
 wiedergeben: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) durch Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5), mit dem Ziel für den Akteur Anerkennung zu bekommen (//Goal 4). Der Akteur übermittelt bestehende Informationen in unveränderter Form an andere Personen.. Autonom/Exzentrisch.
@@ -796,6 +937,7 @@ Begründung: Der Akteur bestimmt (2) und bewegt (3) ein Abspielgerät, um Inform
 wiedergeben: Material 4/1/2/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur leistet (4) durch Geben (1) von etwas, das er vorher bekommen hat, zurück an den Besitzer (2), damit dieser wieder darüber verfügen kann (Goal 2), mit dem Ziel für den Akteur Anerkennung zu bekommen (//Goal 4). Hier geht es um die Rückgabe eines Gegenstands.. Autonom/Exzentrisch.
 
+
 wiedergewinnen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) etwas zurück, um einen gewünschten Zustand (Goal 2) herzustellen. Es handelt sich um eine autonome Aktion (aut) mit Ausrichtung nach außen (ecc), da etwas zurückgeholt wird, das vorher verloren ging.. Autonom/Exzentrisch.
 
@@ -805,11 +947,13 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet wiedergewinnen, dass der A
 wiedergewinnen: Material/Business/Competition 3/1/Goal 2/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet wiedergewinnen, dass der Akteur sich bemüht (3), einen verlorenen Kunden oder Marktanteil zurück zu bekommen (1), um den gewünschten Zustand (Goal 2) herzustellen und letztendlich Geld/Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 wiederhaben wollen: Material/Possession 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) auf etwas zu, um etwas zurückzubekommen (1), mit dem Ziel, einen gewünschten Zustand (Goal 2) - nämlich den Besitz - wiederherzustellen. Die Ausrichtung ist autonom (selbstbestimmt) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
 
 wiederhaben wollen: Interpersonal/Relationship 3/1/Goal 1/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext kann 'wiederhaben wollen' bedeuten, dass der Akteur sich auf jemanden zubewegt (3), um Nähe zurückzubekommen (1), mit dem Ziel, emotionale Nähe/Liebe wiederherzustellen (Goal 1).. Autonom/Exzentrisch.
+
 
 wiederherstellen: Material/Registration 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/bearbeitet (3) ein Objekt, um einen bestimmten (früheren/ursprünglichen) gewünschten Zustand (Goal 2) zu erreichen. Es handelt sich um eine autonome, nach außen gerichtete Aktivität (aut/ecc), da der Akteur aktiv und selbstbestimmt auf ein externes Objekt einwirkt, um es in seinen ursprünglichen Zustand zurückzuversetzen.. Autonom/Exzentrisch.
@@ -820,6 +964,7 @@ Begründung: Im IT-Kontext bedeutet wiederherstellen das Zurücksetzen von Daten
 wiederherstellen: Material/Medical 3/Goal 2/aut/ecc
 Begründung: Im medizinischen Kontext bedeutet wiederherstellen die Wiederherstellung von Gesundheit oder körperlicher Funktionsfähigkeit. Der Akteur unternimmt aktive Maßnahmen/Behandlungen (3), um einen gewünschten gesunden Zustand (Goal 2) wiederzuerlangen.. Autonom/Exzentrisch.
 
+
 wiederholen: Material/Education 3/5/2/Goal 5/aut/ecc
 Begründung: Wiederholen beinhaltet, dass der Akteur bereits aufgenommene Informationen aktiv durchgeht (3/5), um sie besser verfügbar zu haben (2/Goal 5). Im Lernkontext bedeutet Wiederholen, dass man Informationen erneut bearbeitet und dabei autonome Kontrolle über den Prozess hat (aut/ecc).. Autonom/Exzentrisch.
 
@@ -829,11 +974,13 @@ Begründung: In der Kommunikation bedeutet Wiederholen, dass der Akteur bestimmt
 wiederholen: Material/Process 3/2/Goal 2/aut/ecc
 Begründung: Im Kontext von Vorgängen oder Prozessen bedeutet Wiederholen, dass der Akteur einen Vorgang bewegt/ausführt (3) und dabei kontrolliert (2), um einen gewünschten Zustand zu erreichen (Goal 2), beispielsweise bei der Wiederholung eines Experiments oder einer Handlung.. Autonom/Exzentrisch.
 
+
 wiedersehen: Interpersonal 3/1/Goal 5/het/ecc
 Begründung: Wiedersehen bedeutet, durch eine Bewegung zu einem bestimmten Ort (3) eine Person wiederzutreffen und damit Kontakt zu bekommen (1), mit dem Ziel, dass der Kontakt stattfindet (Goal 5). Es ist heteronomer (het) Natur, da man sich an die Umstände des Treffens anpassen muss, und nach außen gerichtet (ecc), da man mit einer anderen Person interagiert.. Heteronom/Exzentrisch.
 
 wiedersehen: Material/Visual 5/1/Goal 5/het/ecc
 Begründung: In der visuellen Bedeutung bedeutet wiedersehen, dass man durch Wahrnehmen (5) etwas wieder zu Gesicht bekommt (1), mit dem Ziel, diese Information zu haben (Goal 5). Man passt sich an den Gegenstand an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 wiegen: Material/Measurement 2/5/Goal 5/het/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über ein Messinstrument und informiert sich (5) über das Gewicht eines Objekts, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Eigenschaften des zu wiegenden Objekts richtet und die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -841,11 +988,13 @@ Begründung: Der Akteur bestimmt/verfügt (2) über ein Messinstrument und infor
 wiegen: Material/Baby 2/3/Goal 2/aut/con
 Begründung: In der Bedeutung 'ein Baby wiegen/schaukeln' bestimmt der Akteur (2) die Bewegung (3) des Babys, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich dass das Baby beruhigt wird oder einschläft. Die Ausrichtung ist autonom/konzentrisch, da der Akteur die Kontrolle über den Vorgang hat und die Aktivität im eigenen Bereich stattfindet.. Autonom/Konzentrisch.
 
+
 willkommen heißen: Material/Hospitality 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4) durch das Geben (1) einer Information (5), damit der Antagonist informiert ist (Goal 5), dass er willkommen ist. Nach dem Wechsel (//) verfolgt der Akteur seine eigenen Ziele: einen gewünschten Zustand der Gastfreundschaft herzustellen (Goal 2) und Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
 willkommen heißen: Interpersonal/Courtesy 2/4/1/5/Goal 5//Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bestimmt der Akteur (2) eine Leistung zu erbringen (4) durch das Geben (1) einer Information (5), damit der Antagonist informiert ist (Goal 5). Nach dem Wechsel (//) verfolgt der Akteur sein eigenes Ziel: einen sozialen Kontakt herzustellen (Goal 5).. Autonom/Exzentrisch.
+
 
 winden: Material/Physical/Movement 3/Goal 2/het/ecc
 Begründung: Im physischen Kontext bedeutet 'winden' das spiralförmige oder drehende Bewegen (3) eines Objekts, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei man sich an die Eigenschaften des Materials anpassen muss (het) und nach außen gerichtet arbeitet (ecc). Zum Beispiel beim Winden von Schnüren oder Seilen.. Heteronom/Exzentrisch.
@@ -859,6 +1008,7 @@ Begründung: In der Bedeutung 'sich winden' bezieht sich auf eine schlängelnde 
 winden: Interpersonal/Physical 3/Goal 2//Goal -3/het/ecc
 Begründung: In der Bedeutung 'sich winden' im zwischenmenschlichen Kontext beschreibt es körperliche Ausweichbewegungen (3), um einen gewünschten Zustand zu erreichen (Goal 2) und gleichzeitig die Wirkung eines Antagonisten zu verhindern (//Goal -3), wobei man reaktiv (het) und nach außen gerichtet (ecc) agiert.. Heteronom/Exzentrisch.
 
+
 winkeln: Material/Physical/Position 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung (3) einen gewünschten Zustand (Goal 2), indem etwas in einen Winkel gebracht wird. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein Objekt im Außenbereich einwirkt.. Autonom/Exzentrisch.
 
@@ -867,6 +1017,7 @@ Begründung: Im Kontext des Messens bewegt der Akteur (3) sich informierend (5) 
 
 winkeln: Material/Technical 2/3/Goal 3/aut/ecc
 Begründung: Im technischen Kontext bestimmt der Akteur (2) durch Bewegung (3) eine bestimmte Wirkung oder Richtung (Goal 3), indem er etwas in einem bestimmten Winkel ausrichtet. Die Ausrichtung ist autonom/exzentrisch.. Autonom/Exzentrisch.
+
 
 winken: Interpersonal/Gesture 3/5/Goal 5/aut/ecc
 Begründung: Winken ist eine Bewegung (3) des Akteurs (z.B. mit der Hand), die darauf abzielt, Kontakt zu einer anderen Person aufzunehmen oder aufrechtzuerhalten (5/Goal 5). Die Handlung ist autonom (der Akteur entscheidet selbst zu winken) und nach außen gerichtet (ecc), da die Geste an einen anderen Menschen gerichtet ist.. Autonom/Exzentrisch.
@@ -877,6 +1028,7 @@ Begründung: Als Signal oder Zeichen in einem taktischen Kontext ist Winken eine
 winken: Material/Signal 3/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Winken als Signal im Verkehr oder bei der Arbeit ist eine Bewegung (3), die eine Leistung für andere darstellt (4), indem man Information gibt (1/5), damit diese informiert sind (Goal 5). Der Akteur tut dies oft im beruflichen Kontext und erhält dafür Anerkennung (//Goal 4), z.B. als Einweiser auf dem Flughafen.. Autonom/Exzentrisch.
 
+
 winseln: Material/Animal 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Ein Tier winselt, indem es eine Leistung erbringt (4) durch das Geben (1) von Lautinformationen (5), um den Antagonisten (meist den Menschen) zu informieren (Goal 5), mit dem Ziel für sich selbst Anerkennung oder Aufmerksamkeit zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
 
@@ -886,6 +1038,7 @@ Begründung: Im übertragenen Sinne: Ein Mensch winselt, indem er unterwürfig e
 winseln: Material/Sound 3/1/Goal 5/het/ecc
 Begründung: Ein klagendes, jammerndes Geräusch von sich geben durch Bewegung (3), die zum Bekommen (1) von Informationsübermittlung (Goal 5) führt, wobei der Akteur sich an externe Bedingungen anpasst und nach außen gerichtet ist (het/ecc).. Heteronom/Exzentrisch.
 
+
 wirbeln: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt (3) sich oder Objekte in einer kreisenden oder drehenden Art, um eine bestimmte Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da die Bewegung selbstgesteuert und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
@@ -894,6 +1047,7 @@ Begründung: Im Tanzkontext bedeutet wirbeln, dass der Akteur eine schnelle Dreh
 
 wirbeln: Material/Weather 3/Goal 3/het/ecc
 Begründung: Bei Wetterphänomenen wie wirbelnden Blättern oder Schnee findet eine Bewegung (3) statt, die zu einer bestimmten atmosphärischen Wirkung führt (Goal 3). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da die Bewegung durch äußere Kräfte wie Wind gesteuert wird.. Heteronom/Exzentrisch.
+
 
 wirken: Material/Effect 3/Goal 3/aut/ecc
 Begründung: Eine Wirkung erzielen durch autonomes Bewegen/Anstreben (3) in die Umwelt, um eine bestimmte Destination/Wirkung zu erreichen (Goal 3). Der Akteur übt durch sein Verhalten aktiv Einfluss auf die Umgebung aus.. Autonom/Exzentrisch.
@@ -907,11 +1061,13 @@ Begründung: In der Textilherstellung durch Bewegen/Bearbeiten (3) ein Gewebe od
 wirken: Material/Pharmaceutical 3/Goal 3/het/ecc
 Begründung: Von einem Medikament oder Wirkstoff: durch seine Eigenschaften (3) eine bestimmte Wirkung im Körper erzielen (Goal 3). Die Ausrichtung ist heteronom, da die Wirkung von äußeren Faktoren abhängt.. Heteronom/Exzentrisch.
 
+
 wirtschaften: Material/Economics 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Wirtschaften bezeichnet das bestimmende (2) Handhaben und Bewegen (3) von ökonomischen Ressourcen, um einen gewünschten wirtschaftlichen Zustand zu erreichen (Goal 2) und dabei ökonomischen Erfolg zu erzielen (Goal 4). Die Ausrichtung ist autonom (der Akteur bestimmt selbst) und nach außen gerichtet (ecc), da es um die Interaktion mit dem Wirtschaftssystem und externen Ressourcen geht.. Autonom/Exzentrisch.
 
 wirtschaften: Material/Household 2/3/Goal 2/aut/con
 Begründung: Im Sinne des Haushaltens mit begrenzten Ressourcen bedeutet wirtschaften, bestimmend (2) mit vorhandenen Mitteln umzugehen/sie zu bewegen (3), um einen gewünschten Zustand des Haushalts zu erreichen (Goal 2), ohne dabei primär auf wirtschaftlichen Gewinn abzuzielen. Die Ausrichtung ist autonom und nach innen gerichtet (con), da es sich um die Bewirtschaftung des eigenen Bereichs handelt.. Autonom/Konzentrisch.
+
 
 wischen: Material/Cleaning 3/Goal 2/aut/ecc
 Begründung: Wischen bedeutet, durch eine gezielte Bewegung (3) über eine Oberfläche einen gewünschten Zustand der Sauberkeit zu erreichen (Goal 2). Der Akteur bewegt dabei ein Tuch oder ähnliches Hilfsmittel selbstbestimmt (aut) über eine außerhalb liegende Oberfläche (ecc).. Autonom/Exzentrisch.
@@ -922,17 +1078,20 @@ Begründung: Im Sinne einer Geste bedeutet Wischen eine Bewegung (3) mit der Han
 wischen: Material/IT 3/Goal 2/aut/ecc
 Begründung: Im IT-Kontext bedeutet Wischen (wie bei Touchscreens) eine Bewegung (3) auf einer Oberfläche, um einen gewünschten Zustand (Goal 2) wie das Umblättern, Verschieben oder Aktivieren einer Funktion zu erreichen.. Autonom/Exzentrisch.
 
+
 wispern: Material/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Wispern bedeutet leise flüstern oder im Flüsterton sprechen. Der Akteur leistet (4) durch Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5). Nach dem Wechsel zurück (//), steht das eigene Ziel des Akteurs: Anerkennung zu bekommen (Goal 4). Die heteronome/exzentrische Ausrichtung (het/ecc) zeigt, dass der Akteur sich nach außen richtet und sich an die Situation anpasst, indem er bewusst leise spricht.. Heteronom/Exzentrisch.
 
 wispern: Interpersonal/Communication 4/1/5/Goal 5/Goal 1//Goal 4/het/ecc
 Begründung: Im zwischenmenschlichen Kontext kann Wispern eine vertrauliche oder intime Form der Kommunikation sein. Der Akteur leistet (4) durch Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5) und Nähe entsteht (Goal 1). Nach dem Wechsel (//), steht das eigene Ziel des Akteurs: Anerkennung/Zuwendung zu bekommen (Goal 4).. Heteronom/Exzentrisch.
 
+
 wissen: Material/Knowledge 2/Goal 5/aut/con
 Begründung: Wissen bedeutet, über Informationen zu verfügen (2) mit dem Ziel, informiert zu sein (Goal 5). Der Akteur hat die Kontrolle über diese Informationen in seinem inneren Bereich (aut/con). Es ist eine autonome Verfügung über Informationen im eigenen Wissensbereich.. Autonom/Konzentrisch.
 
 wissen: Material/Cognitive 2/5/Goal 5/aut/con
 Begründung: Als kognitiver Prozess bedeutet wissen nicht nur über Informationen zu verfügen (2), sondern sie auch mental verarbeitet zu haben (5), mit dem Ziel, informiert zu sein (Goal 5). Hier geht es um das bewusste Abrufen und Verarbeiten von Informationen aus dem Gedächtnis.. Autonom/Konzentrisch.
+
 
 wittern: Material/Animal/Behavior 3/5/Goal 5/het/ecc
 Begründung: Bei Tieren bedeutet 'wittern' das aktive Wahrnehmen von Gerüchen (3/5) durch Schnuppern und Aufspüren von Informationen (Goal 5) durch den Geruchssinn. Das Tier bewegt sich (3) und nimmt Informationen auf (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da das Tier sich nach äußeren Reizen richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
@@ -943,11 +1102,13 @@ Begründung: Im menschlichen Kontext kann 'wittern' das Wahrnehmen/Spüren (5) v
 wittern: Material/Hunting 3/5/Goal 5/Goal 1/het/ecc
 Begründung: Im Jagdkontext bedeutet 'wittern' das Aufspüren durch Geruchssinn (3/5/Goal 5), um letztendlich Beute zu finden und zu bekommen (Goal 1). Der Jäger oder das Tier bewegt sich (3) und nimmt Informationen auf (5), um informiert zu sein (Goal 5) mit dem höheren Ziel, Beute zu bekommen (Goal 1).. Heteronom/Exzentrisch.
 
+
 wohlfühlen: Material/Emotional 1/Goal 2/het/con
 Begründung: Sich wohlfühlen bedeutet, einen angenehmen Zustand zu bekommen (1), der einem gewünschten Zustand (Goal 2) entspricht. Die Ausrichtung ist heteronom (het), da der Akteur sich an die gegebenen Umstände anpasst, und nach innen gerichtet (con), da es sich um ein inneres Empfinden handelt.. Heteronom/Konzentrisch.
 
 wohlfühlen: Interpersonal/Emotional 1/Goal 2/het/con
 Begründung: Im zwischenmenschlichen Kontext bedeutet sich wohlfühlen, dass der Akteur in einer sozialen Situation einen angenehmen Zustand bekommt (1), der einem gewünschten Zustand (Goal 2) entspricht. Die Ausrichtung ist ebenfalls heteronom und nach innen gerichtet.. Heteronom/Konzentrisch.
+
 
 wollen: Material/Desire 0/2/Goal 2/het/con
 Begründung: Wollen bedeutet, ein Bedürfnis oder Verlangen nach etwas zu haben und den Zustand des Habens oder Erreichens anzustreben. Der Akteur wartet (0) auf die Möglichkeit, seine Verfügungsgewalt (2) einzusetzen, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom/konzentrisch, da das Wollen ein innerer Zustand ist, der von Bedürfnissen gesteuert wird.. Heteronom/Konzentrisch.
@@ -958,17 +1119,20 @@ Begründung: Im zwischenmenschlichen Bereich bedeutet wollen das Anstreben eines
 wollen: Material/Textile Object 2/3/3/Goal 1 aut/ecc
 Begründung: Als Substantiv bezeichnet Wolle ein textiles Material, das als bewegliches Besitztum (2) am Körper getragen werden kann (3/3) und dem Bekommen von Wärme und Befriedigung körperlicher Bedürfnisse dient (Goal 1).. Autonom/Exzentrisch.
 
+
 wortfechten: Material/Fight/Dispute 3/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Wortfechten bedeutet, dass der Akteur mit aggressiver Bewegung (3) eine Leistung erbringt (4), indem er Informationen gibt (1/5), die einen unerwünschten Zustand beim Antagonisten bewirken sollen (Goal -2), um letztlich einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 wortfechten: Interpersonal/Dispute 3/5/Goal 3/Goal 2/aut/ecc
 Begründung: In einer interpersonellen Bedeutung kann wortfechten auch als ein Streitgespräch verstanden werden, bei dem der Akteur aktiv (3) seine Argumente vorbringt, um Kontakt zu halten (5), eine Wirkung zu erzielen (Goal 3) und seine Position durchzusetzen (Goal 2).. Autonom/Exzentrisch.
 
+
 wundern: Interpersonal/Psychological 5/1/Goal 5/het/ecc
 Begründung: Sich wundern bedeutet, dass der Akteur Kontakt zu einer Information aufnimmt (5) und dabei etwas Unerwartetes, Überraschendes bekommt (1), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an das Wahrgenommene anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 wundern: Material/Cognitive 5/1/Goal 5/het/ecc
 Begründung: Im kognitiven Kontext bedeutet wundern, dass der Akteur eine Information aufnimmt (5) und dabei etwas Unerwartetes bekommt (1), um informiert zu sein (Goal 5). Es handelt sich um einen mentalen Prozess des Erkenntnisgewinns über etwas Ungewöhnliches.. Heteronom/Exzentrisch.
+
 
 wurzeln: Material/Plants 3/1/Goal 2/het/ecc
 Begründung: Wurzeln beschreibt den Prozess, bei dem eine Pflanze Wurzeln bildet und diese in den Boden hinein bewegt (3), um Halt und Nährstoffe zu bekommen (1), mit dem Ziel einen stabilen Zustand zu erreichen (Goal 2). Dies geschieht in Anpassung an die Bodenbeschaffenheit (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
@@ -979,41 +1143,6 @@ Begründung: Im übertragenen Sinne bedeutet wurzeln, dass etwas oder jemand fes
 wurzeln: Material/Archaeological 3/5/Goal 5/het/ecc
 Begründung: Im archäologischen Kontext bedeutet wurzeln das Suchen nach Fundstücken durch Bewegung/Umgraben (3), um Informationen zu erhalten (5), mit dem Ziel, informiert zu sein (Goal 5). Dies geschieht in Anpassung an die Bodenbeschaffenheit (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
-wägen: Material/Measurement 2/3/Goal 5/het/ecc
-Begründung: Beim Wägen bestimmt der Akteur (2) durch die Bewegung (3) eines Gegenstandes auf einer Waage, wie schwer dieser ist, um Informationen über sein Gewicht zu erhalten (Goal 5). Der Prozess ist heteronom, da er sich an den Eigenschaften des zu wägenden Objekts orientieren muss, und exzentrisch, da die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
-
-wägen: Material/Analysis 3/5/Goal 2/het/ecc
-Begründung: In der übertragenen Bedeutung von 'abwägen' bedeutet wägen das Bewegen/Anstreben (3) und Informieren (5), um einen gewünschten Zustand der Entscheidungsfindung zu erreichen (Goal 2). Der Prozess ist heteronom, da er von den zu beurteilenden Faktoren abhängt, und exzentrisch, da er nach außen gerichtet ist.. Heteronom/Exzentrisch.
-
-wähnen: Material/Psychological 3/5/2/Goal 5/het/ecc
-Begründung: Wähnen bedeutet etwas irrtümlich anzunehmen oder zu glauben. Der Akteur strebt an (3), Informationen zu suchen/aufzunehmen (5) und darüber zu verfügen (2), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externen Informationen orientiert, diese jedoch falsch interpretiert.. Heteronom/Exzentrisch.
-
-wähnen: Material/Hypothesis 3/5/2/Goal 5/Goal -5/het/ecc
-Begründung: In der spezifischeren Bedeutung als 'irrtümlich annehmen' bewegt sich der Akteur (3) zu Informationen hin (5), um über sie zu verfügen (2), mit dem Ziel informiert zu sein (Goal 5), erreicht aber tatsächlich einen Fehlinformationszustand (Goal -5). Dies betont den Aspekt der falschen Hypothesenbildung.. Heteronom/Exzentrisch.
-
-währen: Material/Time 0/Goal 0/het/con
-Begründung: Währen bedeutet andauern oder fortbestehen (0) über eine Zeitspanne hinweg, ohne dass aktiv etwas getan wird. Es ist ein passives Warten (0) auf den Abschluss eines Zeitraums, wobei der Akteur sich heteronym an die äußeren Zeitumstände anpassen muss (het) und sich in einem Zustand des Verharrens befindet (con), mit dem Ziel, einen Basiszustand zu haben (Goal 0).. Heteronom/Konzentrisch.
-
-währen: Material/Process 0/Goal 2/het/con
-Begründung: In der Bedeutung des Andauerns eines Prozesses oder Zustands bezeichnet 'währen' das Fortbestehen (0) eines gewünschten oder vorgegebenen Zustands (Goal 2), wobei der Akteur sich passiv verhält (het/con) und der Prozess von selbst weiterläuft.. Heteronom/Konzentrisch.
-
-wärmen: Material/Temperature 3/Goal 2/aut/ecc
-Begründung: Wärmen bedeutet durch aktive Bewegung (3) einen gewünschten Zustand (Goal 2) der höheren Temperatur herbeizuführen. Der Akteur bewegt Wärmeenergie autonom (aut) in Richtung eines Objekts (ecc).. Autonom/Exzentrisch.
-
-wärmen: Material/Heating-System 2/3/Goal 2/aut/ecc
-Begründung: Im Kontext eines Heizsystems bedeutet wärmen das Bestimmen/Kontrollieren (2) und Bewegen (3) von Wärmeenergie, um einen gewünschten Wärmezustand (Goal 2) zu erreichen. Der Akteur verfügt über das Heizgerät und steuert es aktiv.. Autonom/Exzentrisch.
-
-wärmen: Interpersonal/Emotional 4/1/Goal 1//Goal 4/het/ecc
-Begründung: Im übertragenen Sinne bedeutet jemanden emotional wärmen, dass man eine Leistung für den Antagonisten erbringt (4) und ihm etwas gibt (1), damit er Nähe/Wohlbefinden erfährt (Goal 1), wofür der Akteur Anerkennung erwartet (//Goal 4).. Heteronom/Exzentrisch.
-
-wässern: Material/Agriculture 3/1/Goal 2/aut/ecc
-Begründung: Wässern bedeutet, Wasser (1) zu Pflanzen zu bewegen (3), um einen gewünschten Zustand (Goal 2) der Pflanzen zu erreichen. Der Akteur handelt autonom und nach außen gerichtet (aut/ecc), da er aktiv Wasser zu den Pflanzen bringt.. Autonom/Exzentrisch.
-
-wässern: Material/Cooking 3/1/Goal 2/aut/ecc
-Begründung: In der Küche bedeutet wässern, Lebensmittel (wie Stockfisch oder Hülsenfrüchte) in Wasser einzulegen (3/1), um einen gewünschten Zustand (Goal 2) zu erreichen, beispielsweise um Salz zu entziehen oder sie aufquellen zu lassen.. Autonom/Exzentrisch.
-
-wässern: Material/Fluids/Process 3/1/Goal 2/Goal 1/aut/ecc
-Begründung: Wässern kann auch bedeuten, eine Flüssigkeit mit Wasser zu verdünnen (3/1), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei das Endprodukt konsumiert werden soll (Goal 1).. Autonom/Exzentrisch.
 
 wünschen: Interpersonal/Desire 3/1/Goal 2/aut/ecc
 Begründung: Wünschen bedeutet, dass der Akteur autonom (aut) eine Handlung nach außen richtet (ecc), indem er durch eine Bewegung/ein Anstreben (3) etwas bekommen (1) möchte, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Akteur strebt aktiv nach etwas und möchte durch dieses Anstreben einen bestimmten Zustand herbeiführen.. Autonom/Exzentrisch.
@@ -1024,11 +1153,13 @@ Begründung: Als materielles Verlangen bedeutet wünschen ein passives Warten (0
 wünschen: Interpersonal/Courtesy 4/1/5/Goal 2//Goal 4/het/ecc
 Begründung: Im Kontext einer Höflichkeitsgeste bedeutet jemandem etwas wünschen, dass man eine Leistung für einen Antagonisten erbringt (4) indem man etwas gibt (1) und informiert (5), damit der Antagonist einen gewünschten Zustand erlangt (Goal 2). Nach dem Wechsel zurück zum Akteur (//), ist dessen Ziel, Anerkennung zu bekommen (Goal 4).. Heteronom/Exzentrisch.
 
+
 würdigen: Interpersonal/Evaluation 2/4/1/5/Goal 2//Goal 4/het/ecc
 Begründung: Würdigen bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er eine Bewertung gibt (1/5), um beim Antagonisten einen gewünschten Zustand der Anerkennung zu erzeugen (Goal 2). Dies führt zur eigenen Anerkennung beim Akteur (//Goal 4). Die Aktivität ist heteronom/exzentrisch ausgerichtet, da der Akteur sich auf äußere Gegebenheiten des Antagonisten einstellt.. Heteronom/Exzentrisch.
 
 würdigen: Material/Evaluation 3/5/Goal 5/Goal 2/het/ecc
 Begründung: Im sachlichen Kontext bedeutet würdigen, etwas zu untersuchen/bewerten (3/5), um informiert zu sein (Goal 5) und einen angemessenen Zustand der Beurteilung zu erreichen (Goal 2). Hier geht es um die angemessene Bewertung von Eigenschaften oder Leistungen eines Objekts.. Heteronom/Exzentrisch.
+
 
 würgen: Material/Fight/Aggression 3/1/Goal 3//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) eine Wirkung (Goal 3), nämlich die Atemnot des Antagonisten, wodurch er gleichzeitig einen gewünschten Zustand des Antagonisten verhindert (//Goal -2). Die Aktivität ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
@@ -1042,8 +1173,10 @@ Begründung: Im übertragenen Sinne: Der Akteur bestimmt (2) durch Bewegung/Anst
 würgen: Material/Driving 2/3/Goal -3/het/ecc
 Begründung: Im Sinne von 'Der Motor würgt ab': Der Akteur verfügt über (2) eine Bewegung (3), die nicht zum Ziel führt (Goal -3). Diese Situation ist fremdbestimmt (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 würzen: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
 Begründung: Beim Würzen verfügt der Akteur (2) über Gewürze und bewegt/bearbeitet (3) die Speise, um einen gewünschten Geschmackszustand zu erreichen (Goal 2) und letztendlich zum Verzehr/Genuss vorzubereiten (Goal 1). Die Tätigkeit wird selbstbestimmt ausgeführt (aut) und ist auf ein Objekt im Außenbereich gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 wüten: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Beim Wüten bewegt sich der Akteur (3) und bekommt (1) eine zerstörerische Wirkung (Goal 3), wodurch er einen gewünschten Zustand für sich erreicht (Goal 2), während er gleichzeitig einen gewünschten Zustand des Antagonisten verhindert (//Goal -2). Die Ausrichtung ist autonom (vom Akteur bestimmt) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
@@ -1053,3 +1186,4 @@ Begründung: Im psychologischen Kontext bedeutet Wüten, dass der Akteur emotion
 
 wüten: Material/Catastrophes 3/1/Goal 3/het/ecc
 Begründung: Bei Naturgewalten bezeichnet 'wüten' das heftige Bewegen (3) und Verursachen von Schäden (1), um eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist heteronom (von äußeren Umständen bestimmt) und exzentrisch (nach außen gerichtet).. Heteronom/Exzentrisch.
+
