@@ -1,3 +1,10 @@
+nachäffen: Interpersonal 3/4/1/5/Goal -2//Goal 3/aut/ecc
+Begründung: Der Akteur bewegt sich (3) und leistet für den Antagonisten (4) ein bestimmtes Verhalten, indem er es gibt/zeigt (1) mit einer informativen Komponente (5) und erzeugt damit einen unerwünschten Zustand beim Antagonisten (Goal -2), wobei das eigene Ziel des Akteurs ist, eine Wirkung zu erzielen (//Goal 3). Es geht darum, jemanden spöttisch zu imitieren, um ihn lächerlich zu machen oder zu verspotten.. Autonom/Exzentrisch.
+
+nachäffen: Material/Theater-Acting 3/5/Goal 3/aut/ecc
+Begründung: In einem neutraleren, darstellerischen Kontext kann nachäffen auch das reine Imitieren/Nachahmen von Verhaltensweisen bedeuten, ohne spöttische Absicht. Der Akteur bewegt sich (3) und informiert sich über die Verhaltensweise (5), um eine bestimmte Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
+
 nachbohren: Material/Criminal/Investigation 3/5/Goal 5/het/ecc
 Begründung: Nachbohren bedeutet, dass man aktiv (3) nach weiteren Informationen sucht (5), um mehr Kenntnis über etwas zu erlangen (Goal 5), wobei man sich nach externen Gegebenheiten richten muss (het/ecc). Im kriminalistischen Kontext ist es eine investigative Tätigkeit, bei der man hartnäckig nachfragt, um verborgene Informationen aufzudecken.. Heteronom/Exzentrisch.
 
@@ -7,11 +14,13 @@ Begründung: Im handwerklichen Sinne bedeutet nachbohren, dass man einen bereits
 nachbohren: Interpersonal/Persistence 3/5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet nachbohren, dass man hartnäckig (3) nach weiteren Informationen fragt (5), um mehr Kenntnis über etwas zu erlangen (Goal 5), wobei man sich nach den Reaktionen des Gesprächspartners richten muss (het/ecc).. Heteronom/Exzentrisch.
 
+
 nachdenken: Material/Cognitive 3/5/2/Goal 5/het/ecc
 Begründung: Nachdenken bedeutet, gedanklich aktiv (3) Informationen zu suchen und zu verarbeiten (5), um Verfügung über Kenntnisse/Erkenntnisse zu erlangen (2), mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da man sich nach äußeren Faktoren und Zusammenhängen richtet.. Heteronom/Exzentrisch.
 
 nachdenken: Material/Problem-Solving 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Im Kontext des Problemlösens bedeutet nachdenken das aktive Bewegen von Gedanken (3), um Informationen zu sammeln und zu verarbeiten (5), die Verfügung über Erkenntnisse zu erlangen (2), mit dem Ziel sowohl informiert zu sein (Goal 5) als auch einen gewünschten Zustand herzustellen (Goal 2).. Heteronom/Exzentrisch.
+
 
 nachkommen: Material/Compliance 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) durch Ausführen einer Anweisung/Verpflichtung (2), um einen vom Antagonisten gewünschten Zustand herzustellen (Goal 2), mit dem Ziel, dafür Anerkennung zu bekommen (//Goal 4). Das Nachkommen bedeutet, eine heteronome Leistung zu erbringen, die nach außen gerichtet ist (het/ecc).. Heteronom/Exzentrisch.
@@ -22,11 +31,13 @@ Begründung: Im Sinne von Nachkommenschaft/Nachkommen haben bezieht sich der Akt
 nachkommen: Material/Pursuit 3/Goal 3/het/ecc
 Begründung: Im Sinne von jemandem folgen/hinterhergehen bedeutet nachkommen eine Bewegung (3) mit dem Ziel, eine bestimmte Destination/Wirkung zu erreichen (Goal 3), wobei man sich nach der Bewegung eines Antagonisten richtet (het/ecc).. Heteronom/Exzentrisch.
 
+
 nachkontrollieren: Material/Inspection 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Nachkontrollieren bedeutet, eine bereits durchgeführte Kontrolle erneut zu überprüfen. Der Akteur bewegt sich (3) zu einer Informationsquelle (5), um Verfügungsgewalt über die Richtigkeit/Korrektheit (2) zu erlangen. Das Ziel ist, informiert zu sein (Goal 5) und einen gewünschten Zustand der Gewissheit/Korrektheit zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Fakten/Standards richten muss.. Heteronom/Exzentrisch.
 
 nachkontrollieren: Material/Quality/Testing 2/3/5/Goal 5/Goal 2/het/ecc
 Begründung: Im Kontext der Qualitätssicherung bedeutet nachkontrollieren, dass der Akteur bestimmt/verfügt (2) über einen Prüfprozess, mit Bewegung (3) untersucht und Informationen sammelt (5), um sowohl informiert zu sein (Goal 5) als auch einen gewünschten Zustand der Qualitätssicherung zu erreichen (Goal 2).. Heteronom/Exzentrisch.
+
 
 nachladen: Material/Weapon 2/1/2/Goal 3/aut/ecc
 Begründung: Der Akteur verfügt (2) über das Bekommen (1) von Munition und deren Verfügbarkeit (2), um eine Wirkung (Goal 3) durch die Waffe zu erzielen. Die Handlung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Aktion nach außen gerichtet ist.. Autonom/Exzentrisch.
@@ -37,6 +48,7 @@ Begründung: Im IT-Kontext bedeutet nachladen das Verfügen (2) über das Bekomm
 nachladen: Material/Transportation 2/1/Goal 2/aut/ecc
 Begründung: Im Transportkontext bedeutet nachladen das Verfügen (2) über das Bekommen (1) zusätzlicher Ladung, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Handlung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und die Aktion nach außen gerichtet ist.. Autonom/Exzentrisch.
 
+
 nachlaufen: Interpersonal/Pursuit 3/1/Goal 1/het/ecc
 Begründung: Nachlaufen bedeutet, aktiv zu einer Person hinzubewegen (3), um ihre Nähe zu bekommen (1/Goal 1). Dies geschieht in heteronomer, exzentrischer Ausrichtung (het/ecc), da der Akteur sein Verhalten nach dem Antagonisten ausrichtet und diesem in den äußeren Bereich folgt. Der Akteur strebt (3) die Position des Antagonisten an, um dessen Nähe zu bekommen (Goal 1).. Heteronom/Exzentrisch.
 
@@ -46,8 +58,10 @@ Begründung: Im materiellen Kontext bedeutet nachlaufen, einem Objekt oder einer
 nachlaufen: Material/Sports/Training 3/Goal 3/het/ecc
 Begründung: Im sportlichen Kontext bedeutet nachlaufen, sich bewegend (3) einem Ball oder Gegner zu folgen, um ein sportliches Ziel zu erreichen (Goal 3). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da die Bewegung durch den externen Faktor (Ball/Gegner) bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
+
 nachlernen: Material/Education 3/1/5/Goal 5/het/ecc
 Begründung: Nachlernen bedeutet, aktiv zusätzliches oder zuvor versäumtes Wissen nachträglich zu erwerben. Der Akteur bewegt sich (3) zum Lernstoff hin, bekommt (1) die Informationen und nimmt sie auf (5), um informiert zu sein (Goal 5). Die Tätigkeit ist heteronom, da sie sich an vorgegebenen Inhalten orientiert, und exzentrisch, da sie auf Wissenserwerb von außen gerichtet ist.. Heteronom/Exzentrisch.
+
 
 nachmachen: Material/Education/Training 2/3/Goal 2/het/ecc
 Begründung: Nachmachen bedeutet, dass der Akteur bestimmt/verfügt (2) über eine Bewegung/Aktion (3), um einen gewünschten Zustand (Goal 2) zu erreichen, wobei er sich an einem vorgegebenen Muster orientiert (het) und nach außen gerichtet handelt (ecc). Der Akteur imitiert dabei bewusst eine Handlung oder einen Vorgang nach einem Vorbild.. Heteronom/Exzentrisch.
@@ -58,11 +72,13 @@ Begründung: Im zwischenmenschlichen Bereich bedeutet nachmachen, dass der Akteu
 nachmachen: Material/Manufacturing 2/3/Goal 2/het/ecc
 Begründung: Im Herstellungskontext bedeutet nachmachen das Reproduzieren oder Kopieren eines Produkts (2/3/Goal 2), wobei man sich strikt an eine Vorlage hält (het/ecc).. Heteronom/Exzentrisch.
 
+
 nachmessen: Material/Measurement 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Nachmessen bedeutet, durch Bewegung (3) Informationen aufzunehmen (5), um über diese zu verfügen (2) mit dem Ziel, informiert zu sein (Goal 5) und einen gewünschten Zustand der Genauigkeit zu erreichen (Goal 2). Der Akteur passt sich dabei an externe Gegebenheiten an (het) und ist nach außen gerichtet (ecc), da er Messungen an externen Objekten vornimmt.. Heteronom/Exzentrisch.
 
 nachmessen: Material/Quality/Testing 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Im Kontext der Qualitätsprüfung bedeutet nachmessen, durch Bewegung (3) Informationen zu sammeln (5), um sie zu kontrollieren (2), mit dem Ziel, über präzise Informationen zu verfügen (Goal 5) und die Übereinstimmung mit Vorgaben zu überprüfen (Goal 2).. Heteronom/Exzentrisch.
+
 
 nachprüfen: Material/Testing 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) zu einer Information hin und informiert sich (5), um informiert zu sein (Goal 5). Das Nachprüfen beinhaltet ein aktives Überprüfen von Informationen, was heteronome Ausrichtung (het) und exzentrisch (ecc) ist, da man sich nach äußeren Fakten richtet.. Heteronom/Exzentrisch.
@@ -70,11 +86,13 @@ Begründung: Der Akteur bewegt sich (3) zu einer Information hin und informiert 
 nachprüfen: Material/Quality/Testing 3/5/Goal 5/Goal 2/het/ecc
 Begründung: In einem Qualitätssicherungskontext bedeutet nachprüfen, Informationen zu prüfen (3/5), um informiert zu sein (Goal 5) mit dem höheren Ziel, einen gewünschten Zustand (korrekte Qualität) zu gewährleisten (Goal 2).. Heteronom/Exzentrisch.
 
+
 nachrechnen: Material/Mathematics 3/5/2/Goal 5/het/ecc
 Begründung: Nachrechnen bedeutet, durch Bewegen/Anstreben (3) einer Information (5), um zu prüfen/verfügen (2), ob eine Berechnung korrekt ist, mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/eccentric, da man sich nach externen Zahlen und Rechenregeln richtet.. Heteronom/Exzentrisch.
 
 nachrechnen: Material/Calculation 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: In einem Kontext, wo das Nachrechnen nicht nur zur Information, sondern zur Feststellung eines gewünschten Zustands (z.B. Fehlerkorrektur) dient, kommt zusätzlich Goal 2 hinzu. Die Aktivität bleibt ansonsten gleich: Eine Berechnung durch Bewegen (3) von Informationen (5) überprüfen/verfügen (2).. Heteronom/Exzentrisch.
+
 
 nachschauen: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Nachschauen bedeutet, aktiv (3) nach Informationen zu suchen oder nachzusehen (5), um informiert zu sein (Goal 5). Der Akteur bewegt sich zu einer Informationsquelle hin und nimmt Informationen auf. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an äußere Gegebenheiten anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
@@ -85,6 +103,7 @@ Begründung: Im Sinne von 'nach etwas sehen/kontrollieren' bedeutet nachschauen,
 nachschauen: Material/Assistance 4/3/5/Goal 5//Goal 4/het/ecc
 Begründung: Als Hilfestellung für jemand anderen nachschauen bedeutet, eine Leistung zu erbringen (4), indem man sich bewegt (3), um Informationen zu sammeln (5), damit der Antagonist informiert ist (Goal 5), was schließlich zur Anerkennung für den Akteur führt (//Goal 4).. Heteronom/Exzentrisch.
 
+
 nachsehen: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Nachsehen bedeutet, dass der Akteur sich bewegt (3) und sich informiert (5), um Kenntnis zu erlangen (Goal 5). Wie etwa 'in einem Buch nachsehen' oder 'in einem Raum nachschauen, ob etwas dort ist'. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Informationsquellen richtet.. Heteronom/Exzentrisch.
 
@@ -94,11 +113,13 @@ Begründung: In der Bedeutung 'überprüfen/kontrollieren' beinhaltet nachsehen 
 nachsehen: Interpersonal/Tolerance 4/2/Goal -2//Goal 2/aut/ecc
 Begründung: Im Sinne von 'verzeihen/durchgehen lassen' bedeutet nachsehen, dass der Akteur eine Leistung erbringt (4), indem er auf die Ausübung von Kontrolle (2) verzichtet, was zu einem unerwünschten Zustand für den Antagonisten führt (Goal -2), mit dem Ziel einen gewünschten Zustand für sich selbst zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 nachsenden: Material/Postal 4/3/1/Goal 2//Goal 4/het/ecc
 Begründung: Der Akteur leistet (4) für den Antagonisten durch eine Bewegung (3) von Objekten, die der Antagonist bekommen soll (1), damit der Antagonist über diese verfügen kann (Goal 2). Letztendlich erhält der Akteur dafür Anerkennung/Bezahlung (//Goal 4). Dies ist eine heteronome (het) nach außen gerichtete (ecc) Aktivität, da der Akteur sich an die Bedürfnisse des Antagonisten anpasst und den Sendungsprozess nach externen Vorgaben durchführt.. Heteronom/Exzentrisch.
 
 nachsenden: Material/Communication 4/3/1/5/Goal 5//Goal 4/het/ecc
 Begründung: In dieser Bedeutung geht es um das Nachsenden von Informationen (5/Goal 5). Der Akteur leistet (4) für den Antagonisten durch Bewegung (3) von Informationen, die der Antagonist bekommen (1) und über die er informiert sein soll (Goal 5). Der Akteur erhält dafür letztendlich Anerkennung/Bezahlung (//Goal 4).. Heteronom/Exzentrisch.
+
 
 nachsetzen: Material/Pursuit 3/Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) aktiv hinter jemandem oder etwas her, um ein Ziel zu erreichen (Goal 3). Es handelt sich um ein autonomes, nach außen gerichtetes Verhalten (aut/ecc), bei dem der Akteur selbstbestimmt eine Verfolgung durchführt, um jemanden oder etwas einzuholen.. Autonom/Exzentrisch.
@@ -109,8 +130,10 @@ Begründung: Im Kampf- oder Konfliktkontext bedeutet nachsetzen, einem fliehende
 nachsetzen: Material/Printing 2/3/1/Goal 2/aut/ecc
 Begründung: Im Druckwesen bedeutet nachsetzen, zusätzliches Material hinzuzufügen. Der Akteur bestimmt (2) durch Bewegung (3) das Hinzufügen/Bekommen (1) von Material, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 nachsinnen: Material/Cognitive 3/5/2/Goal 5/het/ecc
 Begründung: Nachsinnen bedeutet, aktiv und konzentriert über etwas nachzudenken (3/5), um Informationen oder Erkenntnisse zu organisieren und zu verarbeiten (2) mit dem Ziel, einen tieferen Informationsstand oder neue Einsichten zu erlangen (Goal 5). Es ist eine heteronome Tätigkeit, da der Denkende sich nach dem Gegenstand des Nachdenkens richtet, und exzentrisch, weil der Denkprozess auf etwas außerhalb des unmittelbaren Selbst gerichtet ist.. Heteronom/Exzentrisch.
+
 
 nachspionieren: Material/Surveillance 3/5/Goal 5/het/ecc
 Begründung: Nachspionieren bedeutet, dass der Akteur jemandem nachgeht/folgt (3) und dabei Informationen sammelt/beobachtet (5), um informiert zu sein über die Aktivitäten des Beobachteten (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sein Verhalten an die Bewegungen des Beobachteten anpassen muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
@@ -118,8 +141,10 @@ Begründung: Nachspionieren bedeutet, dass der Akteur jemandem nachgeht/folgt (3
 nachspionieren: Material/Criminal/Investigation 3/5/Goal 5/het/ecc
 Begründung: Im Kontext einer kriminellen oder ermittelnden Tätigkeit bedeutet nachspionieren, einer Person heimlich zu folgen (3), um Informationen über sie zu sammeln (5), mit dem Ziel, über ihre Aktivitäten informiert zu sein (Goal 5). Die Ausrichtung bleibt heteronom/exzentrisch, da der Akteur sein Verhalten an die Bewegungen des Beobachteten anpassen muss.. Heteronom/Exzentrisch.
 
+
 nachspotten: Interpersonal/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Nachspotten bedeutet, jemandem in verspottender Weise nachzuahmen oder hinterher zu spotten. Der Akteur bewegt sich (3) und leistet (4) durch Geben (1) von Informationen (5) eine für den Antagonisten negative Zustandsbeeinflussung (Goal -2), um damit für sich selbst eine Wirkung zu erzielen (//Goal 3). Die Ausrichtung ist autonom, da der Akteur selbst bestimmt, zu spotten, und exzentrisch, da die Wirkung nach außen auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
+
 
 nachspüren: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) auf der Suche nach Informationen (5), um Kenntnis zu erlangen (Goal 5). Das Nachspüren ist eine aktive, zielgerichtete Suche, bei der Spuren oder Hinweise verfolgt werden, um Informationen zu finden. Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externen Hinweisen orientieren muss.. Heteronom/Exzentrisch.
@@ -129,6 +154,7 @@ Begründung: Im kriminalistischen Kontext bedeutet nachspüren, dass ein Ermittl
 
 nachspüren: Interpersonal/Psychological 3/5/Goal 5/Goal 1/het/ecc
 Begründung: Im psychologischen Sinne bedeutet nachspüren, dass man versucht, die Gefühle oder Gedanken einer Person zu erforschen (3/5), um Verständnis (Goal 5) und dadurch eine emotionale Nähe (Goal 1) zu erreichen. Die Aktivität ist heteronom/exzentrisch ausgerichtet, da man sich an den Äußerungen und Reaktionen des Anderen orientieren muss.. Heteronom/Exzentrisch.
+
 
 nachstellen: Material/Positioning 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3) die Position eines Objekts, um einen gewünschten Zustand zu erreichen (Goal 2), beispielsweise beim Justieren oder Nachjustieren von Geräten oder Möbeln. Dies geschieht selbstbestimmt (aut) und wirkt nach außen (ecc).. Autonom/Exzentrisch.
@@ -145,11 +171,13 @@ Begründung: Der Akteur bewegt sich suchend (3/5) auf ein Ziel zu, um eine Wirku
 nachstellen: Material/Time 2/3/Goal 2/aut/con
 Begründung: Der Akteur bestimmt (2) durch Bewegung (3) die Einstellung einer Uhr, um einen gewünschten Zustand zu erreichen (Goal 2), wie beim Nachstellen der Uhrzeit. Dies geschieht autonom (aut) und innerhalb des eigenen Verfügungsbereichs (con).. Autonom/Konzentrisch.
 
+
 nachstreben: Material/Pursuit 3/Goal 2/aut/ecc
 Begründung: Aktiv ein Ziel mit Anstrengung verfolgen (3/bewegen/anstreben), um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und seine Aktivität nach außen auf ein Ziel gerichtet ist.. Autonom/Exzentrisch.
 
 nachstreben: Interpersonal/Pursuit 3/5/Goal 3/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'nachstreben' einen Anderen zu beobachten/kontaktieren (5) und diesem nachzugehen (3), um eine Wirkung zu erzielen (Goal 3). Zum Beispiel beim Nacheifern eines Vorbilds.. Autonom/Exzentrisch.
+
 
 nachsuchen: Material/Search 3/5/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) und informiert sich (5) in einer Nachforschung, um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Informationen richten muss und nach außen gerichtet agiert.. Heteronom/Exzentrisch.
@@ -160,6 +188,7 @@ Begründung: Im jagdlichen Kontext bedeutet 'nachsuchen' die Verfolgung und Such
 nachsuchen: Material/Authorities 3/1/5/Goal 2/het/ecc
 Begründung: Im behördlichen Kontext bedeutet 'nachsuchen' einen Antrag stellen bzw. um etwas bitten. Der Akteur strebt an (3), etwas zu bekommen (1) durch Informationsübermittlung (5), um einen gewünschten Zustand zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 nachtragen: Material/Documentation 2/3/5/1/Goal 5/het/ecc
 Begründung: Nachtragen bedeutet, fehlende Informationen oder Daten in ein Dokument, eine Liste oder eine Datenbank hinzuzufügen, die vorher vergessen oder nicht verfügbar waren. Der Akteur verfügt über die Information (2), bewegt sie (3) an den entsprechenden Ort, informiert sich (5) über die korrekte Stelle und bekommt (1) dadurch einen vollständigen Informationsstand (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da man sich an vorgegebene Strukturen anpassen muss.. Heteronom/Exzentrisch.
 
@@ -168,6 +197,7 @@ Begründung: In der psychologischen Bedeutung bedeutet 'nachtragen' einen Groll 
 
 nachtragen: Material/Transportation 3/1/Goal 2/aut/ecc
 Begründung: Im Sinne von 'etwas hinterher tragen' bedeutet nachtragen, dass der Akteur mit Bewegung (3) einem Anderen etwas nachbringt und ihm das übergibt (1), um einen gewünschten Zustand (Goal 2) herzustellen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und sich auf ein Ziel außerhalb bewegt.. Autonom/Exzentrisch.
+
 
 nachverfolgen: Material/Surveillance 3/5/Goal 5/het/ecc
 Begründung: Nachverfolgen bedeutet, mit intensiver Bewegung (3) Informationen zu suchen und zu sammeln (5), um informiert zu sein und den Überblick zu behalten (Goal 5). Die Aktivität ist heteronom, da sie durch das verfolgte Objekt oder die verfolgte Information bestimmt wird, und nach außen gerichtet (het/ecc).. Heteronom/Exzentrisch.
@@ -178,17 +208,20 @@ Begründung: Im Kontext einer Ermittlung bedeutet nachverfolgen, mit Bewegung (3
 nachverfolgen: Material/Logistics 5/3/Goal 5/het/ecc
 Begründung: Im Logistikbereich bedeutet nachverfolgen, Informationen zu sammeln (5) und den Weg oder die Bewegung (3) von Sendungen/Waren zu verfolgen, um über deren aktuellen Status informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
 
+
 nachverhandeln: Material/Negotiation 2/3/5/Goal 2/aut/ecc
 Begründung: Nachverhandeln bedeutet, bestehende Vereinbarungen oder Verträge neu zu verhandeln, um bessere Bedingungen zu erreichen. Der Akteur bestimmt (2) und bewegt sich aktiv (3) in einem Informationsaustausch (5), um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen gerichtet handelt.. Autonom/Exzentrisch.
 
 nachverhandeln: Material/Business 2/3/5/Goal 2/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet nachverhandeln, bestehende Verträge oder Konditionen neu zu verhandeln, wobei der Akteur bestimmt (2) und sich aktiv (3) in einem Informationsaustausch (5) bewegt, um einen gewünschten Zustand (Goal 2) zu erreichen und letztlich wirtschaftlichen Erfolg (Goal 4) zu erzielen.. Autonom/Exzentrisch.
 
+
 nachvollziehen: Material/Cognitive 3/5/2/Goal 5/het/ecc
 Begründung: Nachvollziehen bedeutet, dass der Akteur durch mentale Bewegung/Anstreben (3) Informationen aufnimmt (5), um sie verfügbar zu machen (2), mit dem Ziel, diese Informationen zu verstehen und darüber informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch (het/ecc), da der Akteur sich an externe Gedankengänge anpassen muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 nachvollziehen: Interpersonal/Analysis 3/5/Goal 5/Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet nachvollziehen, dass der Akteur aktiv nachgeht (3) und versucht, Kontakt zur Perspektive einer anderen Person herzustellen (5), um zu verstehen (Goal 5) und dadurch eine Form von Nähe oder Verbindung zu erreichen (Goal 1).. Heteronom/Exzentrisch.
+
 
 nachweisen: Material/Evidence 3/5/2/Goal 5/het/ecc
 Begründung: Der Akteur bewegt sich (3) um Informationen (5) zu untersuchen und zu verfügen (2), mit dem Ziel, informiert zu sein bzw. einen Beweis zu haben (Goal 5). Diese Aktivität beinhaltet das aktive Suchen und Dokumentieren von Beweisen, um etwas zu belegen. Der Akteur ist dabei von externen Faktoren abhängig (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
@@ -199,8 +232,10 @@ Begründung: Im wissenschaftlichen Kontext bedeutet nachweisen, durch methodisch
 nachweisen: Material/Criminal/Investigation 3/5/2/Goal 5//Goal 2/het/ecc
 Begründung: Im kriminalistischen Kontext bedeutet nachweisen, durch Ermittlung (3/5) Beweise zu sammeln und zu sichern (2), um eine strafbare Handlung zu belegen (Goal 5), mit dem übergeordneten Ziel, einen gewünschten juristischen Zustand herzustellen (//Goal 2).. Heteronom/Exzentrisch.
 
+
 nachwürzen: Material/Food/Cooking 2/3/1/Goal 1/Goal 2/aut/ecc
 Begründung: Nachwürzen bedeutet, bestimmend (2) durch Bewegung (3) zusätzliche Gewürze zu einem bereits gekochten Gericht hinzuzufügen/bekommen (1), um den Geschmack zu verbessern und damit ein befriedigendes Geschmackserlebnis zu erzielen (Goal 1) sowie einen gewünschten Zustand des Gerichts zu erreichen (Goal 2). Die Ausrichtung ist autonom (der Koch entscheidet) und exzentrisch (nach außen auf die Speise gerichtet).. Autonom/Exzentrisch.
+
 
 nachzeichnen: Material/Art 3/5/Goal 5/het/ecc
 Begründung: Nachzeichnen bedeutet, eine bestehende Zeichnung oder Vorlage als Informationsquelle zu nutzen (5) und diese durch Bewegung (3) zu reproduzieren, um informiert zu sein bzw. die Information verfügbar zu haben (Goal 5). Dabei passt sich der Akteur an die vorgegebene Vorlage an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
@@ -210,6 +245,7 @@ Begründung: Im übertragenen Sinne bedeutet nachzeichnen auch, einen Vorgang od
 
 nachzeichnen: Material/Recording 2/3/5/Goal 5/het/ecc
 Begründung: Im dokumentarischen Sinne bedeutet nachzeichnen, verfügt (2) über Bewegung (3) zur Aufnahme von Informationen (5), um informiert zu sein bzw. Informationen festzuhalten (Goal 5).. Heteronom/Exzentrisch.
+
 
 nachziehen: Material/Movement 3/Goal 3/het/ecc
 Begründung: Im Sinne von 'sich hinterher bewegen': Der Akteur bewegt (3) sich in Richtung eines vorangehenden Objekts oder einer Person, um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist heteronom (het), da der Akteur sich nach der Bewegung eines Anderen richtet, und exzentrisch (ecc), da die Bewegung nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -226,11 +262,6 @@ Begründung: Im Sinne von 'etwas fester anziehen/nachspannen': Der Akteur verfü
 nachziehen: Material/Document 2/3/1/Goal 5/het/ecc
 Begründung: Im Sinne von 'Dokumente/Unterlagen nachreichen': Der Akteur verfügt (2) über Dokumente, bewegt sie (3) und gibt sie ab (1), um einen Informationsstand zu erreichen (Goal 5). Die Ausrichtung ist heteronom und exzentrisch, da der Akteur sich nach externen Anforderungen richtet.. Heteronom/Exzentrisch.
 
-nachäffen: Interpersonal 3/4/1/5/Goal -2//Goal 3/aut/ecc
-Begründung: Der Akteur bewegt sich (3) und leistet für den Antagonisten (4) ein bestimmtes Verhalten, indem er es gibt/zeigt (1) mit einer informativen Komponente (5) und erzeugt damit einen unerwünschten Zustand beim Antagonisten (Goal -2), wobei das eigene Ziel des Akteurs ist, eine Wirkung zu erzielen (//Goal 3). Es geht darum, jemanden spöttisch zu imitieren, um ihn lächerlich zu machen oder zu verspotten.. Autonom/Exzentrisch.
-
-nachäffen: Material/Theater-Acting 3/5/Goal 3/aut/ecc
-Begründung: In einem neutraleren, darstellerischen Kontext kann nachäffen auch das reine Imitieren/Nachahmen von Verhaltensweisen bedeuten, ohne spöttische Absicht. Der Akteur bewegt sich (3) und informiert sich über die Verhaltensweise (5), um eine bestimmte Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
 
 nageln: Material/Construction 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) und bekommt (1) einen Zustand, indem er Nägel in ein Objekt schlägt, um einen gewünschten Zustand (Goal 2) zu erreichen. Dies ist eine autonome, nach außen gerichtete Handlung (aut/ecc), bei der Material befestigt wird.. Autonom/Exzentrisch.
@@ -240,6 +271,7 @@ Begründung: Im umgangssprachlichen Kontext bedeutet 'nageln' Geschlechtsverkehr
 
 nageln: Material/Mechanical 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext des Fixierens oder Sicherns bestimmt der Akteur (2) über eine Bewegung (3), um einen gewünschten Zustand (Goal 2) herzustellen, wobei etwas fest an einer Stelle fixiert wird - es handelt sich um eine autonome, nach außen gerichtete Handlung.. Autonom/Exzentrisch.
+
 
 nagen: Material/Animal 3/1/Goal 1/het/ecc
 Begründung: Nagen bedeutet, dass ein Tier mit den Zähnen kontinuierlich an etwas knabbert (3/1), um es zu verzehren bzw. Nahrung aufzunehmen (Goal 1). Dies ist ein heteronomer (het) Prozess, der nach außen gerichtet (ecc) ist, da das Tier von externen Nahrungsquellen abhängig ist.. Heteronom/Exzentrisch.
@@ -253,6 +285,7 @@ Begründung: Im psychologischen Sinne bedeutet 'nagen' (z.B. 'Zweifel nagen an j
 nagen: Material/Woodworking 3/Goal 2/aut/ecc
 Begründung: Im handwerklichen Kontext kann 'nagen' auch bedeuten, dass jemand mit einem Werkzeug kontinuierlich Material abträgt (3), um einen gewünschten Zustand zu erreichen (Goal 2). Dies geschieht autonom (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 nahebringen: Interpersonal/Communication 4/1/5/Goal 5/Goal 2//Goal 4/het/ecc
 Begründung: Nahebringen bedeutet, dem Antagonisten (4) etwas zu geben (1) in Form von Informationen (5), damit dieser informiert ist (Goal 5) und einen gewünschten Zustand erreicht (Goal 2), wobei der Akteur dafür Anerkennung erhält (//Goal 4). Der Akteur leistet eine informierende Tätigkeit, bei der er Wissen oder Verständnis vermittelt, sodass der Antagonist etwas besser versteht oder nachvollziehen kann.. Heteronom/Exzentrisch.
 
@@ -262,11 +295,13 @@ Begründung: Im Bildungskontext bedeutet nahebringen das Vermitteln (4) von Wiss
 nahebringen: Interpersonal/Relationship 3/1/Goal 5/Goal 1/aut/ecc
 Begründung: Im zwischenmenschlichen Beziehungskontext kann nahebringen auch bedeuten, durch aktives Zugehen (3) auf jemanden ein Gefühl oder eine Emotion zu übermitteln (1), um Verständnis zu erzeugen (Goal 5) und eine emotionale Nähe herzustellen (Goal 1).. Autonom/Exzentrisch.
 
+
 nahelegen: Material/Advice 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) als Leistung für den Antagonisten (4) ihm eine Information zu geben (1/5), damit der Antagonist einen gewünschten Zustand erreicht (Goal 2). Letztendlich erwartet der Akteur dafür Anerkennung (//Goal 4). 'Nahelegen' bedeutet, jemandem bestimmend eine Empfehlung zu geben, ohne zu zwingen, damit der Empfänger einen besseren Zustand erreicht.. Autonom/Exzentrisch.
 
 nahelegen: Interpersonal/Persuasion 2/4/1/5/Goal 2//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'nahelegen' das bestimmende (2) Erbringen einer Leistung (4) durch Geben (1) von Informationen (5), um einen gewünschten Zustand beim Antagonisten zu erreichen (Goal 2), was letztlich dem eigenen Zustandsziel des Akteurs dient (//Goal 2). Dies unterscheidet sich vom sachlichen Ratgeben dadurch, dass hier das eigene Interesse des Akteurs stärker im Vordergrund steht.. Autonom/Exzentrisch.
+
 
 narren: Interpersonal/Deception 2/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er dem Antagonisten falsche Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2 - Täuschung/Irreführung). Dies dient dem Ziel des Akteurs, eine Wirkung zu erzielen (//Goal 3), nämlich den Antagonisten in die Irre zu führen. Die Ausrichtung ist autonom-exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -274,11 +309,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er de
 narren: Material/Entertainment 4/3/5/Goal 3//Goal 4/aut/ecc
 Begründung: Im Kontext von Unterhaltung bedeutet 'narren' auch jemanden zum Spaß necken oder foppen. Der Akteur leistet (4) durch Bewegung (3) und Informationen (5) etwas, um eine Wirkung (Goal 3) beim Antagonisten zu erzielen, mit dem Ziel der Anerkennung/des Vergnügens für sich selbst (//Goal 4). Die Ausrichtung ist autonom-exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
 
+
 naschen: Material/Food 2/1/Goal 1/aut/con
 Begründung: Naschen bedeutet, bestimmend/kontrollierend (2) kleine Mengen Süßigkeiten oder anderer Lebensmittel zu bekommen/zu sich zu nehmen (1), um gesättigt/befriedigt zu sein (Goal 1). Es ist eine autonome, auf den eigenen Bereich konzentrierte Handlung (aut/con), bei der der Akteur selbstbestimmt kleine Portionen verzehrt.. Autonom/Konzentrisch.
 
 naschen: Material/Food/Cooking 3/1/5/Goal 1/het/ecc
 Begründung: In einer zweiten Bedeutung bezeichnet 'naschen' das Probieren während der Zubereitung. Der Akteur bewegt sich (3) zum Kochgut, um etwas davon zu bekommen (1), sich darüber zu informieren (5), wie es schmeckt (Goal 1). Dabei ist er von der Beschaffenheit des Essens abhängig (het) und nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 naturalisieren: Material/States 2/4/1/5/Goal 2//Goal 2/Goal 4/aut/ecc
 Begründung: Eine Behörde bestimmt (2) die Leistung (4) zu erbringen, jemandem (1) offiziell die Staatsbürgerschaft durch Dokumentation (5) zu übertragen, um einen gewünschten Zustand für den Antragsteller herzustellen (Goal 2), der gleichzeitig auch dem staatlichen Interesse entspricht (//Goal 2/Goal 4).. Autonom/Exzentrisch.
@@ -286,8 +323,10 @@ Begründung: Eine Behörde bestimmt (2) die Leistung (4) zu erbringen, jemandem 
 naturalisieren: Material/Biological/Process 3/2/Goal 2/aut/ecc
 Begründung: Im biologischen Kontext bedeutet naturalisieren, dass sich etwas Fremdes durch Bewegung/Anstreben (3) in einen Bereich einfügt und dort etabliert (2), um einen gewünschten Zustand der Anpassung/Heimischwerdung zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 naturheilen: Material/Medical/Process 3/1/Goal 2/het/ecc
 Begründung: Naturheilen bedeutet, durch natürliche Methoden (3) einen Heilungsprozess zu bewirken, bei dem der Körper gesundheitsfördernde Elemente bekommt (1), um einen gewünschten Gesundheitszustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom/exzentrisch, da der Heilungsprozess von natürlichen, externen Faktoren abhängig ist und nach außen auf den Körper wirkt.. Heteronom/Exzentrisch.
+
 
 navigieren: Material/Navigation 2/3/5/Goal 3/aut/ecc
 Begründung: Navigieren bedeutet, dass der Akteur bestimmt/verfügt (2) über Bewegung (3) mit Hilfe von Informationen (5), um ein Ziel/eine Destination zu erreichen (Goal 3). Der Akteur bestimmt selbst (aut) und die Tätigkeit ist nach außen gerichtet (ecc), da sie im Außenbereich stattfindet.. Autonom/Exzentrisch.
@@ -295,11 +334,23 @@ Begründung: Navigieren bedeutet, dass der Akteur bestimmt/verfügt (2) über Be
 navigieren: Material/IT/Navigation 2/3/5/Goal 5/aut/ecc
 Begründung: Im IT-Kontext bedeutet Navigieren das Bestimmen/Verfügen (2) über die Bewegung (3) durch digitale Informationen (5), um informiert zu sein (Goal 5). Der Akteur handelt autonom (aut) und die Handlung ist nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
+näherkommen: Interpersonal/Approach 3/Goal 3/Goal 5/aut/ecc
+Begründung: Der Akteur bewegt sich (3) auf einen Antagonisten zu, um eine Wirkung zu erzielen (Goal 3) und Kontakt herzustellen (Goal 5). Dies ist eine autonome, nach außen gerichtete Handlung (aut/ecc), bei der der Akteur aktiv die physische oder soziale Distanz zu einer anderen Person verringert.. Autonom/Exzentrisch.
+
+näherkommen: Interpersonal/Relationship 3/Goal 1/aut/ecc
+Begründung: Im Sinne einer emotionalen Annäherung bewegt sich der Akteur (3) auf einen Antagonisten zu, um Nähe/Verbundenheit zu erreichen (Goal 1). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), wobei das Hauptziel die emotionale Verbindung ist.. Autonom/Exzentrisch.
+
+näherkommen: Material/Distance 3/Goal 3/aut/ecc
+Begründung: In rein räumlicher Bedeutung bewegt sich der Akteur (3) auf ein materielles Ziel zu, um eine Destination zu erreichen (Goal 3). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), fokussiert jedoch nur auf die physische Annäherung ohne soziale Komponente.. Autonom/Exzentrisch.
+
+
 necken: Interpersonal/Psychological 3/5/1/Goal 3/Goal 5//Goal -1/aut/ecc
 Begründung: Necken bedeutet, dass der Akteur durch eine Bewegung (3) Kontakt aufnimmt (5) und dabei etwas gibt (1), um eine Wirkung (Goal 3) und Aufmerksamkeit (Goal 5) zu erzielen, während er gleichzeitig die Nähe/das Wohlbefinden des Antagonisten leicht beeinträchtigt (//Goal -1). Der Akteur bestimmt die Interaktion (aut) und richtet sie nach außen (ecc).. Autonom/Exzentrisch.
 
 necken: Interpersonal/Fight/Dispute 3/5/1/Goal 3//Goal -1/aut/ecc
 Begründung: In einem stärker ausgeprägten Streitkontext bedeutet necken, dass der Akteur durch eine Bewegung (3) Kontakt aufnimmt (5) und etwas gibt (1), um eine Wirkung zu erzielen (Goal 3), während er das Wohlbefinden des Antagonisten beeinträchtigt (//Goal -1), jedoch ohne ernsthafte Verletzungsabsicht.. Autonom/Exzentrisch.
+
 
 negieren: Material/Logic 2/4/5/Goal -2//Goal 2/aut/ecc
 Begründung: Negieren bedeutet, bestimmt (2) eine Leistung zu erbringen (4), indem man eine Information übermittelt (5), die einen unerwünschten Zustand bei der behandelten Aussage bewirkt (Goal -2), um einen gewünschten logischen Zustand für den Akteur zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
@@ -310,11 +361,13 @@ Begründung: Im Kontext einer Auseinandersetzung bedeutet negieren, bestimmt (2)
 negieren: Interpersonal/Relationship 2/3//Goal -5/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich kann negieren bedeuten, jemanden bestimmt (2) mit Bewegung/Anstreben (3) zu ignorieren oder seine Existenz nicht anzuerkennen, wodurch der Kontakt des Antagonisten verhindert wird (//Goal -5).. Autonom/Exzentrisch.
 
+
 negotiieren: Material/Negotiation 2/3/4/1/5/Goal 2//Goal 2/Goal 4/het/ecc
 Begründung: Beim Negotiieren (Verhandeln) bestimmt der Akteur (2) mit aktiver Bewegung zum Antagonisten (3) eine Leistung (4) zu erbringen, indem er Informationen (1/5) gibt, mit dem Ziel, einen für beide Seiten gewünschten Zustand zu erreichen (Goal 2//Goal 2). Das Verhandeln dient letztlich auch dazu, geschäftliche Anerkennung und Vergütung zu erhalten (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich auf externe Bedingungen und Forderungen einstellen muss (het) und nach außen auf den Verhandlungspartner gerichtet ist (ecc).. Heteronom/Exzentrisch.
 
 negotiieren: Material/Diplomatic 2/3/4/1/5/Goal 2//Goal 2/Goal 4/het/ecc
 Begründung: Im diplomatischen Kontext bedeutet negotiieren (verhandeln), dass der Akteur (2) aktiv (3) eine Leistung für den Antagonisten (4) erbringt, indem er Informationen gibt (1/5), um einen für beide Seiten akzeptierbaren Zustand zu erreichen (Goal 2//Goal 2). Letztendlich dient dies der Erfüllung der beruflichen Aufgabe und der damit verbundenen Anerkennung (Goal 4).. Heteronom/Exzentrisch.
+
 
 nehmen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem Objekt hin und bekommt es (1), um einen gewünschten Zustand (Goal 2) zu erreichen. Dies ist eine autonome Handlung (aut) mit exzentrischer Ausrichtung (ecc), da der Akteur aktiv auf etwas im Außenbereich zugreift.. Autonom/Exzentrisch.
@@ -328,11 +381,13 @@ Begründung: Im Sinne von 'ein Verkehrsmittel nehmen' bestimmt der Akteur (2) ü
 nehmen: Material/Criminal 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Im Sinne von 'stehlen/wegnehmen' bewegt sich der Akteur (3) zu einem Objekt hin und nimmt es (1), um einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten verhindert (//Goal -2).. Autonom/Exzentrisch.
 
+
 neiden: Interpersonal/Emotions 3/1/Goal 3//Goal -2/het/ecc
 Begründung: Neiden bedeutet, dass der Akteur jemanden um etwas beneidet. Der Akteur bewegt sich emotional (3) und bekommt (1) eine Wirkung (Goal 3), nämlich ein negatives Gefühl, welches gegen den gewünschten Zustand (Besitz, Erfolg, Glück) des Antagonisten gerichtet ist (//Goal -2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich am Antagonisten orientiert und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 neiden: Interpersonal/Psychological 3/1/Goal 3//Goal -2/het/ecc
 Begründung: In der psychologischen Dimension bedeutet neiden, dass der Akteur einen Missgönnen-Impuls gegenüber den Erfolgen oder dem Besitz des Antagonisten verspürt. Der Akteur richtet seine Gefühle (3) mit einem Bekommen-Aspekt (1) auf den Antagonisten, um eine emotionale Wirkung zu erzielen (Goal 3), die sich gegen den gewünschten Zustand des Antagonisten richtet (//Goal -2).. Heteronom/Exzentrisch.
+
 
 nesten: Material/Animal 2/3/Goal 2/aut/ecc
 Begründung: Ein Tier (als Akteur) baut ein Nest, indem es verfügt über (2) und bewegt (3) Materialien, um einen gewünschten Zustand (Goal 2) - das fertige Nest - zu erreichen. Die Handlung ist autonom und nach außen gerichtet, da das Tier selbstbestimmt handelt und Materialien aus der Umgebung verwendet.. Autonom/Exzentrisch.
@@ -340,17 +395,20 @@ Begründung: Ein Tier (als Akteur) baut ein Nest, indem es verfügt über (2) un
 nesten: Material/Housing 3/2/Goal 2/aut/con
 Begründung: Im übertragenen Sinne: Ein Mensch richtet sich gemütlich in einer Wohnung oder einem Haus ein, indem er bewegt (3) und verfügt über (2) Einrichtungsgegenstände, um einen gewünschten Zustand (Goal 2) - einen behaglichen Wohnraum - zu erreichen. Die Ausrichtung ist autonom/konzentrisch, da die Person in ihrem eigenen Bereich handelt.. Autonom/Konzentrisch.
 
+
 netflixen: Material/Entertainment 2/5/Goal 5/het/ecc
 Begründung: Netflixen bedeutet, dass der Akteur verfügt (2) über die Streaming-Plattform Netflix, um sich mit Fernsehinhalten zu informieren (5) mit dem Ziel, informiert/unterhalten zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Nutzer sich an externe Inhalte anpasst und nach außen gerichtet konsumiert.. Heteronom/Exzentrisch.
 
 netflixen: Material/IT/Social 2/5/1/Goal 5/het/ecc
 Begründung: Im Kontext von 'netflixen' als soziale Aktivität verfügt der Akteur (2) über die Streaming-Plattform, informiert sich (5) und bekommt Unterhaltungsinhalte (1) mit dem Ziel, informiert zu sein (Goal 5). Dies ist oft mit gemeinsamer Nutzung oder Austausch über gesehene Inhalte verbunden.. Heteronom/Exzentrisch.
 
+
 networken: Material/IT/Social 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: Beim Networken bewegt sich der Akteur (3) zu Informationsquellen und Kontakten hin (5), um Verfügungsgewalt (2) über Kontakte und Informationen zu erlangen (Goal 5), mit dem Zweck, einen gewünschten Zustand zu erreichen (Goal 2), typischerweise berufliches Vorankommen oder Zugang zu Ressourcen. Die Ausrichtung ist heteronym (het), da der Akteur sich an bestehende Netzwerkstrukturen anpassen muss, und exzentrisch (ecc), da die Aktivität nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
 networken: Interpersonal/Social 3/5/Goal 5/Goal 2/het/ecc
 Begründung: In der zwischenmenschlichen Bedeutung bewegt sich der Akteur (3) auf andere Personen zu, um Kontakte zu knüpfen (5) mit dem Ziel, Verbindungen herzustellen (Goal 5) und dadurch einen gewünschten sozialen Zustand zu erreichen (Goal 2). Der Akteur passt sich dabei an soziale Gegebenheiten an (het) und agiert nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
+
 
 netzwerken: Material/IT/Social 3/5/Goal 5/Goal 2/Goal 4/aut/ecc
 Begründung: Netzwerken bedeutet, aktiv Verbindungen zu knüpfen (3/5) mit dem Ziel, einen Informationsaustausch herzustellen (Goal 5), um einen gewünschten Zustand von Beziehungen aufzubauen (Goal 2), was letztendlich berufliche Vorteile und Anerkennung bringen soll (Goal 4). Im IT-sozialen Kontext geht es darum, strategisch Kontakte aufzubauen und zu pflegen, die sowohl informationell als auch beruflich nützlich sind.. Autonom/Exzentrisch.
@@ -361,6 +419,7 @@ Begründung: Im zwischenmenschlichen Kontext bedeutet netzwerken, aktiv auf Mens
 netzwerken: Material/Business 3/5/Goal 5/Goal 2/Goal 4/aut/ecc
 Begründung: Im geschäftlichen Kontext bedeutet netzwerken das gezielte Anstreben (3) und Suchen (5) von beruflichen Kontakten (Goal 5), um ein Netzwerk von Geschäftsbeziehungen herzustellen (Goal 2), mit dem letztendlichen Ziel, Geschäftsmöglichkeiten zu erschließen und berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 neutralisieren: Material/Chemical 2/3/Goal 2/aut/ecc
 Begründung: Im chemischen Kontext bedeutet neutralisieren, dass der Akteur bestimmt/verfügt (2) und durch Bewegung/Anstreben (3) einen Prozess durchführt, um einen gewünschten Zustand (Goal 2) zu erreichen, in dem eine Substanz weder sauer noch basisch ist. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
@@ -369,6 +428,7 @@ Begründung: Im militärischen oder sicherheitsbezogenen Kontext bedeutet neutra
 
 neutralisieren: Material/Fight/Strategy 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im strategischen Kontext bedeutet neutralisieren, dass der Akteur bestimmt/verfügt (2) und durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) erreicht, indem er den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 nicken: Interpersonal/Gesture 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Nicken bedeutet, eine Leistung zu erbringen (4) durch das Geben (1) einer Information (5), damit der Antagonist informiert ist (Goal 5). Der Akteur tut dies, um Anerkennung zu bekommen (//Goal 4). Es ist eine heteronome, nach außen gerichtete Handlung (het/ecc), weil der Akteur sich an den Antagonisten anpasst und nach außen kommuniziert.. Heteronom/Exzentrisch.
@@ -379,6 +439,7 @@ Begründung: Als Ausdruck der Zustimmung bedeutet Nicken, dass der Akteur bestim
 nicken: Material/Physical/Movement 3/1/Goal 0/aut/ecc
 Begründung: Im Sinne des Einschlafens (Kopf nickt beim Eindösen) bedeutet Nicken eine Bewegung (3), bei der der Kopf nach unten fällt und der Akteur in einen Zwischenzustand (1) des Einschlafens gerät, mit dem Ziel der Erholung (Goal 0).. Autonom/Exzentrisch.
 
+
 niederbrennen: Material/Catastrophes/Fire 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt/leitet Feuer (3) und bewirkt dadurch (1) einen gewünschten Zustand der Zerstörung (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten (Gebäude/Objekt) zerstört (//Goal -2). Die Ausrichtung ist autonom und exzentrisch, da der Akteur kontrolliert nach außen wirkt.. Autonom/Exzentrisch.
 
@@ -387,6 +448,7 @@ Begründung: Im Kontext eines gezielten Angriffs bedeutet niederbrennen ein aggr
 
 niederbrennen: Material/Criminal/Activities 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Als kriminelle Handlung (Brandstiftung) bewegt der Akteur Feuer (3) und bewirkt (1) einen gewünschten Zustand (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten (Eigentum eines Anderen) zerstört (//Goal -2).. Autonom/Exzentrisch.
+
 
 niederdrücken: Material/Fight/Aggression 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Niederdrücken bedeutet, dass der Akteur mit Bestimmtheit (2) eine Bewegung ausführt (3), um einen gewünschten Zustand zu erreichen (Goal 2), während er gleichzeitig die Bewegungsfreiheit oder Position des Antagonisten einschränkt (//Goal -3). Der Akteur handelt selbstbestimmt (aut) und wirkt nach außen auf einen Antagonisten (ecc).. Autonom/Exzentrisch.
@@ -397,6 +459,7 @@ Begründung: Im psychologischen Sinne bedeutet niederdrücken, dass der Akteur m
 niederdrücken: Material/Physical 3/Goal 2/aut/ecc
 Begründung: In der mechanischen Bedeutung beschreibt niederdrücken eine Bewegung (3) nach unten, um einen gewünschten physischen Zustand zu erreichen (Goal 2), wie bei einem Knopf oder Hebel. Hier gibt es keinen Antagonisten, dessen Ziele bekämpft werden.. Autonom/Exzentrisch.
 
+
 niederhalten: Material/Fight/Defense 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt (3) etwas oder jemanden nach unten, um einen gewünschten Zustand (Goal 2) zu erreichen, gleichzeitig wird die Bewegungsfreiheit eines Antagonisten eingeschränkt (//Goal -3). Die Handlung erfolgt selbstbestimmt (aut) und ist nach außen gerichtet (ecc), da sie auf eine andere Person oder ein Objekt einwirkt.. Autonom/Exzentrisch.
 
@@ -405,6 +468,7 @@ Begründung: Im übertragenen Sinne bedeutet 'niederhalten' das Unterdrücken od
 
 niederhalten: Interpersonal/Power 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: In sozialen oder politischen Kontexten bedeutet 'niederhalten' das Unterdrücken von Personen oder Gruppen. Der Akteur übt Macht aus (2) und unterdrückt aktiv (3), um seine Machtposition zu behaupten (Goal 2), während er gleichzeitig verhindert, dass der Antagonist Einfluss gewinnt oder sich entwickelt (//Goal -3).. Autonom/Exzentrisch.
+
 
 niederkämpfen: Material/Fight/Aggression 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich aggressiv (3) und bekommt (1) einen gewünschten Zustand (Goal 2), indem er die Wirkung/das Ziel des Antagonisten verhindert (//Goal -3). Es geht um das aktive Bekämpfen und Besiegen eines Widerstands oder Gegners, was durch die autonome, nach außen gerichtete Ausrichtung (aut/ecc) gekennzeichnet ist.. Autonom/Exzentrisch.
@@ -415,6 +479,7 @@ Begründung: Im psychologischen Kontext bedeutet 'niederkämpfen' das Unterdrüc
 niederkämpfen: Fight/War 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Im militärischen Kontext bedeutet 'niederkämpfen' das gezielte Bekämpfen und Besiegen feindlicher Kräfte, wobei der Akteur durch aggressive Bewegung (3) und Erreichen einer Position der Überlegenheit (1) seinen gewünschten Zustand (Goal 2) erreicht und die Wirkung des Feindes verhindert (//Goal -3).. Autonom/Exzentrisch.
 
+
 niederlassen: Material/Housing 2/3/Goal 2/aut/ecc
 Begründung: Ein Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand (Goal 2), indem er sich an einem Ort dauerhaft ansiedelt. Der Akteur hat Kontrolle über den Prozess (aut) und richtet sich nach außen (ecc), da es sich um eine Veränderung der äußeren Umgebung handelt.. Autonom/Exzentrisch.
 
@@ -423,6 +488,7 @@ Begründung: In der Bedeutung von 'sich setzen/hinsetzen': Der Akteur bewegt sic
 
 niederlassen: Material/Business 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: In der geschäftlichen Bedeutung: Ein Akteur bestimmt (2) durch Bewegung (3) einen gewünschten Zustand (Goal 2), indem er ein Geschäft/Unternehmen gründet, mit dem Endziel, geschäftlich Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
 
 niederlegen: Material/Physical/Position 3/1/Goal 2/aut/ecc
 Begründung: Niederlegen bedeutet, ein Objekt durch Bewegung (3) in eine horizontale Position zu bringen, wobei man diese Position erreicht (1) und damit einen gewünschten Zustand herstellt (Goal 2). Es handelt sich um eine selbstbestimmte, nach außen gerichtete Handlung (aut/ecc).. Autonom/Exzentrisch.
@@ -436,6 +502,7 @@ Begründung: Im Kampfsport bedeutet 'niederlegen', einen Gegner zu Boden zu brin
 niederlegen: Material/Documentation 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Im Sinne von 'etwas schriftlich niederlegen' bedeutet es, eine Leistung zu erbringen (4), indem man Informationen gibt (1/5), damit diese dokumentiert sind (Goal 5), wofür man Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
 
+
 niedermachen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er dem Antagonisten (1) Informationen gibt (5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem eigenen Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
 
@@ -445,14 +512,17 @@ Begründung: In der physischen Bedeutung: Der Akteur bewegt sich aggressiv (3) u
 niedermachen: Interpersonal/Psychological 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: In der psychologischen Bedeutung: Der Akteur bestimmt (2) und setzt durch (3) seinen gewünschten Zustand (Goal 2), wobei er die Wirkung des Antagonisten verhindert (//Goal -3), indem er dessen Selbstwertgefühl oder psychische Stärke untergräbt.. Autonom/Exzentrisch.
 
-niedermetzeln: Material/Fight/Aggression/War 3/1/Goal 2//Goal -2/aut/ecc
-Begründung: Niedermetzeln bedeutet, mit massiver, intensiver Bewegung (3) einen Zustand (1) zu erreichen (Goal 2), wobei gleichzeitig der gewünschte Zustand des Antagonisten (Leben, Weiterexistenz) bekämpft wird (//Goal -2). Es handelt sich um eine besonders brutale Form des Tötens, bei der mehrere Gegner systematisch und ohne Gnade getötet werden, typisch für kriegerische Auseinandersetzungen.. Autonom/Exzentrisch.
 
 niedermähen: Material/Fight/Aggression 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Niedermähen bedeutet, aggressiv (3) mit einer Waffe oder einem werkzeugartigen Gegenstand mehrere Gegner zu Fall zu bringen (1), um einen gewünschten Zustand zu erreichen (Goal 2), wobei gleichzeitig die Bewegungsfreiheit bzw. Kampffähigkeit der Antagonisten verhindert wird (//Goal -3). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
 
 niedermähen: Material/Agriculture 3/1/Goal 2/aut/ecc
 Begründung: Im landwirtschaftlichen Kontext bedeutet niedermähen das Abschneiden von Gras oder Getreide (3/1) mit einer Sense oder Mähmaschine, um einen gewünschten Zustand der Ernte oder eines gemähten Feldes zu erreichen (Goal 2). Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+
+niedermetzeln: Material/Fight/Aggression/War 3/1/Goal 2//Goal -2/aut/ecc
+Begründung: Niedermetzeln bedeutet, mit massiver, intensiver Bewegung (3) einen Zustand (1) zu erreichen (Goal 2), wobei gleichzeitig der gewünschte Zustand des Antagonisten (Leben, Weiterexistenz) bekämpft wird (//Goal -2). Es handelt sich um eine besonders brutale Form des Tötens, bei der mehrere Gegner systematisch und ohne Gnade getötet werden, typisch für kriegerische Auseinandersetzungen.. Autonom/Exzentrisch.
+
 
 niederreißen: Material/Construction 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3) einen gewünschten Zustand zu erreichen (Goal 2), nämlich dass ein Gebäude oder Bauwerk beseitigt wird, und bekämpft dabei gleichzeitig den bestehenden Zustand des Antagonisten (//Goal -2). Die Aktivität ist autonom (der Akteur bestimmt den Abriss) und exzentrisch (nach außen auf ein Objekt gerichtet).. Autonom/Exzentrisch.
@@ -463,6 +533,7 @@ Begründung: Im übertragenen Sinne bedeutet 'niederreißen' etwas scharf zu kri
 niederreißen: Interpersonal/Psychological 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: In der psychologischen Bedeutung steht 'niederreißen' für das Demütigen oder Herabsetzen einer Person. Der Akteur bestimmt (2) und bewegt sich aggressiv vor (3), um sein Ziel zu erreichen (Goal 2), andere psychisch zu schwächen, und bekämpft dabei den gewünschten Zustand des Antagonisten (//Goal -2).. Autonom/Exzentrisch.
 
+
 niederringen: Fight/Aggression 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt (1) einen gewünschten Zustand (Goal 2), nämlich den Sieg im Kampf, während gleichzeitig der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt und nach außen gerichtet handelt.. Autonom/Exzentrisch.
 
@@ -472,11 +543,13 @@ Begründung: Im materiellen Kontext: Der Akteur bewegt sich körperlich (3) und 
 niederringen: Interpersonal/Psychological 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Im psychologischen Kontext: Der Akteur überwindet (3) durch Beharrlichkeit oder Argumentation den Widerstand einer Person (1) und erreicht einen gewünschten Zustand (Goal 2), während die Wirkung des Antagonisten verhindert wird (//Goal -3). Dies beschreibt das metaphorische Niederringen von Widerstand oder Gegenwehr.. Autonom/Exzentrisch.
 
+
 niederschießen: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur führt eine aggressive Bewegung (3) aus und bekommt (1) eine Wirkung (Goal 3), die zum gewünschten Zustand des Akteurs führt (Goal 2), während gleichzeitig der gewünschte Zustand des Antagonisten verhindert wird (//Goal -2). Der Akteur bewegt eine Waffe autonom (aut) nach außen gerichtet (ecc), mit dem Ziel einen Antagonisten zu treffen und zu Fall zu bringen.. Autonom/Exzentrisch.
 
 niederschießen: Material/Fight/Aggression/War 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im militärischen Kontext: Der Akteur führt eine präzise Bewegung mit einer Waffe aus (3), bekommt (1) eine Wirkung (Goal 3), die zum gewünschten militärischen Ziel führt (Goal 2), während er gleichzeitig den gegnerischen Kämpfer außer Gefecht setzt (//Goal -2).. Autonom/Exzentrisch.
+
 
 niederschlagen: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Niederschlagen bedeutet, dass der Akteur eine aggressive Bewegung (3) ausführt und damit eine Wirkung (1) beim Gegner erzielt (Goal 3), um einen gewünschten Zustand des Kampferfolgs für sich selbst zu erreichen (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten verhindert (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur die Handlung selbstbestimmt nach außen richtet.. Autonom/Exzentrisch.
@@ -487,14 +560,17 @@ Begründung: Im übertragenen, psychologischen Sinne bedeutet 'niederschlagen', 
 niederschlagen: Material/Meteorological NOT CODEABLE het/ecc
 Begründung: Als Naturphänomen im Sinne von 'Regen schlägt nieder' ist der Begriff nicht kodierbar, da Naturphänomene keine Goals haben.. Heteronom/Exzentrisch.
 
+
 niederschreiben: Material/Writing 2/3/Goal 5/aut/ecc
 Begründung: Der Akteur verfügt (2) über Schreibwerkzeuge und bewegt diese (3), um Informationen festzuhalten und damit informiert zu sein bzw. Informationen verfügbar zu machen (Goal 5). Das Niederschreiben ist ein autonomer, nach außen gerichteter Prozess (aut/ecc), bei dem der Akteur aktiv Informationen in schriftlicher Form festhält.. Autonom/Exzentrisch.
 
 niederschreiben: Material/Documentation 2/3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Im Kontext der Dokumentation bedeutet niederschreiben, dass der Akteur bestimmt (2), durch Bewegung (3) Informationen (5) festzuhalten, um diese zu bewahren und verfügbar zu haben (Goal 5) mit dem höheren Ziel, einen gewünschten Zustand der Dokumentiertheit zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 niederstechen: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bewegt (3) eine Waffe und bekommt/erzielt (1) eine Wirkung (Goal 3) und einen gewünschten Zustand für sich (Goal 2), während er gleichzeitig einen gewünschten Zustand des Antagonisten verhindert (//Goal -2). Die Handlung ist autonom (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 niederstrecken: Material/Fight/Aggression 3/1/Goal 3/Goal 2//Goal -2/aut/ecc
 Begründung: Beim Niederstrecken bewegt der Akteur sich aggressiv (3) und bekommt (1) eine kampfentscheidende Wirkung (Goal 3), die zum gewünschten Zustand des Sieges führt (Goal 2), während gleichzeitig der Zustand des Antagonisten negativ beeinflusst wird (//Goal -2). Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
@@ -505,11 +581,13 @@ Begründung: Im Kampfsport oder in einer direkten körperlichen Auseinandersetzu
 niederstrecken: Interpersonal/Psychological/Fight 3/Goal 2//Goal -2/aut/ecc
 Begründung: Im übertragenen, psychologischen Sinne kann niederstrecken bedeuten, jemanden metaphorisch zu besiegen oder zu dominieren. Der Akteur bewegt sich aggressiv gegen den Antagonisten (3), um einen gewünschten Zustand der Überlegenheit zu erreichen (Goal 2), während er den Antagonisten in einen unterlegenen Zustand versetzt (//Goal -2).. Autonom/Exzentrisch.
 
+
 niederzwingen: Material/Fight/Aggression 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung/kraftvollen Einsatz (3) einen gewünschten Zustand (Goal 2) zu erreichen, indem er den Gegner besiegt und dessen Widerstand überwindet (//Goal -2). Der Vorgang ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt die Unterwerfung des Antagonisten erzwingt.. Autonom/Exzentrisch.
 
 niederzwingen: Interpersonal/Psychological/Fight 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im psychologischen Kontext bedeutet niederzwingen, dass der Akteur bestimmt (2) und mit psychischem Druck (3) seinen Willen durchsetzt (Goal 2), wodurch der Antagonist in seiner Selbstbestimmung eingeschränkt wird (//Goal -2). Der Vorgang ist selbstbestimmt und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
 
 nieten: Material/Construction 3/1/Goal 2/aut/ecc
 Begründung: Nieten bedeutet, Teile durch metallische Verbindungselemente (Nieten) fest miteinander zu verbinden. Der Akteur bewegt (3) die Niete und bekommt (1) dadurch einen gewünschten Zustand der Verbindung (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt mit Bewegung nach außen auf die Materialien einwirkt.. Autonom/Exzentrisch.
@@ -517,8 +595,10 @@ Begründung: Nieten bedeutet, Teile durch metallische Verbindungselemente (Niete
 nieten: Material/Metalworking 2/3/1/Goal 2/aut/ecc
 Begründung: Im Kontext der Metallbearbeitung kann nieten als Verfahren verstanden werden, bei dem der Akteur bestimmt/kontrolliert (2) die Bewegung (3) des Nietgeräts, bekommt (1) eine dauerhafte Verbindung zwischen Metallteilen, um einen gewünschten Zustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 nippen: Material/Fluids/Food 2/1/Goal 1/het/ecc
 Begründung: Eine Person nippt an einem Getränk, indem sie bestimmt/kontrolliert (2) eine kleine Menge Flüssigkeit bekommt (1), um ein Wenig davon zu konsumieren/gesättigt zu sein (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von der externen Flüssigkeitsquelle abhängig ist und die Handlung nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
 
 nivellieren: Material/Balance 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung/Bearbeitung (3) einen gewünschten Zustand (Goal 2) herzustellen, bei dem Unterschiede ausgeglichen und eine gleichmäßige Höhe/ein gleiches Niveau erreicht wird. Die Tätigkeit ist autonom (aut) und nach außen gerichtet (ecc), da der Akteur selbstbestimmt auf externe Objekte einwirkt.. Autonom/Exzentrisch.
@@ -529,11 +609,13 @@ Begründung: Im geodätischen Kontext bedeutet nivellieren das Ermitteln von Hö
 nivellieren: Interpersonal/Status 2/3/Goal 2//Goal -2/aut/ecc
 Begründung: Im sozialen/gesellschaftlichen Kontext bedeutet nivellieren das Ausgleichen von Unterschieden zwischen Menschen/Gruppen. Der Akteur bestimmt (2) durch Einwirken (3) einen gewünschten Zustand (Goal 2) herzustellen und bekämpft dabei gleichzeitig den von anderen gewünschten Zustand der Ungleichheit (//Goal -2).. Autonom/Exzentrisch.
 
+
 nominieren: Material/Selection 2/4/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) eine Leistung für einen Antagonisten (4), indem er Informationen über diesen gibt (5), damit dieser Person bekannt wird (Goal 5), um letztlich einen gewünschten Zustand für den Akteur zu erreichen (//Goal 2) und Anerkennung zu bekommen (Goal 4). Nominieren bedeutet, jemanden offiziell für ein Amt, eine Position oder einen Preis vorzuschlagen.. Autonom/Exzentrisch.
 
 nominieren: Material/Fight/Election 2/4/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: In einem Wahlkontext bedeutet nominieren, dass der Akteur bestimmt (2) eine Leistung für einen Kandidaten zu erbringen (4), indem er ihn durch Information (5) bekannt macht (Goal 5), um seinen Zweck der Kandidatenaufstellung zu erreichen (//Goal 2) und letztlich Anerkennung/Erfolg zu erlangen (Goal 4).. Autonom/Exzentrisch.
+
 
 normalisieren: Material/Process 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) und verändert/bewegt (3) etwas, um einen gewünschten, standardisierten Zustand (Goal 2) zu erreichen. Es handelt sich um einen zielgerichteten Prozess, bei dem Abweichungen in einen Normalzustand zurückgeführt werden. Der Code befindet sich in der Area Material/Process, da es sich um eine allgemeine Prozessänderung handelt.. Autonom/Exzentrisch.
@@ -544,11 +626,13 @@ Begründung: Im Kontext von Messungen und wissenschaftlichen Anwendungen bedeute
 normalisieren: Interpersonal/Relationship 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet normalisieren, eine Beziehung in einen gewünschten Normalzustand zurückzuführen (2/3/Goal 2), womit gleichzeitig die negative Wirkung eines konflikthaften Zustands bekämpft wird (//Goal -3).. Autonom/Exzentrisch.
 
+
 normieren: Material/Standardization 2/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über Regelungen oder Standards, um einen gewünschten vereinheitlichten Zustand (Goal 2) zu erreichen. Das Normieren bezieht sich auf die Festlegung von Maßstäben oder Standards, die als verbindlich gelten sollen, um Einheitlichkeit zu erzielen.. Autonom/Exzentrisch.
 
 normieren: Material/Law/Compliance 2/4/5/Goal 2//Goal 4/aut/ecc
 Begründung: In einem rechtlichen Kontext bedeutet normieren, dass der Akteur bestimmt (2) und eine Leistung für andere erbringt (4), indem er Informationen festlegt (5), um einen gewünschten rechtlichen Zustand zu erreichen (Goal 2). Nach dem Umschalter folgt das Ziel des Akteurs, berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
+
 
 notieren: Material/Documentation 5/3/2/Goal 5/het/ecc
 Begründung: Notieren bedeutet, Informationen aufzunehmen (5), bewegen (3) und verfügbar machen/festzuhalten (2), um informiert zu sein bzw. die Information zu speichern (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach externen Informationen richtet und diese nach außen dokumentiert.. Heteronom/Exzentrisch.
@@ -556,20 +640,13 @@ Begründung: Notieren bedeutet, Informationen aufzunehmen (5), bewegen (3) und v
 notieren: Material/Business/Documentation 5/3/2/Goal 5/Goal 4/het/ecc
 Begründung: Im geschäftlichen Kontext bedeutet notieren das Aufnehmen (5), bewegen (3) und Festhalten (2) von Informationen (Goal 5) mit dem Endziel, berufliche Anerkennung/Vergütung zu erhalten (Goal 4).. Heteronom/Exzentrisch.
 
+
 notifizieren: Material/Communication 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Notifizieren bedeutet, dass der Akteur bestimmt (2), eine Leistung für einen Antagonisten zu erbringen (4), indem er eine Information gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach dem Wechsel durch // folgt das eigene Ziel des Akteurs, nämlich Anerkennung für diese Benachrichtigungsleistung zu erhalten (Goal 4). Die Ausrichtung ist autonom (der Akteur bestimmt, wann und wie notifiziert wird) und exzentrisch (nach außen gerichtet an den Empfänger).. Autonom/Exzentrisch.
 
 notifizieren: Material/Law/Compliance 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: Im rechtlichen Kontext bedeutet notifizieren, dass der Akteur bestimmt (2), eine formelle Mitteilung an einen Antagonisten zu leisten (4), indem er eine Information gibt (1/5), damit der Antagonist rechtlich informiert ist (Goal 5). Nach dem Wechsel durch // folgen die eigenen Ziele des Akteurs: einen rechtlich gewünschten Zustand herzustellen (Goal 2) und berufliche Anerkennung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
-näherkommen: Interpersonal/Approach 3/Goal 3/Goal 5/aut/ecc
-Begründung: Der Akteur bewegt sich (3) auf einen Antagonisten zu, um eine Wirkung zu erzielen (Goal 3) und Kontakt herzustellen (Goal 5). Dies ist eine autonome, nach außen gerichtete Handlung (aut/ecc), bei der der Akteur aktiv die physische oder soziale Distanz zu einer anderen Person verringert.. Autonom/Exzentrisch.
-
-näherkommen: Interpersonal/Relationship 3/Goal 1/aut/ecc
-Begründung: Im Sinne einer emotionalen Annäherung bewegt sich der Akteur (3) auf einen Antagonisten zu, um Nähe/Verbundenheit zu erreichen (Goal 1). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), wobei das Hauptziel die emotionale Verbindung ist.. Autonom/Exzentrisch.
-
-näherkommen: Material/Distance 3/Goal 3/aut/ecc
-Begründung: In rein räumlicher Bedeutung bewegt sich der Akteur (3) auf ein materielles Ziel zu, um eine Destination zu erreichen (Goal 3). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), fokussiert jedoch nur auf die physische Annäherung ohne soziale Komponente.. Autonom/Exzentrisch.
 
 nötigen: Interpersonal/Psychological 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt/kontrolliert (2) mit Bewegung/Druck (3) einen gewünschten Zustand für sich selbst (Goal 2), wobei er gleichzeitig die Bewegungsfreiheit und Handlungsoptionen des Antagonisten einschränkt (//Goal -3). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
@@ -579,3 +656,4 @@ Begründung: Im strafrechtlichen Sinne bedeutet nötigen, dass der Akteur bestim
 
 nötigen: Interpersonal/Hospitality 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Im gastfreundlichen Sinne bedeutet jemanden zu etwas nötigen, dass der Gastgeber bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt/anbietet (1), um einen gewünschten Zustand für den Gast zu erreichen (Goal 2), mit dem Ziel, soziale Anerkennung zu erhalten (//Goal 4).. Autonom/Exzentrisch.
+
