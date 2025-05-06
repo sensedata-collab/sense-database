@@ -10,17 +10,27 @@ Begründung: Als sportliche Aktivität bedeutet jagen, dass der Akteur sich bewe
 jagen: Interpersonal/Pursuit 3/Goal 3/Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext kann jagen bedeuten, dass der Akteur jemanden verfolgt/nachjagt (3), um Kontakt zu erreichen (Goal 3/Goal 5), beispielsweise bei der romantischen Verfolgung.. Autonom/Exzentrisch.
 
+
+jäten: Material/Garden 3/Goal 2/aut/ecc
+Begründung: Beim Jäten bewegt (3) der Akteur Unkraut, um einen gewünschten Zustand des Gartens oder Beetes zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen gerichtet handelt.. Autonom/Exzentrisch.
+
+jäten: Material/Agriculture 3/Goal 2/Goal 4/aut/ecc
+Begründung: Im landwirtschaftlichen Kontext bewegt (3) der Akteur Unkraut, um einen gewünschten Zustand des Feldes zu erreichen (Goal 2) mit dem übergeordneten Ziel, Erträge zu sichern und damit Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
+
+
 joint venturen: Material/Business/Cooperation 2/3/Goal 2/Goal 4/het/ecc
 Begründung: Joint Venturen bedeutet, dass zwei oder mehr Unternehmen gemeinsam verfügen (2) und Ressourcen bewegen/einsetzen (3), um einen gewünschten wirtschaftlichen Zustand zu erreichen (Goal 2) mit dem übergeordneten Ziel, geschäftlich Anerkennung und finanziellen Erfolg zu erlangen (Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da die Partner sich aufeinander einstellen müssen und nach außen in den Markt wirken.. Heteronom/Exzentrisch.
 
 joint venturen: Material/Cooperation 2/3/1/Goal 2/Goal 4/het/ecc
 Begründung: Als Tätigkeit des Zusammenlegens von Ressourcen beinhaltet Joint Venturen auch das Bekommen (1) von Kapital, Wissen oder Marktzugang vom Partner, der gemeinsam mit eigenem Kapital für den gewünschten geschäftlichen Zustand (Goal 2) und geschäftlichen Erfolg (Goal 4) eingesetzt wird.. Heteronom/Exzentrisch.
 
+
 jonglieren: Material/Performing-Arts 2/3/Goal 3/Goal 2/aut/ecc
 Begründung: Beim Jonglieren verfügt/kontrolliert der Akteur (2) über Objekte, die er geschickt bewegt (3), um eine bestimmte Wirkung zu erzielen (Goal 3) und einen gewünschten Zustand der Beherrschung dieser Fähigkeit zu demonstrieren (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt handelt und die Bewegungen im Außenbereich stattfinden.. Autonom/Exzentrisch.
 
 jonglieren: Interpersonal/Psychological 2/3/Goal 2/aut/ecc
 Begründung: Im übertragenen Sinne kann 'jonglieren' auch bedeuten, mehrere Aufgaben oder Verantwortlichkeiten gleichzeitig zu bewältigen/zu organisieren. Der Akteur verfügt/kontrolliert (2) mehrere Elemente und bewegt/handhabt sie geschickt (3), um einen gewünschten Organisationszustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt mit externen Anforderungen umgeht.. Autonom/Exzentrisch.
+
 
 journalen: Material/Documentation 2/5/Goal 5/aut/con
 Begründung: Beim Journalen verfügt der Akteur (2) über Informationen, die er dokumentiert und ordnet (5), um informiert zu sein und die Informationen festzuhalten (Goal 5). Der Vorgang findet im eigenen Kontrollbereich statt (aut/con).. Autonom/Konzentrisch.
@@ -31,6 +41,7 @@ Begründung: Im beruflichen Kontext kann journalen das systematische Erfassen un
 journalen: Material/Business/Documentation 2/5/Goal 5/Goal 4/aut/con
 Begründung: Im geschäftlichen Kontext bedeutet journalen das Führen eines Geschäftsjournals oder einer buchhalterischen Aufzeichnung, wobei der Akteur über die zu dokumentierenden Informationen verfügt (2), sie systematisch erfasst (5), um sie verfügbar zu haben (Goal 5) und geschäftliche Ziele zu erreichen (Goal 4).. Autonom/Konzentrisch.
 
+
 jubeln: Interpersonal/Emotions 3/1/Goal 3//Goal 4/aut/ecc
 Begründung: Beim Jubeln bewegt/äußert sich der Akteur (3) und bekommt (1) eine emotionale Erfahrung, um eine Wirkung zu erzielen (Goal 3) und Anerkennung auszudrücken (//Goal 4). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen gerichtet handelt. Jubeln beinhaltet eine intensive, expressiv bewegte Freudeäußerung, die sowohl auf eigene Befriedigung als auch auf die Kommunikation dieser Freude nach außen abzielt.. Autonom/Exzentrisch.
 
@@ -40,14 +51,10 @@ Begründung: Im Kontext von Sportveranstaltungen bedeutet jubeln das begeisterte
 jubeln: Interpersonal/Religious 3/1/Goal 3//Goal 4/aut/ecc
 Begründung: Im religiösen Kontext bedeutet jubeln das Lobpreisen und Feiern einer göttlichen Instanz. Der Akteur bewegt sich (3) mit emotional bewegtem Ausdruck und bekommt eine spirituelle Erfahrung (1), um eine Wirkung (Goal 3) zu erzielen und Anerkennung/Verehrung auszudrücken (//Goal 4).. Autonom/Exzentrisch.
 
+
 justieren: Material/Technical 2/3/Goal 2/aut/ecc
 Begründung: Justieren bedeutet, ein technisches Gerät oder eine Vorrichtung durch genaues Einstellen, Ausrichten oder kleine Anpassungen in einen gewünschten Zustand zu bringen. Der Akteur verfügt (2) über das Objekt und führt präzise Bewegungen/Anpassungen (3) durch, um einen gewünschten optimalen Zustand (Goal 2) herzustellen. Dabei handelt der Akteur autonom und wirkt auf die Umwelt ein (aut/ecc).. Autonom/Exzentrisch.
 
 justieren: Material/Measurement 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Im Kontext von Messinstrumenten bedeutet justieren, diese auf einen exakten Referenzwert einzustellen. Der Akteur verfügt (2) über das Instrument und passt es präzise an (3), um einen gewünschten Zustand (Goal 2) zu erreichen, bei dem das Instrument korrekte Informationen liefert (Goal 5).. Autonom/Exzentrisch.
 
-jäten: Material/Garden 3/Goal 2/aut/ecc
-Begründung: Beim Jäten bewegt (3) der Akteur Unkraut, um einen gewünschten Zustand des Gartens oder Beetes zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt nach außen gerichtet handelt.. Autonom/Exzentrisch.
-
-jäten: Material/Agriculture 3/Goal 2/Goal 4/aut/ecc
-Begründung: Im landwirtschaftlichen Kontext bewegt (3) der Akteur Unkraut, um einen gewünschten Zustand des Feldes zu erreichen (Goal 2) mit dem übergeordneten Ziel, Erträge zu sichern und damit Geld/Anerkennung zu bekommen (Goal 4).. Autonom/Exzentrisch.
