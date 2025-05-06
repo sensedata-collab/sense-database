@@ -7,11 +7,13 @@ Begründung: In der Bedeutung von 'etwas als geeignet bewerten/einstufen' verfü
 qualifizieren: Interpersonal/Career 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Im Sinne von 'sich selbst als geeignet darstellen' bestimmt der Akteur (2), eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist (z.B. Arbeitgeber) den gewünschten Zustand erreicht (Goal 2), was letztlich zur Anerkennung/Vergütung für den Akteur führt (//Goal 4).. Autonom/Exzentrisch.
 
+
 quantifizieren: Material/Mathematics 3/5/2/Goal 5/aut/ecc
 Begründung: Quantifizieren bedeutet, eine Größe oder Menge zu bestimmen und in Zahlen auszudrücken. Der Akteur bewegt sich (3) auf Informationen zu (5), um sie verfügbar zu machen (2), mit dem Ziel, informiert zu sein (Goal 5). Es handelt sich um einen autonomen, nach außen gerichteten Prozess (aut/ecc), da der Akteur selbstbestimmt Daten erfasst und messbar macht.. Autonom/Exzentrisch.
 
 quantifizieren: Material/Scientific 3/5/2/Goal 5/Goal 2/aut/ecc
 Begründung: Im wissenschaftlichen Kontext bedeutet quantifizieren, messbare Daten zu ermitteln (3/5), um sie verfügbar zu machen (2), mit dem Ziel, informiert zu sein (Goal 5) und einen gewünschten Zustand der Objektivierung herzustellen (Goal 2).. Autonom/Exzentrisch.
+
 
 quasseln: Interpersonal/Communication 4/1/5/Goal 5//Goal 4/het/ecc
 Begründung: Quasseln bedeutet, dass der Akteur eine Leistung für einen Antagonisten erbringt (4), indem er viele Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter (//) folgt das eigene Ziel des Akteurs, nämlich Anerkennung zu bekommen (Goal 4). Die Ausrichtung ist heteronym/exzentrisch (het/ecc), da der Akteur sich an den Antagonisten anpasst und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -19,11 +21,23 @@ Begründung: Quasseln bedeutet, dass der Akteur eine Leistung für einen Antagon
 quasseln: Interpersonal/Psychological 4/1/5/Goal 5//Goal 1/het/ecc
 Begründung: In einer psychologischen Bedeutung kann Quasseln auch bedeuten, dass der Akteur viel redet (4/1/5), um Informationen zu geben (Goal 5), mit dem eigentlichen Ziel, Nähe oder emotionale Zuwendung zu bekommen (//Goal 1), nicht primär Anerkennung.. Heteronom/Exzentrisch.
 
+
 quatschen: Interpersonal/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Beim Quatschen leistet der Akteur (4) eine Kommunikation, bei der er Informationen gibt (1) und mitteilt (5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter (//) folgt das eigene Ziel des Akteurs, nämlich soziale Anerkennung zu erhalten (Goal 4). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt kommuniziert und sich nach außen an andere richtet.. Autonom/Exzentrisch.
 
 quatschen: Material/Slang 4/1/5/Goal 5//Goal 5/aut/ecc
 Begründung: In einem weniger formellen Kontext bedeutet Quatschen ein Gespräch führen ohne primäres Ziel der beruflichen oder formellen Anerkennung. Der Akteur leistet (4) durch Geben (1) von Informationen (5) mit dem Ziel, den Antagonisten zu informieren (Goal 5), während der Akteur selbst den Austausch und Kontakt sucht (//Goal 5).. Autonom/Exzentrisch.
+
+
+quälen: Material/Punishment 3/1/Goal -3//Goal 2/aut/ecc
+Begründung: Mit Bewegung (3) werden durch das Bekommen (1) negative Wirkungen (Goal -3) zugefügt, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Doppelslash (//) markiert den Wechsel von den bekämpften Zielen des Antagonisten zu den eigenen Zielen des Akteurs. Die Aktivität ist autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
+
+quälen: Interpersonal/Psychological 3/1/Goal -3//Goal 2/aut/ecc
+Begründung: Auf psychologischer Ebene bedeutet quälen, dass der Akteur durch sein Verhalten (3) dem Antagonisten bewusst Leid zufügt (1/Goal -3), um einen eigenen psychologischen Zustand zu erreichen (//Goal 2), wie Befriedigung oder Überlegenheitsgefühl.. Autonom/Exzentrisch.
+
+quälen: Material/Pain 3/Goal -3/het/ecc
+Begründung: Im Sinne von 'sich quälen' bedeutet es, dass der Akteur sich selbst körperlichen Schmerz oder Anstrengung zufügt. Hier bewegt sich der Akteur (3) und erreicht einen unerwünschten Zustand (Goal -3) wie Schmerz oder Erschöpfung. Diese Bedeutung hat keinen Antagonisten.. Heteronom/Exzentrisch.
+
 
 quellen: Material/Fluids/Process 3/Goal 2/het/ecc
 Begründung: Quellen bezeichnet einen natürlichen Prozess, bei dem ein Material (z.B. Holz, Reis) durch Aufnahme von Flüssigkeit an Volumen zunimmt. Dabei bewegt/verändert sich (3) das Material, um einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausrichtung ist heteronom (het), da der Prozess von äußeren Faktoren (Flüssigkeit) abhängt und nach außen gerichtet (ecc), da sich das Material in seinem Umfang vergrößert.. Heteronom/Exzentrisch.
@@ -34,11 +48,13 @@ Begründung: Im Sinne von Wasserquellen oder anderen Ressourcenquellen bezeichne
 quellen: Material/Information Object 1/Goal 5 het/ecc
 Begründung: Im Kontext der Informationsbeschaffung bezeichnet 'Quellen' Orte oder Dokumente, von denen man Informationen bekommen kann (Object 1), mit dem Ziel, informiert zu sein (Goal 5).. Heteronom/Exzentrisch.
 
+
 quengeln: Interpersonal/Dispute 3/4/1/5/Goal 3//Goal 2/het/ecc
 Begründung: Quengeln bedeutet, dass der Akteur durch anhaltende Klagen oder Jammern (3/4/1/5) eine Wirkung beim Antagonisten erzielen will (Goal 3), mit dem Ziel, dass der Akteur einen gewünschten Zustand erreicht (//Goal 2). Der Akteur ist auf den Außenbereich ausgerichtet (ecc) und passt sich in seinem Verhalten an die Reaktionen des Antagonisten an (het).. Heteronom/Exzentrisch.
 
 quengeln: Material/Child 3/4/1/5/Goal 3//Goal 1/het/ecc
 Begründung: In der kindlichen Verhaltensweise bedeutet quengeln, dass das Kind durch jammerndes Verhalten (3/4/1/5) eine Wirkung bei den Eltern/Betreuern erzielen will (Goal 3), mit dem ultimativen Ziel, etwas zu bekommen (//Goal 1), wie z.B. Aufmerksamkeit, Spielzeug oder Nahrung.. Heteronom/Exzentrisch.
+
 
 queren: Material/Direction 3/Goal 3/aut/ecc
 Begründung: Queren bedeutet, sich quer (seitwärts) zu einer Richtung zu bewegen und dabei eine Linie, Fläche oder einen Bereich zu überqueren, um ein Ziel auf der anderen Seite zu erreichen. Der Akteur bewegt sich (3) autonom in die Querrichtung, um eine Destination zu erreichen (Goal 3).. Autonom/Exzentrisch.
@@ -48,6 +64,7 @@ Begründung: Queren im Sinne von 'etwas durchkreuzen' bedeutet, dass der Akteur 
 
 queren: Material/Positioning 2/3/Goal 2/aut/ecc
 Begründung: Queren im Sinne von 'etwas quer zu etwas anderem positionieren' bedeutet, dass der Akteur bestimmend (2) etwas bewegt/positioniert (3), um einen gewünschten Zustand (Goal 2) der Queranordnung herzustellen.. Autonom/Exzentrisch.
+
 
 quetschen: Material/Pressure 3/2/Goal 2/aut/ecc
 Begründung: Quetschen bedeutet, mit Kraft/Bewegung (3) etwas zu komprimieren, um einen bestimmten Zustand (2) des Objekts zu erreichen (Goal 2). Der Akteur bewegt sich aktiv nach außen und übt Druck auf ein Objekt aus (aut/ecc).. Autonom/Exzentrisch.
@@ -61,6 +78,7 @@ Begründung: Im kulinarischen Kontext bedeutet quetschen, Lebensmittel durch Bew
 quetschen: Interpersonal/Physical 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet quetschen, bestimmend (2) und mit Bewegung (3) jemanden in seiner Bewegungsfreiheit einzuschränken (Goal 2), wodurch die Bewegungsmöglichkeiten des Antagonisten eingeschränkt werden (//Goal -3).. Autonom/Exzentrisch.
 
+
 quietschen: Material/Sound 3/Goal 5/het/ecc
 Begründung: Etwas quietscht bedeutet, dass durch Bewegung/Reibung (3) ein charakteristisches, hohes Geräusch entsteht, wodurch Informationen (Goal 5) übermittelt werden. Die Ausrichtung ist heteronom/exzentrisch, da der Akteur von externen Faktoren (z.B. Reibung) abhängig ist und die Wirkung nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -70,11 +88,13 @@ Begründung: Im Kontext menschlicher Laute bedeutet quietschen, dass jemand durc
 quietschen: Material/Vehicle 3/5/Goal 5/het/ecc
 Begründung: Bei Fahrzeugen bedeutet quietschen, dass durch Bewegung/Reibung (3) ein unerwünschtes Geräusch entsteht, das als Warninformation (5/Goal 5) dient, z.B. bei quietschenden Bremsen, die auf Verschleiß hindeuten.. Heteronom/Exzentrisch.
 
+
 quirlen: Material/Fluids/Process 2/3/Goal 2/aut/ecc
 Begründung: Quirlen bedeutet, mit einem Rührgerät eine Flüssigkeit oder halbflüssige Masse durch kreisende Bewegungen zu vermischen. Der Akteur verfügt (2) über ein Rührwerkzeug und führt damit eine Bewegung (3) aus, um einen gewünschten Zustand (Goal 2) des Vermischtseins zu erreichen. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein außenliegendes Objekt einwirkt.. Autonom/Exzentrisch.
 
 quirlen: Material/Food/Cooking 2/3/Goal 2/Goal 1/aut/ecc
 Begründung: Im Kontext des Kochens bedeutet quirlen, Zutaten kräftig zu vermischen oder aufzuschlagen. Der Akteur verfügt (2) über Zutaten und Rührwerkzeug und führt damit Bewegungen (3) aus, um einen gewünschten Zustand des Vermischtseins (Goal 2) zu erreichen, mit dem übergeordneten Ziel, ein genießbares Nahrungsmittel herzustellen (Goal 1).. Autonom/Exzentrisch.
+
 
 quittieren: Material/Business/Documentation 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), nämlich eine Information/Bestätigung (5) mit dem Ziel, dass der Antagonist informiert ist (Goal 5), um letztendlich Anerkennung/Bezahlung zu erhalten (//Goal 4). Es handelt sich um eine formelle, geschäftliche Bestätigung des Empfangs von etwas.. Autonom/Exzentrisch.
@@ -82,17 +102,10 @@ Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er et
 quittieren: Material/Career 2/4//Goal 2/Goal 4/aut/ecc
 Begründung: Im Sinne von 'den Dienst quittieren': Der Akteur bestimmt (2) seine Leistung (4) zu beenden, mit dem Ziel einen gewünschten Zustand (Beendigung des Arbeitsverhältnisses) zu erreichen (Goal 2) und letztendlich seine Abrechnung/Abfindung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 quotieren: Material/Business/Documentation 2/4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Quotieren bedeutet, bestimmte Preise/Kurse/Angebote festzulegen (2) und diese als Leistung (4) durch Geben (1) einer Information (5) anzubieten, damit der Empfänger informiert ist (Goal 5), während der Akteur selbst auf Anerkennung/Bezahlung (//Goal 4) abzielt. Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen kommuniziert.. Autonom/Exzentrisch.
 
 quotieren: Material/Finance 2/5/Goal 5/Goal 4/aut/ecc
 Begründung: Im Finanzkontext kann quotieren auch das Erfassen und Dokumentieren von Kurswerten bedeuten. Hierbei bestimmt der Akteur (2) welche Informationen (5) erfasst werden, um Informiertheit zu erreichen (Goal 5) und letztlich berufliche Anerkennung zu erhalten (Goal 4). Hier liegt keine direkte Leistung für einen Antagonisten vor.. Autonom/Exzentrisch.
 
-quälen: Material/Punishment 3/1/Goal -3//Goal 2/aut/ecc
-Begründung: Mit Bewegung (3) werden durch das Bekommen (1) negative Wirkungen (Goal -3) zugefügt, um einen gewünschten Zustand (Goal 2) zu erreichen. Der Doppelslash (//) markiert den Wechsel von den bekämpften Zielen des Antagonisten zu den eigenen Zielen des Akteurs. Die Aktivität ist autonom und nach außen gerichtet (aut/ecc).. Autonom/Exzentrisch.
-
-quälen: Interpersonal/Psychological 3/1/Goal -3//Goal 2/aut/ecc
-Begründung: Auf psychologischer Ebene bedeutet quälen, dass der Akteur durch sein Verhalten (3) dem Antagonisten bewusst Leid zufügt (1/Goal -3), um einen eigenen psychologischen Zustand zu erreichen (//Goal 2), wie Befriedigung oder Überlegenheitsgefühl.. Autonom/Exzentrisch.
-
-quälen: Material/Pain 3/Goal -3/het/ecc
-Begründung: Im Sinne von 'sich quälen' bedeutet es, dass der Akteur sich selbst körperlichen Schmerz oder Anstrengung zufügt. Hier bewegt sich der Akteur (3) und erreicht einen unerwünschten Zustand (Goal -3) wie Schmerz oder Erschöpfung. Diese Bedeutung hat keinen Antagonisten.. Heteronom/Exzentrisch.
