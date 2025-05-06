@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sense - Verbanwendung</title>
     <style>
+        /* CSS bleibt unverändert */
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -335,8 +336,9 @@
                 "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
             };
             
-            // Konstante für die Datendatei
-            const DATA_FILE = 'Coded_Verbs.txt';
+            // Konstanten für die Datendateien
+            const DATA_FILE_1 = 'Coded_Verb.txt';  // Erste Hälfte bis "kneten"
+            const DATA_FILE_2 = 'Coded_Verbs_B.txt'; // Zweite Hälfte ab "knicken"
             
             // Initialisiere das System
             initSystem();
@@ -366,26 +368,49 @@
                 updateNavButtons();
             }
             
-            // Lade alle Daten aus der Datei
+            // Lade alle Daten aus beiden Dateien
             async function loadAllData() {
                 loadingIndicator.style.display = 'block';
+                loadingIndicator.textContent = 'Lade Daten...';
                 
                 try {
-                    console.log(`Lade Datei ${DATA_FILE}...`);
-                    const response = await fetch(DATA_FILE);
+                    // Erste Datei laden
+                    console.log(`Lade erste Datei ${DATA_FILE_1}...`);
+                    loadingIndicator.textContent = 'Lade erste Hälfte...';
+                    const response1 = await fetch(DATA_FILE_1);
                     
-                    if (!response.ok) {
-                        throw new Error(`Fehler beim Laden der Datei: ${response.status}`);
+                    if (!response1.ok) {
+                        throw new Error(`Fehler beim Laden der ersten Datei: ${response1.status}`);
                     }
                     
-                    const text = await response.text();
+                    const text1 = await response1.text();
                     
-                    if (!text || !text.trim()) {
-                        throw new Error('Die Datei enthält keine Daten.');
+                    if (!text1 || !text1.trim()) {
+                        throw new Error('Die erste Datei enthält keine Daten.');
                     }
                     
-                    // Verarbeite die Daten
-                    processVerbFile(text);
+                    // Zweite Datei laden
+                    console.log(`Lade zweite Datei ${DATA_FILE_2}...`);
+                    loadingIndicator.textContent = 'Lade zweite Hälfte...';
+                    const response2 = await fetch(DATA_FILE_2);
+                    
+                    if (!response2.ok) {
+                        throw new Error(`Fehler beim Laden der zweiten Datei: ${response2.status}`);
+                    }
+                    
+                    const text2 = await response2.text();
+                    
+                    if (!text2 || !text2.trim()) {
+                        throw new Error('Die zweite Datei enthält keine Daten.');
+                    }
+                    
+                    // Kombiniere beide Texte mit einem Zeilenumbruch dazwischen
+                    const combinedText = text1 + '\n\n' + text2;
+                    console.log(`Beide Dateien geladen. Kombinierte Textlänge: ${combinedText.length} Zeichen`);
+                    
+                    // Verarbeite die kombinierten Daten
+                    loadingIndicator.textContent = 'Verarbeite Daten...';
+                    processVerbFile(combinedText);
                     
                     console.log('Daten erfolgreich geladen und verarbeitet.');
                     
