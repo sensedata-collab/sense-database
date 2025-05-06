@@ -7,17 +7,20 @@ Begründung: Im Kontext des Schachspiels bedeutet 'gabeln' eine strategische Bew
 gabeln: Material/Transportation 2/3/Goal 3/aut/ecc
 Begründung: Im Verkehrskontext bedeutet 'gabeln' das Aufteilen eines Weges in zwei Richtungen. Der Akteur verfügt (2) über ein Fahrzeug und bewegt es (3) in eine der beiden Richtungen an einer Gabelung, um ein Ziel zu erreichen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Fahrer selbstbestimmt handelt und nach außen auf die Strecke gerichtet ist.. Autonom/Exzentrisch.
 
+
 gaffen: Interpersonal/Attention 3/5/Goal 5/het/ecc
 Begründung: Beim Gaffen bewegt sich der Akteur (3) in Richtung einer Informationsquelle und informiert sich (5) über etwas/jemanden auf eine intensive, aufdringliche Weise, mit dem Ziel des Kontakts und der Aufmerksamkeit (Goal 5). Die Orientierung ist heteronom/exzentrisch (het/ecc), da der Akteur sich nach äußeren Reizen richtet und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
 gaffen: Material/Observation 3/5/Goal 5/het/ecc
 Begründung: Als neutrale Beobachtungsaktivität bedeutet gaffen, dass der Akteur aktiv (3) Informationen aufnimmt (5), um informiert zu sein (Goal 5), wobei dies ohne die negative soziale Konnotation geschieht. Die Orientierung ist heteronom/exzentrisch (het/ecc), da der Beobachtende von äußeren Eindrücken abhängig ist.. Heteronom/Exzentrisch.
 
+
 galoppieren: Material/Animal 2/3/Goal 3/aut/ecc
 Begründung: Galoppieren bezeichnet die schnellste natürliche Gangart eines Pferdes, bei der der Reiter oder das Pferd selbst verfügt (2) über die Bewegung (3), um eine Destination zu erreichen (Goal 3). Die Ausrichtung ist autonom-exzentrisch, da die Bewegung selbstbestimmt nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 galoppieren: Material/Sports 3/Goal 3/aut/ecc
 Begründung: Im übertragenen Sinne kann 'galoppieren' auch für einen Menschen stehen, der sich sehr schnell fortbewegt (3), um eine Destination zu erreichen (Goal 3). Hier entfällt die Kontrolle über ein Tier, es handelt sich um die eigene schnelle Bewegung.. Autonom/Exzentrisch.
+
 
 galvanisieren: Material/Chemical/Process 3/Goal 2/aut/ecc
 Begründung: Galvanisieren ist ein chemischer Prozess, bei dem der Akteur durch Bewegung/Bearbeitung (3) eines Materials (typischerweise Metall mit Zink, Chrom oder anderen Metallen beschichten) einen gewünschten Zustand (Goal 2) erreicht, nämlich einen Korrosionsschutz oder eine verbesserte Oberfläche. Der Akteur arbeitet dabei autonom und die Aktivität ist nach außen gerichtet (aut/ecc), da ein externes Objekt bearbeitet wird.. Autonom/Exzentrisch.
@@ -28,11 +31,13 @@ Begründung: Im metallverarbeitenden Kontext bedeutet galvanisieren, ein Metallo
 galvanisieren: Interpersonal/Stimulation 3/Goal 3/aut/ecc
 Begründung: Im übertragenen Sinne bedeutet galvanisieren, jemanden anzuregen oder zu aktivieren. Der Akteur bewegt/motiviert (3) einen Antagonisten, um eine Wirkung zu erzielen (Goal 3), beispielsweise indem er ihn zu einer Handlung animiert oder stimuliert.. Autonom/Exzentrisch.
 
+
 gamen: Material/Gaming 2/3/5/Goal 5/Goal 3/het/ecc
 Begründung: Beim Gamen verfügt der Akteur (2) über ein Computerspiel und bewegt (3) sich darin, während er sich über das Spielgeschehen informiert (5), um informiert zu sein (Goal 5) und eine Wirkung im Spiel zu erzielen (Goal 3). Die Ausrichtung ist heteronom/exzentrisch, da der Spieler sich an die Spielregeln anpassen muss und nach außen auf das Spielgeschehen gerichtet ist.. Heteronom/Exzentrisch.
 
 gamen: Material/Fight/Games 3/Goal 3/Goal 2/het/ecc
 Begründung: Im wettbewerbsorientierten Gaming-Kontext bewegt sich der Akteur (3) im Spiel mit dem Ziel, eine Wirkung zu erzielen (Goal 3) und letztendlich einen gewünschten Zustand (Sieg) zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Spieler sich an Regeln anpassen muss und gegen Gegner spielt.. Heteronom/Exzentrisch.
+
 
 garantieren: Material/Contracts 2/4/1/5/Goal 2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4) durch Geben (1) einer Information/Zusicherung (5), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2 vor //), was gleichzeitig dem Akteur dient, einen gewünschten Vertragsstand zu erreichen (Goal 2 nach //). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen agiert.. Autonom/Exzentrisch.
@@ -43,8 +48,10 @@ Begründung: Im Kontext finanzieller Absicherung bestimmt der Akteur (2) eine Le
 garantieren: Material/Security 2/4/5/Goal 2//Goal 2/aut/ecc
 Begründung: Im Sicherheitskontext bestimmt der Akteur (2) eine Leistung zu erbringen (4) durch Bereitstellung von Informationen/Zusicherungen (5), um einen sicheren Zustand für den Antagonisten (Goal 2 vor //) und gleichzeitig für sich selbst (Goal 2 nach //) herzustellen.. Autonom/Exzentrisch.
 
+
 garnieren: Material/Food/Cooking 2/3/Goal 2/Goal 5/aut/ecc
 Begründung: Beim Garnieren verfügt der Akteur (2) über Dekorationselemente und bewegt/platziert diese (3), um einen gewünschten optischen Zustand zu erreichen (Goal 2) und zusätzlich einen informativen Effekt zu erzielen, indem das Gericht attraktiver und appetitlicher wirkt (Goal 5). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt nach außen wirkt.. Autonom/Exzentrisch.
+
 
 garten: Material/Garden 2/3/Goal 2/aut/ecc
 Begründung: Gärtnern/im Garten arbeiten bedeutet, dass der Akteur über seinen Garten verfügt (2) und durch Bewegung und Bearbeitung (3) einen gewünschten Zustand herstellt (Goal 2). Die Tätigkeit ist autonom und nach außen gerichtet, da der Akteur aktiv in der Natur eingreift und gestaltet.. Autonom/Exzentrisch.
@@ -52,8 +59,10 @@ Begründung: Gärtnern/im Garten arbeiten bedeutet, dass der Akteur über seinen
 garten: Material/Agriculture 2/3/Goal 2/Goal 4/aut/ecc
 Begründung: Als berufliche Tätigkeit bedeutet Gärtnern, dass der Akteur über einen Garten verfügt (2) und durch Bewegung/Bearbeitung (3) einen gewünschten Zustand herstellt (Goal 2), mit dem Endziel einer beruflichen Anerkennung/Vergütung (Goal 4).. Autonom/Exzentrisch.
 
+
 gaslighten: Interpersonal/Deception 2/3/4/1/5/Goal -5/Goal -2//Goal 2/aut/ecc
 Begründung: Gaslighten bedeutet, dass der Akteur bestimmt (2) auf aggressive Weise (3) eine Leistung (4) erbringt, indem er Informationen gibt (1/5), die dazu führen, dass der Antagonist desinformiert wird (Goal -5) und in einen unerwünschten psychischen Zustand gerät (Goal -2). Der Akteur erzielt dadurch einen für ihn gewünschten Zustand der Kontrolle über den Antagonisten (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv und gezielt auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
 
 gastieren: Material/Hospitality 4/3/Goal 3//Goal 4/het/ecc
 Begründung: Als Gast auftreten und eine (künstlerische) Leistung erbringen (4) mit Bewegung zu einem Veranstaltungsort (3), um eine Destination/Wirkung zu erreichen (Goal 3), letztendlich um Anerkennung und/oder Bezahlung zu bekommen (//Goal 4). Der Akteur erbringt eine Leistung für einen Antagonisten (Veranstalter/Publikum), passt sich dabei den externen Gegebenheiten an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
@@ -61,11 +70,41 @@ Begründung: Als Gast auftreten und eine (künstlerische) Leistung erbringen (4)
 gastieren: Material/Tourism 3/1/Goal 3/Goal 1/het/ecc
 Begründung: Als Gast irgendwo einkehren/übernachten, was Bewegung zu einem Ort (3) und das Bekommen einer Unterkunft (1) beinhaltet, um eine Destination zu erreichen (Goal 3) und Unterkunft/Verpflegung zu bekommen (Goal 1). Der Akteur passt sich den externen Gegebenheiten an (het) und ist nach außen gerichtet (ecc).. Heteronom/Exzentrisch.
 
+
 gaunern: Material/Criminal 2/3/1/Goal 2//Goal -2/aut/ecc
 Begründung: Der Akteur bestimmt (2) durch Bewegung/Anstreben (3) etwas zu bekommen (1), um einen gewünschten Zustand für sich zu erreichen (Goal 2), während er gleichzeitig den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2). Die Handlung ist selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 gaunern: Material/Criminal/Procurement 3/1/Goal 2//Goal -2/aut/ecc
 Begründung: In einer leicht abgeschwächten Bedeutung bewegt/strebt der Akteur an (3) etwas zu bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2), während er den gewünschten Zustand des Antagonisten beeinträchtigt (//Goal -2), ohne dass der bestimmende Aspekt im Vordergrund steht.. Autonom/Exzentrisch.
+
+
+gähnen: Material/Physical/Breathing 2/Goal 0/het/con
+Begründung: Gähnen ist eine körperliche Reaktion, bei der der Akteur seinen Körper kontrolliert (2), um Erholung und Regeneration zu erlangen (Goal 0). Es handelt sich um einen heteronomen und konzentrischen Vorgang (het/con), da er meist unwillkürlich erfolgt und auf die inneren Bedürfnisse des Körpers gerichtet ist. Der Vorgang dient zur Sauerstoffversorgung und Regulierung des Wachzustands, was dem Basiszustand der Erholung entspricht.. Heteronom/Konzentrisch.
+
+gähnen: Interpersonal/Gesture 3/Goal 0/het/ecc
+Begründung: Im sozialen Kontext kann Gähnen eine Geste sein, die Langeweile oder Müdigkeit signalisiert. Hier bewegt der Akteur seinen Körper (3), um einen Erholungszustand zu zeigen (Goal 0). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da die Geste in der Regel reaktiv auf eine Situation erfolgt und nach außen kommuniziert wird.. Heteronom/Exzentrisch.
+
+
+gängeln: Interpersonal/Control 2/3/Goal 2//Goal -3/aut/ecc
+Begründung: Gängeln bedeutet, jemanden bevormunden und in seiner Freiheit einschränken. Der Akteur bestimmt (2) durch Bewegung/Anstreben (3) einen gewünschten Zustand der Kontrolle (Goal 2), während er gleichzeitig die Bewegungsfreiheit/Entscheidungsfreiheit des Antagonisten einschränkt (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+gängeln: Material/Parenting 2/3/Goal 2//Goal -3/aut/ecc
+Begründung: Im Kontext der Kindererziehung bedeutet gängeln, ein Kind übermäßig zu kontrollieren und zu führen. Der Akteur bestimmt (2) durch Führen/Lenken (3) einen gewünschten Zustand der Kontrolle (Goal 2), während er die Selbstständigkeitsentwicklung des Kindes einschränkt (//Goal -3).. Autonom/Exzentrisch.
+
+
+gären: Material/Biological/Process 3/Goal 2/het/ecc
+Begründung: Gären bezeichnet einen biologischen Prozess, bei dem Stoffe durch Mikroorganismen umgewandelt werden. Es ist eine autonome Bewegung/Transformation (3) mit dem Ziel, einen neuen Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom (het), da der Prozess von natürlichen Bedingungen abhängt, und exzentrisch (ecc), da er auf Außenwirkung ausgerichtet ist.. Heteronom/Exzentrisch.
+
+gären: Material/Food/Cooking 3/Goal 2/Goal 1/het/ecc
+Begründung: Im Kontext der Lebensmittelherstellung bedeutet gären die Umwandlung von Lebensmitteln (z.B. Teig, Wein, Bier). Es beinhaltet eine Transformation (3) zum Erreichen eines gewünschten Zustands (Goal 2) mit dem Endziel der Genießbarkeit/Essbarkeit (Goal 1). Der Prozess ist heteronom/exzentrisch, da er von externen Faktoren abhängt und nach außen wirkt.. Heteronom/Exzentrisch.
+
+
+gebärden: Interpersonal/Gesture 4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Gebärden bedeutet, eine Leistung zu erbringen (4), indem man Informationen gibt (1/5) durch Gesten oder Gebärdensprache, damit der Empfänger informiert ist (Goal 5), während der Akteur als Endergebnis Anerkennung erhält (//Goal 4). Die Kommunikation erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
+gebärden: Interpersonal/Communication 3/5/Goal 5/aut/ecc
+Begründung: In einer allgemeineren Bedeutung kann 'gebärden' auch expressives Kommunizieren mit dem ganzen Körper bedeuten. Hierbei bewegt sich der Akteur (3) in einer informierenden Weise (5), um Kontakt herzustellen und Informationen zu vermitteln (Goal 5), selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
+
 
 geben: Material 4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur leistet etwas für einen Antagonisten (4), indem er diesem etwas gibt/überreicht (1), damit der Antagonist einen gewünschten Zustand erreicht, nämlich über das Gegebene zu verfügen (Goal 2), während der Akteur selbst als Ziel hat, Anerkennung zu bekommen (//Goal 4).. Autonom/Exzentrisch.
@@ -79,6 +118,7 @@ Begründung: Der Akteur gibt Geld (4/1/2) an den Antagonisten, damit dieser dar�
 geben: Material/Information 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Der Akteur gibt Informationen an den Antagonisten (4/1/5), damit dieser informiert ist (Goal 5), während der Akteur Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
 
+
 gebrauchen: Material 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt/handhabt (3) ein Objekt, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
 
@@ -88,11 +128,6 @@ Begründung: Im beruflichen Kontext verfügt der Akteur über ein Werkzeug (2) u
 gebrauchen: Interpersonal 2/3/Goal 3//Goal -2/aut/ecc
 Begründung: Der Akteur verfügt über (2) und beeinflusst/manipuliert (3) eine Person, um eine Wirkung zu erzielen (Goal 3), was gleichzeitig die Selbstbestimmung des Antagonisten einschränkt (//Goal -2).. Autonom/Exzentrisch.
 
-gebärden: Interpersonal/Gesture 4/1/5/Goal 5//Goal 4/aut/ecc
-Begründung: Gebärden bedeutet, eine Leistung zu erbringen (4), indem man Informationen gibt (1/5) durch Gesten oder Gebärdensprache, damit der Empfänger informiert ist (Goal 5), während der Akteur als Endergebnis Anerkennung erhält (//Goal 4). Die Kommunikation erfolgt selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
-
-gebärden: Interpersonal/Communication 3/5/Goal 5/aut/ecc
-Begründung: In einer allgemeineren Bedeutung kann 'gebärden' auch expressives Kommunizieren mit dem ganzen Körper bedeuten. Hierbei bewegt sich der Akteur (3) in einer informierenden Weise (5), um Kontakt herzustellen und Informationen zu vermitteln (Goal 5), selbstbestimmt (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
 gedankensteuern: Material/Cognitive 2/3/Goal 2/aut/con
 Begründung: Der Akteur verfügt und kontrolliert (2) die Bewegung (3) seiner Gedanken, um einen gewünschten mentalen Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom (der Akteur selbst steuert) und konzentrisch (nach innen gerichtet auf die eigenen Gedankenprozesse).. Autonom/Konzentrisch.
@@ -100,11 +135,13 @@ Begründung: Der Akteur verfügt und kontrolliert (2) die Bewegung (3) seiner Ge
 gedankensteuern: Material/Psychology 2/3/Goal 2/aut/con
 Begründung: In psychologischem Kontext bezieht sich die Gedankensteuerung auf die bewusste Kontrolle (2) und Lenkung (3) der eigenen Gedankenprozesse, um einen bestimmten mentalen Zustand zu erreichen (Goal 2).. Autonom/Konzentrisch.
 
+
 gedenken: Material/Memory 3/5/Goal 5/het/ecc
 Begründung: Beim Gedenken strebt der Akteur an (3), sich zu informieren (5), um informiert zu sein/zu bleiben (Goal 5) über Vergangenes oder Verstorbene. Es handelt sich um eine bewusste mentale Bewegung zur Erinnerung, wobei der Akteur sich heteronomisch und exzentrisch an äußere Gegebenheiten anpasst, auf die er sich bezieht.. Heteronom/Exzentrisch.
 
 gedenken: Material/Religious 4/5/Goal 5//Goal 4/het/ecc
 Begründung: Im religiösen oder zeremoniellen Kontext leistet der Akteur eine Handlung (4), indem er Informationen/Gedanken (5) auf Verstorbene oder historische Ereignisse richtet, damit diese erinnert werden (Goal 5), um selbst Anerkennung für diese pietätvolle Handlung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
+
 
 gefallen: Interpersonal/Relationship 3/1/Goal 3/het/ecc
 Begründung: Jemand gefallen bedeutet, dass der Akteur eine Wirkung (3) erzielt, die vom Antagonisten positiv aufgenommen wird (1), mit dem Ziel, eine positive Wirkung zu erzielen (Goal 3). Dies geschieht heterogeneitsorientiert (het) und exzentrisch (ecc), da die Wirkung nach außen gerichtet ist und der Akteur sich an den Präferenzen des Antagonisten orientiert.. Heteronom/Exzentrisch.
@@ -115,6 +152,7 @@ Begründung: Im Sinne von 'hinfallen/stürzen' bedeutet gefallen eine ungewollte
 gefallen: Fight/War 3/1/Goal -3/Goal -2/het/ecc
 Begründung: Im militärischen Kontext bedeutet 'gefallen' (im Kampf), dass ein Soldat durch eine Bewegung/Aktion (3) den Tod erlitten hat (1), was zu einer nicht erreichten Zielführung (Goal -3) und einem unerwünschten Zustand (Goal -2) führt. Die Ausrichtung ist heterogen und exzentrisch, da es ein Erleiden ist und nach außen gerichtet.. Heteronom/Exzentrisch.
 
+
 gefangen halten: Material/Restraint 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) durch Bewegungseinschränkung (3) um einen gewünschten Zustand zu erreichen (Goal 2), wobei er gleichzeitig die Bewegungsfreiheit des Antagonisten verhindert (//Goal -3). Die Kodierung zeigt, dass der Akteur autonom (aut) und nach außen gerichtet (ecc) handelt, da er aktiv die Freiheit einer anderen Person einschränkt.. Autonom/Exzentrisch.
 
@@ -123,6 +161,7 @@ Begründung: Im kriminellen Kontext bedeutet 'gefangen halten' das Bestimmen und
 
 gefangen halten: Material/Law/Punishment 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im rechtlichen Kontext (Gefängnis, Haft) bedeutet 'gefangen halten' das legitime Bestimmen und Einschränken der Bewegungsfreiheit einer Person als Strafe oder Schutzmaßnahme. Der Akteur (Justiz) kontrolliert (2) durch Bewegungseinschränkung (3) einen gewünschten Zustand für die Gesellschaft (Goal 2), während er gleichzeitig das Ziel des Antagonisten, sich frei zu bewegen, verhindert (//Goal -3).. Autonom/Exzentrisch.
+
 
 gefangen nehmen: Material/Fight/Aggression 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) auf den Antagonisten zu und bekommt (1) ihn in seine Gewalt, um einen gewünschten Zustand (Goal 2) der Kontrolle über den Antagonisten zu erreichen und eine Einschränkung der Bewegungsfreiheit des Antagonisten (//Goal -3) zu erzielen. Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und der Antagonist als außerhalb des eigenen Kontrollbereichs stehend betrachtet wird.. Autonom/Exzentrisch.
@@ -133,17 +172,20 @@ Begründung: In einem rechtlichen Kontext bedeutet 'gefangen nehmen', dass eine 
 gefangen nehmen: Material/Military 3/1/Goal 2/Goal 3/aut/ecc
 Begründung: Im militärischen Kontext bezeichnet 'gefangen nehmen' das Ergreifen (3/1) feindlicher Kombattanten, um sie unter Kontrolle zu bringen (Goal 2) und damit einen strategischen Vorteil (Goal 3) zu erlangen.. Autonom/Exzentrisch.
 
+
 gefangennehmen: Material/Fight/Aggression 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) und bekommt/ergreift (1) seinen Gegner, um einen gewünschten Zustand (den Gegner unter Kontrolle zu haben) zu erreichen (Goal 2) und gleichzeitig die Bewegungsfreiheit des Antagonisten einzuschränken (//Goal -3). Die Ausrichtung ist autonom (der Akteur handelt selbstbestimmt) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
 
 gefangennehmen: Material/Law/Criminal 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Im rechtlichen Kontext bedeutet 'gefangennehmen' das Festnehmen oder Verhaften einer Person. Der Akteur (z.B. Polizist) bewegt sich (3) und ergreift (1) den Verdächtigen, um einen gewünschten Zustand (den Verdächtigen in Gewahrsam zu haben) zu erreichen (Goal 2), wobei die Bewegungsfreiheit des Antagonisten eingeschränkt wird (//Goal -3).. Autonom/Exzentrisch.
 
+
 gefügig machen: Interpersonal/Control 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt/beeinflusst (3) den Antagonisten, um einen gewünschten Zustand der Kontrolle zu erreichen (Goal 2), wobei gleichzeitig die Selbstbestimmung/der Widerstand des Antagonisten bekämpft wird (//Goal -3). Die Ausrichtung ist autonom (der Akteur handelt aus eigener Entscheidung) und exzentrisch (nach außen auf den Antagonisten gerichtet).. Autonom/Exzentrisch.
 
 gefügig machen: Interpersonal/Psychological 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im psychologischen Kontext bedeutet gefügig machen, den Willen einer Person zu brechen oder zu manipulieren (2/3), um Kontrolle über sie zu erlangen (Goal 2) und gleichzeitig ihren Widerstand/ihre Autonomie zu unterdrücken (//Goal -3).. Autonom/Exzentrisch.
+
 
 gefügigmachen: Interpersonal/Control 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bestimmt (2) und bewegt sich auf den Antagonisten zu (3), um einen gewünschten Zustand der Kontrolle über ihn zu erreichen (Goal 2) und gleichzeitig dessen Widerstand/eigene Bewegungsfreiheit zu verringern (//Goal -3). Der Akteur handelt autonom (aut) und nach außen gerichtet (ecc), da er aktiv den Willen einer anderen Person beeinflusst.. Autonom/Exzentrisch.
@@ -153,6 +195,7 @@ Begründung: In einem beruflichen/hierarchischen Kontext: Der Vorgesetzte bestim
 
 gefügigmachen: Material/Training 2/3/Goal 2//Goal -3/aut/ecc
 Begründung: Im Kontext des Trainierens (z.B. von Tieren): Der Trainer bestimmt (2) und bewegt sich auf das zu trainierende Subjekt zu (3), um einen Zustand der Folgsamkeit herzustellen (Goal 2) und dessen natürlichen Widerstand zu überwinden (//Goal -3).. Autonom/Exzentrisch.
+
 
 gehalten: Material/Support 2/Goal 2/aut/con
 Begründung: Gehalten bedeutet, dass der Akteur etwas in seiner Verfügung (2) behält, um einen gewünschten Zustand der Stabilität oder Position aufrechtzuerhalten (Goal 2). Dies geschieht in selbstbestimmter Weise und wirkt nach innen auf den eigenen Verfügungsbereich (aut/con).. Autonom/Konzentrisch.
@@ -166,11 +209,13 @@ Begründung: Als 'Rede gehalten' bedeutet es, dass der Akteur eine Leistung für
 gehalten: Material/Compliance 2/4/1/Goal 2//Goal 4/het/ecc
 Begründung: Im Sinne von 'eingehalten' (z.B. Regeln) bedeutet es, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4) durch das Geben von Folgsamkeit (1), um einen vorgeschriebenen Zustand zu erreichen (Goal 2), wofür er Anerkennung erhält (//Goal 4).. Heteronom/Exzentrisch.
 
+
 geheimhalten: Material/Secretive 2/3/Goal 2//Goal -5/aut/ecc
 Begründung: Beim Geheimhalten verfügt/kontrolliert der Akteur (2) und bewegt/unternimmt Anstrengungen (3), um einen gewünschten Zustand zu erreichen (Goal 2) - nämlich die Geheimhaltung. Gleichzeitig bekämpft er das Ziel des Antagonisten (//Goal -5), informiert zu werden. Der Akteur handelt selbstbestimmt (aut) und nach außen gerichtet (ecc), um Informationen vor anderen zu verbergen.. Autonom/Exzentrisch.
 
 geheimhalten: Material/IT/Security 2/3/Goal 2//Goal -5/aut/ecc
 Begründung: Im IT-Kontext bedeutet Geheimhalten das Verfügen über Daten (2) und das aktive Schützen (3) dieser Informationen, um deren Vertraulichkeit zu wahren (Goal 2), während der Zugriff durch unbefugte Dritte verhindert wird (//Goal -5).. Autonom/Exzentrisch.
+
 
 gehen: Material/Physical/Movement 3/Goal 3/aut/ecc
 Begründung: Gehen bedeutet, dass der Akteur sich selbstständig (autonomes Anstreben/Bewegen) durch Fortbewegung der Beine (3) von einem Ort zu einem anderen bewegt, um eine Destination zu erreichen (Goal 3). Die Bewegung erfolgt aus eigenem Antrieb (aut) und ist nach außen gerichtet (ecc), da der Akteur sich im äußeren Raum bewegt.. Autonom/Exzentrisch.
@@ -184,11 +229,13 @@ Begründung: Im Berufskontext (z.B. 'zur Arbeit gehen') bedeutet es, dass der Ak
 gehen: Material 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Im Sinne von 'funktionieren' (z.B. 'Die Uhr geht') bedeutet es, dass ein Objekt eine Leistung erbringt (4) durch Selbstregulation (2), um einen gewünschten Betriebszustand zu erreichen (Goal 2) und damit seinen Zweck zu erfüllen, wofür es metaphorisch Anerkennung erhält (//Goal 4).. Heteronom/Exzentrisch.
 
+
 gehorchen: Interpersonal/Compliance 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Gehorchen bedeutet, dass der Akteur eine Leistung (4) erbringt, indem er die Verfügungsgewalt/Kontrolle (2) eines Antagonisten akzeptiert und dessen Anweisungen befolgt, um einen vom Antagonisten gewünschten Zustand herzustellen (Goal 2). Nach dem Umschalter folgt das eigene Ziel des Akteurs, nämlich Anerkennung zu bekommen (//Goal 4). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an externe Vorgaben anpasst und nach außen gerichtet handelt.. Heteronom/Exzentrisch.
 
 gehorchen: Material/Authorities/Compliance 4/2/Goal 2//Goal 4/het/ecc
 Begründung: Im behördlichen oder rechtlichen Kontext bedeutet gehorchen, dass der Akteur eine Leistung (4) erbringt, indem er Gesetzen, Vorschriften oder Anordnungen einer Autorität folgt (2), um einen gewünschten Zustand für die Autorität herzustellen (Goal 2), mit dem eigenen Ziel, Anerkennung zu erhalten oder negative Konsequenzen zu vermeiden (//Goal 4).. Heteronom/Exzentrisch.
+
 
 gehören: Material/Possession 1/Goal 2/het/ecc
 Begründung: Gehören bedeutet, dass ein Objekt das Eigentum einer Person ist. Der Akteur bekommt (1) einen gewünschten Zustand des Besitzens (Goal 2). Die Ausrichtung ist heteronom (het), da der Besitz durch äußere Faktoren wie Rechtssystem oder Eigentumsverhältnisse bestimmt wird, und exzentrisch (ecc), da es sich um eine nach außen gerichtete Beziehung zu Objekten handelt.. Heteronom/Exzentrisch.
@@ -199,8 +246,10 @@ Begründung: Im Sinne von 'dazugehören' oder 'Teil einer Gruppe/Organisation se
 gehören: Interpersonal/Group 1/5/Goal 5/het/ecc
 Begründung: Im sozialen Kontext bedeutet 'gehören' die Zugehörigkeit zu einer Gemeinschaft. Der Akteur bekommt (1) Kontakt (5) zu einer Gruppe, um in Kontakt/verbunden zu sein (Goal 5). Die Ausrichtung ist heteronom und exzentrisch, da der Akteur sich an die Gruppe anpasst und nach außen orientiert ist.. Heteronom/Exzentrisch.
 
+
 geiselnehmen: Material/Criminal 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) um eine Person zu bekommen (1), mit dem Ziel, über diese Person verfügen zu können (Goal 2), wobei gleichzeitig die Bewegungsfreiheit des Antagonisten eingeschränkt wird (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf die Umwelt einwirkt.. Autonom/Exzentrisch.
+
 
 geiselnnehmen: Material/Criminal/Activities 3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Beim Geiselnnehmen bewegt sich der Akteur (3) und bekommt (1) einen gewünschten Zustand der Kontrolle über jemanden (Goal 2), wobei gleichzeitig ein antagonistisches Ziel bekämpft wird - nämlich die Bewegungsfreiheit der Geisel (//Goal -3). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur eigenständig und aktiv in den Außenbereich eingreift.. Autonom/Exzentrisch.
@@ -208,11 +257,13 @@ Begründung: Beim Geiselnnehmen bewegt sich der Akteur (3) und bekommt (1) einen
 geiselnnehmen: Material/Fight/Strategy 3/1/Goal 2//Goal -3/Goal -2/aut/ecc
 Begründung: Im strategischen Kontext bedeutet Geiselnnehmen, dass der Akteur bewegt (3) und bekommt (1) Kontrolle (Goal 2), um sowohl die Bewegungsfreiheit des Antagonisten einzuschränken (//Goal -3) als auch dessen gewünschten Zustand zu verhindern (Goal -2), beispielsweise als Druckmittel in Verhandlungen.. Autonom/Exzentrisch.
 
+
 geißeln: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Geißeln bedeutet, jemanden oder etwas scharf zu kritisieren oder anzuprangern. Der Akteur bestimmt (2) eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2), nämlich Missstände anzuprangern.. Autonom/Exzentrisch.
 
 geißeln: Material/Religious/Punishment 2/3/1/Goal 2//Goal -3/aut/ecc
 Begründung: Im historisch-religiösen Kontext bedeutet geißeln, jemanden mit einer Geißel (Peitsche) körperlich zu züchtigen. Der Akteur bestimmt und führt eine Bewegung aus (2/3), bei der er einen gewünschten Zustand herstellt (Goal 2), während er gleichzeitig die Bewegungsfreiheit/körperliche Unversehrtheit des Antagonisten beeinträchtigt (//Goal -3).. Autonom/Exzentrisch.
+
 
 gelangen: Material/Transportation 3/1/Goal 3/het/ecc
 Begründung: Gelangen bedeutet, sich durch Bewegung (3) an ein Ziel zu begeben und dieses zu erreichen/bekommen (1), mit dem Ziel einer erfolgreichen Ankunft an einer Destination (Goal 3). Die Ausrichtung ist heternom/exzentrisch (het/ecc), da man sich nach äußeren Gegebenheiten richten muss und nach außen orientiert ist.. Heteronom/Exzentrisch.
@@ -223,6 +274,7 @@ Begründung: Im Sinne von 'in den Besitz von etwas gelangen' bedeutet es, durch 
 gelangen: Material/Achievement 3/Goal 3/Goal 2/het/ecc
 Begründung: Im übertragenen Sinne von 'zu einer Erkenntnis gelangen' bedeutet es, durch gedankliche Bewegung/Anstreben (3) zu einem Ergebnis zu kommen (Goal 3), was einen gewünschten Zustand des Wissens/Verstehens erzeugt (Goal 2).. Heteronom/Exzentrisch.
 
+
 geleiten: Material/Navigation 2/4/3/Goal 3//Goal 4/aut/ecc
 Begründung: Beim Geleiten bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Bewegung für den Antagonisten ermöglicht (3), damit dieser sein Ziel erreicht (Goal 3). Nach Abschluss erhält der Akteur Anerkennung für seine Dienstleistung (//Goal 4). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet agiert.. Autonom/Exzentrisch.
 
@@ -232,14 +284,17 @@ Begründung: Im zwischenmenschlichen Schutzkontext bedeutet Geleiten, dass der A
 geleiten: Material/Ceremony 2/4/3/Goal 3//Goal 4/aut/ecc
 Begründung: Im zeremoniellen Kontext bedeutet Geleiten, dass der Akteur bestimmt (2), eine ehrenvolle Begleitungsleistung zu erbringen (4), indem er jemanden formell zu einem Ziel führt (3), damit dieser würdevoll an sein Ziel gelangt (Goal 3). Der Akteur erhält dafür protokollarische Anerkennung (//Goal 4).. Autonom/Exzentrisch.
 
+
 gelingen: Material/Achievement 3/1/Goal 2/het/ecc
 Begründung: Gelingen bedeutet, dass durch Bewegung/Anstreben (3) das Bekommen (1) eines gewünschten Zustands (Goal 2) realisiert wird. Die Ausrichtung ist heteronom (het), da der Erfolg oft von äußeren Faktoren abhängt und nach außen gerichtet (ecc), da ein Ergebnis in der Umwelt erzielt wird. Der Akteur strebt etwas an und bekommt den gewünschten Zustand des Erfolgs.. Heteronom/Exzentrisch.
+
 
 geloben: Material/Commitment 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4) indem er etwas gibt (1), nämlich eine verbindliche Information/ein Versprechen (5), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), während der Akteur selbst Anerkennung erhält (//Goal 4). Dies beschreibt das feierliche Versprechen, etwas Bestimmtes zu tun.. Autonom/Exzentrisch.
 
 geloben: Material/Religious/Ceremony 2/4/1/5/Goal 2//Goal 4/aut/ecc
 Begründung: Im religiösen Kontext bedeutet geloben ein heiliges oder feierliches Versprechen abzulegen, wobei der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er ein Versprechen gibt (1/5), um einen gewünschten Zustand für Gott/die Gemeinschaft herzustellen (Goal 2), während der Akteur selbst spirituelle Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
+
 
 gelten: Material/Status 2/Goal 2/het/ecc
 Begründung: Der Akteur verfügt über (2) einen anerkannten oder zugeschriebenen Status, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom (het), da der Status von externen Faktoren oder der Anerkennung durch andere abhängt, und exzentrisch (ecc), da der Status nach außen in der sozialen Umwelt wirkt.. Heteronom/Exzentrisch.
@@ -250,17 +305,20 @@ Begründung: Im rechtlichen Kontext bedeutet 'gelten', dass eine Regel, ein Gese
 gelten: Interpersonal/Reputation 1/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'gelten als', dass der Akteur eine bestimmte Anerkennung oder Einschätzung von anderen bekommt (1), was zu einem Informationsstatus führt, wie er von anderen wahrgenommen wird (Goal 5). Die Ausrichtung ist heteronom und exzentrisch, da dies vollständig von der Wahrnehmung anderer abhängt.. Heteronom/Exzentrisch.
 
+
 genehmigen: Material/Authorization 2/4/Goal 2//Goal 4/aut/con
 Begründung: Der Akteur bestimmt/verfügt (2) eine Leistung für einen Antagonisten zu erbringen (4), damit ein gewünschter Zustand (Goal 2) für den Antagonisten erreicht wird. Dies dient letztlich dem Zweck, dass der Akteur Anerkennung (typischerweise in beruflicher Position) erhält (//Goal 4).. Autonom/Konzentrisch.
 
 genehmigen: Material/Law/Compliance 2/4/Goal 2//Goal 2/Goal 4/aut/con
 Begründung: In behördlichem/rechtlichem Kontext bestimmt der Akteur (2) eine Leistung für einen Antragsteller zu erbringen (4), indem er einen gewünschten Zustand erlaubt (Goal 2). Dies dient sowohl dem eigenen gewünschten Zustand (Einhaltung von Vorschriften) als auch der beruflichen Anerkennung des Akteurs (//Goal 2/Goal 4).. Autonom/Konzentrisch.
 
+
 generalisieren: Material/Scientific 3/5/2/Goal 5/het/ecc
 Begründung: Einzelne Informationen (5) werden durch einen analytischen Prozess (3) zu allgemeinen Erkenntnissen zusammengefasst und verfügbar gemacht (2), um informiert zu sein (Goal 5). Die heteronome und exzentrische Ausrichtung (het/ecc) zeigt, dass sich der Akteur an externen Informationen orientiert und nach außen wirkt.. Heteronom/Exzentrisch.
 
 generalisieren: Material/Psychology 3/5/2/Goal 5/het/ecc
 Begründung: Im psychologischen Kontext bedeutet generalisieren, einzelne Erfahrungen (5) auf ähnliche Situationen zu übertragen (3) und daraus allgemeine Erkenntnismuster zu bilden (2), um ein breiteres Verständnis zu erlangen (Goal 5).. Heteronom/Exzentrisch.
+
 
 generieren: Material/Creative 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt/strebt an (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Generieren bedeutet, durch eine aktive schöpferische Handlung etwas Neues zu erschaffen oder hervorzubringen, was einem gewünschten Endzustand entspricht. Der Akteur handelt dabei selbstbestimmt (aut) und richtet seine Aktivität nach außen (ecc).. Autonom/Exzentrisch.
@@ -271,6 +329,7 @@ Begründung: Im IT-Kontext bedeutet generieren, durch einen technischen Prozess 
 generieren: Material/Power 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im energietechnischen Bereich bedeutet generieren, durch einen technischen Prozess (3) Strom oder Energie zu erzeugen, um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem höheren Ziel einer beruflichen Leistung (Goal 4). Die Aktivität ist autonom (aut) und nach außen gerichtet (ecc).. Autonom/Exzentrisch.
 
+
 genießen: Material/Food 2/1/Goal 1/het/ecc
 Begründung: Beim Genießen verfügt der Akteur (2) über Nahrung/Getränke und bekommt (1) diese, um befriedigt/gesättigt zu sein (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich an den Geschmack anpasst und nach außen gerichtet ist. Der Fokus liegt auf dem bewussten, langsamen Verzehren mit Aufmerksamkeit auf den Geschmack.. Heteronom/Exzentrisch.
 
@@ -280,17 +339,20 @@ Begründung: In einem allgemeineren Kontext bedeutet genießen das verfügende (
 genießen: Interpersonal/Relationship 2/1/Goal 1/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet genießen das verfügende (2) Bekommen (1) von angenehmen Gefühlen durch die Nähe zu anderen Menschen (Goal 1), wie z.B. das Genießen der Gesellschaft anderer oder gemeinsamer Momente.. Heteronom/Exzentrisch.
 
+
 gentrifizieren: Material/Real-Estate 3/2/Goal 2/Goal 3/aut/ecc
 Begründung: Gentrifizieren bedeutet, dass ein Stadtviertel durch Renovierung und Modernisierung aufgewertet wird, wodurch sich die soziale Zusammensetzung ändert. Der Akteur bewegt/transformiert (3) und verfügt/kontrolliert (2) über das Gebiet, um einen gewünschten Zustand (Goal 2) zu erreichen, mit der Wirkung (Goal 3) der sozialen Veränderung. Die autonome und exzentrische Ausrichtung (aut/ecc) zeigt die selbstbestimmte Handlung mit Auswirkung auf die Umgebung.. Autonom/Exzentrisch.
 
 gentrifizieren: Material/Housing 3/2/Goal 2//Goal -2/aut/ecc
 Begründung: In einer sozial-kritischen Perspektive beinhaltet Gentrifizieren, dass bestehende Bewohner verdrängt werden. Der Akteur transformiert (3) und verfügt/kontrolliert (2) über den Wohnraum für seinen gewünschten Zustand (Goal 2), was zur Verdrängung der ursprünglichen Bewohner führt (//Goal -2).. Autonom/Exzentrisch.
 
+
 georeferenzieren: Material/Geography 2/3/5/Goal 5/aut/ecc
 Begründung: Georeferenzieren bedeutet, ein Objekt (z.B. Karte, Bild, Datensatz) mit räumlichen Koordinaten zu versehen, damit es in einem geografischen Bezugssystem verortet werden kann. Der Akteur bestimmt (2) durch die Bewegung/Analyse (3) von Informationen (5), um einen informierten Zustand (Goal 5) zu erreichen. Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur aktiv und selbstbestimmt Informationen in Bezug zur physischen Welt setzt.. Autonom/Exzentrisch.
 
 georeferenzieren: Material/IT/Process 2/3/5/Goal 5/aut/ecc
 Begründung: In der IT bedeutet Georeferenzieren das digitale Zuordnen von Koordinaten zu Datensätzen. Der Akteur verfügt (2) über Daten, die durch einen Transformationsprozess (3) mit geografischen Informationen (5) angereichert werden, um einen informierten Zustand zu erreichen (Goal 5).. Autonom/Exzentrisch.
+
 
 geraten: Material/Accident 3/1/Goal -3/het/ecc
 Begründung: Das Verb 'geraten' beschreibt eine unbeabsichtigte, zufällige Bewegung (3) in einen unerwünschten Zustand, den man bekommt (1), wobei die Bewegung nicht zum gewollten Ziel führt (Goal -3). Es ist heteronomer und ekzentrischer Natur (het/ecc), da der Akteur nicht die Kontrolle hat und es sich um eine Bewegung nach außen handelt. Zum Beispiel: 'in Schwierigkeiten geraten', 'in die falsche Richtung geraten'.. Heteronom/Exzentrisch.
@@ -301,11 +363,13 @@ Begründung: Als Substantiv 'das Geraten' oder in der Form 'jemandem etwas raten
 geraten: Material/Measurement 3/5/1/Goal 5/het/ecc
 Begründung: In der Bedeutung 'gut/schlecht geraten sein' (z.B. bei einem Kuchen) bezieht sich auf das zufällige Gelingen einer Sache. Der Akteur bewegt sich (3) informierend (5) und bekommt (1) Informationen über den Zustand (Goal 5). Die Ausrichtung ist heteronom und ekzentrisch, da das Ergebnis nicht vollständig kontrollierbar ist und sich nach außen orientiert.. Heteronom/Exzentrisch.
 
+
 gerieren: Interpersonal/Appearance 3/Goal 3/aut/ecc
 Begründung: Sich gerieren bedeutet, sich in einer bestimmten Weise zu verhalten oder darzustellen, um eine bestimmte Wirkung (Goal 3) auf andere zu erzielen. Der Akteur bewegt/präsentiert sich (3) aktiv und selbstbestimmt (aut) nach außen gerichtet (ecc), um eine spezifische Außenwirkung zu erreichen.. Autonom/Exzentrisch.
 
 gerieren: Material/Behavior 2/3/Goal 3/aut/ecc
 Begründung: Im kontextbezogenen Sinn kann 'sich gerieren' auch bedeuten, bewusst eine bestimmte Rolle anzunehmen oder vorzugeben. Der Akteur bestimmt/kontrolliert (2) sein Verhalten und bewegt sich (3) in einer bestimmten Art, um eine spezifische Wirkung zu erzielen (Goal 3).. Autonom/Exzentrisch.
+
 
 geringschätzen: Interpersonal/Respect 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten (4) zu erbringen, indem er eine Information gibt (1/5), die den Antagonisten abwertet und dessen Selbstwertgefühl/Ansehen verringert (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand der eigenen Überlegenheit herzustellen (//Goal 2).. Autonom/Exzentrisch.
@@ -313,11 +377,13 @@ Begründung: Der Akteur bestimmt (2) eine Leistung für den Antagonisten (4) zu 
 geringschätzen: Material/Fight/Dispute 2/4/1/5/Goal -2//Goal 2/aut/ecc
 Begründung: In einem sachlichen Kontext bestimmt der Akteur (2) eine Leistung für den Antagonisten (4) zu erbringen, indem er eine Information gibt (1/5), die den Wert oder die Bedeutung eines Objekts oder einer Idee als gering einschätzt (Goal -2), um seinen eigenen Standpunkt zu stärken (//Goal 2).. Autonom/Exzentrisch.
 
+
 geschehen: Material/Causation 1/Goal 2/het/ecc
 Begründung: Geschehen bezeichnet einen Vorgang, bei dem etwas passiv eintritt oder sich ereignet. Der Akteur bekommt (1) einen Zustand oder eine Situation (Goal 2), ohne selbst aktiv dazu beizutragen (het/ecc). Es handelt sich um einen passiven Empfang einer Veränderung oder eines Ereignisses, das von außen auf den Akteur zukommt.. Heteronom/Exzentrisch.
 
 geschehen: Material/Process 3/1/Goal 2/het/ecc
 Begründung: Im prozessualen Sinne bedeutet 'geschehen', dass sich etwas durch eine Bewegung oder Veränderung (3) vollzieht und dadurch ein Zustand (1/Goal 2) eintritt. Der Akteur ist dabei nicht bestimmend, sondern empfängt das Ergebnis des Prozesses (het/ecc).. Heteronom/Exzentrisch.
+
 
 gestalten: Material/Creative 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) und bewegt/transformiert (3) Material oder Inhalte, um einen gewünschten Zustand (Goal 2) zu erreichen. 'Gestalten' bedeutet, etwas nach bestimmten Vorstellungen zu formen oder zu strukturieren, wobei der Akteur autonome Entscheidungen trifft (aut) und nach außen auf das zu gestaltende Material einwirkt (ecc).. Autonom/Exzentrisch.
@@ -328,11 +394,13 @@ Begründung: Im künstlerischen Kontext bedeutet 'gestalten' das kreative Formen
 gestalten: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Im organisatorischen Kontext bedeutet 'gestalten' das strukturieren oder konzipieren von Abläufen, Prozessen oder Veranstaltungen, wobei der Akteur verfügt/kontrolliert (2) und Elemente bewegt/anordnet (3), um eine gewünschte Struktur oder einen gewünschten Ablauf (Goal 2) zu erreichen.. Autonom/Exzentrisch.
 
+
 gestatten: Material/Authorization 2/4/2/Goal 2//Goal 2/aut/con
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er dem Antagonisten Verfügungsgewalt überträgt (2), damit dieser einen gewünschten Zustand erreichen kann (Goal 2). Nach dem Umschalter folgt das Ziel des Akteurs, einen eigenen gewünschten Zustand zu erreichen (//Goal 2), indem er die Erlaubnis erteilt. Die Ausrichtung ist autonom und konzentrisch (aut/con), da der Akteur die Kontrolle über die Situation behält und aus seinem eigenen Einflussbereich heraus handelt.. Autonom/Konzentrisch.
 
 gestatten: Interpersonal/Control 2/4/2/Goal 2//Goal 2/aut/con
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'gestatten', dass der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er dem Antagonisten Verfügungsgewalt (2) über etwas einräumt, was eigentlich in seiner Kontrolle liegt, damit der Antagonist einen gewünschten Zustand erreichen kann (Goal 2). Der Akteur erreicht dabei ebenfalls einen gewünschten sozialen Zustand (//Goal 2).. Autonom/Konzentrisch.
+
 
 gestehen: Material/Information 4/1/5/Goal 5//Goal 2/het/ecc
 Begründung: Der Akteur leistet (4) durch das Geben (1) von Informationen (5), damit der Antagonist informiert ist (Goal 5). Nach dem Umschalter (//) folgt der eigene Zweck des Akteurs: einen gewünschten Zustand zu erreichen (Goal 2), etwa Erleichterung, Klarheit oder Entkriminalisierung. Die heteronome exzentrische Ausrichtung (het/ecc) zeigt, dass der Akteur sich anpassend verhält und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -343,11 +411,13 @@ Begründung: Im juristischen Kontext leistet der Akteur (4) durch das Geben (1) 
 gestehen: Interpersonal/Relationship 4/1/5/Goal 5//Goal 2/het/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet gestehen, dass der Akteur eine Leistung erbringt (4), indem er persönliche Informationen preisgibt (1/5), damit der Antagonist informiert ist (Goal 5). Dies geschieht mit dem Ziel (//Goal 2), einen gewünschten Zustand zu erreichen, wie eine Beziehungsklärung oder das Eingestehen von Gefühlen.. Heteronom/Exzentrisch.
 
+
 gestensteuern: Material/Gesture 2/3/Goal 3/aut/ecc
 Begründung: Beim Gestensteuern verfügt der Akteur (2) über die Möglichkeit, durch Bewegungen seiner Hände/Körper (3) ein System oder Gerät zu einem bestimmten Ziel zu bewegen/eine bestimmte Wirkung zu erzielen (Goal 3). Die Steuerung erfolgt selbstbestimmt (aut) und wirkt nach außen auf ein Gerät oder System (ecc).. Autonom/Exzentrisch.
 
 gestensteuern: Material/IT 2/3/Goal 3/aut/ecc
 Begründung: Im IT-Kontext bedeutet Gestensteuern die Kontrolle (2) über ein digitales System durch Bewegungen (3), um eine bestimmte Funktion oder Wirkung zu erzielen (Goal 3). Beispielsweise bei Touchscreens oder Bewegungssensoren, die Gesten erkennen und in Steuerungsbefehle umsetzen.. Autonom/Exzentrisch.
+
 
 gestikulieren: Interpersonal/Gesture 3/5/Goal 5/aut/ecc
 Begründung: Der Akteur bewegt (3) seine Hände/Arme, um Kontakt zu verstärken und Informationen zu vermitteln (5), mit dem Ziel eines verbesserten Kontakts/einer verbesserten Kommunikation (Goal 5). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Gesten nach außen zu einem Kommunikationspartner gerichtet sind.. Autonom/Exzentrisch.
@@ -355,11 +425,30 @@ Begründung: Der Akteur bewegt (3) seine Hände/Arme, um Kontakt zu verstärken 
 gestikulieren: Material/Gesture 3/4/1/5/Goal 5//Goal 3/aut/ecc
 Begründung: In einem nicht-kommunikativen Kontext kann Gestikulieren auch das bewusste (3) Leisten (4) von Bewegungen sein, um Informationen (5) zu vermitteln, wobei das Ziel des Akteurs eine bestimmte Wirkung (//Goal 3) ist, wie z.B. bei einer Vorführung oder Demonstration ohne direkten Kommunikationspartner.. Autonom/Exzentrisch.
 
+
 gewahren: Material/Observation 3/5/Goal 5/het/ecc
 Begründung: Etwas gewahren bedeutet, dass der Akteur durch Bewegung/Anstreben (3) seiner Aufmerksamkeit und Informationsaufnahme (5) Kenntnis von etwas erlangt (Goal 5). Der Prozess ist heteronomen Faktoren unterworfen (het), da der Akteur auf die Wahrnehmbarkeit des Objekts angewiesen ist, und nach außen gerichtet (ecc), da die Information von außen kommt. Es handelt sich um ein plötzliches Bemerken oder Erkennen von etwas, das bisher unbeachtet geblieben war.. Heteronom/Exzentrisch.
 
 gewahren: Material/Surveillance 5/3/Goal 5/het/ecc
 Begründung: In einem Überwachungskontext bedeutet gewahren das aufmerksame Beobachten (5) mit aktivem Suchen/Anstreben (3), um informiert zu sein (Goal 5). Der Schwerpunkt liegt hier mehr auf der bewussten Informationsaufnahme als auf dem zufälligen Entdecken.. Heteronom/Exzentrisch.
+
+
+gewähren: Material/Authorization 2/4/1/Goal 2//Goal 4/aut/ecc
+Begründung: Der Akteur bestimmt (2), eine Leistung (4) für den Antagonisten zu erbringen, indem er etwas gibt (1), damit der Antagonist einen gewünschten Zustand erreicht (Goal 2). Der Akteur selbst erhält dafür Anerkennung (//Goal 4). Das Gewähren ist ein autonom exzentrisches Verhalten, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
+
+gewähren: Material/Legal 2/4/1/5/Goal 5//Goal 4/aut/ecc
+Begründung: Im rechtlichen Kontext kann 'gewähren' das Erteilen von Rechten oder Privilegien bedeuten. Der Akteur bestimmt (2), eine Leistung (4) zu erbringen, indem er Informationen/Rechte gibt (1/5), damit der Antagonist informiert ist (Goal 5). Der Akteur selbst erhält dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
+
+gewähren: Material/Hospitality 2/4/1/Goal 1//Goal 4/aut/ecc
+Begründung: Im Kontext der Gastfreundschaft kann 'gewähren' das Zugestehen von Unterkunft oder Verpflegung bedeuten. Der Akteur bestimmt (2), eine Leistung (4) zu erbringen, indem er etwas gibt (1), damit der Antagonist ein Bedürfnis befriedigt bekommt (Goal 1). Der Akteur selbst erhält dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
+
+
+gewährleisten: Material/Responsibility 2/3/Goal 2/het/ecc
+Begründung: Der Akteur verfügt/bestimmt (2) mit aktivem Einsatz/Vorgehen (3), um einen gewünschten Zustand sicherzustellen (Goal 2). Die Ausrichtung ist heteronom (het), da der Akteur sich an vorgegebene Standards oder Anforderungen anpassen muss, und nach außen gerichtet (ecc), da die Gewährleistung auf ein äußeres System oder einen Prozess einwirkt.. Heteronom/Exzentrisch.
+
+gewährleisten: Material/Legal 2/4/3/Goal 2//Goal 4/aut/ecc
+Begründung: In einem rechtlichen Kontext bedeutet gewährleisten, dass der Akteur bestimmt (2), eine Leistung für einen Antagonisten zu erbringen (4), mit aktivem Handeln (3), um einen zugesicherten Zustand zu garantieren (Goal 2). Nach dem Umschalter folgt das berufliche Ziel des Akteurs (//Goal 4).. Autonom/Exzentrisch.
+
 
 gewichten: Material/Measurement 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), indem er die Relevanz oder Bedeutung von etwas festlegt. Dies ist autonom und nach außen gerichtet, da der Akteur selbstbestimmt etwas bewertet oder bemisst.. Autonom/Exzentrisch.
@@ -369,6 +458,7 @@ Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) einen
 
 gewichten: Material/Evaluation 2/3/5/Goal 5/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3) und Informieren (5), um informiert zu sein (Goal 5) und einen gewünschten Zustand (Goal 2) zu erreichen. Hier geht es um das bewertende Einordnen von Faktoren nach ihrer Bedeutung im Rahmen einer Analyse.. Autonom/Exzentrisch.
+
 
 gewinnen: Fight/Games 3/Goal 3/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt sich/strengt sich an (3) um eine Wirkung zu erzielen (Goal 3), die zum Erfolg/gewünschten Zustand des Sieges führt (Goal 2). Die Ausrichtung ist autonom und exzentrisch, weil der Akteur selbstbestimmt agiert und nach außen wirkt.. Autonom/Exzentrisch.
@@ -382,26 +472,13 @@ Begründung: Im Kontext des Bergbaus bedeutet gewinnen das Fördern von Rohstoff
 gewinnen: Interpersonal/Relationship 3/1/Goal 3/Goal 1/aut/ecc
 Begründung: Jemanden für sich gewinnen bedeutet, durch eigene Bemühungen (3) eine Wirkung zu erzielen (Goal 3), die zur Nähe/emotionalen Verbindung (Goal 1) führt. Der Akteur bekommt (1) damit die Zuneigung/Nähe des Anderen.. Autonom/Exzentrisch.
 
-gewähren: Material/Authorization 2/4/1/Goal 2//Goal 4/aut/ecc
-Begründung: Der Akteur bestimmt (2), eine Leistung (4) für den Antagonisten zu erbringen, indem er etwas gibt (1), damit der Antagonist einen gewünschten Zustand erreicht (Goal 2). Der Akteur selbst erhält dafür Anerkennung (//Goal 4). Das Gewähren ist ein autonom exzentrisches Verhalten, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
-
-gewähren: Material/Legal 2/4/1/5/Goal 5//Goal 4/aut/ecc
-Begründung: Im rechtlichen Kontext kann 'gewähren' das Erteilen von Rechten oder Privilegien bedeuten. Der Akteur bestimmt (2), eine Leistung (4) zu erbringen, indem er Informationen/Rechte gibt (1/5), damit der Antagonist informiert ist (Goal 5). Der Akteur selbst erhält dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
-
-gewähren: Material/Hospitality 2/4/1/Goal 1//Goal 4/aut/ecc
-Begründung: Im Kontext der Gastfreundschaft kann 'gewähren' das Zugestehen von Unterkunft oder Verpflegung bedeuten. Der Akteur bestimmt (2), eine Leistung (4) zu erbringen, indem er etwas gibt (1), damit der Antagonist ein Bedürfnis befriedigt bekommt (Goal 1). Der Akteur selbst erhält dafür Anerkennung (//Goal 4).. Autonom/Exzentrisch.
-
-gewährleisten: Material/Responsibility 2/3/Goal 2/het/ecc
-Begründung: Der Akteur verfügt/bestimmt (2) mit aktivem Einsatz/Vorgehen (3), um einen gewünschten Zustand sicherzustellen (Goal 2). Die Ausrichtung ist heteronom (het), da der Akteur sich an vorgegebene Standards oder Anforderungen anpassen muss, und nach außen gerichtet (ecc), da die Gewährleistung auf ein äußeres System oder einen Prozess einwirkt.. Heteronom/Exzentrisch.
-
-gewährleisten: Material/Legal 2/4/3/Goal 2//Goal 4/aut/ecc
-Begründung: In einem rechtlichen Kontext bedeutet gewährleisten, dass der Akteur bestimmt (2), eine Leistung für einen Antagonisten zu erbringen (4), mit aktivem Handeln (3), um einen zugesicherten Zustand zu garantieren (Goal 2). Nach dem Umschalter folgt das berufliche Ziel des Akteurs (//Goal 4).. Autonom/Exzentrisch.
 
 ghosten: Interpersonal/Avoidance 3/Goal 2//Goal -5/aut/ecc
 Begründung: Der Akteur bewegt/entfernt sich (3) um einen gewünschten Zustand für sich selbst zu erreichen (Goal 2), nämlich keinen Kontakt mehr zu haben, und verhindert gleichzeitig aktiv das Kontaktziel des Antagonisten (//Goal -5). Es handelt sich um eine selbstbestimmte nach außen gerichtete Handlung (aut/ecc), bei der der Akteur bewusst und ohne Vorwarnung den Kontakt abbricht und für den Antagonisten unerreichbar wird.. Autonom/Exzentrisch.
 
 ghosten: Material/IT/Social 3/Goal 2//Goal -5/aut/ecc
 Begründung: Im digitalen Kontext bedeutet 'ghosten' das plötzliche Beenden jeglicher Kommunikation durch Verlassen digitaler Räume (3) zur Herstellung eines gewünschten Zustands für den Akteur (Goal 2), während gleichzeitig das Kontaktziel des Antagonisten verhindert wird (//Goal -5). Der Akteur macht sich digital unerreichbar, ohne Erklärung oder Abschied.. Autonom/Exzentrisch.
+
 
 gieren: Interpersonal/Psychological 3/Goal 1/Goal 2/het/ecc
 Begründung: Psychologisch betrachtet ist 'gieren' ein intensives Streben (3) nach etwas, das man haben möchte - sowohl nach Nähe/Befriedigung (Goal 1) als auch nach Verfügungsgewalt (Goal 2). Die Ausrichtung ist heteronom und exzentrisch, da die Person von äußeren Objekten abhängig ist und nach außen gerichtet handelt. Das starke Verlangen ist oft nicht selbstbestimmt, sondern von einem externen Reiz ausgelöst.. Heteronom/Exzentrisch.
@@ -412,6 +489,7 @@ Begründung: Im materiellen Kontext bedeutet 'gieren' ein übermäßiges Streben
 gieren: Material/Driving 3/Goal 3/het/ecc
 Begründung: In der nautischen/fahrtechnischen Bedeutung bezeichnet 'gieren' das seitliche Ausbrechen (3) eines Schiffes oder Fahrzeugs vom Kurs, wodurch eine ungewollte Bewegungsrichtung (Goal 3) entsteht. Diese Bewegung ist fremdbestimmt (het) und nach außen gerichtet (ecc), da externe Faktoren wie Wind oder Strömung sie verursachen.. Heteronom/Exzentrisch.
 
+
 gießen: Material/Fluids/Process 2/3/1/Goal 2/aut/ecc
 Begründung: Beim Gießen verfügt der Akteur über eine Flüssigkeit (2) und bewegt (3) diese durch Ausgießen, damit sie vom Ziel bekommen wird (1), um einen gewünschten Zustand zu erreichen (Goal 2), z.B. dass eine Pflanze befeuchtet oder ein Gefäß gefüllt wird.. Autonom/Exzentrisch.
 
@@ -421,11 +499,13 @@ Begründung: Im Kontext von Metallverarbeitung bedeutet Gießen, dass geschmolze
 gießen: Material/Garden 2/3/1/Goal 2/Goal 1/aut/ecc
 Begründung: Im Gartenbau bedeutet Gießen, dass Wasser verfügt (2) und bewegt wird (3), damit Pflanzen es bekommen (1), um einen gewünschten Zustand zu erreichen (Goal 2) und letztlich das Überleben der Pflanzen zu sichern (Goal 1).. Autonom/Exzentrisch.
 
+
 gipsen: Material/Medical/Process 2/3/Goal 2/het/ecc
 Begründung: Der Akteur verfügt über (2) und bewegt/bearbeitet (3) Gipsmaterial, um einen gewünschten Zustand (Goal 2) - die Stabilisierung eines verletzten Körperteils - zu erreichen. Die Ausführung ist heteronomisch/exzentrisch (het/ecc), da der Akteur sich an die medizinischen Erfordernisse und an den Körper des Patienten anpassen muss.. Heteronom/Exzentrisch.
 
 gipsen: Material/Professions/Construction 2/3/Goal 2/het/ecc
 Begründung: In der Baubranche bedeutet 'gipsen' das Verfügen über (2) und Bearbeiten/Bewegen (3) von Gipsmaterial, um eine Wand oder Decke zu verputzen/verkleiden und damit einen gewünschten Zustand (Goal 2) zu erreichen. Die Ausführung ist heteronomisch/exzentrisch (het/ecc), da sich der Akteur an die Beschaffenheit der zu bearbeitenden Fläche anpassen muss.. Heteronom/Exzentrisch.
+
 
 glattbügeln: Material/Tailoring 2/3/Goal 2/aut/ecc
 Begründung: Beim Glattbügeln verfügt der Akteur (2) über ein Bügeleisen und bewegt/bearbeitet es (3), um einen gewünschten Zustand (Goal 2) zu erreichen - nämlich glatte, faltenfreie Textilien. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbständig nach außen auf das Textil einwirkt.. Autonom/Exzentrisch.
@@ -433,11 +513,13 @@ Begründung: Beim Glattbügeln verfügt der Akteur (2) über ein Bügeleisen und
 glattbügeln: Interpersonal/Dispute 3/Goal 2//Goal -3/aut/ecc
 Begründung: In der übertragenen Bedeutung bedeutet 'glattbügeln' Meinungsverschiedenheiten oder Konflikte zu beseitigen/lösen. Der Akteur strebt aktiv (3) einen harmonischen Zustand an (Goal 2) und wirkt gegen die konfliktverursachenden Ziele des Antagonisten (//Goal -3). Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbständig auf die Konfliktdynamik einwirkt.. Autonom/Exzentrisch.
 
+
 glattfiltern: Material/IT/Process 2/3/Goal 2/aut/ecc
 Begründung: Beim 'Glattfiltern' verfügt der Akteur (2) über Daten und bearbeitet sie durch eine Filterbewegung (3), um einen gewünschten Zustand (Goal 2) der Datenglättung zu erreichen. Der Akteur handelt dabei autonom und nach außen gerichtet (aut/ecc), da er auf externe Daten einwirkt.. Autonom/Exzentrisch.
 
 glattfiltern: Material/Signal/Processing 2/3/Goal 2/aut/ecc
 Begründung: In der Signalverarbeitung bedeutet 'Glattfiltern' das Verfügen über (2) und Bearbeiten (3) eines Signals, um Störungen zu entfernen und einen gewünschten, geglätteten Signalzustand (Goal 2) zu erreichen.. Autonom/Exzentrisch.
+
 
 glattstreichen: Material/Form 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur verfügt/kontrolliert (2) und bewegt/streicht über etwas (3), um einen gewünschten Zustand der Glätte zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein äußeres Objekt einwirkt.. Autonom/Exzentrisch.
@@ -448,6 +530,7 @@ Begründung: Im Kontext der Schneiderei streicht der Akteur bestimmend (2) über
 glattstreichen: Material/Appearance 2/3/Goal 2/aut/ecc
 Begründung: Im Kontext der äußeren Erscheinung streicht der Akteur über Kleidung, Haare oder andere Erscheinungselemente (2/3), um ein ordentliches, gepflegtes Aussehen zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
+
 glauben: Material/Religious 5/2/Goal 5/het/ecc
 Begründung: Der Akteur informiert sich (5) und verfügt über (2) die erhaltenen Informationen, mit dem Ziel, informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, weil der Akteur sich an externe Glaubensinhalte anpasst. Im religiösen Kontext ist das Informieren mit einer Akzeptanz und Übernahme der Glaubensinhalte verbunden.. Heteronom/Exzentrisch.
 
@@ -457,53 +540,6 @@ Begründung: In der allgemeinen Bedeutung von 'für wahr halten' nimmt der Akteu
 glauben: Interpersonal 5/2/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet 'glauben' Vertrauen schenken. Der Akteur nimmt Informationen von einer anderen Person auf (5) und akzeptiert diese (2), um einen Informationszustand zu erreichen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich auf die Informationen des Antagonisten einlässt.. Heteronom/Exzentrisch.
 
-gleichen: Material/Comparison 3/5/Goal 2/het/ecc
-Begründung: Der Akteur vergleicht (3/5) zwei Objekte oder Elemente miteinander, um festzustellen, ob sie übereinstimmen, mit dem Ziel, einen gewünschten Zustand der Klarheit über ihre Ähnlichkeit zu erreichen (Goal 2). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur sich an den zu vergleichenden Objekten orientieren muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
-
-gleichen: Material/Adjustment 2/3/Goal 2/aut/ecc
-Begründung: Im Sinne von 'angleichen' oder 'anpassen' bestimmt der Akteur (2) die Bewegung/Veränderung (3) von etwas, um einen gewünschten Zustand der Übereinstimmung zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
-
-gleichen: Material/Compensation 4/1/Goal 2//Goal 4/het/ecc
-Begründung: Im Sinne von 'ausgleichen' oder 'kompensieren' leistet der Akteur etwas (4) und gibt (1) einen Ausgleich, damit der Antagonist einen gewünschten Zustand erreicht (Goal 2), mit dem letztendlichen Ziel für den Akteur, Anerkennung zu erhalten (//Goal 4). Die Ausrichtung ist heteronom und exzentrisch (het/ecc).. Heteronom/Exzentrisch.
-
-gleiten: Material/Physical/Movement 3/Goal 3/het/ecc
-Begründung: Der Akteur bewegt sich (3) mit minimaler Reibung um eine Destination zu erreichen (Goal 3), wobei er sich den physikalischen Gegebenheiten anpassen muss (het/ecc).. Heteronom/Exzentrisch.
-
-gleiten: Material/Sports 3/Goal 3/het/ecc
-Begründung: Im sportlichen Kontext (z.B. Eislaufen, Skifahren) bewegt sich der Akteur (3) mit minimaler Reibung über eine Fläche, um eine bestimmte Strecke zurückzulegen (Goal 3), wobei er sich den Gegebenheiten der Oberfläche anpassen muss (het/ecc).. Heteronom/Exzentrisch.
-
-gleiten: Material/Swimming 3/Goal 3/het/ecc
-Begründung: Im Wasser gleiten bedeutet, sich mit minimaler Anstrengung durch das Wasser zu bewegen (3), um vorwärts zu kommen (Goal 3), wobei man sich dem Widerstand des Wassers anpassen muss (het/ecc).. Heteronom/Exzentrisch.
-
-gleiten: Material/Aviation 2/3/Goal 3/het/ecc
-Begründung: Im Flugkontext bedeutet gleiten, dass ein Flugzeug oder Gleiter durch Steuerung (2) und Nutzung von Luftströmungen (3) in der Luft bleibt und eine Destination erreicht (Goal 3), ohne Antrieb zu verwenden (het/ecc).. Heteronom/Exzentrisch.
-
-gliedern: Material/Organization 2/3/Goal 2/aut/ecc
-Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Beim Gliedern ordnet der Akteur autonom (aut) Informationen oder Inhalte in einem nach außen gerichteten (ecc) Prozess, indem er sie in strukturierte Teile aufteilt und Beziehungen zwischen diesen Teilen herstellt.. Autonom/Exzentrisch.
-
-gliedern: Material/Structure 2/3/Goal 2/Goal 5/aut/ecc
-Begründung: Im Kontext der Strukturierung von Informationen bestimmt/verfügt (2) der Akteur durch Bewegung/Anstreben (3), um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem zusätzlichen Ziel, Informationen (Goal 5) besser zugänglich zu machen. Dies betrifft speziell die Strukturierung von Texten oder Daten zur besseren Übersichtlichkeit und Verständlichkeit.. Autonom/Exzentrisch.
-
-glimmen: Material/Light 3/Goal 5/aut/ecc
-Begründung: Ein schwaches Leuchten oder Licht aussenden ohne richtige Flammenbildung. Der Akteur bewegt (3) Licht im Außenbereich, wodurch visuelle Informationen (Goal 5) entstehen. Das Glimmen ist eine Form von Lichtemission, die schwach aber beständig ist und primär der visuellen Wahrnehmung dient.. Autonom/Exzentrisch.
-
-glimmen: Material/Fire 3/Goal 5/Goal 3/aut/ecc
-Begründung: Im Kontext der Brandentwicklung: Ein Material bewegt (3) schwache Hitze und erzeugt dadurch sichtbares Licht (Goal 5) mit der Wirkung (Goal 3) einer beginnenden oder ausklingenden Verbrennung. Hier ist die Lichtemission Teil eines physikalisch-chemischen Prozesses.. Autonom/Exzentrisch.
-
-glorifizieren: Interpersonal/Status 2/4/1/5/Goal -2//Goal 3/aut/ecc
-Begründung: Der Akteur bestimmt (2) eine Leistung (4) für einen Antagonisten zu erbringen, indem er Informationen gibt (1/5), die den tatsächlichen Zustand des Antagonisten überhöht darstellen (Goal -2 = die realistische Einschätzung des Antagonisten wird verhindert), um dadurch eine Wirkung auf andere zu erzielen (//Goal 3). Der Akteur stellt jemanden oder etwas übertrieben positiv dar, um einen bestimmten Eindruck zu erzeugen.. Autonom/Exzentrisch.
-
-glorifizieren: Material/Reputation 2/4/1/5/Goal 2//Goal 3/aut/ecc
-Begründung: In diesem Kontext wird das Glorifizieren als positives Hervorheben verstanden, bei dem der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), um einen gewünschten Zustand für den Antagonisten zu erreichen (Goal 2 = positive Reputation), mit dem Ziel für sich selbst eine Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
-
-glorifizieren: Material/Religious 2/4/1/5/Goal 5//Goal 2/aut/ecc
-Begründung: Im religiösen Kontext bedeutet glorifizieren, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen über die Herrlichkeit einer Gottheit gibt (1/5), damit diese Informationen verbreitet werden (Goal 5), um einen gewünschten Zustand der Verehrung herzustellen (//Goal 2).. Autonom/Exzentrisch.
-
-glotzen: Material/Vision 5/Goal 5/het/ecc
-Begründung: Der Akteur nimmt durch besonders intensives und oft auch unhöfliches Anstarren (5) Informationen auf, um informiert zu sein (Goal 5). Diese Tätigkeit ist heteronom und exzentrisch ausgerichtet, weil der Akteur sich nach außen orientiert und sich an das anpasst, was er sieht.. Heteronom/Exzentrisch.
-
-glotzen: Interpersonal/Attention 3/5/Goal 5/aut/ecc
-Begründung: In einer zwischenmenschlichen Bedeutung kann 'glotzen' auch ein bewusstes, aufdringliches Anstarren einer Person bedeuten. Hier bewegt sich der Akteur bewusst (3) in Richtung des Antagonisten, um Kontakt aufzunehmen bzw. Information zu erlangen (5/Goal 5). Die Aktivität ist autonom und exzentrisch, da sie vom Akteur ausgeht und nach außen auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
 
 glätten: Material/Processing 3/Goal 2/aut/ecc
 Begründung: Glätten ist eine Bearbeitungsaktivität, bei der der Akteur eine Oberfläche bewegt/bearbeitet (3), um einen gewünschten Zustand - eine glatte Oberfläche - zu erreichen (Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
@@ -517,6 +553,61 @@ Begründung: Bei Textilien bedeutet Glätten das Bearbeiten (3) von Stoffen durc
 glätten: Interpersonal/Conflict 3/4/Goal 2//Goal 2/het/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet Glätten das Bearbeiten (3) einer Konfliktsituation und das Leisten einer Vermittlung (4), um einen harmonischen Zustand für beide Seiten zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
+gleichen: Material/Comparison 3/5/Goal 2/het/ecc
+Begründung: Der Akteur vergleicht (3/5) zwei Objekte oder Elemente miteinander, um festzustellen, ob sie übereinstimmen, mit dem Ziel, einen gewünschten Zustand der Klarheit über ihre Ähnlichkeit zu erreichen (Goal 2). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da der Akteur sich an den zu vergleichenden Objekten orientieren muss und nach außen gerichtet ist.. Heteronom/Exzentrisch.
+
+gleichen: Material/Adjustment 2/3/Goal 2/aut/ecc
+Begründung: Im Sinne von 'angleichen' oder 'anpassen' bestimmt der Akteur (2) die Bewegung/Veränderung (3) von etwas, um einen gewünschten Zustand der Übereinstimmung zu erreichen (Goal 2). Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
+
+gleichen: Material/Compensation 4/1/Goal 2//Goal 4/het/ecc
+Begründung: Im Sinne von 'ausgleichen' oder 'kompensieren' leistet der Akteur etwas (4) und gibt (1) einen Ausgleich, damit der Antagonist einen gewünschten Zustand erreicht (Goal 2), mit dem letztendlichen Ziel für den Akteur, Anerkennung zu erhalten (//Goal 4). Die Ausrichtung ist heteronom und exzentrisch (het/ecc).. Heteronom/Exzentrisch.
+
+
+gleiten: Material/Physical/Movement 3/Goal 3/het/ecc
+Begründung: Der Akteur bewegt sich (3) mit minimaler Reibung um eine Destination zu erreichen (Goal 3), wobei er sich den physikalischen Gegebenheiten anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+gleiten: Material/Sports 3/Goal 3/het/ecc
+Begründung: Im sportlichen Kontext (z.B. Eislaufen, Skifahren) bewegt sich der Akteur (3) mit minimaler Reibung über eine Fläche, um eine bestimmte Strecke zurückzulegen (Goal 3), wobei er sich den Gegebenheiten der Oberfläche anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+gleiten: Material/Swimming 3/Goal 3/het/ecc
+Begründung: Im Wasser gleiten bedeutet, sich mit minimaler Anstrengung durch das Wasser zu bewegen (3), um vorwärts zu kommen (Goal 3), wobei man sich dem Widerstand des Wassers anpassen muss (het/ecc).. Heteronom/Exzentrisch.
+
+gleiten: Material/Aviation 2/3/Goal 3/het/ecc
+Begründung: Im Flugkontext bedeutet gleiten, dass ein Flugzeug oder Gleiter durch Steuerung (2) und Nutzung von Luftströmungen (3) in der Luft bleibt und eine Destination erreicht (Goal 3), ohne Antrieb zu verwenden (het/ecc).. Heteronom/Exzentrisch.
+
+
+gliedern: Material/Organization 2/3/Goal 2/aut/ecc
+Begründung: Der Akteur bestimmt/verfügt (2) durch Bewegung/Anstreben (3), um einen gewünschten Zustand (Goal 2) zu erreichen. Beim Gliedern ordnet der Akteur autonom (aut) Informationen oder Inhalte in einem nach außen gerichteten (ecc) Prozess, indem er sie in strukturierte Teile aufteilt und Beziehungen zwischen diesen Teilen herstellt.. Autonom/Exzentrisch.
+
+gliedern: Material/Structure 2/3/Goal 2/Goal 5/aut/ecc
+Begründung: Im Kontext der Strukturierung von Informationen bestimmt/verfügt (2) der Akteur durch Bewegung/Anstreben (3), um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem zusätzlichen Ziel, Informationen (Goal 5) besser zugänglich zu machen. Dies betrifft speziell die Strukturierung von Texten oder Daten zur besseren Übersichtlichkeit und Verständlichkeit.. Autonom/Exzentrisch.
+
+
+glimmen: Material/Light 3/Goal 5/aut/ecc
+Begründung: Ein schwaches Leuchten oder Licht aussenden ohne richtige Flammenbildung. Der Akteur bewegt (3) Licht im Außenbereich, wodurch visuelle Informationen (Goal 5) entstehen. Das Glimmen ist eine Form von Lichtemission, die schwach aber beständig ist und primär der visuellen Wahrnehmung dient.. Autonom/Exzentrisch.
+
+glimmen: Material/Fire 3/Goal 5/Goal 3/aut/ecc
+Begründung: Im Kontext der Brandentwicklung: Ein Material bewegt (3) schwache Hitze und erzeugt dadurch sichtbares Licht (Goal 5) mit der Wirkung (Goal 3) einer beginnenden oder ausklingenden Verbrennung. Hier ist die Lichtemission Teil eines physikalisch-chemischen Prozesses.. Autonom/Exzentrisch.
+
+
+glorifizieren: Interpersonal/Status 2/4/1/5/Goal -2//Goal 3/aut/ecc
+Begründung: Der Akteur bestimmt (2) eine Leistung (4) für einen Antagonisten zu erbringen, indem er Informationen gibt (1/5), die den tatsächlichen Zustand des Antagonisten überhöht darstellen (Goal -2 = die realistische Einschätzung des Antagonisten wird verhindert), um dadurch eine Wirkung auf andere zu erzielen (//Goal 3). Der Akteur stellt jemanden oder etwas übertrieben positiv dar, um einen bestimmten Eindruck zu erzeugen.. Autonom/Exzentrisch.
+
+glorifizieren: Material/Reputation 2/4/1/5/Goal 2//Goal 3/aut/ecc
+Begründung: In diesem Kontext wird das Glorifizieren als positives Hervorheben verstanden, bei dem der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen gibt (1/5), um einen gewünschten Zustand für den Antagonisten zu erreichen (Goal 2 = positive Reputation), mit dem Ziel für sich selbst eine Wirkung zu erzielen (//Goal 3).. Autonom/Exzentrisch.
+
+glorifizieren: Material/Religious 2/4/1/5/Goal 5//Goal 2/aut/ecc
+Begründung: Im religiösen Kontext bedeutet glorifizieren, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Informationen über die Herrlichkeit einer Gottheit gibt (1/5), damit diese Informationen verbreitet werden (Goal 5), um einen gewünschten Zustand der Verehrung herzustellen (//Goal 2).. Autonom/Exzentrisch.
+
+
+glotzen: Material/Vision 5/Goal 5/het/ecc
+Begründung: Der Akteur nimmt durch besonders intensives und oft auch unhöfliches Anstarren (5) Informationen auf, um informiert zu sein (Goal 5). Diese Tätigkeit ist heteronom und exzentrisch ausgerichtet, weil der Akteur sich nach außen orientiert und sich an das anpasst, was er sieht.. Heteronom/Exzentrisch.
+
+glotzen: Interpersonal/Attention 3/5/Goal 5/aut/ecc
+Begründung: In einer zwischenmenschlichen Bedeutung kann 'glotzen' auch ein bewusstes, aufdringliches Anstarren einer Person bedeuten. Hier bewegt sich der Akteur bewusst (3) in Richtung des Antagonisten, um Kontakt aufzunehmen bzw. Information zu erlangen (5/Goal 5). Die Aktivität ist autonom und exzentrisch, da sie vom Akteur ausgeht und nach außen auf den Antagonisten gerichtet ist.. Autonom/Exzentrisch.
+
+
 glühen: Material/Radiation 3/1/Goal 3/aut/ecc
 Begründung: Beim Glühen bewegt (3) ein Objekt Energie, die als Wärme und Licht wahrnehmbar ist, und bekommt (1) dadurch eine spezifische Wirkung (Goal 3). Der Prozess geschieht autonom und wirkt nach außen (aut/ecc).. Autonom/Exzentrisch.
 
@@ -529,8 +620,10 @@ Begründung: Im metallverarbeitenden Kontext bedeutet Glühen das kontrollierte 
 glühen: Interpersonal/Emotions 1/Goal 3/het/ecc
 Begründung: Im emotionalen Kontext bedeutet 'vor Freude glühen', dass eine Person eine intensive Emotion bekommt (1), die eine Auswirkung nach außen hat (Goal 3), wobei der Zustand heterogen bedingt ist und nach außen wirkt (het/ecc).. Heteronom/Exzentrisch.
 
+
 googeln: Material/IT/Search 3/5/Goal 5/het/ecc
 Begründung: Googeln bedeutet, gezielt Informationen im Internet mittels der Suchmaschine Google zu suchen (3/5), um informiert zu sein (Goal 5). Der Akteur passt sich dabei an externe Bedingungen an und ist nach außen gerichtet (het/ecc), da er auf die Suchergebnisse der Suchmaschine angewiesen ist.. Heteronom/Exzentrisch.
+
 
 graben: Material/Professions/Earthmoving 3/Goal 2/aut/ecc
 Begründung: Graben bedeutet, Erde zu bewegen (3), um einen gewünschten Zustand zu erreichen (Goal 2), wie z.B. eine Grube oder einen Graben zu erzeugen. Der Akteur steuert den Prozess autonom (aut) und wirkt auf die äußere Umgebung ein (ecc).. Autonom/Exzentrisch.
@@ -541,6 +634,7 @@ Begründung: Im archäologischen Kontext bedeutet graben, Erde zu bewegen (3), u
 graben: Material/Mining 3/Goal 2/Goal 4/aut/ecc
 Begründung: Im Bergbau bedeutet graben das Bewegen (3) von Erdmaterial für einen gewünschten Zustand (Goal 2), mit dem beruflichen Endziel, Anerkennung und Bezahlung zu erhalten (Goal 4).. Autonom/Exzentrisch.
 
+
 granulieren: Material/Manufacturing 3/Goal 2/aut/ecc
 Begründung: Granulieren bedeutet, Material in kleine Körner oder Granulate zu zerkleinern. Der Akteur bewegt/bearbeitet (3) Material, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Körnigkeit des Materials. Die Ausrichtung ist autonom und exzentrisch (aut/ecc), da der Akteur selbstbestimmt auf ein äußeres Material einwirkt.. Autonom/Exzentrisch.
 
@@ -550,14 +644,34 @@ Begründung: Im chemischen oder pharmazeutischen Kontext bedeutet granulieren da
 granulieren: Material/Medical 3/1/Goal 2/aut/ecc
 Begründung: Im medizinischen Kontext bezieht sich granulieren auf den Heilungsprozess von Wunden, bei dem sich Granulationsgewebe bildet. Der Körper bewegt/strebt an (3) und bekommt (1) einen gewünschten Zustand der Wundheilung (Goal 2).. Autonom/Exzentrisch.
 
+
 gratifizieren: Material/Reward 2/4/1/Goal 2//Goal 4/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung zu erbringen (4), indem er etwas gibt (1), um einen gewünschten Zustand beim Antagonisten zu erreichen (Goal 2), mit dem Endziel selbst Anerkennung zu bekommen (//Goal 4). Gratifizieren bedeutet, jemanden mit einer Sonderzahlung oder Belohnung zu versehen, als Anerkennung für geleistete Dienste oder besondere Leistungen.. Autonom/Exzentrisch.
+
 
 grausen: Material/Emotions 1/Goal -2/het/ecc
 Begründung: Der Akteur bekommt (1) einen unerwünschten Zustand (Goal -2), nämlich Ekel oder Abscheu, was durch äußere Umstände heteronym und exzentrisch (het/ecc) ausgelöst wird. Es handelt sich um ein passives Empfinden von Grauen oder Ekel, das von außen auf den Akteur einwirkt.. Heteronom/Exzentrisch.
 
 grausen: Interpersonal/Emotions 1/Goal -2/het/ecc
 Begründung: In zwischenmenschlichen Beziehungen bedeutet 'grausen', dass der Akteur ein unangenehmes Gefühl (Grauen, Abscheu) in Bezug auf eine andere Person bekommt (1). Es ist ein unerwünschter emotionaler Zustand (Goal -2), der durch die Anwesenheit oder das Verhalten anderer Menschen ausgelöst wird (het/ecc).. Heteronom/Exzentrisch.
+
+
+grämen: Interpersonal/Psychological 1/Goal -1/het/ecc
+Begründung: Sich grämen bedeutet, dass der Akteur einen emotionalen Zustand des Kummers oder der Sorge bekommt (1) und dadurch in einen Zustand der negativen emotionalen Nähe (Goal -1) gerät. Die Ausrichtung ist heteronom (het), da der Akteur von äußeren Umständen oder Ereignissen beeinflusst wird, und exzentrisch (ecc), da die Gefühle nach außen auf etwas gerichtet sind. Der Akteur bekommt negative Gefühle durch etwas/jemanden und befindet sich in einem Zustand der belastenden emotionalen Verbindung zur Ursache des Grämens.. Heteronom/Exzentrisch.
+
+grämen: Material/Emotions 1/Goal -2/het/ecc
+Begründung: In einer allgemeineren Betrachtung kann 'grämen' auch als das Bekommen (1) eines unerwünschten Zustands (Goal -2) verstanden werden. Der Akteur erhält durch äußere Umstände (het) einen belastenden emotionalen Zustand, der nach außen gerichtet ist (ecc), wobei der Fokus hier weniger auf der emotionalen Verbindung als auf dem negativen Gemütszustand selbst liegt.. Heteronom/Exzentrisch.
+
+
+grätschen: Material/Fight/Sports/Ball-Game 3/Goal 2//Goal -3/aut/ecc
+Begründung: Eine Sportbewegung, bei der ein Spieler die Beine weit spreizt und sich in den Weg eines Gegenspielers stellt (3), um den Ball zu erobern oder den Gegner am Weiterkommen zu hindern (Goal 2) und damit das Bewegungsziel des Gegners (//Goal -3) zu vereiteln. Der Akteur bewegt sich mit dieser speziellen Technik (aut/ecc), um sein Ziel zu erreichen.. Autonom/Exzentrisch.
+
+grätschen: Material/Physical/Position 3/Goal 2/aut/con
+Begründung: Die Beine weit spreizen bzw. eine Grätsche machen, ohne sportlichen Kontext. Der Akteur bewegt seinen Körper (3) in eine bestimmte Position, um einen gewünschten Körperzustand zu erreichen (Goal 2), wobei er autonome Kontrolle über seinen eigenen Körper ausübt (aut/con).. Autonom/Konzentrisch.
+
+grätschen: Material/Sports/Training 3/Goal 2/aut/con
+Begründung: Eine Dehnübung ausführen, bei der die Beine seitlich gespreizt werden. Der Akteur bewegt seinen Körper (3), um einen gewünschten Zustand der Dehnung zu erreichen (Goal 2) und kontrolliert dabei autonom seinen eigenen Körper (aut/con).. Autonom/Konzentrisch.
+
 
 greifen: Material 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) seine Hand, um etwas zu bekommen (1), mit dem Ziel, einen gewünschten Zustand (Goal 2) herzustellen, indem er über dieses Objekt verfügen kann. Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und auf etwas außerhalb seines unmittelbaren Bereichs zugreift.. Autonom/Exzentrisch.
@@ -571,11 +685,13 @@ Begründung: Im musikalischen Kontext bedeutet 'greifen' (z.B. bei Instrumenten)
 greifen: Material/Mechanical 2/Goal 3/het/ecc
 Begründung: Im mechanischen Sinne bedeutet 'greifen' (z.B. bei Zahnrädern), dass ein Objekt verfügt (2) über eine Destination (Goal 3), wobei die Ausrichtung heteronom und exzentrisch ist (het/ecc), da die Bewegung von externen Faktoren abhängt.. Heteronom/Exzentrisch.
 
+
 grimassieren: Interpersonal/Gesture 3/5/Goal 3/aut/ecc
 Begründung: Grimassieren bedeutet, gezielt und aktiv mit dem Gesicht Grimassen zu schneiden (3), um dadurch eine Mitteilung zu machen oder eine Reaktion hervorzurufen (Goal 3). Es ist eine autonome Bewegung (3) mit dem Ziel, eine Wirkung auf andere zu erzielen, wobei die Gestik als nonverbale Kommunikationsform dient. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung auf die Umgebung zielt.. Autonom/Exzentrisch.
 
 grimassieren: Material/Physical 3/Goal 3/aut/ecc
 Begründung: In einem rein physischen Kontext kann grimassieren auch unwillkürliche oder krankheitsbedingte Gesichtsbewegungen (3) bezeichnen, die zur Bewegung von Gesichtsmuskeln führen (Goal 3). Hierbei steht nicht die kommunikative Absicht im Vordergrund, sondern die reine muskuläre Aktivität.. Autonom/Exzentrisch.
+
 
 grinsen: Interpersonal/Gesture 4/1/5/Goal 5//Goal 3/aut/ecc
 Begründung: Grinsen bedeutet, eine Leistung zu erbringen (4), indem man einen Gesichtsausdruck gibt (1) mit Informationsgehalt (5), um einen Kontakt herzustellen oder zu verstärken (Goal 5). Nach dem Wechsel (//), bezieht sich das Goal 3 auf den Akteur selbst, der mit diesem Gesichtsausdruck eine Wirkung (häufig eine humorvolle oder ironische) auf den Antagonisten erzielen will.. Autonom/Exzentrisch.
@@ -586,6 +702,7 @@ Begründung: Grinsen kann auch als kontrollierter (2) Gesichtsausdruck mit Beweg
 grinsen: Fight/Dispute 3/4/1/5/Goal -2//Goal 3/aut/ecc
 Begründung: In einem Streitkontext kann Grinsen als aggressive (3) Leistung (4) gesehen werden, bei der man einen Gesichtsausdruck gibt (1) mit Informationsgehalt (5), um den Antagonisten zu verunsichern oder zu provozieren (Goal -2), während der Akteur dadurch eine Wirkung erzielt (//Goal 3).. Autonom/Exzentrisch.
 
+
 grollen: Material/Sound 3/Goal 3/het/ecc
 Begründung: Ein dumpfes, rollendes Geräusch erzeugen (wie bei Donner). Der Akteur bewegt (3) etwas, um eine akustische Wirkung (Goal 3) zu erzielen. Die Ausrichtung ist heteronom/exzentrisch, da das Geräusch von externen Faktoren abhängt und nach außen gerichtet ist.. Heteronom/Exzentrisch.
 
@@ -595,11 +712,13 @@ Begründung: Anhaltend unzufrieden/verärgert sein und dies zum Ausdruck bringen
 grollen: Material/Weather NOT/CODEABLE het/ecc
 Begründung: In der Bedeutung von 'Donner grollt' handelt es sich um ein Naturphänomen ohne menschlichen Akteur und Goal, daher nicht kodierbar.. Heteronom/Exzentrisch.
 
+
 grooven: Material/Music 3/Goal 3/het/ecc
 Begründung: Beim Grooven bewegt (3) sich der Akteur im Rhythmus zur Musik, um eine bestimmte Wirkung/ein Feeling zu erzielen (Goal 3). Die Ausrichtung ist heteronomisch/exzentrisch (het/ecc), da der Akteur sich nach äußeren Faktoren wie dem Rhythmus oder der Musik richtet.. Heteronom/Exzentrisch.
 
 grooven: Interpersonal/Art-Action 3/5/Goal 3/Goal 5/het/ecc
 Begründung: In der sozialen Bedeutung bedeutet 'grooven', dass der Akteur sich mit anderen rhythmisch bewegt (3) und dabei einen Kontakt herstellt (5), um eine gemeinschaftliche Wirkung zu erzielen (Goal 3) und gleichzeitig einen sozialen Kontakt zu etablieren (Goal 5).. Heteronom/Exzentrisch.
+
 
 großspurig reden: Interpersonal/Communication 4/3/1/5/Goal 3//Goal 4/aut/ecc
 Begründung: Der Akteur erbringt eine Leistung (4) durch selbstbestimmte Bewegung (3), gibt (1) Informationen (5), um eine übertriebene Wirkung beim Antagonisten zu erzielen (Goal 3), mit dem letztendlichen Ziel der Anerkennung für sich selbst (//Goal 4). Die Aktivität ist autonom (selbstbestimmt) und exzentrisch (nach außen gerichtet).. Autonom/Exzentrisch.
@@ -607,11 +726,20 @@ Begründung: Der Akteur erbringt eine Leistung (4) durch selbstbestimmte Bewegun
 großspurig reden: Material/Self-Control 2/4/3/1/5/Goal 3//Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) eine Leistung (4) durch Bewegung (3), gibt (1) Informationen (5), um eine beeindruckende Wirkung zu erzielen (Goal 3), mit dem Ziel, einen gewünschten Zustand des eigenen Selbstbilds zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
+
 großtun: Interpersonal/Status 3/4/1/5/Goal 3//Goal 2/aut/ecc
 Begründung: Beim Großtun strebt der Akteur durch übertriebene Selbstdarstellung (3) eine Wirkung beim Antagonisten an, indem er Informationen über sich selbst (4/1/5) präsentiert, die den Antagonisten beeindrucken sollen (Goal 3). Dies dient dem eigenen Ziel des Akteurs, einen höheren sozialen Status oder Anerkennung zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen gerichtet ist.. Autonom/Exzentrisch.
 
 großtun: Material/Fight/Dispute 3/4/1/5/Goal 3//Goal 2/aut/ecc
 Begründung: In konfrontativen Kontexten bedeutet Großtun eine bewusste Übertreibung der eigenen Fähigkeiten oder Ressourcen (3), um dem Gegenüber Informationen zu vermitteln (4/1/5), die eine einschüchternde Wirkung erzielen sollen (Goal 3), mit dem Ziel, eine vorteilhafte Position zu erlangen (//Goal 2).. Autonom/Exzentrisch.
+
+
+grölen: Material/Sound 3/4/Goal 3/aut/ecc
+Begründung: Der Akteur bewegt (3) Laute und produziert damit (4) eine gewollte Wirkung (Goal 3), nämlich sehr laute, oft unmelodische Töne. Die Kodierung erfasst das übertriebene, meist alkoholbedingte Schreien/Singen mit dem Ziel, Aufmerksamkeit zu erregen und eine Wirkung zu erzielen.. Autonom/Exzentrisch.
+
+grölen: Interpersonal/Disturbance 3/Goal 3//Goal -2/aut/ecc
+Begründung: In einem sozialen Kontext bedeutet grölen das bewusste (3) Erzeugen von störend lauten Geräuschen, um eine Wirkung auf Andere zu erzielen (Goal 3) und gleichzeitig den Zustand der Aufmerksamkeit oder Dominanz unangenehm zu erreichen (//Goal -2).. Autonom/Exzentrisch.
+
 
 grundieren: Material/Construction 3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bewegt (3) und bringt eine Grundierung auf eine Oberfläche auf, um sie zu bekommen (1), damit ein gewünschter Zustand (Goal 2) der Oberfläche erreicht wird, der diese für weitere Bearbeitung vorbereitet. Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt auf ein externes Objekt einwirkt.. Autonom/Exzentrisch.
@@ -622,11 +750,13 @@ Begründung: Im künstlerischen Kontext bewegt (3) der Akteur eine Grundierungss
 grundieren: Material/Professions/Construction 3/1/Goal 2/Goal 4/aut/ecc
 Begründung: Als berufliche Tätigkeit bewegt (3) der Akteur Grundierungsmaterial und bringt es auf (1) eine Oberfläche auf, um einen gewünschten Zustand (Goal 2) zu erreichen, mit dem Endziel der beruflichen Anerkennung oder Bezahlung (Goal 4).. Autonom/Exzentrisch.
 
+
 gruppen: Material/Group 2/3/Goal 2/het/ecc
 Begründung: Der Akteur verfügt (2) über Objekte/Personen, die bewegt (3) werden, um einen gewünschten Zustand der Ordnung zu erreichen (Goal 2). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den Eigenschaften der zu gruppierenden Elemente richten muss. Es geht um das Zusammenführen von zusammengehörigen Elementen nach bestimmten Kriterien.. Heteronom/Exzentrisch.
 
 gruppen: Interpersonal/Group 2/3/Goal 2/het/ecc
 Begründung: Das Einteilen von Personen in Gruppen, wobei der Akteur über die Personen verfügt (2) und sie in Gruppierungen bewegt/zuordnet (3), um einen gewünschten Zustand der Organisation (Goal 2) zu erreichen. Die Ausrichtung ist heternom/exzentrisch, da die Einteilung nach den Eigenschaften der Personen erfolgt.. Heteronom/Exzentrisch.
+
 
 gruppieren: Material/Organization 2/3/Goal 2/aut/ecc
 Begründung: Beim Gruppieren verfügt/bestimmt der Akteur (2) die Bewegung/Anordnung (3) von Objekten oder Personen, um einen gewünschten Zustand (Goal 2) zu erreichen, nämlich eine sinnvolle Gruppenstruktur. Diese Tätigkeit ist selbstbestimmt (aut) und nach außen gerichtet (ecc), da der Akteur aktiv Elemente außerhalb seines unmittelbaren Einflussbereichs ordnet.. Autonom/Exzentrisch.
@@ -637,32 +767,13 @@ Begründung: Im Kontext einer Klassifikation bedeutet gruppieren, dass der Akteu
 gruppieren: Interpersonal/Group 2/3/Goal 5/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet gruppieren, dass der Akteur bestimmt (2) und die Anordnung/Zusammenstellung (3) von Personen vornimmt, mit dem Ziel, Kontakte herzustellen (Goal 5) zwischen den Gruppenmitgliedern.. Autonom/Exzentrisch.
 
+
 gruseln: Interpersonal/Emotions 1/Goal -3/het/ecc
 Begründung: Beim Gruseln bekommt (1) der Akteur eine unangenehme Empfindung der Angst oder des Schauers (Goal -3), was eine unerwünschte emotionale Wirkung darstellt. Der Akteur reagiert heterenom und exzentrisch (het/ecc) auf einen äußeren Auslöser, der das Gruseln verursacht.. Heteronom/Exzentrisch.
 
 gruseln: Material/Entertainment 3/1/Goal 3/het/ecc
 Begründung: Im Unterhaltungskontext bedeutet 'sich gruseln' das absichtliche Anstreben (3) und Bekommen (1) einer spannenden Wirkung (Goal 3) durch angsteinflößende Inhalte wie Horrorfilme oder Geistergeschichten. Der Akteur sucht diese Erfahrung heterenom und exzentrisch (het/ecc), da er sich von außen kommenden Reizen aussetzt.. Heteronom/Exzentrisch.
 
-grämen: Interpersonal/Psychological 1/Goal -1/het/ecc
-Begründung: Sich grämen bedeutet, dass der Akteur einen emotionalen Zustand des Kummers oder der Sorge bekommt (1) und dadurch in einen Zustand der negativen emotionalen Nähe (Goal -1) gerät. Die Ausrichtung ist heteronom (het), da der Akteur von äußeren Umständen oder Ereignissen beeinflusst wird, und exzentrisch (ecc), da die Gefühle nach außen auf etwas gerichtet sind. Der Akteur bekommt negative Gefühle durch etwas/jemanden und befindet sich in einem Zustand der belastenden emotionalen Verbindung zur Ursache des Grämens.. Heteronom/Exzentrisch.
-
-grämen: Material/Emotions 1/Goal -2/het/ecc
-Begründung: In einer allgemeineren Betrachtung kann 'grämen' auch als das Bekommen (1) eines unerwünschten Zustands (Goal -2) verstanden werden. Der Akteur erhält durch äußere Umstände (het) einen belastenden emotionalen Zustand, der nach außen gerichtet ist (ecc), wobei der Fokus hier weniger auf der emotionalen Verbindung als auf dem negativen Gemütszustand selbst liegt.. Heteronom/Exzentrisch.
-
-grätschen: Material/Fight/Sports/Ball-Game 3/Goal 2//Goal -3/aut/ecc
-Begründung: Eine Sportbewegung, bei der ein Spieler die Beine weit spreizt und sich in den Weg eines Gegenspielers stellt (3), um den Ball zu erobern oder den Gegner am Weiterkommen zu hindern (Goal 2) und damit das Bewegungsziel des Gegners (//Goal -3) zu vereiteln. Der Akteur bewegt sich mit dieser speziellen Technik (aut/ecc), um sein Ziel zu erreichen.. Autonom/Exzentrisch.
-
-grätschen: Material/Physical/Position 3/Goal 2/aut/con
-Begründung: Die Beine weit spreizen bzw. eine Grätsche machen, ohne sportlichen Kontext. Der Akteur bewegt seinen Körper (3) in eine bestimmte Position, um einen gewünschten Körperzustand zu erreichen (Goal 2), wobei er autonome Kontrolle über seinen eigenen Körper ausübt (aut/con).. Autonom/Konzentrisch.
-
-grätschen: Material/Sports/Training 3/Goal 2/aut/con
-Begründung: Eine Dehnübung ausführen, bei der die Beine seitlich gespreizt werden. Der Akteur bewegt seinen Körper (3), um einen gewünschten Zustand der Dehnung zu erreichen (Goal 2) und kontrolliert dabei autonom seinen eigenen Körper (aut/con).. Autonom/Konzentrisch.
-
-grölen: Material/Sound 3/4/Goal 3/aut/ecc
-Begründung: Der Akteur bewegt (3) Laute und produziert damit (4) eine gewollte Wirkung (Goal 3), nämlich sehr laute, oft unmelodische Töne. Die Kodierung erfasst das übertriebene, meist alkoholbedingte Schreien/Singen mit dem Ziel, Aufmerksamkeit zu erregen und eine Wirkung zu erzielen.. Autonom/Exzentrisch.
-
-grölen: Interpersonal/Disturbance 3/Goal 3//Goal -2/aut/ecc
-Begründung: In einem sozialen Kontext bedeutet grölen das bewusste (3) Erzeugen von störend lauten Geräuschen, um eine Wirkung auf Andere zu erzielen (Goal 3) und gleichzeitig den Zustand der Aufmerksamkeit oder Dominanz unangenehm zu erreichen (//Goal -2).. Autonom/Exzentrisch.
 
 grübeln: Material/Cognitive 3/5/2/Goal 5/het/ecc
 Begründung: Grübeln bedeutet, intensiv, wiederholt und oft kreisend über etwas nachzudenken. Der Akteur bewegt (3) sich gedanklich durch Informationen (5), versucht diese zu ordnen und zu kontrollieren (2), mit dem Ziel, zu einer tieferen Erkenntnis oder Lösung zu gelangen (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Denkprozess von außen kommenden Gedanken und Problemen bestimmt wird und nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -670,11 +781,13 @@ Begründung: Grübeln bedeutet, intensiv, wiederholt und oft kreisend über etwa
 grübeln: Material/Problem-Solving 3/5/2/Goal 5/Goal 2/het/ecc
 Begründung: In einem problemlösungsorientierten Kontext beinhaltet Grübeln das intensive Nachdenken (3/5/2) über ein Problem, um nicht nur Erkenntnisse zu gewinnen (Goal 5), sondern auch einen gewünschten Zustand (eine Lösung) zu erreichen (Goal 2).. Heteronom/Exzentrisch.
 
+
 grüßen: Interpersonal/Gesture 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Beim Grüßen leistet der Akteur (4) eine soziale Handlung für den Antagonisten, indem er etwas gibt (1), nämlich eine Information (5), damit der Antagonist über den Kontakt informiert ist (Goal 5). Nach dem Wechsel (//Goal 4) erhält der Akteur soziale Anerkennung für diese Geste.. Autonom/Exzentrisch.
 
 grüßen: Material/Communication 4/1/5/Goal 5//Goal 4/aut/ecc
 Begründung: Als formelle Kommunikationshandlung leistet der Akteur (4) das Geben (1) einer Information (5), die dem Antagonisten den Kontakt signalisiert (Goal 5), während der Akteur soziale Anerkennung erhält (//Goal 4).. Autonom/Exzentrisch.
+
 
 gucken: Material/Vision 5/Goal 5/het/ecc
 Begründung: Beim Gucken nimmt der Akteur Informationen durch Sehen auf (5), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da der Akteur sich nach den externen visuellen Reizen richtet und seine Aufmerksamkeit nach außen richtet.. Heteronom/Exzentrisch.
@@ -685,11 +798,13 @@ Begründung: In der Bedeutung 'nachsehen/nachschauen' beinhaltet gucken eine Bew
 gucken: Interpersonal 5/Goal 5/het/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet gucken, Kontakt durch visuelles Wahrnehmen aufzunehmen (5), um in Kontakt zu sein (Goal 5).. Heteronom/Exzentrisch.
 
+
 guideline: Material/Information 2/4/1/5/Goal 5//Goal 2/aut/ecc
 Begründung: Eine Richtlinie (guideline) ist ein Dokument oder eine Anweisung, bei der der Akteur bestimmt (2), eine Leistung für einen Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), was letztendlich dem gewünschten Zustand des Akteurs dient (//Goal 2). Die Ausrichtung ist autonom/eccentric, da der Akteur bestimmend nach außen wirkt.. Autonom/Exzentrisch.
 
 guideline: Material/Leadership 2/4/1/5/Goal 5//Goal 2/Goal 4/aut/ecc
 Begründung: Im beruflichen Kontext ist eine Richtlinie ein Dokument oder eine Anweisung, bei der der Akteur bestimmt (2), eine Leistung für einen Antagonisten zu erbringen (4), indem er Informationen gibt (1/5), damit der Antagonist informiert ist (Goal 5), was letztendlich dem gewünschten Zustand des Akteurs dient (//Goal 2) und ihm berufliche Anerkennung einbringt (Goal 4).. Autonom/Exzentrisch.
+
 
 gustieren: Material/Food 5/2/Goal 5/Goal 1/het/ecc
 Begründung: Gustieren bedeutet, Speisen oder Getränke prüfend zu kosten, um deren Qualität oder Geschmack zu beurteilen. Der Akteur informiert sich (5) über die Beschaffenheit und Eigenschaften des Essens, verfügt darüber (2), um informiert zu sein (Goal 5) und letztendlich auch gesättigt zu sein (Goal 1). Die Ausrichtung ist heteronom/exzentrisch, da man sich beim Kosten nach den Eigenschaften des Lebensmittels richtet und der Fokus nach außen gerichtet ist.. Heteronom/Exzentrisch.
@@ -697,26 +812,10 @@ Begründung: Gustieren bedeutet, Speisen oder Getränke prüfend zu kosten, um d
 gustieren: Material/Sensory 5/3/Goal 5/het/ecc
 Begründung: In einer allgemeineren Bedeutung kann gustieren auch bedeuten, etwas genau zu betrachten oder zu prüfen. Hierbei informiert sich der Akteur (5) durch eine Untersuchung/Bewegung (3), um informiert zu sein (Goal 5). Die Ausrichtung ist heteronom/exzentrisch, da die Eigenschaften des Objekts bestimmen, wie die Prüfung verläuft.. Heteronom/Exzentrisch.
 
+
 gutheißen: Material/Accept 2/4/2/Goal 2/aut/ecc
 Begründung: Gutheißen bedeutet, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), die darin besteht, einer Verfügung (2) zuzustimmen, um einen gewünschten Zustand herzustellen (Goal 2). Der Akteur bestätigt oder billigt etwas autonom (aut) mit Wirkung nach außen (ecc).. Autonom/Exzentrisch.
 
 gutheißen: Interpersonal/Agreement 2/4/1/5/Goal 2//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Kontext bedeutet gutheißen, dass der Akteur bestimmt (2), eine Leistung zu erbringen (4), indem er Information gibt (1/5), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2 vor //), während er gleichzeitig einen eigenen gewünschten Zustand erreicht (Goal 2 nach //). Hier steht die Zustimmung zu einer Entscheidung oder Handlung einer anderen Person im Vordergrund.. Autonom/Exzentrisch.
 
-gähnen: Material/Physical/Breathing 2/Goal 0/het/con
-Begründung: Gähnen ist eine körperliche Reaktion, bei der der Akteur seinen Körper kontrolliert (2), um Erholung und Regeneration zu erlangen (Goal 0). Es handelt sich um einen heteronomen und konzentrischen Vorgang (het/con), da er meist unwillkürlich erfolgt und auf die inneren Bedürfnisse des Körpers gerichtet ist. Der Vorgang dient zur Sauerstoffversorgung und Regulierung des Wachzustands, was dem Basiszustand der Erholung entspricht.. Heteronom/Konzentrisch.
-
-gähnen: Interpersonal/Gesture 3/Goal 0/het/ecc
-Begründung: Im sozialen Kontext kann Gähnen eine Geste sein, die Langeweile oder Müdigkeit signalisiert. Hier bewegt der Akteur seinen Körper (3), um einen Erholungszustand zu zeigen (Goal 0). Die Ausrichtung ist heteronom und exzentrisch (het/ecc), da die Geste in der Regel reaktiv auf eine Situation erfolgt und nach außen kommuniziert wird.. Heteronom/Exzentrisch.
-
-gängeln: Interpersonal/Control 2/3/Goal 2//Goal -3/aut/ecc
-Begründung: Gängeln bedeutet, jemanden bevormunden und in seiner Freiheit einschränken. Der Akteur bestimmt (2) durch Bewegung/Anstreben (3) einen gewünschten Zustand der Kontrolle (Goal 2), während er gleichzeitig die Bewegungsfreiheit/Entscheidungsfreiheit des Antagonisten einschränkt (//Goal -3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf den Antagonisten einwirkt.. Autonom/Exzentrisch.
-
-gängeln: Material/Parenting 2/3/Goal 2//Goal -3/aut/ecc
-Begründung: Im Kontext der Kindererziehung bedeutet gängeln, ein Kind übermäßig zu kontrollieren und zu führen. Der Akteur bestimmt (2) durch Führen/Lenken (3) einen gewünschten Zustand der Kontrolle (Goal 2), während er die Selbstständigkeitsentwicklung des Kindes einschränkt (//Goal -3).. Autonom/Exzentrisch.
-
-gären: Material/Biological/Process 3/Goal 2/het/ecc
-Begründung: Gären bezeichnet einen biologischen Prozess, bei dem Stoffe durch Mikroorganismen umgewandelt werden. Es ist eine autonome Bewegung/Transformation (3) mit dem Ziel, einen neuen Zustand zu erreichen (Goal 2). Die Ausrichtung ist heteronom (het), da der Prozess von natürlichen Bedingungen abhängt, und exzentrisch (ecc), da er auf Außenwirkung ausgerichtet ist.. Heteronom/Exzentrisch.
-
-gären: Material/Food/Cooking 3/Goal 2/Goal 1/het/ecc
-Begründung: Im Kontext der Lebensmittelherstellung bedeutet gären die Umwandlung von Lebensmitteln (z.B. Teig, Wein, Bier). Es beinhaltet eine Transformation (3) zum Erreichen eines gewünschten Zustands (Goal 2) mit dem Endziel der Genießbarkeit/Essbarkeit (Goal 1). Der Prozess ist heteronom/exzentrisch, da er von externen Faktoren abhängt und nach außen wirkt.. Heteronom/Exzentrisch.
