@@ -101,7 +101,7 @@
         
         .nav-hint {
             margin-top: 8px;
-            font-size: 12px;
+            font-size: 13px; /* Angepasste Schriftgröße */
             color: #666;
             text-align: center;
         }
@@ -165,26 +165,23 @@
             font-weight: bold;
         }
         
-        .formula-explanation {
-            margin-top: 5px;
-            padding: 8px;
+        .explanation-block {
             background-color: #f5f5f5;
             border-radius: 4px;
             border-left: 2px solid #ccc;
             font-size: 13px;
             line-height: 1.4;
-            min-height: 40px; /* Stabiler Erklärungsblock */
+        }
+        
+        .formula-explanation {
+            padding: 8px;
+            padding-bottom: 0; /* Kein unterer Rand */
         }
         
         .complexity-info {
-            margin-top: 5px;
-            font-size: 13px;
-            color: #333;
-            background-color: #f5f5f5;
             padding: 8px;
-            border-radius: 4px;
-            border-left: 2px solid #ccc;
-            line-height: 1.4;
+            padding-top: 8px; /* Kein oberer Rand zum Anschließen */
+            color: #333;
         }
         
         .suggestion {
@@ -284,12 +281,15 @@
                 <span class="formula-item" data-symbol="CP/">CP/</span>
                 <span class="formula-item" data-symbol="ANTI/">ANTI/</span>
             </div>
-            <div class="formula-explanation" id="formulaExplanation">
-                // ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.
-            </div>
             
-            <div class="complexity-info" id="complexityInfo">
-                Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
+            <!-- Kombinierter Erklärungsblock ohne Rand dazwischen -->
+            <div class="explanation-block">
+                <div class="formula-explanation" id="formulaExplanation">
+                    // ist der Code-Wechsel von Goals des Akteurs zum Antagonisten oder bei vorausgehender (4) vom Antagonisten zum Akteur.
+                </div>
+                <div class="complexity-info" id="complexityInfo">
+                    Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
+                </div>
             </div>
         </div>
         
