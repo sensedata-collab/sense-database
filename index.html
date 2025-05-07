@@ -267,7 +267,6 @@
         <div class="search-container">
             <input type="text" id="searchInput" placeholder="Verb eingeben..." autocomplete="off">
             <button id="searchButton">Suchen</button>
-            <!-- Position-Info entfernt -->
             <div class="search-hint">Bitte geben Sie nur deutsche Verben ein (Wörter die auf -en, -eln oder -ern enden).</div>
         </div>
         
@@ -312,26 +311,18 @@
         
         <div class="project-info">
             <p>Sense 2025 - Lokale Verbanwendung</p>
-
         </div>
     </div>
     
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             // Variablen für die Verarbeitung
-            let verbEntries = [];             // Verben in aktueller Datei
-            let uniqueVerbs = [];             // Alphabetische Liste der Verben in aktueller Datei
+            let verbEntries = [];             // Alle geladenen Verbeinträge
+            let uniqueVerbs = [];             // Alphabetische Liste der Verben
             let currentIndex = 0;             // Index des aktuell angezeigten Verbs
             let searchTimeout;                // Timeout für die Sucheingabe
             let lastSearchTerm = '';          // Letzter Suchbegriff
-            let currentFile = null;           // Aktuell geladene Datei
-            let cachedFiles = {};             // Cache für bereits geladene Dateien
-            
-            // Verfügbare Buchstaben für die Navigation
-            const AVAILABLE_LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-            
-            // Liste der Dateien, die tatsächlich existieren
-            let availableFiles = {};
+            let dataLoaded = false;           // Marker ob Daten geladen wurden
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -361,46 +352,8 @@
                 "ANTI/": "ANTI/ ist ein Prefix, dass das genauen Gegenteil des Code ausdrückt."
             };
             
-            // Initialisiere das System - Prüfe welche Dateien verfügbar sind
+            // Initialisiere das System
             initSystem();
-            
-            async function initSystem() {
-                // Umlaute den entsprechenden Dateinamen zuordnen
-                availableFiles['Ä'] = false;  // Wird später überprüft
-                availableFiles['Ö'] = false;
-                availableFiles['Ü'] = false;
-                
-                // Prüfe, welche Dateien verfügbar sind
-                for (let i = 0; i < AVAILABLE_LETTERS.length; i++) {
-                    const letter = AVAILABLE_LETTERS[i];
-                    const fileName = getFileNameForLetter(letter);
-                    
-                    try {
-                        const response = await fetch(fileName, { method: 'HEAD' });
-                        availableFiles[letter] = response.ok;
-                        
-                        if (response.ok && !currentFile) {
-                            // Lade die erste verfügbare Datei
-                            await loadAndProcessFile(letter);
-                        }
-                    } catch (error) {
-                        availableFiles[letter] = false;
-                        console.warn(`Datei ${fileName} nicht verfügbar.`);
-                    }
-                }
-                
-                // Wenn keine Datei geladen wurde, versuche 'A'
-                if (!currentFile) {
-                    try {
-                        await loadAndProcessFile('A');
-                    } catch (error) {
-                        showError("Keine Verbdateien gefunden. Bitte geben Sie ein Verb ein, um zu starten.");
-                    }
-                }
-                
-                // Aktiviere die Buttons basierend auf verfügbaren Dateien
-                updateNavButtons();
-            }
             
             // Event-Listeners für Formel-Zusätze
             document.querySelectorAll('.formula-item').forEach(item => {
@@ -419,120 +372,52 @@
                 });
             });
             
-            // Hilfsfunktion: Ermittle den Dateinamen basierend auf dem Buchstaben
-            function getFileNameForLetter(letter) {
-                if (!letter) return null;
-                
-                // Spezialbehandlung für Umlaute
-                const letterMapping = {
-                    'Ä': 'AE',
-                    'Ö': 'OE',
-                    'Ü': 'UE'
-                };
-                
-                const mappedLetter = letterMapping[letter] || letter;
-                return `D_${mappedLetter}.txt`;
-            }
-            
-            // Hilfsfunktion: Lade eine Datei basierend auf dem Anfangsbuchstaben
-            async function loadFileForLetter(letter) {
-                if (!letter) {
-                    throw new Error("Kein Buchstabe angegeben");
-                }
-                
-                // Normalisiere den Buchstaben
-                letter = letter.toUpperCase();
-                
-                // Prüfe, ob der Buchstabe verfügbar ist
-                if (availableFiles[letter] === false) {
-                    throw new Error(`Datei für Buchstaben "${letter}" ist nicht verfügbar.`);
-                }
-                
-                // Prüfe den Cache
-                if (cachedFiles[letter]) {
-                    console.log(`Verwende gecachte Datei für "${letter}"`);
-                    return cachedFiles[letter];
-                }
-                
-                const fileName = getFileNameForLetter(letter);
-                console.log(`Lade Datei "${fileName}" für Buchstaben "${letter}"...`);
-                
-                // Zeige Ladeindikator
-                loadingIndicator.style.display = 'block';
-                
+            // Lade die Daten aus beiden Dateien
+            async function initSystem() {
                 try {
-                    const response = await fetch(fileName);
+                    loadingIndicator.style.display = 'block';
                     
-                    if (!response.ok) {
-                        availableFiles[letter] = false;
-                        throw new Error(`Datei ${fileName} konnte nicht geladen werden (${response.status})`);
+                    // Lade beide Dateien nacheinander
+                    const file1 = await fetch('Coded_Verbs.txt').then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Fehler beim Laden der ersten Datei: ${response.status}`);
+                        }
+                        return response.text();
+                    });
+                    
+                    const file2 = await fetch('Coded_Verbs_B.txt').then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Fehler beim Laden der zweiten Datei: ${response.status}`);
+                        }
+                        return response.text();
+                    });
+                    
+                    // Kombiniere die Inhalte beider Dateien
+                    const combinedData = file1 + '\n\n' + file2;
+                    
+                    // Verarbeite die Daten
+                    processVerbData(combinedData);
+                    dataLoaded = true;
+                    
+                    // Aktualisiere die Buttons
+                    updateNavButtons();
+                    
+                    // Zeige den ersten Eintrag an
+                    if (verbEntries.length > 0) {
+                        displayEntry(0);
                     }
                     
-                    const text = await response.text();
-                    
-                    // Prüfe ob der Text nicht leer ist
-                    if (!text.trim()) {
-                        throw new Error(`Datei ${fileName} ist leer.`);
-                    }
-                    
-                    // Speichere im Cache
-                    cachedFiles[letter] = text;
-                    currentFile = letter;
-                    availableFiles[letter] = true;
-                    
-                    console.log(`Datei "${fileName}" erfolgreich geladen.`);
-                    return text;
+                    console.log('Daten erfolgreich geladen und verarbeitet');
                 } catch (error) {
-                    console.error(`Fehler beim Laden der Datei "${fileName}":`, error);
-                    throw error;
+                    console.error('Fehler beim Laden der Daten:', error);
+                    showError(`Fehler beim Laden der Daten: ${error.message}`);
                 } finally {
-                    // Verstecke Ladeindikator
                     loadingIndicator.style.display = 'none';
                 }
             }
             
-            // Lade eine Datei und verarbeite sie
-            async function loadAndProcessFile(letter) {
-                try {
-                    // Prüfe, ob der Buchstabe gültig ist
-                    if (!letter || !AVAILABLE_LETTERS.includes(letter)) {
-                        console.error(`Ungültiger Buchstabe: ${letter}`);
-                        return false;
-                    }
-                    
-                    // Wenn wir bereits die richtige Datei geladen haben, nichts tun
-                    if (currentFile === letter && verbEntries.length > 0) {
-                        console.log(`Datei für '${letter}' ist bereits geladen.`);
-                        return true;
-                    }
-                    
-                    // Prüfe, ob die Datei verfügbar ist
-                    if (availableFiles[letter] === false) {
-                        console.warn(`Datei für Buchstaben "${letter}" ist nicht verfügbar.`);
-                        showError(`Datei für Buchstaben "${letter}" ist nicht verfügbar.`);
-                        return false;
-                    }
-                    
-                    console.log(`Lade Datei für Buchstaben '${letter}'...`);
-                    
-                    // Lade die Datei
-                    const text = await loadFileForLetter(letter);
-                    
-                    // Verarbeite die Daten
-                    processVerbFile(text);
-                    
-                    console.log(`Datei für '${letter}' erfolgreich geladen und verarbeitet.`);
-                    
-                    return verbEntries.length > 0;
-                } catch (error) {
-                    console.error(`Fehler beim Laden der Datei für "${letter}":`, error);
-                    showError(`Fehler beim Laden der Datei für "${letter}": ${error.message}`);
-                    return false;
-                }
-            }
-            
             // Verarbeite die Verbdatei und strukturiere die Daten
-            function processVerbFile(text) {
+            function processVerbData(text) {
                 console.log("Verarbeite Datei...");
                 
                 // Zurücksetzen der aktuellen Daten
@@ -621,13 +506,6 @@
                 console.log("Verarbeitung abgeschlossen");
                 console.log(`Gefundene Einträge: ${verbEntries.length}`);
                 console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
-                
-                // Aktualisiere die Anzeige
-                if (verbEntries.length > 0) {
-                    displayEntry(0);
-                }
-                
-                updateNavButtons();
             }
             
             // Zeige einen Eintrag an
@@ -656,231 +534,54 @@
                     explanationDisplay.style.display = 'block';
                 }
                 
-                // Keine Alternativen mehr anzeigen, da jede Bedeutung einzeln dargestellt wird
-                alternativesArea.style.display = 'none';
+                // Zeige ggf. Alternativen an, wenn es mehr als eine Bedeutung gibt
+                if (entry.totalMeanings > 1) {
+                    let alternativesHTML = `<strong>Weitere Bedeutungen von "${entry.verb}":</strong><br>`;
+                    
+                    // Sammle alle Bedeutungen dieses Verbs
+                    const meaningEntries = verbEntries.filter(e => e.verb === entry.verb);
+                    
+                    meaningEntries.forEach((meaning, idx) => {
+                        if (idx + 1 !== entry.meaningNumber) {  // Nicht die aktuelle Bedeutung anzeigen
+                            const meaningIndex = verbEntries.indexOf(meaning);
+                            alternativesHTML += `<div class="alternative-item">
+                                <a href="#" data-index="${meaningIndex}" class="meaning-link">Bedeutung ${idx + 1}</a>: ${meaning.code}
+                            </div>`;
+                        }
+                    });
+                    
+                    alternativesArea.innerHTML = alternativesHTML;
+                    alternativesArea.style.display = 'block';
+                    
+                    // Event-Listener für Links zu anderen Bedeutungen
+                    document.querySelectorAll('.meaning-link').forEach(link => {
+                        link.addEventListener('click', function(e) {
+                            e.preventDefault();
+                            const targetIndex = parseInt(this.getAttribute('data-index'));
+                            displayEntry(targetIndex);
+                        });
+                    });
+                } else {
+                    alternativesArea.style.display = 'none';
+                }
                 
                 // Fehler und Vorschläge zurücksetzen
                 hideError();
                 hideSuggestions();
                 
-                // Scrolle nach oben
-                window.scrollTo(0, 0);
-                
                 // Aktualisiere die Navigation
                 updateNavButtons();
             }
             
-            // Ermittle den letzten verfügbaren Buchstaben
-            function getLastAvailableLetter() {
-                for (let i = AVAILABLE_LETTERS.length - 1; i >= 0; i--) {
-                    const letter = AVAILABLE_LETTERS[i];
-                    if (availableFiles[letter]) {
-                        return letter;
-                    }
-                }
-                return null;
-            }
-            
-            // Ermittle den ersten verfügbaren Buchstaben
-            function getFirstAvailableLetter() {
-                for (let i = 0; i < AVAILABLE_LETTERS.length; i++) {
-                    const letter = AVAILABLE_LETTERS[i];
-                    if (availableFiles[letter]) {
-                        return letter;
-                    }
-                }
-                return null;
-            }
-            
-            // Navigation zum vorherigen Eintrag (auch über Dateigrenzen)
-            async function goToPrevious() {
-                // Speichern Sie den aktuellen Zustand vor der Navigation
-                const previousFile = currentFile;
-                const previousIndex = currentIndex;
-                
-                if (currentIndex > 0) {
-                    // Zum vorherigen Eintrag in der aktuellen Datei wechseln
-                    displayEntry(currentIndex - 1);
-                } else {
-                    // Suche nach dem vorherigen verfügbaren Buchstaben
-                    const currentPos = AVAILABLE_LETTERS.indexOf(currentFile);
-                    let prevLetter = null;
-                    
-                    // Durchlaufe alle vorherigen Buchstaben (rückwärts)
-                    for (let i = currentPos - 1; i >= 0; i--) {
-                        const letter = AVAILABLE_LETTERS[i];
-                        if (availableFiles[letter]) {
-                            prevLetter = letter;
-                            break;
-                        }
-                    }
-                    
-                    if (prevLetter) {
-                        console.log(`Navigiere zu vorherigem Buchstaben: ${prevLetter}`);
-                        try {
-                            // Lade die vorherige Datei
-                            const success = await loadAndProcessFile(prevLetter);
-                            
-                            if (success && verbEntries.length > 0) {
-                                // Springe zum letzten Eintrag dieser Datei
-                                displayEntry(verbEntries.length - 1);
-                            } else {
-                                // Bei Fehlern den vorherigen Zustand wiederherstellen
-                                if (previousFile && previousIndex >= 0) {
-                                    await loadAndProcessFile(previousFile);
-                                    displayEntry(previousIndex);
-                                }
-                                showError(`Fehler beim Laden der Datei für '${prevLetter}'`);
-                            }
-                        } catch (error) {
-                            console.error(`Fehler beim Laden der Datei ${prevLetter}:`, error);
-                            // Bei Fehlern vorherigen Zustand wiederherstellen
-                            if (previousFile && previousIndex >= 0) {
-                                await loadAndProcessFile(previousFile);
-                                displayEntry(previousIndex);
-                            }
-                            showError(`Fehler beim Laden der Datei für '${prevLetter}': ${error.message}`);
-                        }
-                    } else {
-                        showError("Sie befinden sich bereits am Anfang der Datenbank.");
-                    }
-                }
-            }
-            
-            // Navigation zum nächsten Eintrag (auch über Dateigrenzen)
-            async function goToNext() {
-                // Speichern Sie den aktuellen Zustand vor der Navigation
-                const previousFile = currentFile;
-                const previousIndex = currentIndex;
-                
-                if (currentIndex < verbEntries.length - 1) {
-                    // Zum nächsten Eintrag in der aktuellen Datei wechseln
-                    displayEntry(currentIndex + 1);
-                } else {
-                    // Suche nach dem nächsten verfügbaren Buchstaben
-                    const currentPos = AVAILABLE_LETTERS.indexOf(currentFile);
-                    let nextLetter = null;
-                    
-                    // Durchlaufe alle folgenden Buchstaben
-                    for (let i = currentPos + 1; i < AVAILABLE_LETTERS.length; i++) {
-                        const letter = AVAILABLE_LETTERS[i];
-                        if (availableFiles[letter]) {
-                            nextLetter = letter;
-                            break;
-                        }
-                    }
-                    
-                    if (nextLetter) {
-                        console.log(`Navigiere zu nächstem Buchstaben: ${nextLetter}`);
-                        try {
-                            // Lade die nächste Datei
-                            const success = await loadAndProcessFile(nextLetter);
-                            
-                            if (success && verbEntries.length > 0) {
-                                // Springe zum ersten Eintrag dieser Datei
-                                displayEntry(0);
-                            } else {
-                                // Bei Fehlern den vorherigen Zustand wiederherstellen
-                                if (previousFile && previousIndex >= 0) {
-                                    await loadAndProcessFile(previousFile);
-                                    displayEntry(previousIndex);
-                                }
-                                showError(`Fehler beim Laden der Datei für '${nextLetter}'`);
-                            }
-                        } catch (error) {
-                            console.error(`Fehler beim Laden der Datei ${nextLetter}:`, error);
-                            // Bei Fehlern vorherigen Zustand wiederherstellen
-                            if (previousFile && previousIndex >= 0) {
-                                await loadAndProcessFile(previousFile);
-                                displayEntry(previousIndex);
-                            }
-                            showError(`Fehler beim Laden der Datei für '${nextLetter}': ${error.message}`);
-                        }
-                    } else {
-                        showError("Sie haben das Ende der Datenbank erreicht.");
-                    }
-                }
-            }
-            
-            // Navigation zum ersten Eintrag der ersten Datei
-            async function goToFirst() {
-                const firstLetter = getFirstAvailableLetter();
-                
-                if (firstLetter) {
-                    try {
-                        const success = await loadAndProcessFile(firstLetter);
-                        
-                        if (success && verbEntries.length > 0) {
-                            displayEntry(0);
-                        }
-                    } catch (error) {
-                        showError(`Fehler beim Navigieren zur ersten Seite: ${error.message}`);
-                    }
-                } else {
-                    showError("Keine Dateien verfügbar.");
-                }
-            }
-            
-            // Navigation zum letzten Eintrag der letzten Datei
-            async function goToLast() {
-                // Lade die letzte verfügbare Datei
-                const lastLetter = getLastAvailableLetter();
-                
-                if (lastLetter) {
-                    try {
-                        const success = await loadAndProcessFile(lastLetter);
-                        
-                        if (success && verbEntries.length > 0) {
-                            displayEntry(verbEntries.length - 1);
-                        }
-                    } catch (error) {
-                        showError(`Fehler beim Navigieren zur letzten Seite: ${error.message}`);
-                    }
-                } else {
-                    showError("Keine Dateien verfügbar.");
-                }
-            }
-            
-            // Suche nach einem Verb mit dynamischem Laden der passenden Datei
-            async function searchVerbWithFileLoading(term) {
-                if (!term) {
-                    hideSuggestions();
-                    return false;
-                }
-                
-                term = term.toLowerCase().trim();
-                const firstLetter = term.charAt(0).toUpperCase();
-                
-                // Prüfe, ob der Buchstabe verfügbar ist
-                if (!AVAILABLE_LETTERS.includes(firstLetter)) {
-                    showError(`Verben mit dem Anfangsbuchstaben "${firstLetter}" sind nicht verfügbar.`);
-                    return false;
-                }
-                
-                // Prüfe, ob wir die richtige Datei bereits geladen haben
-                if (currentFile !== firstLetter) {
-                    try {
-                        // Lade die passende Datei für den Buchstaben
-                        const success = await loadAndProcessFile(firstLetter);
-                        
-                        if (!success) {
-                            showError(`Konnte keine Verben mit dem Anfangsbuchstaben "${firstLetter}" laden.`);
-                            return false;
-                        }
-                    } catch (error) {
-                        showError(`Fehler beim Laden der Datei: ${error.message}`);
-                        return false;
-                    }
-                }
-                
-                // Jetzt können wir in den geladenen Einträgen suchen
-                return searchVerb(term);
-            }
-            
-            // Suche nach einem Verb innerhalb der aktuell geladenen Daten
+            // Suche nach einem Verb
             function searchVerb(term) {
                 if (!term) {
                     hideSuggestions();
+                    return false;
+                }
+                
+                if (!dataLoaded) {
+                    showError("Daten werden noch geladen. Bitte warten Sie einen Moment.");
                     return false;
                 }
                 
@@ -964,7 +665,7 @@
                             e.preventDefault();
                             const selectedVerb = this.textContent;
                             searchInput.value = selectedVerb;
-                            searchVerbWithFileLoading(selectedVerb);
+                            searchVerb(selectedVerb);
                         });
                     });
                 } else {
@@ -999,30 +700,48 @@
             
             // Navigationsbuttons aktualisieren
             function updateNavButtons() {
-                // Prüfe die aktuelle Position und verfügbare Dateien
-                const isFirstLetter = currentFile === getFirstAvailableLetter();
-                const isLastLetter = currentFile === getLastAvailableLetter();
-                const isFirstEntry = currentIndex === 0;
-                const isLastEntry = currentIndex === verbEntries.length - 1;
-                
-                // Aktiviere/deaktiviere Buttons entsprechend
-                firstButton.disabled = isFirstLetter && isFirstEntry;
-                prevButton.disabled = isFirstLetter && isFirstEntry;
-                
-                // Für die Vorwärts-Buttons müssen wir prüfen, ob es überhaupt weitere Dateien gibt
-                let hasNextFile = false;
-                const currentPos = AVAILABLE_LETTERS.indexOf(currentFile);
-                
-                for (let i = currentPos + 1; i < AVAILABLE_LETTERS.length; i++) {
-                    if (availableFiles[AVAILABLE_LETTERS[i]]) {
-                        hasNextFile = true;
-                        break;
-                    }
+                if (!dataLoaded) {
+                    // Deaktiviere alle Buttons, wenn Daten noch nicht geladen sind
+                    firstButton.disabled = true;
+                    prevButton.disabled = true;
+                    nextButton.disabled = true;
+                    lastButton.disabled = true;
+                    return;
                 }
                 
-                // Deaktiviere "Weiter" und "Letzte Seite" nur, wenn wir am Ende der letzten Datei sind
-                nextButton.disabled = isLastLetter && isLastEntry && !hasNextFile;
-                lastButton.disabled = isLastLetter && isLastEntry && !hasNextFile;
+                // Aktiviere/deaktiviere Buttons entsprechend
+                firstButton.disabled = currentIndex === 0;
+                prevButton.disabled = currentIndex === 0;
+                nextButton.disabled = currentIndex >= verbEntries.length - 1;
+                lastButton.disabled = currentIndex >= verbEntries.length - 1;
+            }
+            
+            // Navigiere zum ersten Eintrag
+            function goToFirst() {
+                if (verbEntries.length > 0) {
+                    displayEntry(0);
+                }
+            }
+            
+            // Navigiere zum vorherigen Eintrag
+            function goToPrevious() {
+                if (currentIndex > 0) {
+                    displayEntry(currentIndex - 1);
+                }
+            }
+            
+            // Navigiere zum nächsten Eintrag
+            function goToNext() {
+                if (currentIndex < verbEntries.length - 1) {
+                    displayEntry(currentIndex + 1);
+                }
+            }
+            
+            // Navigiere zum letzten Eintrag
+            function goToLast() {
+                if (verbEntries.length > 0) {
+                    displayEntry(verbEntries.length - 1);
+                }
             }
             
             // Event-Listener registrieren
@@ -1043,7 +762,7 @@
                 // Warte kurz, bevor die Suche durchgeführt wird
                 searchTimeout = setTimeout(() => {
                     if (term !== lastSearchTerm) {
-                        searchVerbWithFileLoading(term);
+                        searchVerb(term);
                         lastSearchTerm = term;
                     }
                 }, 300);
@@ -1063,7 +782,7 @@
                     return;
                 }
                 
-                searchVerbWithFileLoading(term);
+                searchVerb(term);
             });
             
             // Navigationstasten
@@ -1079,7 +798,7 @@
                     if (e.key === 'Enter') {
                         const term = searchInput.value.trim();
                         if (term) {
-                            searchVerbWithFileLoading(term);
+                            searchVerb(term);
                         }
                     }
                     return;
