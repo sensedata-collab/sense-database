@@ -90,12 +90,20 @@
             display: flex;
             justify-content: space-between;
             margin-top: 10px;
+            flex-direction: column;
         }
         
         .nav-buttons {
             display: flex;
             gap: 10px;
             flex-wrap: wrap;
+        }
+        
+        .nav-hint {
+            margin-top: 8px;
+            font-size: 12px;
+            color: #666;
+            text-align: center;
         }
         
         .display-area {
@@ -177,19 +185,6 @@
             border-radius: 4px;
             border-left: 2px solid #ccc;
             line-height: 1.4;
-        }
-        
-        .alternatives {
-            margin-top: 12px;
-            border-top: 1px dashed #ccc;
-            padding-top: 10px;
-        }
-        
-        .alternative-item {
-            margin-bottom: 10px;
-            padding: 6px;
-            background-color: #f0f0f0;
-            border-radius: 4px;
         }
         
         .suggestion {
@@ -296,8 +291,6 @@
             <div class="complexity-info" id="complexityInfo">
                 Komplexe Funktionalitäten erkennt man an längeren Zahlen-Codes mit 4 - 7 Zahlen-Elementen.
             </div>
-            
-            <div class="alternatives" id="alternativesArea" style="display: none;"></div>
         </div>
         
         <div class="navigation">
@@ -306,6 +299,9 @@
                 <button id="prevButton">Zurück</button>
                 <button id="nextButton">Weiter</button>
                 <button id="lastButton">Letzte Seite</button>
+            </div>
+            <div class="nav-hint">
+                Weitere Bedeutungen des Verbs durch "Weiter" schalten.
             </div>
         </div>
         
@@ -323,6 +319,7 @@
             let searchTimeout;                // Timeout für die Sucheingabe
             let lastSearchTerm = '';          // Letzter Suchbegriff
             let dataLoaded = false;           // Marker ob Daten geladen wurden
+            let initialSetupDone = false;     // Flag für die einmalige Auswahl von "denken"
             
             // DOM-Elemente
             const searchInput = document.getElementById('searchInput');
@@ -334,7 +331,6 @@
             const currentVerb = document.getElementById('currentVerb');
             const codeDisplay = document.getElementById('codeDisplay');
             const explanationDisplay = document.getElementById('explanationDisplay');
-            const alternativesArea = document.getElementById('alternativesArea');
             const firstButton = document.getElementById('firstButton');
             const prevButton = document.getElementById('prevButton');
             const nextButton = document.getElementById('nextButton');
@@ -402,9 +398,10 @@
                     // Aktualisiere die Buttons
                     updateNavButtons();
                     
-                    // Zeige den ersten Eintrag an
-                    if (verbEntries.length > 0) {
-                        displayEntry(0);
+                    // Einmalig zum Verb "denken" navigieren
+                    if (!initialSetupDone) {
+                        goToVerb("denken");
+                        initialSetupDone = true;
                     }
                     
                     console.log('Daten erfolgreich geladen und verarbeitet');
@@ -508,6 +505,21 @@
                 console.log(`Einzigartige Verben: ${uniqueVerbs.length}`);
             }
             
+            // Zum Verb "denken" navigieren
+            function goToVerb(verbToFind) {
+                // Suche nach dem Verb (erste Bedeutung)
+                const verbIndex = verbEntries.findIndex(entry => 
+                    entry.verb.toLowerCase() === verbToFind.toLowerCase() && entry.meaningNumber === 1
+                );
+                
+                if (verbIndex !== -1) {
+                    displayEntry(verbIndex);
+                    return true;
+                }
+                
+                return false;
+            }
+            
             // Zeige einen Eintrag an
             function displayEntry(index) {
                 if (index < 0 || index >= verbEntries.length) {
@@ -532,37 +544,6 @@
                 } else {
                     explanationDisplay.textContent = "Keine Begründung verfügbar";
                     explanationDisplay.style.display = 'block';
-                }
-                
-                // Zeige ggf. Alternativen an, wenn es mehr als eine Bedeutung gibt
-                if (entry.totalMeanings > 1) {
-                    let alternativesHTML = `<strong>Weitere Bedeutungen von "${entry.verb}":</strong><br>`;
-                    
-                    // Sammle alle Bedeutungen dieses Verbs
-                    const meaningEntries = verbEntries.filter(e => e.verb === entry.verb);
-                    
-                    meaningEntries.forEach((meaning, idx) => {
-                        if (idx + 1 !== entry.meaningNumber) {  // Nicht die aktuelle Bedeutung anzeigen
-                            const meaningIndex = verbEntries.indexOf(meaning);
-                            alternativesHTML += `<div class="alternative-item">
-                                <a href="#" data-index="${meaningIndex}" class="meaning-link">Bedeutung ${idx + 1}</a>: ${meaning.code}
-                            </div>`;
-                        }
-                    });
-                    
-                    alternativesArea.innerHTML = alternativesHTML;
-                    alternativesArea.style.display = 'block';
-                    
-                    // Event-Listener für Links zu anderen Bedeutungen
-                    document.querySelectorAll('.meaning-link').forEach(link => {
-                        link.addEventListener('click', function(e) {
-                            e.preventDefault();
-                            const targetIndex = parseInt(this.getAttribute('data-index'));
-                            displayEntry(targetIndex);
-                        });
-                    });
-                } else {
-                    alternativesArea.style.display = 'none';
                 }
                 
                 // Fehler und Vorschläge zurücksetzen
