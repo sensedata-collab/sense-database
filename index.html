@@ -91,11 +91,8 @@
             justify-content: space-between;
             margin-top: 10px;
             flex-direction: column;
-        }
-        
-        .nav-wrapper {
-            /* Verschiebung nach rechts */
-            padding-left: 110px;
+            /* Gleicher Abstand wie bei .explanation-block (12px Padding + 2px Border) */
+            padding-left: 14px;
         }
         
         .nav-buttons {
@@ -229,10 +226,6 @@
                 flex-direction: column;
                 align-items: stretch;
             }
-            
-            .nav-wrapper {
-                padding-left: 0; /* Bei kleinen Bildschirmen keinen Einzug */
-            }
         }
         
         /* Für kleinere Bildschirme, aber dafür sorgen, dass Buttons sichtbar bleiben */
@@ -307,16 +300,14 @@
         </div>
         
         <div class="navigation">
-            <div class="nav-wrapper">
-                <div class="nav-buttons">
-                    <button id="firstButton">Erste Seite</button>
-                    <button id="prevButton">Zurück</button>
-                    <button id="nextButton">Weiter</button>
-                    <button id="lastButton">Letzte Seite</button>
-                </div>
-                <div class="nav-hint">
-                    Durch weitere Bedeutungen des Verbs mit "Weiter" schalten.
-                </div>
+            <div class="nav-buttons">
+                <button id="firstButton">Erste Seite</button>
+                <button id="prevButton">Zurück</button>
+                <button id="nextButton">Weiter</button>
+                <button id="lastButton">Letzte Seite</button>
+            </div>
+            <div class="nav-hint">
+                Durch weitere Bedeutungen des Verbs mit "Weiter" schalten.
             </div>
         </div>
         
