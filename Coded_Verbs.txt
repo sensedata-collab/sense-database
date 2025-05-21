@@ -10496,10 +10496,10 @@ denken: Interpersonal/Attention 3/5/Goal 5/Goal 1/het/ecc
 Begründung: An jemanden denken bedeutet, mental auf eine Person zuzugehen (3), Erinnerungen und Informationen über sie zu suchen (5), um informiert zu sein (Goal 5) und eine Form von Nähe zu empfinden (Goal 1).. Heteronom/Exzentrisch.
 
 denunzieren: Material/Fight/Intelligence-Operations 3/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Der Akteur bewegt sich (3) um eine Leistung (4) zu erbringen, indem er Informationen gibt (1/5), die einen unerwünschten Zustand für den Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen gewünschten Zustand zu erreichen (//Goal 2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung im Außenbereich liegt.. Autonom/Exzentrisch.
+Begründung: Der Akteur geht  auf jmd. zu (3) um zu geben (4/1) eine Informationen (5), die einen unerwünschten Zustand für einen Antagonisten bewirkt (Goal -2). Dies dient dem Ziel des Akteurs, einen eigenen Vorteil/gewünschten Zustand zu erreichen (//Goal 2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung im Außenbereich liegt.. Autonom/Exzentrisch.
 
-denunzieren: Material/Criminal/Investigation 3/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Im behördlichen Kontext: Der Akteur bewegt sich (3) um eine Leistung (4) zu erbringen, indem er belastende Informationen (1/5) weitergibt, die einen negativen Zustand für den Denunzierten herbeiführen (Goal -2), um einen eigenen Vorteil/gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+denunzieren: Material/Authorities 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im behördlichen Kontext: Der Akteur geht  auf jmd. zu (3) um zu geben (4/1), belastende Informationen (5), die einen negativen Zustand für den Denunzierten herbeiführen (Goal -2), um einen einen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 deployen: Material/IT/Process 2/3/1/Goal 2/Goal 5/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über eine Software-Anwendung, bewegt sie (3) und übergibt sie (1) an ein System, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei Informationen (Goal 5) verfügbar gemacht werden. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf ein System einwirkt.. Autonom/Exzentrisch.
