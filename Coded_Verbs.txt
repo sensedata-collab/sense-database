@@ -10559,7 +10559,7 @@ desillusionieren: Interpersonal/Relationship 4/1/5/Goal -5//Goal 2/aut/ecc
 Begründung: Im zwischenmenschlichen Bereich bedeutet desillusionieren, dass der Akteur dem Antagonisten eine Information gibt (4/1/5), die dessen positive Erwartungen/Illusionen zunichte macht (Goal -5), um einen realistischeren Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
 
 desinfizieren: Material/Medical/Cleaning 3/1/Goal 2/aut/ecc
-Begründung: Desinfizieren bedeutet, durch Bewegung und Anwendung (3) einer Substanz, die man bekommt (1), einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Keimfreiheit einer Oberfläche oder eines Gegenstands. Dies ist eine autonome Handlung mit Auswirkung auf die äußere Umgebung (aut/ecc).. Autonom/Exzentrisch.
+Begründung: Desinfizieren bedeutet, durch Bewegung und Anwendung (3) einer Substanz, so dass man bekommt (1), einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Keimfreiheit einer Oberfläche oder eines Gegenstands. Dies ist eine autonome Handlung mit Auswirkung auf die äußere Umgebung (aut/ecc).. Autonom/Exzentrisch.
 
 desinfizieren: Material/Health 3/Goal 2/Goal 5/aut/ecc
 Begründung: Im Gesundheitskontext bedeutet desinfizieren, aktiv durch Bewegung/Anstreben (3) einen gewünschten hygienischen Zustand (Goal 2) herzustellen, der das Ziel hat, Infektionen zu verhindern und damit informiert über die Sicherheit zu sein (Goal 5).. Autonom/Exzentrisch.
