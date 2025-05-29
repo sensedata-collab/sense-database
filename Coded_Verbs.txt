@@ -3554,10 +3554,7 @@ assoziieren: Interpersonal/Social 3/5/Goal 5/het/ecc
 Begründung: Im sozialen Kontext bedeutet assoziieren, sich mit anderen Personen oder Gruppen zu verbinden. Man bewegt sich (3) in einen Kontakt (5) mit dem Ziel, in Verbindung zu stehen (Goal 5). Die heteronome, exzentrische Ausrichtung (het/ecc) zeigt die Anpassung an soziale Strukturen.. Heteronom/Exzentrisch.
 
 atmen: Material/Biological/Process 4/Goal 4/aut/con
-Begründung: Atmen ist ein biologischer Grundprozess, bei dem der Akteur eine lebenswichtige Leistung (4) für sich selbst erbringt, um seine Existenz aufrechtzuerhalten (Goal 4). Die Ausrichtung ist autonom (aut), da der Prozess vom Körper selbstständig gesteuert wird, und konzentrisch (con), da er im eigenen Körperinneren stattfindet.. Autonom/Konzentrisch.
-
-atmen: Material/Physical/Organ 4/Goal 4/aut/con
-Begründung: Im Kontext der Körperfunktionen bezieht sich Atmen auf die Tätigkeit der Lunge (Organ), die eine Leistung für den Organismus erbringt, indem sie Sauerstoff aufnimmt und Kohlendioxid abgibt, wodurch der Körper am Leben erhalten wird.. Autonom/Konzentrisch.
+Begründung: Atmen ist ein biologischer Grundprozess, bei dem der Akteur seinen Brustkorb bewegt  (3), um Luft zu bekommen (Goal 1). Die Ausrichtung ist autonom (het), da der Prozess nach Bedarf abläuft, und konzentrisch (con), da er im eigenen Körperinneren stattfindet.. Heteronom/Konzentrisch.
 
 attackieren: Material/Fight/Aggression 3/Goal 3/Goal 2/aut/ecc
 Begründung: Attackieren bedeutet das aktive, zielgerichtete Bewegen/Anstreben (3) gegen einen Gegner, um eine Wirkung (Goal 3) zu erzielen mit dem übergeordneten Ziel, einen Kampferfolg (Goal 2) zu erreichen. Die Ausrichtung ist autonom/exzentrisch (aut/ecc), da der Akteur selbstbestimmt handelt und nach außen auf den Gegner einwirkt.. Autonom/Exzentrisch.
