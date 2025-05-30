@@ -11773,8 +11773,8 @@ Begründung: Im Kontext der Herstellung bedeutet 'einarbeiten' das Bewegen (3) u
 einarbeiten: Material/Labor 4/3/1/2/Goal 5/Goal 2//Goal 4/het/ecc
 Begründung: Als Führungskraft jemanden einarbeiten bedeutet, eine Leistung (4) für den Antagonisten zu erbringen, indem man durch Bewegung (3) und Informationsgabe (1/2/Goal 5) ihm hilft, einen gewünschten Arbeitszustand zu erreichen (Goal 2), mit dem Ziel, berufliche Anerkennung zu bekommen (//Goal 4).. Heteronom/Exzentrisch.
 
-einatmen: Material/Physical 4/Goal 4/aut/con
-Begründung: Beim Einatmen leistet der Akteur durch seine Atemmuskulatur eine lebensnotwendige Funktion (4) für den eigenen Körper, um sauerstoffversorgungsbereit zu sein (Goal 4). Diese autonome Tätigkeit findet im eigenen inneren Bereich statt (aut/con).. Autonom/Konzentrisch.
+einatmen: Material/Biological/Process 3/Goal 1/het/con
+Begründung: Atmen ist ein biologischer Grundprozess, bei dem der Akteur seinen Brustkorb bewegt  (3), um Luft zu bekommen (Goal 1). Die Ausrichtung ist heternom (het), da der Prozess nach Bedarf abläuft, und konzentrisch (con), da er im eigenen Körperinneren stattfindet.. Heteronom/Konzentrisch.
 
 einatmen: Material/Medical 1/Goal 1/het/ecc
 Begründung: Im medizinischen Kontext kann Einatmen auch das bewusste Aufnehmen (1) eines bestimmten Stoffes (z.B. Medikament als Spray) bedeuten, um diesen in den Körper zu bekommen und damit einen therapeutischen Effekt zu erzielen (Goal 1).. Heteronom/Exzentrisch.
