@@ -10525,7 +10525,7 @@ Begründung: Der Akteur bewegt sich (3) zu einem Antagonisten, leistet etwas fü
 deprimieren: Material/Psychological 1/3/Goal -0/het/ecc
 Begründung: In der Bedeutung 'deprimiert werden/sein': Der Akteur erlebt (bekommen, 1) durch bewegende Umstände (3) einen Zustand der fehlenden Zuversicht (Goal -0). Die Ausrichtung ist heteronom/exzentrisch, da der Zustand von außen verursacht wird.. Heteronom/Exzentrisch.
 
-deregulieren: Material/Government/deregulate 2/3/Goal 2/aut/ecc
+deregulieren: Material/Government/Deregulate 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), indem er Vorschriften/Regelungen abschafft oder lockert. Das Deregulieren ist ein autonomer (aut) Vorgang, der in die Umwelt hineinwirkt (ecc), da bestehende Regelungen verändert werden, was Auswirkungen auf die regulierte Umgebung hat.. Autonom/Exzentrisch.
 
 designen: Material/Creative 2/3/Goal 2/aut/ecc
