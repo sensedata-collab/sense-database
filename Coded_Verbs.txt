@@ -7546,6 +7546,9 @@ Begründung: Der Akteur bewegt sich (3) in eine besondere Position (auf die Knie
 beknien: Interpersonal/Relationship 3/4/1/5/Goal -2//Goal 3/het/ecc
 Begründung: In einer intensiveren Bedeutung leistet der Akteur (4) durch eine Unterwerfungsgeste (3) und gibt (1) Information (5), um einen unerwünschten Zustand beim Antagonisten (Goal -2) zu überwinden und letztlich eine bestimmte Wirkung für sich selbst zu erzielen (//Goal 3). Diese Kodierung betont stärker den Leistungsaspekt des Bittenden gegenüber dem Gebetenen.. Heteronom/Exzentrisch.
 
+bekommen: Material 1/Goal 1/het/ecc
+Begründung: Der Akteur bekommt etwas (1), um etwas bekommen zu haben. Es handelt sich um ein passives Bekommen von außen (het/ecc).. Heteronom/Exzentrisch.
+
 bekriegen: Material/Fight/Aggression/War 3/1/Goal 3//Goal -2/aut/ecc
 Begründung: Beim Bekriegen bewegt sich der Akteur aggressiv (3) gegen einen Antagonisten und bekommt dadurch (1) eine bestimmte Wirkung (Goal 3), wobei gleichzeitig der gewünschte Zustand des Antagonisten bekämpft wird (//Goal -2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur selbstbestimmt die aggressive Handlung ausführt und nach außen in Richtung des Antagonisten wirkt.. Autonom/Exzentrisch.
 
@@ -10489,11 +10492,11 @@ Begründung: Bei problemlösendem Denken werden Informationen mental bewegt (3) 
 denken: Interpersonal/Attention 3/5/Goal 5/Goal 1/het/ecc
 Begründung: An jemanden denken bedeutet, mental auf eine Person zuzugehen (3), Erinnerungen und Informationen über sie zu suchen (5), um informiert zu sein (Goal 5) und eine Form von Nähe zu empfinden (Goal 1).. Heteronom/Exzentrisch.
 
-denunzieren: Material/Fight/Intelligence-Operations 3/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Der Akteur geht  auf jmd. zu (3) um zu geben (4/1) eine Informationen (5), die einen unerwünschten Zustand für einen Antagonisten bewirkt (Goal -2). Dies dient dem Ziel des Akteurs, einen eigenen Vorteil/gewünschten Zustand zu erreichen (//Goal 2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung im Außenbereich liegt.. Autonom/Exzentrisch.
+denunzieren: Material/Fight/Propaganda 4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Der Akteur gibt (4/1) Informationen (5), die einen unerwünschten Zustand für einen Antagonisten bewirken (Goal -2). Dies dient dem Ziel des Akteurs, einen eigenen Vorteil/gewünschten Zustand zu erreichen (//Goal 2). Die Handlung ist autonom und nach außen gerichtet (aut/ecc), da der Akteur selbstbestimmt handelt und die Wirkung im Außenbereich liegt.. Autonom/Exzentrisch.
 
-denunzieren: Material/Authorities 3/4/1/5/Goal -2//Goal 2/aut/ecc
-Begründung: Im behördlichen Kontext: Der Akteur geht  auf jmd. zu (3) um zu geben (4/1), belastende Informationen (5), die einen negativen Zustand für den Denunzierten herbeiführen (Goal -2), um einen einen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+denunzieren: Material/Authorities/Denounce 3/4/1/5/Goal -2//Goal 2/aut/ecc
+Begründung: Im behördlichen Kontext: Der Akteur geht  auf die Behörden zu (3) um zu geben (4/1), belastende Informationen (5), die einen negativen Zustand für den Denunzierten herbeiführen (Goal -2), um einen einen gewünschten Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 deployen: Material/IT/Process 2/3/1/Goal 2/Goal 5/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über eine Software-Anwendung, bewegt sie (3) und übergibt sie (1) an ein System, um einen gewünschten Zustand (Goal 2) zu erreichen, wobei Informationen (Goal 5) verfügbar gemacht werden. Die Ausrichtung ist autonom und exzentrisch, da der Akteur selbstbestimmt handelt und nach außen auf ein System einwirkt.. Autonom/Exzentrisch.
@@ -10502,34 +10505,28 @@ deployen: Material/Military 2/3/1/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt/verfügt (2) über Truppen oder Ressourcen, bewegt sie (3) und platziert sie (1) in einem bestimmten Gebiet, um einen gewünschten Zustand (Goal 2) zu erreichen, wie z.B. eine strategische Position zu besetzen.. Autonom/Exzentrisch.
 
 deponieren: Material/Storage 2/3/1/Goal 2/aut/ecc
-Begründung: Der Akteur verfügt (2) über Gegenstände, bewegt (3) sie an einen bestimmten Ort und gibt sie dort ab (1), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich dass die Objekte an einem bestimmten Ort aufbewahrt werden. Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Handlung auf die Umwelt gerichtet ist.. Autonom/Exzentrisch.
+Begründung: Der Akteur verfügt (2) über Gegenstände, bewegt (3) sie an einen bestimmten Ort und gibt sie dort hin (1), um einen gewünschten Zustand zu erreichen (Goal 2), nämlich dass die Objekte an einem bestimmten Ort aufbewahrt werden. Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und exzentrisch (ecc), da die Handlung auf die Umwelt gerichtet ist.. Autonom/Exzentrisch.
 
-deponieren: Material/Law/Court 2/4/1/5/Goal 5//Goal 4/aut/ecc
-Begründung: Im rechtlichen Kontext bedeutet 'deponieren' das Verfügen über (2) und Leisten einer Aussage (4), wobei man Informationen gibt (1/5), damit der Empfänger informiert ist (Goal 5). Nach dem Wechsel zum Akteur (//), dessen Ziel die Erfüllung einer rechtlichen Pflicht und die damit verbundene Anerkennung ist (Goal 4).. Autonom/Exzentrisch.
+deponieren: Material 2/3/1/Goal 2/aut/con
+Begründung: Im privaten Kontext bedeutet 'deponieren' das Verfügen über (2) Gegenstände, bewegt (3) sie an einen bestimmten Ort und stellt sie dort hin, um einen gewünschten Zustand zu bekommen (1/Goal 2), nämlich dass die Objekte an einem bestimmten Ort aufbewahrt werden. Die Ausrichtung ist autonom (aut), da der Akteur selbstbestimmt handelt, und konzentrisch (con), da die Handlung auf den eigenen Bereich gerichtet ist.. Autonom/Konzentrisch.
 
-deponieren: Material/Finance 2/3/1/Goal 2/Goal 4/aut/ecc
-Begründung: Im Finanzkontext bedeutet 'deponieren' das Verfügen über (2) Geld oder Wertgegenstände, das Bewegen (3) dieser Werte zu einer Bank oder einem Depot und das Abgeben (1) derselben, um den gewünschten Zustand (Goal 2) der sicheren Aufbewahrung zu erreichen, mit dem übergeordneten Ziel einer finanziellen Anerkennung wie Zinsen (Goal 4).. Autonom/Exzentrisch.
+deponieren: Material/Finance 2/3/4/1//Goal 2/Goal 4/aut/ecc
+Begründung: Im Finanzkontext bedeutet 'deponieren' das Verfügen über (2) Geld oder Wertgegenstände, das Bewegen (3) dieser Werte zu einer Bank oder einem Depot und das geben (4/1) derselben, um den gewünschten Zustand (//Goal 2) der sicheren Aufbewahrung zu erreichen, mit dem übergeordneten Ziel einer finanziellen Anerkennung wie Zinsen (Goal 4).. Autonom/Exzentrisch.
 
 deponieren: Material/Waste-Disposal 2/3/1/Goal 2/aut/ecc
 Begründung: Im Kontext der Müllentsorgung bedeutet 'deponieren' das Verfügen über (2) Abfall, das Bewegen (3) zu einer Mülldeponie und das Abgeben (1) dort, um den gewünschten Zustand (Goal 2) der ordnungsgemäßen Entsorgung zu erreichen.. Autonom/Exzentrisch.
 
-deportieren: Material/Military 2/3/4/1/Goal -2//Goal 2/aut/ecc
-Begründung: Der Akteur bestimmt (2) mit Bewegung (3) eine Leistung zu erbringen (4), indem er Menschen wegnimmt/entfernt (1), was einen unerwünschten Zustand für die Deportierten (Antagonisten) bewirkt (Goal -2), um einen vom Akteur gewünschten Zustand zu erreichen (//Goal 2). Die Ausrichtung ist autonom/exzentrisch, da der Akteur autoritär handelt und nach außen auf andere einwirkt.. Autonom/Exzentrisch.
-
-deportieren: Material/Government 2/3/4/1/Goal -2//Goal 2/aut/ecc
-Begründung: Im Kontext staatlicher Maßnahmen: Der Akteur (Behörde) bestimmt (2) mit Bewegung (3) eine Zwangsleistung zu erbringen (4), indem er Personen aus dem Land entfernt (1), was einen unerwünschten Zustand für die Betroffenen bewirkt (Goal -2), um einen gewünschten ordnungspolitischen Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
+deportieren: Material/Government/Deport persons 2/3/Goal -2//Goal 2/aut/ecc
+Begründung: Im Kontext staatlicher Maßnahmen: Der Akteur (Behörde) bestimmt (2) indem sie Personen bewegt  (3), was einen unerwünschten Zustand für die Betroffenen bewirkt (Goal -2), um einen gewünschten ordnungspolitischen Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 deprimieren: Interpersonal/Psychological 3/4/1/5/Goal -0//Goal 3/aut/ecc
 Begründung: Der Akteur bewegt sich (3) zu einem Antagonisten, leistet etwas für ihn (4), gibt ihm (1) Informationen (5), die dessen Zuversicht/Vertrauen (Goal -0) negativ beeinflussen. Nach dem Umschalten (//) steht das Ziel des Akteurs: eine Wirkung zu erzielen (Goal 3). Die Ausrichtung ist autonom/exzentrisch, da der Akteur aktiv und gezielt den Antagonisten deprimiert.. Autonom/Exzentrisch.
 
-deprimieren: Material/Psychological 3/1/Goal -0/het/ecc
+deprimieren: Material/Psychological 1/3/Goal -0/het/ecc
 Begründung: In der Bedeutung 'deprimiert werden/sein': Der Akteur erlebt (bekommen, 1) durch bewegende Umstände (3) einen Zustand der fehlenden Zuversicht (Goal -0). Die Ausrichtung ist heteronom/exzentrisch, da der Zustand von außen verursacht wird.. Heteronom/Exzentrisch.
 
-deregulieren: Material/Government 2/3/Goal 2/aut/ecc
+deregulieren: Material/Government/deregulate 2/3/Goal 2/aut/ecc
 Begründung: Der Akteur bestimmt (2) mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2), indem er Vorschriften/Regelungen abschafft oder lockert. Das Deregulieren ist ein autonomer (aut) Vorgang, der in die Umwelt hineinwirkt (ecc), da bestehende Regelungen verändert werden, was Auswirkungen auf die regulierte Umgebung hat.. Autonom/Exzentrisch.
-
-deregulieren: Material/Business/Competition 2/3/Goal 2/Goal 3/aut/ecc
-Begründung: Im wirtschaftlichen Kontext bestimmt der Akteur (2) mit Bewegung/Anstreben (3) einen gewünschten Zustand (Goal 2) und strebt eine Marktwirkung (Goal 3) an, indem er Branchenregulierungen abschafft, was zu mehr Wettbewerb führen soll.. Autonom/Exzentrisch.
 
 designen: Material/Creative 2/3/Goal 2/aut/ecc
 Begründung: Beim Designen bestimmt der Akteur (2) durch das Bearbeiten und Gestalten (3) ein Objekt oder Produkt, um einen gewünschten Zustand zu erreichen (Goal 2). Die Ausrichtung ist autonom und nach außen gerichtet (aut/ecc), da der Designer eigenständig entscheidet und auf ein Objekt im Außenbereich einwirkt.. Autonom/Exzentrisch.
@@ -10540,17 +10537,14 @@ Begründung: Im künstlerischen Kontext bedeutet Designen, dass der Akteur besti
 designen: Material/Fashion 2/3/5/Goal 2/aut/ecc
 Begründung: Im Modebereich bedeutet Designen, dass der Akteur bestimmt (2), gestaltet (3) und sich dabei informiert (5) über Trends und Stilrichtungen, um einen gewünschten modischen Zustand zu erreichen (Goal 2).. Autonom/Exzentrisch.
 
-designieren: Material/Leadership 2/4/5//Goal 2/Goal 4/aut/con
-Begründung: Beim Designieren bestimmt der Akteur (2) eine Leistung zu erbringen (4), indem er Informationen gibt (5), um einen gewünschten Zustand herzustellen (//Goal 2), nämlich dass jemand für eine bestimmte Position vorgesehen ist, was letztlich der beruflichen Anerkennung des Akteurs dient (Goal 4). Die Ausrichtung ist autonom/konzentrisch, da der Akteur eine Entscheidung im eigenen Machtbereich trifft.. Autonom/Konzentrisch.
+designieren: Material/Administration 2/4/5/Goal 2//Goal 4/aut/ecc
+Begründung: Beim Designieren bestimmt der Akteur (2), indem er informiert (4/5), um einen gewünschten Zustand für den Antagonisten herzustellen (Goal 2), nämlich dass jemand für eine bestimmte leitende Position vorgesehen ist, was letztlich der beruflichen Anerkennung des Akteurs dient (Goal 4)... Autonom/Exzentrisch.
 
-designieren: Material/Administration 2/4/5//Goal 2/Goal 4/aut/con
-Begründung: Im administrativen Kontext bestimmt der Akteur (2) als Leistung (4) durch eine formelle Benennung mit Information (5), einen gewünschten Zustand (//Goal 2) herbeizuführen, wobei jemand für eine Position oder Funktion bestimmt wird, was letztlich der beruflichen Anerkennung des Akteurs dient (Goal 4).. Autonom/Konzentrisch.
+designieren: Material/Leadership 2/4/5/Goal 2//Goal 2/aut/con
+Begründung: Im administrativen Kontext bestimmt der Akteur (2) als Leistung (4) durch eine formelle Benennung mit Information (5), einen gewünschten Zustand, für den Antagonisten (Goal 2) herbeizuführen, wobei der Antagonist für eine Position oder Funktion  durch den Akteur bestimmt wird (//Goal 2). Die Ausrichtung ist autonom/konzentrisch, da der Akteur eine Entscheidung im eigenen Machtbereich trifft.. Autonom/Konzentrisch.
 
-desillusionieren: Material/Psychological 4/1/5/Goal -5//Goal 2/aut/ecc
-Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm Information gibt (1/5), die den Antagonisten in einen unerwünschten Informationszustand versetzt (Goal -5), wodurch der Akteur einen gewünschten Zustand erreicht (//Goal 2), nämlich, dass der Antagonist keine Illusionen mehr hat. Der Akteur zerstört bewusst die falschen Vorstellungen/Illusionen des Antagonisten.. Autonom/Exzentrisch.
-
-desillusionieren: Interpersonal/Relationship 4/1/5/Goal -5//Goal 2/aut/ecc
-Begründung: Im zwischenmenschlichen Bereich bedeutet desillusionieren, dass der Akteur dem Antagonisten eine Information gibt (4/1/5), die dessen positive Erwartungen/Illusionen zunichte macht (Goal -5), um einen realistischeren Zustand herzustellen (//Goal 2).. Autonom/Exzentrisch.
+desillusionieren: Material/Psychological 4/1/5/Goal 5/Goal -0//Goal 3/aut/ecc
+Begründung: Der Akteur leistet (4) für den Antagonisten, indem er ihm Information gibt (1/5), die den Antagonisten in einen  Informationszustand versetzt (Goal 5), wodurch der Antagonist einen für sich beunruhigenden Zustand erreicht (/Goal -0), nämlich, dass der Antagonist keine Illusionen mehr hat. Der Akteur zerstört bewusst die falschen Vorstellungen/Illusionen des Antagonisten (//Goal 3).. Autonom/Exzentrisch.
 
 desinfizieren: Material/Medical/Cleaning 3/1/Goal 2/aut/ecc
 Begründung: Desinfizieren bedeutet, durch Bewegung und Anwendung (3) einer Substanz, so dass man bekommt (1), einen gewünschten Zustand (Goal 2) zu erreichen, nämlich die Keimfreiheit einer Oberfläche oder eines Gegenstands. Dies ist eine autonome Handlung mit Auswirkung auf die äußere Umgebung (aut/ecc).. Autonom/Exzentrisch.
