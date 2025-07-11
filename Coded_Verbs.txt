@@ -10516,7 +10516,7 @@ Begründung: Im Finanzkontext bedeutet 'deponieren' das Verfügen über (2) Geld
 deponieren: Material/Waste-Disposal 2/3/1/Goal 2/aut/ecc
 Begründung: Im Kontext der Müllentsorgung bedeutet 'deponieren' das Verfügen über (2) Abfall, das Bewegen (3) zu einer Mülldeponie und das Abgeben (1) dort, um den gewünschten Zustand (Goal 2) der ordnungsgemäßen Entsorgung zu erreichen.. Autonom/Exzentrisch.
 
-deportieren: Material/Government/Deport persons 2/3/Goal -2//Goal 2/aut/ecc
+deportieren: Material/Government/Deport 2/3/Goal -2//Goal 2/aut/ecc
 Begründung: Im Kontext staatlicher Maßnahmen: Der Akteur (Behörde) bestimmt (2) indem sie Personen bewegt  (3), was einen unerwünschten Zustand für die Betroffenen bewirkt (Goal -2), um einen gewünschten ordnungspolitischen Zustand zu erreichen (//Goal 2).. Autonom/Exzentrisch.
 
 deprimieren: Interpersonal/Psychological 3/4/1/5/Goal -0//Goal 3/aut/ecc
